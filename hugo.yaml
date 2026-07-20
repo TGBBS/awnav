@@ -15,7 +15,7 @@ params:
   repository: ""
   enablePreLoad: false
   textPreLoad: "TG导航"
-  expandSidebar: true
+  expandSidebar: false
   logosPath: "assets/images/logos"
   defaultLogo: "assets/images/logos/default.webp"
   nightMode: false
