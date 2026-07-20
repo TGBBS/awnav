@@ -10,7 +10,7 @@
       url: https://telegram.me/sosoo
       description: 发送关键词来寻找群组、频道或视频
     - title: 新币搜索机器人
-      logo: default.webp
+      logo: /logos/新币搜索机器人.jpg
       url: https://telegram.me/xbso
       description: 发送关键词来寻找群组、频道或视频
     - title: 极搜JiSou
@@ -26,7 +26,7 @@
       url: https://telegram.me/smss
       description: 发送词语即可搜索关联群组与频道资源
     - title: kuai搜索
-      logo: default.webp
+      logo: /logos/kuai.jpg
       url: https://telegram.me/kuai
       description: 发送词语即可搜索关联群组与频道资源
 - taxonomy: 搜索群组
@@ -37,50 +37,50 @@
       url: https://telegram.me/soupianshenqibar
       description: 发送关键字自动回复资源地址
     - title: 电报最强搜索群
-      logo: default.webp
+      logo: /logos/电报最强搜索群.jpg
       url: https://telegram.me/sesesearchbar
       description: 发送关键字自动回复资源地址
     - title: 暗网搜索
-      logo: default.webp
+      logo: /logos/暗网搜索.jpg
       url: https://telegram.me/anwangsousuobar
       description: 中文搜索 | TG搜索 | 全能搜索
     - title: TG全能搜群
-      logo: default.webp
+      logo: /logos/tg.jpg
       url: https://telegram.me/qnssking
       description: 本群机器人能搜索到一切你想要搜索的东西
     - title: 中文搜索20万人群
-      logo: default.webp
+      logo: /logos/20.jpg
       url: https://telegram.me/jisou20w
       description: 聊天窗口输入关键字即可搜索电报各种有趣好玩的东西
     - title: SOSO机器人20万人群
-      logo: default.webp
+      logo: /logos/soso_20.jpg
       url: https://telegram.me/sousou20w
       description: 电报群组、资源、私密、关键词搜索
     - title: 搜片神器20万人群
-      logo: default.webp
+      logo: /logos/20.jpg
       url: https://telegram.me/soupian20w
       description: 发送关键字，即可搜索一切你想要看的影片
 - taxonomy: 交易所
   icon: fas fa-chart-line fa-lg
   links:
     - title: 币安 Binance
-      logo: default.webp
+      logo: /logos/binance.png
       url: https://accounts.binance.com/zh-CN/register?ref=896983517
       description: 全球最大加密货币交易所
     - title: 欧易 OKX
-      logo: default.webp
+      logo: /logos/okx.png
       url: https://chouyi.info/join/50253981
       description: 头部加密货币交易所
     - title: ByBit
-      logo: default.webp
+      logo: /logos/bybit.png
       url: https://www.bybit.com/invite?ref=4VLKDMW
       description: 知名衍生品交易所
     - title: Bitget
-      logo: default.webp
+      logo: /logos/bitget.png
       url: https://www.bitget.org/zh-CN/referral/register?clacCode=QR4A7MPY
       description: 全球领先的加密货币交易所
     - title: Gate.io
-      logo: default.webp
+      logo: /logos/gate_io.png
       url: https://www.gatenode.site/signup/VLDFUFEOAW?ref_type=102
       description: 老牌交易所
     - title: 火币 HTX
@@ -99,134 +99,134 @@
       url: https://telegram.me/trxsosobot
       description: 全网最低价协议号，全球覆盖最全国区号商
     - title: Spam Info Bot
-      logo: default.webp
+      logo: /logos/spam_info_bot.jpg
       url: https://telegram.me/SpamBot
       description: Telegram账号问题处理，账号申诉
     - title: BotFather
-      logo: default.webp
+      logo: /logos/botfather.jpg
       url: https://telegram.me/BotFather
       description: 创建机器人，管理机器人（官方）
     - title: Premium Bot
-      logo: default.webp
+      logo: /logos/premium_bot.jpg
       url: https://telegram.me/PremiumBot
       description: Telegram会员官方购买机器人
     - title: Wallet
-      logo: default.webp
+      logo: /logos/wallet.jpg
       url: https://telegram.me/wallet
       description: Telegram官方钱包机器人
     - title: Verify Bot
-      logo: default.webp
+      logo: /logos/verify_bot.jpg
       url: https://telegram.me/VerifyBot
       description: 认证你的Telegram频道、群组和机器人
     - title: Username Bot
-      logo: default.webp
+      logo: /logos/username_bot.jpg
       url: https://telegram.me/username_bot
       description: 通过权威认证获取被占用的用户名
     - title: Stickers
-      logo: default.webp
+      logo: /logos/stickers.jpg
       url: https://t.me/Stickers/
       description: 创建贴纸包，管理贴纸
     - title: Telegraph
-      logo: default.webp
+      logo: /logos/telegraph.jpg
       url: https://t.me/Telegraph/
       description: 创建并管理Telegraph文章
     - title: PremiumBot
-      logo: default.webp
+      logo: /logos/premiumbot.jpg
       url: https://t.me/PremiumBot/
       description: Telegram会员官方购买机器人
 - taxonomy: 群组管理
   icon: fas fa-cogs fa-lg
   links:
     - title: nmBot 尼玛机器人
-      logo: default.webp
+      logo: /logos/nmbot.jpg
       url: https://telegram.me/nmnmfunbot
       description: 柠动聊天，好戏连篇
     - title: Group Help
-      logo: default.webp
+      logo: /logos/group_help.jpg
       url: https://telegram.me/GroupHelpBot
       description: 轻松管理你的群组
     - title: Rose
-      logo: default.webp
+      logo: /logos/rose.jpg
       url: https://telegram.me/MissRose_bot
       description: 实用的Telegram群组管理机器人
     - title: KinhRoBot
-      logo: default.webp
+      logo: /logos/kinhrobot.jpg
       url: https://telegram.me/KinhRoBot
       description: 超多功能的群管机器人
     - title: Policr Mini
-      logo: default.webp
+      logo: /logos/policr_mini.jpg
       url: https://telegram.me/policr_mini_bot
       description: 功能简化、全新设计的Policr迷你版
     - title: 呆呆兽
-      logo: default.webp
+      logo: /logos/呆呆兽.jpg
       url: https://telegram.me/KeDuckBot
       description: 呆呆兽群管机器人
     - title: 方丈机器人
-      logo: default.webp
+      logo: /logos/方丈机器人.jpg
       url: https://telegram.me/fangzhang_bot
       description: 方丈群组管理机器人
     - title: 阿福
-      logo: default.webp
+      logo: /logos/阿福.jpg
       url: https://telegram.me/afoolrobot
       description: 支持克隆，自动回复，广告过滤等
     - title: Telegram Watchdog
-      logo: default.webp
+      logo: /logos/telegram_watchdog.jpg
       url: https://telegram.me/WatchdogVerifyBot
       description: 看门狗机器人，提供入群验证
     - title: NoAdsBot
-      logo: default.webp
+      logo: /logos/noadsbot.jpg
       url: https://telegram.me/autodeletead_bot
       description: 自动删除群组中的广告消息
     - title: CaptchatBot
-      logo: default.webp
+      logo: /logos/captchatbot.jpg
       url: https://telegram.me/Captchat_Bot
       description: 新成员验证码机器人，避免广告骚扰
     - title: Previews
-      logo: default.webp
+      logo: /logos/previews.jpg
       url: https://t.me/previews/
       description: Telegram即时预览反馈机器人
     - title: MTProxy Admin Bot
-      logo: default.webp
+      logo: /logos/mtproxy_admin_bot.jpg
       url: https://t.me/MTProxybot/
       description: 创建并管理Telegram MTProxy
     - title: Transparency Reports
-      logo: default.webp
+      logo: /logos/transparency_reports.jpg
       url: https://t.me/transparency/
       description: Telegram向政府透露的数据统计
     - title: Webpage Bot
-      logo: default.webp
+      logo: /logos/webpage_bot.jpg
       url: https://t.me/WebpageBot/
       description: 链接预览更新机器人
     - title: Fragment Auction Alerts
-      logo: default.webp
+      logo: /logos/fragment_auction_alerts.jpg
       url: https://t.me/fragment/
       description: Fragment拍卖通知机器人
     - title: nmBot
-      logo: default.webp
+      logo: /logos/nmbot.jpg
       url: https://t.me/nmnmfunbot/
       description: 柠动聊天，好戏连篇(简称尼玛机器人)
     - title: 反频道马甲Bot
-      logo: default.webp
+      logo: /logos/bot.jpg
       url: https://t.me/AntiChannelSpammersBot/
       description: 自动删除群成员以频道身份发送的消息
     - title: 查特皮皮鸡
-      logo: default.webp
+      logo: /logos/查特皮皮鸡.jpg
       url: https://t.me/ZUOLUOTV_AI_BOT/
       description: 基于OpenAI和Google Cloud AI Platform的反垃圾机器人
     - title: We Group Bot
-      logo: default.webp
+      logo: /logos/we_group_bot.jpg
       url: https://t.me/WeGroupRobot/
       description: 多功能的群组管理机器人
     - title: The Join Captcha Bot
-      logo: default.webp
+      logo: /logos/the_join_captcha_bot.jpg
       url: https://t.me/join_captcha_bot/
       description: 入群验证机器人
     - title: Approve By Poll
-      logo: default.webp
+      logo: /logos/approve_by_poll.jpg
       url: https://t.me/KimmyXYC_Approve_By_Poll_bot/
       description: 通过投票决定是否同意新成员的入群申请
     - title: Cleaning Toolbox
-      logo: default.webp
+      logo: /logos/cleaning_toolbox.jpg
       url: https://t.me/CleaningToolboxBot/
       description: 自动踢出所有群组成员
     - title: 抽奖助手机器人
@@ -370,7 +370,7 @@
       url: https://t.me/twitter_loli_bot
       description: 专下推特视频（速度快）
     - title: Reddit 下载器
-      logo: default.webp
+      logo: /logos/reddit.jpg
       url: https://t.me/reddit_download_bot
       description: 解析 / 下载 Reddit 视频
     - title: 多平台下载工具集
@@ -394,11 +394,11 @@
       url: https://t.me/Xai1314bot?start=MC7UXNX2POPFCUJY
       description: 黑科技 AI 换衣、换脸（需注意合规性）
     - title: 自建 Bot 工具（BotFather）
-      logo: default.webp
+      logo: /logos/bot_botfather.jpg
       url: https://t.me/BotFather
       description: Telegram 官方工具，可创建 / 管理专属机器人
     - title: 自定义群管机器人（GroupHelpBot）
-      logo: default.webp
+      logo: /logos/grouphelpbot.jpg
       url: https://t.me/GroupHelpBot
       description: 可自定义欢迎语、跳转链接、自动回复等群管理规则
     - title: 方丈群管机器人
@@ -426,7 +426,7 @@
       url: https://t.me/GuangGaoShaShouBot
       description: 专杀中文广告内容、广告号
     - title: 频道搬运机器人（kuaixiaBot）
-      logo: default.webp
+      logo: /logos/kuaixiabot.jpg
       url: https://t.me/kuaixiaBot?start=c42d54b0f9e36592783b7d594421eafa
       description: 破解 “频道 / 群组无法转发” 限制，适合运营者
     - title: 频道搬运机器人（msg_get_bot）
@@ -621,35 +621,35 @@
   icon: fas fa-chart-bar fa-lg
   links:
     - title: Channel Help
-      logo: default.webp
+      logo: /logos/channel_help.jpg
       url: https://telegram.me/chelpbot
       description: 轻松管理频道，定时发布帖子
     - title: LikeBot
-      logo: default.webp
+      logo: /logos/likebot.jpg
       url: https://telegram.me/like
       description: 为频道帖子创建表情回应按钮
     - title: DiscussBot
-      logo: default.webp
+      logo: /logos/discussbot.jpg
       url: https://telegram.me/discussbot
       description: 为频道所有帖子添加评论按钮
     - title: React Bot
-      logo: default.webp
+      logo: /logos/react_bot.jpg
       url: https://telegram.me/ReactBot
       description: 为频道帖子添加表情回应和评论
     - title: Telegram Analytics Bot
-      logo: default.webp
+      logo: /logos/telegram_analytics_bot.jpg
       url: https://telegram.me/tg_analytics_bot
       description: Telegram统计分析机器人
     - title: Telemetrio
-      logo: default.webp
+      logo: /logos/telemetrio.jpg
       url: https://telegram.me/telemetr_io_bot
       description: Telemetrio官方数据分析机器人
     - title: TGStat Bot
-      logo: default.webp
+      logo: /logos/tgstat_bot.jpg
       url: https://telegram.me/TGStat_Bot
       description: TGStat数据分析机器人
     - title: Combot
-      logo: default.webp
+      logo: /logos/combot.jpg
       url: https://telegram.me/combot
       description: 群组的最佳社区管理服务，管理、分析、触发器
 - taxonomy: 频道推荐
@@ -660,39 +660,39 @@
       url: https://telegram.me/smsgou
       description: TG精选收录，电报频道、讨论组收录、推广
     - title: Telegram Discover
-      logo: default.webp
+      logo: /logos/telegram_discover.jpg
       url: https://telegram.me/TgDiscover
       description: Telegram频道发现平台
     - title: Daily Channels
-      logo: default.webp
+      logo: /logos/daily_channels.jpg
       url: https://telegram.me/dailychannels
       description: 每日精选Telegram频道
     - title: Telegram Channels
-      logo: default.webp
+      logo: /logos/telegram_channels.jpg
       url: https://telegram.me/tchannels
       description: 发现最有趣的Telegram频道
     - title: 频道索引&推荐
-      logo: default.webp
+      logo: /logos/频道索引_推荐.jpg
       url: https://telegram.me/recommend3
       description: 筛选优质频道，发现更大世界
     - title: 电报群组&频道
-      logo: default.webp
+      logo: /logos/电报群组_频道.jpg
       url: https://telegram.me/tl_gc
       description: 推荐各式各样的群组和频道
     - title: 电报指南&精品排行榜
-      logo: default.webp
+      logo: /logos/电报指南_精品排行榜.jpg
       url: https://telegram.me/TgTrillion
       description: 瞭望台信息中心 & 电报指南
     - title: 群組導航
-      logo: default.webp
+      logo: /logos/群組導航.jpg
       url: https://telegram.me/navi_group_share
       description: 来这里推广你的群组(频道)吧
     - title: TGCN群组索引计划
-      logo: default.webp
+      logo: /logos/tgcn.jpg
       url: https://telegram.me/zh_groups
       description: 中文群组索引计划
     - title: 电报狗：TG精选收录
-      logo: default.webp
+      logo: /logos/tg.jpg
       url: https://t.me/smsgou
       description: 电报频道，讨论组收录，推广...
     - title: 频道索引&amp;推荐
@@ -708,73 +708,73 @@
       url: https://t.me/TgTrillion
       description: 瞭望台信息中心 &amp;电报指...
     - title: 群组导航 – 分享/推广
-      logo: default.webp
+      logo: /logos/群组导航_分享_推广.jpg
       url: https://t.me/navi_group_share
       description: 來這裡推廣你的群組(頻道)吧...
     - title: TGCN-群组索引计划频道
-      logo: default.webp
+      logo: /logos/tgcn.jpg
       url: https://t.me/zh_groups
       description: ❗️本频道为索引计划，为原zh_...
     - title: 電報群組廣播
-      logo: default.webp
+      logo: /logos/電報群組廣播.jpg
       url: https://t.me/FOCUSTELEGRAMGROUPLINK
       description: 本頻道只推送淨成員150以上的...
     - title: 電報新群推送 Telegram Group Links
-      logo: default.webp
+      logo: /logos/telegram_group_links.jpg
       url: https://t.me/linkpush
       description: 本頻道是新群推送頻道一般只...
     - title: Telegram 公眾索引頻道
-      logo: default.webp
+      logo: /logos/telegram.jpg
       url: https://t.me/TG_index_channel
       description: 幫助找到與分享各種 Telegram...
 - taxonomy: Bot大全
   icon: fas fa-robot fa-lg
   links:
     - title: 中文机器人大全
-      logo: default.webp
+      logo: /logos/中文机器人大全.jpg
       url: https://telegram.me/bot_zh
       description: 收录各类实用中文机器人
     - title: Tg Tips
-      logo: default.webp
+      logo: /logos/tg_tips.jpg
       url: https://telegram.me/Tg1230
       description: 瞭望台旗下Tg电报引航
     - title: tg机器人推荐
-      logo: default.webp
+      logo: /logos/tg.jpg
       url: https://telegram.me/tgbotlist
       description: 推荐实用的tg机器人
 - taxonomy: 主题美化
   icon: fas fa-palette fa-lg
   links:
     - title: 那些好看的Tg主题
-      logo: default.webp
+      logo: /logos/tg.jpg
       url: https://telegram.me/beautifultgtheme
       description: 分享一些好看的Telegram主题
     - title: Telegram主题美化
-      logo: default.webp
+      logo: /logos/telegram.jpg
       url: https://telegram.me/TG_1oveTheme
       description: 斯人若彩虹，遇上方知有
     - title: Desktop Themes Channel
-      logo: default.webp
+      logo: /logos/desktop_themes_channel.jpg
       url: https://telegram.me/themes
       description: 桌面端主题分享
     - title: Telegram Themes
-      logo: default.webp
+      logo: /logos/telegram_themes.jpg
       url: https://telegram.me/TelegramThemes
       description: Telegram主题分享
     - title: Android Themes Channel
-      logo: default.webp
+      logo: /logos/android_themes_channel.jpg
       url: https://telegram.me/AndroidThemes
       description: Android端主题分享
     - title: Telegram主题美化(1OVE Theme)
-      logo: default.webp
+      logo: /logos/telegram_1ove_theme.jpg
       url: https://t.me/TG_1oveTheme
       description: 斯人若彩虹，遇上方知有——灵...
     - title: Telegram Android Themes
-      logo: default.webp
+      logo: /logos/telegram_android_themes.jpg
       url: https://t.me/AndroidThemesGroup
       description: Welcome to Telegram Themes!...
     - title: Walli Themes
-      logo: default.webp
+      logo: /logos/walli_themes.jpg
       url: https://t.me/Walli_Themes
       description: FOR PERSONAL USE ONLY, DON\'...
     - title: watashinoTheme
@@ -782,50 +782,50 @@
       url: https://t.me/watashinoTheme
       description: watashinoTheme
     - title: AGNI THEMES
-      logo: default.webp
+      logo: /logos/agni_themes.jpg
       url: https://t.me/Agni_Theme
       description: So enjoy and if you like it...
     - title: Themes_chanel
-      logo: default.webp
+      logo: /logos/themes_chanel.jpg
       url: https://t.me/Themes_chanel
       description: Themes_chanel𝗵𝗮𝗻𝗴...
     - title: Universal Themes
-      logo: default.webp
+      logo: /logos/universal_themes.jpg
       url: https://t.me/Universal_Themes
       description: ● Best theme channel. We cr...
     - title: Theme Game
-      logo: default.webp
+      logo: /logos/theme_game.jpg
       url: https://t.me/themegame
       description: 👽 Themes For Telegram 👾
     - title: MeowThemes
-      logo: default.webp
+      logo: /logos/meowthemes.jpg
       url: https://t.me/MeowThemes
       description: 🌼 Cute Themes for Telegram ...
     - title: Themes Hub
-      logo: default.webp
+      logo: /logos/themes_hub.jpg
       url: https://t.me/ThemesHub
       description: Welcome to Themes Hub! Thi...
     - title: Berkay Telegram Themes
-      logo: default.webp
+      logo: /logos/berkay_telegram_themes.jpg
       url: https://t.me/berkaytelegramthemes
       description: 🔥 Best Themes of Telegram 🔥...
     - title: Themes
-      logo: default.webp
+      logo: /logos/themes.jpg
       url: https://t.me/ThemesM8
       description: • 🎨 Best Telegram Themes 🚀 ...
     - title: Android Themes
-      logo: default.webp
+      logo: /logos/android_themes.jpg
       url: https://t.me/ThemesAndroid
       description: Themes for Android Telegram...
     - title: Temas Para Telegram
-      logo: default.webp
+      logo: /logos/temas_para_telegram.jpg
       url: https://t.me/TemasTelegramOficial
       description: Traemos los mejores temas p...
 - taxonomy: 贴纸表情
   icon: far fa-smile fa-lg
   links:
     - title: 表情包贴纸
-      logo: default.webp
+      logo: /logos/表情包贴纸.jpg
       url: https://telegram.me/tiezhia
       description: 电报专业贴纸、表情包分享
     - title: Sticker Collection
@@ -833,162 +833,162 @@
       url: https://sticker-collection.com/
       description: 贴纸合集目录站
     - title: TG表情包推送总部
-      logo: default.webp
+      logo: /logos/tg.jpg
       url: https://telegram.me/StickersXJBG
       description: 分享Telegram上各类表情包
     - title: 八重堂
-      logo: default.webp
+      logo: /logos/八重堂.jpg
       url: https://telegram.me/YaePub
       description: 主要用于发布贴纸包更新/变动信息
     - title: Telegram Stickers
-      logo: default.webp
+      logo: /logos/telegram_stickers.jpg
       url: https://t.me/tgstickers
       description: Best Telegram Stickers! Сам...
     - title: Stickers Channel
-      logo: default.webp
+      logo: /logos/stickers_channel.jpg
       url: https://t.me/stickersChannel
       description: 🗞 @geeksChannel 🤖 @botsChan...
     - title: Line Stickers
-      logo: default.webp
+      logo: /logos/line_stickers.jpg
       url: https://t.me/line_stickers
       description: High definition stickers fr...
     - title: Stickers Collection
-      logo: default.webp
+      logo: /logos/stickers_collection.jpg
       url: https://t.me/stickers_collection
       description: 'Реклама: https://telega.in/...'
     - title: Стикеры
-      logo: default.webp
+      logo: /logos/Стикеры.jpg
       url: https://t.me/Stikir
       description: Лучшие стикеры Telegram! М...
     - title: Stickers Tops
-      logo: default.webp
+      logo: /logos/stickers_tops.jpg
       url: https://t.me/StickersTops
       description: O melhor canal de Stickers ...
     - title: Stickers Telegram l Стикеры
-      logo: default.webp
+      logo: /logos/stickers_telegram_l.jpg
       url: https://t.me/tstickers
       description: About stickers with love ❤️
     - title: IMG2D
-      logo: default.webp
+      logo: /logos/img2d.jpg
       url: https://t.me/IMG2D
       description: • I\'m @Max_Dva4 if you wan...
     - title: Telegram Stickers l Стикеры
-      logo: default.webp
+      logo: /logos/telegram_stickers_l.jpg
       url: https://t.me/sticker_telegram
       description: Стикеры, просто хорошие сти...
     - title: Stickers in motion
-      logo: default.webp
+      logo: /logos/stickers_in_motion.jpg
       url: https://t.me/stickersinmotion
       description: Стикеры из ВК у нас в канал...
     - title: бездомные феи ♡
-      logo: default.webp
+      logo: /logos/бездомные_феи.jpg
       url: https://t.me/bezdomnyefei
       description: Stickers for instagram you ...
     - title: ✨ Premium Emoji – Эмоджи премиум смайлы
-      logo: default.webp
+      logo: /logos/premium_emoji.jpg
       url: https://t.me/TgEmojis
       description: Наш тг канал с тяночками 👇🏻...
     - title: HiEmoji
-      logo: default.webp
+      logo: /logos/hiemoji.jpg
       url: https://t.me/HiEmoji
       description: Премиум эмоджи для Телеграм...
     - title: 会员【表情】
-      logo: default.webp
+      logo: /logos/会员_表情.jpg
       url: https://t.me/Emoji_Set
       description: '@HiSticker / @HiEmoji'
     - title: Sноυто
-      logo: default.webp
+      logo: /logos/s.jpg
       url: https://t.me/TodorokiShouto
       description: 🔥(轟焦凍) Half-Cold Half-Ho...
 - taxonomy: 科技编程
   icon: fas fa-code fa-lg
   links:
     - title: Appinn Talk 💧
-      logo: default.webp
+      logo: /logos/appinn_talk.jpg
       url: https://t.me/appinn
       description: 小众软件 appinn.com 本群链接： https//t.me/appinn 新消息频道： https//t.me/appinnfeed 公开群，禁开漏点车； 禁止�...
     - title: Notion 中文社区
-      logo: default.webp
+      logo: /logos/notion.jpg
       url: https://t.me/Notionso
       description: 💡 以 Notion 为主，围绕 Notion 效率工具、经验为辅。核心围绕提升个人生活、工作效率来进行讨论。 - 申�...
     - title: 读舍 - 享受阅读时光
-      logo: default.webp
+      logo: /logos/读舍_享受阅读时光.jpg
       url: https://t.me/shufm
       description: 读舍：享受阅读时光，畅谈读书心得 🌍 网站 https//shu.fm 📻 播客：苹果播客｜小宇宙｜Google Podcast｜Spotify...
     - title: 编程随想读者群
-      logo: default.webp
+      logo: /logos/编程随想读者群.jpg
       url: https://t.me/programthinkreader
       description: 无描述
     - title: OpenWRT*LEDE/Wireless Routers
-      logo: default.webp
+      logo: /logos/openwrt_lede_wireless_routers.jpg
       url: https://t.me/OpenWRT_Routers
       description: 这是关于路由器和无线设备的讨论组……………… 的重生版 请务必明确越高端的硬件可玩性越好的传统 |ω�...
     - title: Flippy_Openwrt
-      logo: default.webp
+      logo: /logos/flippy_openwrt.jpg
       url: https://t.me/openwrt_flippy
       description: Flippy 的 Openwrt/Armbian 固件 进群链接：https//t.me/joinchat/WTWXSt_bMW0xHQZE 有事进群问，别在帖子下面的讨论组里问�...
     - title: Google Fi 交流群
-      logo: default.webp
+      logo: /logos/google_fi.jpg
       url: https://t.me/google_fi
       description: 无描述
     - title: macOS 交流组
-      logo: default.webp
+      logo: /logos/macos.jpg
       url: https://t.me/macoser
       description: Setapp 开车、二手软件交易、使用经验交流
     - title:  iPad 用户社群
-      logo: default.webp
+      logo: /logos/ipad.jpg
       url: https://t.me/iPadOS
       description: 苹果 iPadOS 操作系统用户社群。 ⭐️App Store 应用推荐：t.me/app_store 💬Apple 社群：t.me/AppleUserGroup_tg 🈲广告...
     - title: 苹果派群组
-      logo: default.webp
+      logo: /logos/苹果派群组.jpg
       url: https://t.me/iOS1314
       description: 专注于苹果手机平板电脑、iOS、iPadOS、MacOS 系统软件、升级降级、刷机解锁、越狱美化、应用推荐、使用教...
     - title: 苹果用户交流群→MacOS/iPadOS/iOS
-      logo: default.webp
+      logo: /logos/macos_ipados_ios.jpg
       url: https://t.me/Balancer996
       description: ~ 为了让交流更多效率： - 鼓励有价值的内容、有深度的思考 - 鼓励友善、互相帮助、努力学习的氛围 - 分�...
     - title: Google Voice 交流群
-      logo: default.webp
+      logo: /logos/google_voice.jpg
       url: https://t.me/googlevoice
       description: 讨论 Google Voice 号码使用的方法、技巧，以及提供相关服务资讯、商家介绍等 不允许任何推广（仅 GV 允许�...
     - title: Google Voice 互拨交流群
-      logo: default.webp
+      logo: /logos/google_voice.jpg
       url: https://t.me/zh_GV
       description: 💚 本群讨论 GV 相关话题，以及互拨保号。 ⚠️ 本群暂不贩卖号码，也禁止任何贩售信息。允许讨论购买...
     - title: Google Fans Club 中文
-      logo: default.webp
+      logo: /logos/google_fans_club.jpg
       url: https://t.me/googlecn
       description: 语言 简体中文 / 正体中文 / 繁体中文 語言 簡體中文 / 正體中文 / 繁体中文 Language Chinese 发广告者可能会被禁言�...
     - title: NAS 私有云技术交流
-      logo: default.webp
+      logo: /logos/nas.jpg
       url: https://t.me/NASteam
       description: 无描述
     - title: 路由器固件玩家群
-      logo: default.webp
+      logo: /logos/路由器固件玩家群.jpg
       url: https://t.me/sbxsw
       description: 共建国外服务器，速度联系
     - title: Android Dev
-      logo: default.webp
+      logo: /logos/android_dev.jpg
       url: https://t.me/AndroidDevCn
       description: 仅限 Android 开发话题。请勿闲聊，闲聊请进入下述群。 隔壁群 Android discuss @AndroidDiscuss @AndroidDress 开发闲�...
     - title: Geeks Chat
-      logo: default.webp
+      logo: /logos/geeks_chat.jpg
       url: https://t.me/geeksChat
       description: Meeting point for Geeks! - Only English is allowed. Rules https//t.me/geeksChat/738834 @GeeksChannel
     - title: Koolcenter merlin firmware
-      logo: default.webp
+      logo: /logos/koolcenter_merlin_firmware.jpg
       url: https://t.me/xbchat
       description: 华硕、网件路由器 Merlin 第三方固件讨论群 * Merlin for Asus * Merlin for Netgear name-image-generator-taiwindcss.html name-im...
     - title: iOS 越狱
-      logo: default.webp
+      logo: /logos/ios.jpg
       url: https://t.me/iOS_jailbreaking
       description: iOS 越狱玩家交流群
     - title: 利器 👨🏻‍💻👩‍💻 🧤
-      logo: default.webp
+      logo: /logos/利器.jpg
       url: https://t.me/fun_makers
       description: 利器社群在 TG 上的分支。 欢迎分享 iOS /macOS/android / Windows 平台的优秀软件和解决方案。
     - title: 流媒体交流
-      logo: default.webp
+      logo: /logos/流媒体交流.jpg
       url: https://t.me/zxc1017yyfx
       description: Gv Gmail 美区礼品卡 https//taohao.me @googlevoicebao
     - title: ARM&amp;X86&amp;VPS &amp; 聊车玩家交流群，专业！
@@ -996,27 +996,27 @@
       url: https://t.me/PIN1Group
       description: 无描述
     - title: Chinese Developers
-      logo: default.webp
+      logo: /logos/chinese_developers.jpg
       url: https://t.me/ChineseDevelopers
       description: 中国开发者交流群
     - title: Google Voice 讨论组
-      logo: default.webp
+      logo: /logos/google_voice.jpg
       url: https://t.me/swatpc1
       description: 本讨论组旨在为指引新人了解 北美电话卡、Google Voice 的入门，探讨使用中遇到的一般问题和其他需注意的�...
     - title: 专业 Linux
-      logo: default.webp
+      logo: /logos/linux.jpg
       url: https://t.me/professionallinux
       description: 无描述
     - title: Cloudflare 在中国
-      logo: default.webp
+      logo: /logos/cloudflare.jpg
       url: https://t.me/CN_Cloudflare
       description: Cloudflare 在中国的用户（站长）交流群 我们聊：关于站长周边 / 开发者资源（工具、脚本、源码）、VPS/WAF/CDN...
     - title: Affyun.com 围炉吃瓜 | 线路讨论 | 三网监测 | VPS 评测交流
-      logo: default.webp
+      logo: /logos/affyun_com_vps.jpg
       url: https://t.me/pingcat
       description: 订阅频道：@affyunpush Affyun.com 交流群，群内话题随意，但禁止黄赌毒，禁止中国大陆敏感政治话题，香港台...
     - title: 91yun.co 大海航行靠舵手
-      logo: default.webp
+      logo: /logos/91yun_co.jpg
       url: https://t.me/im91yun
       description: 询问 Google 能解决的问题、自己动手能操作试一试解决的问题一律飞机票，去 bbs 问问题无限制。 主站 https//ww...
     - title: 正规群 (:3 」∠)
@@ -1024,207 +1024,207 @@
       url: https://t.me/zhenggui
       description: 主机群（VPS、独立服务器、虚拟主机、域名等） 本群为新手向，但是提问前仍请做一些功课。 网站：https/...
     - title: 🤣古博 - 靠谱 VPS 交流群（禁止名字打广告）
-      logo: default.webp
+      logo: /logos/vps.jpg
       url: https://t.me/guboorg
       description: VPS 测速，评测，推荐 VPS 补货推荐通知 https//t.me/vpscang www.gubo.org www.vpscang.com 友情推荐 @liyuans
     - title: 黑苹果 osx86 项目中文讨论 / Hackintosh CHN Discussion
-      logo: default.webp
+      logo: /logos/osx86_hackintosh_chn_discussion.jpg
       url: https://t.me/osx86zh
       description: PC 安装 macOS 的各种相关问题讨论群 本群直接 ban 伸手党 提问之前请确认你已在 Google 上搜索过并已阅读置顶信...
     - title: C 语言中文交流
-      logo: default.webp
+      logo: /logos/c.jpg
       url: https://t.me/Clanguagezh
       description: C 是一种通用的程式語言，广泛用于系统软件与应用软件的开发。 禁止广告、招聘、引战、开车、拼车、�...
     - title: C++ 中文交流
-      logo: default.webp
+      logo: /logos/c.jpg
       url: https://t.me/cpluspluszh
       description: 欢迎你来这里交流编程经验！ Code with love 加入即视为您遵守以下规则 禁止广告、招聘、引战、开车、拼车...
     - title: Julia 编程语言交流
-      logo: default.webp
+      logo: /logos/julia.jpg
       url: https://t.me/julialangzh
       description: Julia 是一个面向科学计算的高性能动态高级程序设计语言。在许多情况下拥有能与静态编译语言相媲美的�...
     - title: 小众 App 交流群
-      logo: default.webp
+      logo: /logos/app.jpg
       url: https://t.me/appfoundgroup
       description: 无描述
     - title: 版本控
-      logo: default.webp
+      logo: /logos/版本控.jpg
       url: https://t.me/nextnb
       description: 软件、硬件、经验等各种能让自己和�...
     - title: hyperapp
-      logo: default.webp
+      logo: /logos/hyperapp.jpg
       url: https://t.me/hyperapp
       description: 无描述
     - title: Pin apps
-      logo: default.webp
+      logo: /logos/pin_apps.jpg
       url: https://t.me/PinTG
       description: 在这里讨论 Pin 和 JSBox 等应用 📌提问...
     - title: iTools
-      logo: default.webp
+      logo: /logos/itools.jpg
       url: https://t.me/toolinbox
       description: macOS 工具箱：https://toolinbox.net
     - title: RSSHub - Everything is RSSible
-      logo: default.webp
+      logo: /logos/rsshub_everything_is_rssible.jpg
       url: https://t.me/rsshub
       description: Channel @awesomeRSSHub Repo https://github.com/D...
     - title: APP 喵 - 阿喵软件资源共享
-      logo: default.webp
+      logo: /logos/app.jpg
       url: https://t.me/appmew
       description: 发现分享好用软件，优质资源，网站�...
     - title: 52 破解信息
-      logo: default.webp
+      logo: /logos/52.jpg
       url: https://t.me/wuaipojie
       description: 无描述
     - title: 小点播放器 [请自签 iplayr 使用]
-      logo: default.webp
+      logo: /logos/iplayr.jpg
       url: https://t.me/dotplayer
       description: 开发者账号被封，一年后再和苹果沟�...
     - title: GBox 官方交流群
-      logo: default.webp
+      logo: /logos/gbox.jpg
       url: https://t.me/GBoxTG
       description: GBox 是一款免越狱可给 ipa 签名的工具，�...
     - title: FastClip | Stay Sponsors
-      logo: default.webp
+      logo: /logos/fastclip_stay_sponsors.jpg
       url: https://t.me/fastclipchat
       description: https://fastclip.app
     - title: CC 来电拦截
-      logo: default.webp
+      logo: /logos/cc.jpg
       url: https://t.me/ccblocker
       description: CC 来电拦截。这个软件我从来都没打算...
     - title: flomo 浮墨卡片笔记
-      logo: default.webp
+      logo: /logos/flomo.jpg
       url: https://t.me/flomoapp
       description: flomoapp.com 官方群
     - title: 1024 社区 | 1024.day
-      logo: default.webp
+      logo: /logos/1024_1024_day.jpg
       url: https://t.me/Hello_1024
       description: 这是一个分享 VPS 资讯以及 Linu...
     - title: MJJ 社区新帖推送
-      logo: default.webp
+      logo: /logos/mjj.jpg
       url: https://t.me/mjjpro
       description: Hostloc [美国 VPS 综合讨论]，...
     - title: Monitor GrncVPS
-      logo: default.webp
+      logo: /logos/monitor_grncvps.jpg
       url: https://t.me/monitor_grncvps
       description: Monitor for Special Sales o...
     - title: VPS 黑名单
-      logo: default.webp
+      logo: /logos/vps.jpg
       url: https://t.me/VPS_Black_List
       description: 没事别买就对了，只收录垃圾...
     - title: 老刘 VPS 通知频道
-      logo: default.webp
+      logo: /logos/vps.jpg
       url: https://t.me/laoliuvps
       description: 老刘博客旗下 VPS 优惠信息同步
     - title: VPS 简测
-      logo: default.webp
+      logo: /logos/vps.jpg
       url: https://t.me/vps_test
       description: 各类 VPS
     - title: VPS.Dance VPS+IPLC
-      logo: default.webp
+      logo: /logos/vps_dance_vps_iplc.jpg
       url: https://t.me/vpsdance
       description: https://vps.dance - vps 测评...
     - title: 主机情报 | 优惠 | 补货 | 测评
-      logo: default.webp
+      logo: /logos/主机情报_优惠_补货_测评.jpg
       url: https://t.me/hostcab
       description: 推送主机 / 服务器优惠、测评和...
     - title: VPS Sale/Restock Alerts
-      logo: default.webp
+      logo: /logos/vps_sale_restock_alerts.jpg
       url: https://t.me/vps_alerts
       description: The latest special offers f...
     - title: 搬瓦工补货推送
-      logo: default.webp
+      logo: /logos/搬瓦工补货推送.jpg
       url: https://t.me/BandwagonHostNews
       description: 搬瓦工（BandwagonHost）补货...
     - title: VPS 商家评论频道
-      logo: default.webp
+      logo: /logos/vps.jpg
       url: https://t.me/vps_reviews
       description: 一家之言，兼听则明，自己判...
     - title: 全球 VPS 余量监控
-      logo: default.webp
+      logo: /logos/vps.jpg
       url: https://t.me/VPS_spiders
       description: 各网站各渠道监控爬虫合集，...
     - title: 特价 VPS 机场分享
-      logo: default.webp
+      logo: /logos/vps.jpg
       url: https://t.me/Tjjcfx
       description: 不定时分享，转载特价的 VPS 和...
     - title: 🥳只推 VPS 不推币 (默认带 aff) – VPS 仓 / 古博
-      logo: default.webp
+      logo: /logos/vps_aff_vps.jpg
       url: https://t.me/vpscang
       description: VPS 推荐，VPS 仓补货等信息. ...
     - title: Linux 软件收录
-      logo: default.webp
+      logo: /logos/linux.jpg
       url: https://t.me/linuxsoft_zh_CN
       description: Linux 日常软件收录 日常应用...
     - title: Linuxgram 🐧
-      logo: default.webp
+      logo: /logos/linuxgram.jpg
       url: https://t.me/linuxgram
       description: News and info from the Linu...
     - title: GNU/Linux
-      logo: default.webp
+      logo: /logos/gnu_linux.jpg
       url: https://t.me/linux_group
       description: News, discussions and help ...
     - title: Linux For Everyone Community
-      logo: default.webp
+      logo: /logos/linux_for_everyone_community.jpg
       url: https://t.me/linux4everyone
       description: Welcome to the Linux For Ev...
     - title: '&#039;#archlinux-cn&#039;'
-      logo: default.webp
+      logo: /logos/039_archlinux_cn_039.jpg
       url: https://t.me/archlinuxcn_group
       description: 加群前需要关注新闻频道 @arc...
     - title: Arch Linux Chinese Messages
-      logo: default.webp
+      logo: /logos/arch_linux_chinese_messages.jpg
       url: https://t.me/archlinuxcn
       description: Arch Linux 中文相关信息 跟...
     - title: Arch Linux Updates
-      logo: default.webp
+      logo: /logos/arch_linux_updates.jpg
       url: https://t.me/archlinuxcn_updates
       description: Arch Linux 官方和中文社区仓...
     - title: Python 中文交流
-      logo: default.webp
+      logo: /logos/python.jpg
       url: https://t.me/pythonzh
       description: 分享心得，共同进步 进群请...
     - title: Python Courses
-      logo: default.webp
+      logo: /logos/python_courses.jpg
       url: https://t.me/Python53
       description: A channel for educational P...
     - title: Learn Python
-      logo: default.webp
+      logo: /logos/learn_python.jpg
       url: https://t.me/LearnPython3
       description: ⭐️ Download and watch the b...
     - title: python 自学交流
-      logo: default.webp
+      logo: /logos/python.jpg
       url: https://t.me/P_Y_T_H_O_N
       description: 学习、分享、成长
     - title: 📚Python Books
-      logo: default.webp
+      logo: /logos/python_books.jpg
       url: https://t.me/pythonlbooks
       description: 📚Python библиотека admin -...
     - title: Python Resources
-      logo: default.webp
+      logo: /logos/python_resources.jpg
       url: https://t.me/pythonres
       description: Python programming language...
     - title: PythonHub
-      logo: default.webp
+      logo: /logos/pythonhub.jpg
       url: https://t.me/PythonHub
       description: News & links about Pyth...
     - title: Python etc
-      logo: default.webp
+      logo: /logos/python_etc.jpg
       url: https://t.me/pythonetc
       description: Regular tips about Python a...
     - title: Python/ django
-      logo: default.webp
+      logo: /logos/python_django.jpg
       url: https://t.me/pythonl
       description: admin @haarrp @itchannels_...
     - title: Selenium
-      logo: default.webp
+      logo: /logos/selenium.jpg
       url: https://t.me/SeleniumPython
       description: Python Selenium Group. This...
     - title: Python
-      logo: default.webp
+      logo: /logos/python.jpg
       url: https://t.me/Python
       description: You will be muted until you...
     - title: Data Science Archive
-      logo: default.webp
+      logo: /logos/data_science_archive.jpg
       url: https://t.me/DataScienceArchive
       description: 小熊猫的个人工具收纳箱，还...
     - title: Bigo 社区群
@@ -1252,7 +1252,7 @@
       url: https://t.me/Netch_Discuss_Group
       description: ''
     - title: Python 云 - 一个学习 py 的公益机场
-      logo: default.webp
+      logo: /logos/python_py.jpg
       url: https://t.me/pythonyun
       description: ''
     - title: Mac 翻墙・SpechtLite 交流群
@@ -1276,7 +1276,7 @@
       url: https://t.me/fuckyougfw
       description: ''
     - title: 彩虹群发器
-      logo: default.webp
+      logo: /logos/彩虹群发器.png
       url: https://t.me/autocaihongbot
       description: 快速高效的消息群发工具，支持多账号切换，适合营销推广
     - title: Bot 搜索机器人（BotListBot）
@@ -1284,86 +1284,86 @@
       url: https://t.me/BotListBot
       description: 搜索 Telegram Bot 工具
     - title: 数字货币安全出入金交流
-      logo: default.webp
+      logo: /logos/数字货币安全出入金交流.jpg
       url: https://t.me/joinchat/AYS860xmKnoyZWRk
       description: 本群主要讨论数字货币安全出...（原文省略，需按需补充完整）
     - title: 🍳 库克的后厨 🍤
-      logo: default.webp
+      logo: /logos/库克的后厨.jpg
       url: https://t.me/OnlineAppleUserGroup
       description:  Online Apple User Group ⚠️ 如果您被错误封禁，请联系 @cook_kitchen_chef_bot 本群组由 Apple 员工、极客、开发�...
     - title: 赚客吧 有奖一起赚
-      logo: default.webp
+      logo: /logos/赚客吧_有奖一起赚.jpg
       url: https://t.me/zuanke8
       description: 全网电商平台，优惠促销打折海淘 BUG 价活动线报，各大支付 APP 支付活动折扣及时推送，京东、苏宁、淘宝�...
     - title: Apple Watch 大集合
-      logo: default.webp
+      logo: /logos/apple_watch.jpg
       url: https://t.me/apple_watch
       description: Apple Watch 用户群
     - title: Apple TV
-      logo: default.webp
+      logo: /logos/apple_tv.jpg
       url: https://t.me/AppleTVPlus
       description: Apple TV 用户交流群
     - title: Apple Arcade CN
-      logo: default.webp
+      logo: /logos/apple_arcade_cn.jpg
       url: https://t.me/applearcadecn
       description: Apple Arcade 中文交流群，欢迎各位 Apple Arcade 爱好使用者加入，本群可提供家庭组车位共享。
     - title:  Apple 用户社群
-      logo: default.webp
+      logo: /logos/apple.jpg
       url: https://t.me/appleusergroup_tg
       description: 探讨 Apple 硬件、软件产品，包括新闻、谣言、意见和分析及相关问题解答。 👽Reddit 社群：reddit.com/r/appleu...
     - title: Rust 众
-      logo: default.webp
+      logo: /logos/rust.jpg
       url: https://t.me/rust_zh
       description: 本频道是 Rust（编程语言）中文讨论群的入口
     - title: PixelExperience - Official chat
-      logo: default.webp
+      logo: /logos/pixelexperience_official_chat.jpg
       url: https://t.me/pixelexperiencechat
       description: Welcome to PixelExperience official chat Group rules ? Type /rules Website get.pixelexperience.org Twitter twitter.com/PixelExpRom Github gi...
     - title: V2EX 后花园 v2.0
-      logo: default.webp
+      logo: /logos/v2ex_v2_0.jpg
       url: https://t.me/goV2EX
       description: 纯净版 V2 群：谢绝政治话题讨论，专注技术和侃大山。 常年踢不活跃用户，误封申诉 @nekobenben
     - title: V2EX 交流群
-      logo: default.webp
+      logo: /logos/v2ex.jpg
       url: https://t.me/V2EXPro
       description: 程序员、分享创造、问与答
 - taxonomy: 影视娱乐
   icon: fas fa-film fa-lg
   links:
     - title: Google Drive 无限容量
-      logo: default.webp
+      logo: /logos/google_drive.jpg
       url: https://t.me/google_drive
       description: 本群提供无限容量 Google Drive 申请方法、大电影小电影电子书无损音乐等资源。 This group provides ways to get unl...
     - title: 电影爱好者交流
-      logo: default.webp
+      logo: /logos/电影爱好者交流.jpg
       url: https://t.me/Moviemarket_group
       description: 电影爱好者 https//t.me/MovieAnywhere
     - title: Terminus 终点站 &lt;有问题看置顶和 wiki | 注册时间请关注频道&gt;
-      logo: default.webp
+      logo: /logos/terminus_lt_wiki_gt.jpg
       url: https://t.me/EmbyPublic
       description: 终点站通知 https//t.me/embypub 白嫖指南 https//embywiki.911997.xyz 对 Wiki 有疑问先看置顶信息！ Wiki 打不开的话看 htt...
     - title: RouterGroup | 软路由 | 硬路由 | 外贸电视
-      logo: default.webp
+      logo: /logos/routergroup.jpg
       url: https://t.me/ruanlu
       description: 频道：https//t.me/routergroup 置顶：https//t.me/ruanlu/6608
     - title: 阿里云交流群
-      logo: default.webp
+      logo: /logos/阿里云交流群.jpg
       url: https://t.me/Balancer985
       description: v2ray 机场推荐：高墙期间依然坚挺！国外场主搭建的全中转节点 50 + 节点 全节点解锁 Netflix、HBONOW、Hulu ！✔...
     - title: 微软云 (Azure) 交流群
-      logo: default.webp
+      logo: /logos/azure.jpg
       url: https://t.me/Balancer211
       description: v2ray 机场推荐：高墙期间依然坚挺！50+ 全中转节点 全节点解锁 Netflix、HBONOW、Hulu ！✔️20 元 一个月 优质�...
     - title: 谷歌云 (Gcp) 交流群
-      logo: default.webp
+      logo: /logos/gcp.jpg
       url: https://t.me/Balancer166
       description: v2ray 机场推荐：高墙期间依然坚挺！50 + 节点 全节点解锁 Netflix、HBONOW、Hulu ！✔️20 元 一个月，客服全天 7*24...
     - title: 合租社群 - Netflix|YouTube|Spotify |office365|Hbo|Surge | 美剧 | 等音乐影视聊天机场电影盒子软路由
-      logo: default.webp
+      logo: /logos/netflix_youtube_spotify_office365.jpg
       url: https://t.me/hezu1
       description: 合租指南 https//hezu.wiki 敬请关注通知频道 @hezu2 📣聊天群规如下： 1️⃣本群属于合租交流群，禁止讨论政...
     - title: 读书分享
-      logo: default.webp
+      logo: /logos/读书分享.jpg
       url: https://t.me/dushufenxiang_chat
       description: 群规： 1. 请友好交流，讨论请尽量点出重点，想好再说。无论是读书分享，影视音乐，科学自然，旅游轶�...
     - title: 快搜
@@ -1375,161 +1375,161 @@
       url: https://t.me/Super?start=ref-7621030165
       description: 帮你找到有趣的群、频道、视频、音乐、电影、新闻
     - title: AI去衣机器人
-      logo: default.webp
+      logo: /logos/ai.jpg
       url: https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF
       description: 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模
     - title: TVBox
-      logo: default.webp
+      logo: /logos/tvbox.jpg
       url: https://t.me/TVbox888
       description: Tvbox | 猫影视 TV | 网络接口 只做一件事，解放你的电视。 配置在群组👉 @maoyingshi
     - title: 手机里有一款开放世界手游
-      logo: default.webp
+      logo: /logos/手机里有一款开放世界手游.jpg
       url: https://t.me/Orz_zayu
       description: 💡已开放 🚫禁止广告、键政、对线、乞讨、肛交。 音乐频道 @ZAYU_music 一个好朋友的频道 @pingrangTV
 - taxonomy: 生活兴趣
   icon: fas fa-heart fa-lg
   links:
     - title: iGame 游戏交流群
-      logo: default.webp
+      logo: /logos/igame.jpg
       url: https://t.me/gamecn
       description: 天下玩家是一家。这里是游戏爱好者的交流群，讨论游戏限于： * PC 游戏 (Steam)，核心向游戏和独立游戏 * �...
     - title: 中国数字时代 - 讨论群
-      logo: default.webp
+      logo: /logos/中国数字时代_讨论群.jpg
       url: https://t.me/cdtchinese
       description: 中国数字时代：http//cdt.media 官方名片：http//cdt.media 官方推特账号：https//twitter.com/CDTChinese 本站现已开通可...
     - title: M-Team Unofficial chat - Chinese
-      logo: default.webp
+      logo: /logos/m_team_unofficial_chat.jpg
       url: https://t.me/M_Team_Chat
       description: 公吿區 https//t.me/M_Team 疑難雜症請看 https//wiki.m-team.cc/ 站點問題請至 https//ticket.m-team.io 廣告行為說明 https//...
     - title: android Discuss | 辣鸡谷歌还我甜点 🌶🐓🌾🕊
-      logo: default.webp
+      logo: /logos/android_discuss.jpg
       url: https://t.me/AndroidDiscuss
       description: 日常闲聊水 和其他任意讨论瞎扯 少喷政治多发情 消歧义 少 > 别大量洗版刷屏地 喷 > 无脑骂负面内容 少喷 >�...
     - title: NS Xbox PS PC 游戏闲聊
-      logo: default.webp
+      logo: /logos/ns_xbox_ps_pc.jpg
       url: https://t.me/NintendoSwitchCN
       description: 我们一起来游戏 本群不欢迎任何广告，专注 NS 主机、Xbox 主机和游戏若干年，欢迎常年在线的朋友加入管理�...
     - title: CoolApk World | 酷安
-      logo: default.webp
+      logo: /logos/coolapk_world.jpg
       url: https://t.me/Riocoolapk
       description: 非酷安官方群组 群组日志 @CWLOG 群组规定 https//t.me/c/1247493529/475086 The English group rules https//t.me/Riocoolapk/96286 ...
     - title: 加密货币与区块链讨论群
-      logo: default.webp
+      logo: /logos/加密货币与区块链讨论群.jpg
       url: https://t.me/onBlockchain
       description: 加密货币与区块链频道： https//t.me/knowBlockchain
     - title: 摄影
-      logo: default.webp
+      logo: /logos/摄影.jpg
       url: https://t.me/cnphotog
       description: 这里是 @Lychee_Li 的摄影群 欢迎对各种摄影作品、技法，题材和器材的讨论！ 本群禁止除群主硬点以外的广...
     - title: 自由世界之声
-      logo: default.webp
+      logo: /logos/自由世界之声.jpg
       url: https://t.me/TetgramC
       description: 頻道 https//t.me/hao_tg123 自由世界 https//t.me/Hk_ziyou
     - title: Freetrial.store
-      logo: default.webp
+      logo: /logos/freetrial_store.jpg
       url: https://t.me/FreetrialStore
       description: 售前售后请私聊 @Freetrialstore_bot 本群通知频道 @freetrialsell 自助购买链接：https//freetrial.store
     - title: 谷歌、微软云盘讨论群
-      logo: default.webp
+      logo: /logos/谷歌_微软云盘讨论群.jpg
       url: https://t.me/google_win
       description: 自助购物 https//888f.store 前缀修改 @pjassistantbot ★本群 🈲黄 🈲暴 🈲广告 🈲涉及政治话题 https//t.me/Remux_21...
     - title: Via Official Group
-      logo: default.webp
+      logo: /logos/via_official_group.jpg
       url: https://t.me/viatg
       description: ⚠️This group is deprecated, please join the new group https//t.me/+LIsVxUtr3wxiMmI1 ⚠️该群组已废弃，请加入新群组： htt...
     - title: 峰哥分享引导频道
-      logo: default.webp
+      logo: /logos/峰哥分享引导频道.jpg
       url: https://t.me/fengsharegroup
       description: 本频道只是个指引频道，加群请点以下链接！https//t.me/joinchat/ICF7eki3974uTl6GL8hJzg
     - title: 主机贴士 (zhujitips.com)
-      logo: default.webp
+      logo: /logos/zhujitips_com.jpg
       url: https://t.me/BWH1NET
       description: 主机贴士引导频道
     - title: Amazon 海淘购物交流群
-      logo: default.webp
+      logo: /logos/amazon.jpg
       url: https://t.me/firstAmazon
       description: 美亚 (美国亚马逊) 代购、拼单、转运、优惠劵、Fire TV Stick 团购、海淘交流。
     - title: CSS 討論區
-      logo: default.webp
+      logo: /logos/css.jpg
       url: https://t.me/csstw
       description: HTML 和 CSS 的討論區 友情联盟： @coderzh 台灣區塊鏈遊戲社群 https//t.me/GBGATW
     - title: Transno
-      logo: default.webp
+      logo: /logos/transno.jpg
       url: https://t.me/transnousergroup
       description: Transno - Outlines, Notes, Mind Maps
     - title: Hamibot
-      logo: default.webp
+      logo: /logos/hamibot.jpg
       url: https://t.me/HamibotChat
       description: 网站首页：https://hamibot.com 国内站点：...
     - title: 梨园交易贴推送
-      logo: default.webp
+      logo: /logos/梨园交易贴推送.jpg
       url: https://t.me/liyuan_send
       description: https://t.me/v2ex_send v2e...
     - title: 币圈动态
-      logo: default.webp
+      logo: /logos/币圈动态.jpg
       url: https://t.me/biquan321
       description: 讨论群组；https://t.me/biqu...（原文省略，需按需补充完整）
     - title: Web3 汇总 - 币价 / NFT / 空投
-      logo: default.webp
+      logo: /logos/web3_nft.jpg
       url: https://t.me/newsforbitcoin
       description: Web3 讨论群 ————https://t.me...（原文省略，需按需补充完整）
     - title: 逍遥跨境
-      logo: default.webp
+      logo: /logos/逍遥跨境.jpg
       url: https://t.me/xiaoyaoxi
       description: 讨论群：https://t.me/sugarf...（原文省略，需按需补充完整）
     - title: 銀行開戶 | 美股投資 |
-      logo: default.webp
+      logo: /logos/銀行開戶_美股投資.jpg
       url: https://t.me/sugarforex
       description: 订阅频道：https://t.me/xiao...（原文省略，需按需补充完整）
     - title: 🎣 科技无国界 🤼‍♂️
-      logo: default.webp
+      logo: /logos/科技无国界.jpg
       url: https://t.me/LifeAnaTech
       description: 科技无国界，人生不是戏。 🚫 禁止私发广告 🚫 禁止违规违法信息 置顶必看：https//t.me/o1xinsight/783 主理�...
     - title: mini club
-      logo: default.webp
+      logo: /logos/mini_club.jpg
       url: https://t.me/Orz_mini
       description: mini 频道：https//t.me/Orzmini
 - taxonomy: 读书学习
   icon: fas fa-book fa-lg
   links:
     - title: 写作交流
-      logo: default.webp
+      logo: /logos/写作交流.jpg
       url: https://t.me/writing_discuss
       description: 关键词：阅读 写作 交流 如果给你寄一本书， 我不会寄给你诗歌 ， 我要给你一本关于植物，关于庄稼的 �...
     - title: 字谈字畅听众群
-      logo: default.webp
+      logo: /logos/字谈字畅听众群.jpg
       url: https://t.me/TypeChat
       description: 《字谈字畅》（TypeChat）是全球首家用华语制作的字体排印主题播客，The Type 出品，开播于 2015 年 9 月🎙
     - title: Synology / 黑群晖用户群
-      logo: default.webp
+      logo: /logos/synology.jpg
       url: https://t.me/nasfan
       description: 更多教程请访问论坛 https//www.openos.org Signal 备用群 (防失联) https//signal.group/#CjQKII8GHyope_N-X7unx51u_gJAllYr7W0omdKt6J...
     - title: 小声读书 ☘
-      logo: default.webp
+      logo: /logos/小声读书.jpg
       url: https://t.me/what_youread
       description: 小声读书是一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。亦是一份�...
     - title: 全能搜索专属中文无码 电子书 频道 群组
-      logo: default.webp
+      logo: /logos/全能搜索专属中文无码_电子书_频道_群组.jpg
       url: https://t.me/ziyuanfengxiang59
       description: 已经开起自动删除模式 更加隐私的搜索 合作 解封 找 书 @Qeqe_bot
     - title: 好读 - ReadFine 交流总群
-      logo: default.webp
+      logo: /logos/readfine.jpg
       url: https://t.me/ReadfineChat
       description: 频 道 @Readfine 交流群 @ReadfineChat 好读提供电子书一站式阅读体验，一键下载，享受读趣。在这里因为有您�...
     - title: zread 读书会 📚
-      logo: default.webp
+      logo: /logos/zread.jpg
       url: https://t.me/zread
       description: ❤️ 欢迎书友们 或许你正在寻觅， 那一隅祥和。 或许你正在等待， 那心之静谧。 畅游书海，以书会友�...
     - title: Haskell 中文交流
-      logo: default.webp
+      logo: /logos/haskell.jpg
       url: https://t.me/haskellzh
       description: Haskell 是一种标准化的，通用的纯函数程序语言，有非限定性语义和强静态类型 误封申诉： @SCP_079_TICKET_BOT...
     - title: Docker
-      logo: default.webp
+      logo: /logos/docker.jpg
       url: https://t.me/dockertutorial
       description: Docker 学习 | 交流 | 分享 Docker | Moby | Docker...
     - title: DEVONthink Chinese
-      logo: default.webp
+      logo: /logos/devonthink_chinese.jpg
       url: https://t.me/DEVONthink
       description: DEVONthink 用户交流，兼 DT2 简体中文语言�...
 - taxonomy: 中文新闻
@@ -1540,95 +1540,95 @@
       url: https://t.me/shortcuts_cn
       description: 捷径社区官方群 捷径讨论｜科技新闻�...
     - title: Price Tag Friends
-      logo: default.webp
+      logo: /logos/price_tag_friends.jpg
       url: https://t.me/pricetagapp
       description: 这是一个买买买群 官方公众号「PriceTa...
     - title: 竹新社
-      logo: default.webp
+      logo: /logos/竹新社.jpg
       url: https://t.me/tnews365
       description: 7×24不定时编译国内外媒体的...
     - title: 看鉴中国 OutsightChina
-      logo: default.webp
+      logo: /logos/outsightchina.jpg
       url: https://t.me/OutsightChina
       description: 查看详情
     - title: 联合早报 即时报道
-      logo: default.webp
+      logo: /logos/联合早报_即时报道.jpg
       url: https://t.me/zaobao_news
       description: 新闻简报 热点时事 数码科技 ...
     - title: 每天60秒简报
-      logo: default.webp
+      logo: /logos/60.jpg
       url: https://t.me/NEWSPJAPK
       description: 7×24不定时编译国内外媒体的...
     - title: People’s Daily, China
-      logo: default.webp
+      logo: /logos/people_s_daily_china.jpg
       url: https://t.me/PDChinaNews
       description: 一个健康的社会，不该只有一...
     - title: Free 中文
-      logo: default.webp
+      logo: /logos/free.jpg
       url: https://t.me/FreeChinese
       description: 新闻简报 热点时事 数码科技 ...
     - title: 60秒读懂世界
-      logo: default.webp
+      logo: /logos/60.jpg
       url: https://t.me/ReadNews60
       description: The largest newspaper in China
     - title: 乙烷日报
-      logo: default.webp
+      logo: /logos/乙烷日报.jpg
       url: https://t.me/OverDaily
       description: 每天60秒读懂世界
     - title: NFW
-      logo: default.webp
+      logo: /logos/nfw.jpg
       url: https://t.me/NewsFW
       description: 读者群 @OverDailyChat 本频...
     - title: 校长读报
-      logo: default.webp
+      logo: /logos/校长读报.jpg
       url: https://t.me/XiaoZhangDuBao
       description: News for Work, Not for Work...
     - title: Yuan的记事本 📚✍🏻
-      logo: default.webp
+      logo: /logos/yuan.jpg
       url: https://t.me/Yuan_En
       description: 多读书 多看报
     - title: NGOCN
-      logo: default.webp
+      logo: /logos/ngocn.jpg
       url: https://t.me/ngocn01
       description: 整理搬运一些奇奇怪怪有趣的...
     - title: 海外媒体中国新闻
-      logo: default.webp
+      logo: /logos/海外媒体中国新闻.jpg
       url: https://t.me/chinanews001
       description: 独立发声。欢迎关注我们：htt...
     - title: 每天60秒读懂世界-已复活🎉
-      logo: default.webp
+      logo: /logos/60.jpg
       url: https://t.me/DailyNewsZH
       description: 海外媒体关于中国的报道 需翻...
     - title: 辟谣爱好者频道
-      logo: default.webp
+      logo: /logos/辟谣爱好者频道.jpg
       url: https://t.me/fightdisinformation
       description: 电报时报
     - title: 乌鸦观察
-      logo: default.webp
+      logo: /logos/乌鸦观察.jpg
       url: https://t.me/bigcrowdev
       description: 关于近期不实信息，待证实信...
     - title: 电报时报
-      logo: default.webp
+      logo: /logos/电报时报.jpg
       url: https://t.me/times001
       description: 不定期推送新闻和杂谈；您的...
     - title: 今天你想跑路了吗？？
-      logo: default.webp
+      logo: /logos/今天你想跑路了吗.jpg
       url: https://t.me/getoutforchina
       description: '投稿及意见反馈联系: @times0...'
     - title: APPDO 数字生活指南
-      logo: default.webp
+      logo: /logos/appdo.jpg
       url: https://t.me/AppDoDo
       description: 💡互联网/数码/App/羊毛/相机/数字指南 📨投稿/推广/频道解封：@appdo_bot Buy ads telega.io/c/AppDoDo 🧑🏻‍💻...
     - title: 瞎玩菌
-      logo: default.webp
+      logo: /logos/瞎玩菌.jpg
       url: https://t.me/blindgamer
       description: 🕹 聚焦 PC / 主机游戏，分享游戏见闻，晒趣图，赏视频。 📨 每周五中午 12 点，《瞎玩菌的游戏周报》�...
     - title: 科技圈的日常
-      logo: default.webp
+      logo: /logos/科技圈的日常.jpg
       url: https://t.me/misakatech
       description: 科技圈内的大事小事 吹水群 @UntitledGroup
     - title: 每日消费电子观察
-      logo: default.webp
+      logo: /logos/每日消费电子观察.jpg
       url: https://t.me/CE_Observe
       description: 不公正 不客观 不理性 投稿 / 反馈 / 闲聊 / 发傻 / 和动物成为朋友 / USB Type-C 👉 @CE_Observe_Chat 所有稿源为 �...
     - title: 科技&amp;趣闻&amp;杂记
@@ -1636,63 +1636,63 @@
       url: https://t.me/kejiqu
       description: 分享有价值、有趣的信息！ 你也可以来投稿，包括但不限于科技新闻、知识、影视娱乐资讯.... 投稿 @kejiqu...
     - title: 科技圈🎗在花频道📮
-      logo: default.webp
+      logo: /logos/科技圈_在花频道.jpg
       url: https://t.me/TestFlightCN
       description: 【莫談國事】 • 禁止推广/黑产/刷屏/色情/NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳�...
     - title: 蓝点网订阅频道
-      logo: default.webp
+      logo: /logos/蓝点网订阅频道.jpg
       url: https://t.me/landiansub
       description: 查看详情
     - title: Newlearnerの自留地
-      logo: default.webp
+      logo: /logos/newlearner.jpg
       url: https://t.me/NewlearnerChannel
       description: 🆕 不定期推送 IT 相关资讯，欢迎关注！ 👥 博客群&投稿群&交流群 @NewlearnerGroup 📩 投稿请私信 @newlearner...
     - title: 微信搬运工（旧）
-      logo: default.webp
+      logo: /logos/微信搬运工_旧.jpg
       url: https://t.me/WeChatEssence
       description: 本频道两个目的，1. 丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里），2....
     - title: 【华尔街见闻】- 财经时讯
-      logo: default.webp
+      logo: /logos/华尔街见闻_财经时讯.jpg
       url: https://t.me/FinanceNewsDaily
       description: 实时推送【华尔街见闻】国内、国际一手财经资讯（含付费内容） 【华尔街见闻】，中国领先的金融信息�...
     - title: 突发新闻
-      logo: default.webp
+      logo: /logos/突发新闻.jpg
       url: https://t.me/breakingnews_t
       description: 突发新闻推送服务（简体中文） 非严肃版Channel：https//telegram.me/now_t 深度报道：http//dudu.zhihu.com/circle/167643
     - title: 财经慢报
-      logo: default.webp
+      logo: /logos/财经慢报.jpg
       url: https://t.me/Financial_Express
       description: 附属群组 @Financial_Express_Chat 泛财经类资讯新闻频道，实时覆盖黄金原油外汇股票区块链市场，内容真实中�...
     - title: 财经慢报 读者群
-      logo: default.webp
+      logo: /logos/财经慢报_读者群.jpg
       url: https://t.me/Financial_Express_Chat
       description: 本群为 @Financial_Express 附属群组 “财经慢报是最快最及时的信息推送频道，重要信息现场直播秒级推送。�...
     - title: 财联社VIP文章分享
-      logo: default.webp
+      logo: /logos/vip.jpg
       url: https://t.me/clsvip
       description: 财联社 VIP文章即时更新：盘中宝、风口研报、狙击龙虎榜、电报解读、财联社早知道、研选、公告早知道�...
     - title: 后续APP —— 关注、追踪热点新闻
-      logo: default.webp
+      logo: /logos/app.jpg
       url: https://t.me/HouXuApp
       description: 「后续」是一个持续关注、追踪热点事件的新闻工具，我们关注那些引起人们讨论、思考的热点新闻，改�...
     - title: 豆瓣精选
-      logo: default.webp
+      logo: /logos/豆瓣精选.jpg
       url: https://t.me/douban_read
       description: 感谢支持和关心我们众多读者朋友，我们将从投稿中筛选出真实、善意、公允的内容，努力为大家提供一�...
     - title: 每日文章精选
-      logo: default.webp
+      logo: /logos/每日文章精选.jpg
       url: https://t.me/daily_read
       description: 知乎日报 @zhihuribao_rss 纽约时报 @niuyueshibao_rss BBC中文 @bbczhongwen_rss 路透中文 @lutouzho...
     - title: 知音
-      logo: default.webp
+      logo: /logos/知音.jpg
       url: https://t.me/Musiccnchannel
       description: 关键词：每日 文章 精选 微信 总结 每天为大家提供一条可以转回墙内的文章精选总结。 频道合集 @channel_p...
     - title: 读•书
-      logo: default.webp
+      logo: /logos/读_书.jpg
       url: https://t.me/readingeventhosting
       description: 发一些关于音乐的东西 https//t.me/+29ZxkveiQLA2Nzll
     - title: 端傳媒官方頻道 Initium Media
-      logo: default.webp
+      logo: /logos/initium_media.jpg
       url: https://t.me/theinitiumnews
       description: Essential news, photos and ...
     - title: 知识管理与搜索
@@ -1704,31 +1704,31 @@
       url: https://t.me/financebot
       description: Feed rss from bbc.com/news ...
     - title: 硬核小卒
-      logo: default.webp
+      logo: /logos/硬核小卒.jpg
       url: https://t.me/yinghexiaozu
       description: You can view and join @fina...
     - title: hayami’s blog｜日常人间观察
-      logo: default.webp
+      logo: /logos/hayami_s_blog.jpg
       url: https://t.me/hayami_kiraa
       description: winandmac Media視麥媒體以最...
     - title: 在无尽长河的尽头
-      logo: default.webp
+      logo: /logos/在无尽长河的尽头.jpg
       url: https://t.me/AtTheEndOfEndlessRiver
       description: 澳門特區政府新聞局--政府新...
     - title: 不存在的世界
-      logo: default.webp
+      logo: /logos/不存在的世界.jpg
       url: https://t.me/illusory_world
       description: 多元觀點，從這開始！
     - title: '笔记本：Lin’s 文字世界 : 个人见闻/B站视频/网络见闻'
-      logo: default.webp
+      logo: /logos/lin_s_b.jpg
       url: https://t.me/LinsBookA
       description: 《香港01》官方 Telegram 頻...
     - title: 游山打猎·读记日本
-      logo: default.webp
+      logo: /logos/游山打猎_读记日本.jpg
       url: https://t.me/zhanbinstory
       description: 除此Telegram頻道及Instagram...
     - title: 新·世界观察日志
-      logo: default.webp
+      logo: /logos/新_世界观察日志.jpg
       url: https://t.me/NewWorldObservationLog
       description: https://inmediahk.net 聯絡...
     - title: 国际时事与分析
@@ -1748,7 +1748,7 @@
       url: https://t.me/TechFrontierWatch
       description: 读书分享，影视音乐，科学自...
     - title: Spotify Addict Group
-      logo: default.webp
+      logo: /logos/spotify_addict_group.jpg
       url: https://t.me/spotifyaddict
       description: Spotify Addict Group 本群邀请链接 https//t.me/spotifyaddict Spotify 资讯频道： https//t.me/spotifynews S.A.G 公共歌单： http...
     - title: Fragment 账号实时报价
@@ -1756,62 +1756,62 @@
       url: https://t.me/Fragment_Monitor
       description: ''
     - title: 吴说区块链 新闻与深度
-      logo: default.webp
+      logo: /logos/吴说区块链_新闻与深度.jpg
       url: https://t.me/wublock
       description: 提供专业可信的行业新闻与优...（原文省略，需按需补充完整）
     - title: 币圈财经新闻
-      logo: default.webp
+      logo: /logos/币圈财经新闻.jpg
       url: https://t.me/Btc_789
       description: 【CoinNews 社群导航】@coinne...（原文省略，需按需补充完整）
     - title: 币克社快讯
-      logo: default.webp
+      logo: /logos/币克社快讯.jpg
       url: https://t.me/BI_KE1
       description: https://t.me/joinchat/8aSLb...（原文省略，需按需补充完整）
     - title: Telo News 简体中文 – 加密货币｜DeFi ｜Web3
-      logo: default.webp
+      logo: /logos/telo_news_defi_web3.jpg
       url: https://t.me/telonews_cn
       description: 最新的加密货币新闻，观点和...（原文省略，需按需补充完整）
     - title: 金十数据
-      logo: default.webp
+      logo: /logos/金十数据.jpg
       url: https://t.me/jin10data
       description: 金十数据资讯推送
     - title: ⚡️ 7×24 投资快讯
-      logo: default.webp
+      logo: /logos/7_24.jpg
       url: https://t.me/golden_wind_news
       description: 24 小时投资相关的快讯
     - title: 金十数据 闪电资讯
-      logo: default.webp
+      logo: /logos/金十数据_闪电资讯.jpg
       url: https://tgdriver.com/sites/453.html
       description: 实时推送【金十数据】 7x24 小...（原文省略，需按需补充完整）
     - title: 韭菜重生之旅
-      logo: default.webp
+      logo: /logos/韭菜重生之旅.jpg
       url: https://t.me/CaiRebirth
       description: 5 年多美股投资者，10 年多的...（原文省略，需按需补充完整）
     - title: 币圈日报
-      logo: default.webp
+      logo: /logos/币圈日报.jpg
       url: https://t.me/bidaily
       description: 币圈日报 - 每日最前沿的币圈新闻资讯
     - title: 撸空投💰币圈💰Web3💰财务自由
-      logo: default.webp
+      logo: /logos/web3.jpg
       url: https://t.me/tglukongtou
       description: 分享最新前沿的空投资讯，奔向财务自由之路
     - title: 币世界快讯【区块链】
-      logo: default.webp
+      logo: /logos/币世界快讯_区块链.jpg
       url: https://t.me/NewsCoinSpace
       description: 区块链 币世界快讯
 - taxonomy: 国际新闻
   icon: fas fa-globe fa-lg
   links:
     - title: FT中文网 全文 实时推送
-      logo: default.webp
+      logo: /logos/ft.jpg
       url: https://t.me/ftzhongwen_rss
       description: 知乎日报 @zhihuribao_rss 纽约时报 @niuyueshibao_rss BBC中文 @bbczhongwen_rss 路透中文 @lutouzho...
     - title: 看新闻 学英语 双语新闻
-      logo: default.webp
+      logo: /logos/看新闻_学英语_双语新闻.jpg
       url: https://t.me/shuangyunews_rss
       description: 知乎日报 @zhihuribao_rss 纽约时报 @niuyueshibao_rss BBC中文 @bbczhongwen_rss 路透中文 @lutouzho...
     - title: 美国之音 全文 实时推送
-      logo: default.webp
+      logo: /logos/美国之音_全文_实时推送.jpg
       url: https://t.me/meiguozhiyin_rss
       description: '[RSS全文订阅 实时更新] '
     - title: 法广RFI 中文 – 法国国际广播电台
@@ -1819,7 +1819,7 @@
       url: https://t.me/RFI_Cn
       description: '[RSS全文订阅 实时更新] '
     - title: 歐洲動態3.0
-      logo: default.webp
+      logo: /logos/3_0.jpg
       url: https://t.me/europechinese
       description: 端傳媒成立於 2015 年
 - taxonomy: Web3资讯
@@ -1830,7 +1830,7 @@
       url: https://t.me/BinanceChinese
       description: 币安官方中文 TG 群
     - title: 欧易 OKX 官方中文群
-      logo: default.webp
+      logo: /logos/okx.png
       url: https://t.me/OKXGroup_CN
       description: 本群为唯一官方指定中文社群
 - taxonomy: 机场VPN
@@ -1845,7 +1845,7 @@
       url: https://vpnnav.github.io/
       description: 15块300G还要啥自行车
     - title: 狗狗加速
-      logo: default.webp
+      logo: /logos/狗狗加速.png
       url: https://www.dginv.click/#/register?code=ZyMzTvB7
       description: 狗狗加速，集群负载均衡，不限速，无审计，高速专线，极低延迟。全球独家Hysteria2协议，解锁流媒体及ChatGPT，不限设备数，全平台通用
     - title: 秒秒云
@@ -1861,7 +1861,7 @@
       url: https://invite.wgetcloud.ltd/auth/register?code=5ERE4f
       description: WgetCloud 采用专线翻墙线路，高稳定性，避免国际线路拥堵造成的不良翻墙体验，支持 Trojan 翻墙协议，路由器可选择 SSR 订阅
     - title: 老猫云
-      logo: default.webp
+      logo: /logos/老猫云.png
       url: https://laomao.biz?path=register&code=JGCKGHWa
       description: 已经升级到了trojan协议，trojan会使用tls加密，入口是深圳移动。IEPL企业级内网专线，最高1000Mbps 速率可用，99% SLA 保证，50+ 全球落地节点。
     - title: 放心云
@@ -1869,7 +1869,7 @@
       url: https://web.fxyjs.fun/#/register?code=Z0i3YPhk
       description: 1000Mbps带宽不限速，上Google/撸Youtube 4K/小电影。全解锁Netflix|HBO|HULU等流媒体，不限制设备在线数，自研V2ray后端,匿名不记录任何日志，V2ray协议加密保证您的隐私安全。新手免费提供3天试用套餐，先试用再购买
     - title: 起帆
-      logo: default.webp
+      logo: /logos/起帆.png
       url: https://www.qf1.us/#/register?code=FpqKzaKu
       description: 限时7.5折优惠码：26Ikam7l。全网首家推出Hysteria协议的高速机场，与传统机场不同的是，我们使用此协议能轻松穿透运营商QOS，无论任何时候，秒开8K甚至12K视频无压力可言。并且解锁了ChatGPT与大部分流媒体，拥有强大的研发技术组，全程保障您的使用安全性，稳定性与速度！
     - title: 九紫离火云
@@ -1889,11 +1889,11 @@
       url: https://bc58b79e1713121b.cdn.jiashule.com/#/register?code=NlobEPvw
       description: WgetCloud 采用专线翻墙线路，高稳定性，避免国际线路拥堵造成的不良翻墙体验，支持 Trojan 翻墙协议，路由器可选择 SSR 订
     - title: Tomcat
-      logo: default.webp
+      logo: /logos/tomcat.png
       url: https://teacat.cloud/#/register?code=wcln0rZa
       description: 12块50G还要啥自行车
     - title: Free+
-      logo: default.webp
+      logo: /logos/free.png
       url: https://freeplus.top/#/register?code=MhvyTRBe
       description: 新用户免费使用7天1G流量
     - title: 红杏加速器
@@ -1901,15 +1901,15 @@
       url: https://hongxingdl.com/web/#/login?code=2vLzk6Wu
       description: 红杏云，纯净/高速/稳定
     - title: FSCloud
-      logo: default.webp
+      logo: /logos/fscloud.png
       url: https://dash.996cloud.top/#/register?code=14lShPOs
       description: 1元100G还要啥自行车，直接冲就完事了
     - title: 烤肠云
-      logo: default.webp
+      logo: /logos/烤肠云.png
       url: https://reborn.kaochang.ltd/#/register?code=WE8qrNPG
       description: 1元2G每月的测试套餐
     - title: M78星云
-      logo: default.webp
+      logo: /logos/m78.png
       url: https://m78star.cloud/#/register?code=MLBEu8Zi
       description: 高端IEPL和IPLC线路，套餐价格低至7元，赠送Emby服务，海量4K国内外影视剧随意观看。解锁Netflix、Disney+、ChatGPT等全球流行平台
     - title: 魔戒
@@ -1917,15 +1917,15 @@
       url: https://mojie.info/#/register?code=vv0sB50W
       description: 一家主打性价比的纯流量计费机场，创立于2021 年，提供Trojan 和Vmess 协议节点，直连和公网隧道中转，流量包均不限使用时长。还有分站八戒机场
     - title: OKCLOUD机场
-      logo: default.webp
+      logo: /logos/okcloud.png
       url: https://okokcloud.top/#/register?code=vZRXNDss
       description: OK CLOUD机场拥有超稳定高速的SS/SSR节点，不限制本人设备数，IEPL/Anycast 专线网络，最高1000M 带宽。流畅观看 Netflix、HBO、Fox+、Disney+、BBC iPlayer、 TVB 等平台上的海量电视剧和电影。新用户可试用7天，先试用再购买。
     - title: 青云梯机场
-      logo: default.webp
+      logo: /logos/青云梯机场.png
       url: https://qytaffcc01.qytaff.pro/register?aff=3kRr38Lo
       description: 支持解锁所有流媒体，包括Netflix、Disney+、HBO MAX、Hugo等等；支持解锁ChatGPT、bing等ai工具；覆盖的线路涵盖香港、台湾、日本、新加坡、美国、韩国、越南、菲律宾、泰国、印度、德国、法国、英国、阿根廷等地。
     - title: 飞天猪
-      logo: default.webp
+      logo: /logos/飞天猪.png
       url: https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N
       description: 飞天猪机场，Trojan协议，IEPL全专线节点，原生IP , 最高速率可达到3000Mbps。全节点支持流媒体解锁（包括Netflix , Disney+, HBO等），完美解锁ChatGPT，支持Tiktok本土短视频运营和直播。晚高峰不限速，所有套餐x1倍率，可支持企业和个人独享IP和家宽定制
     - title: Shadowsocks&amp;Clash百科
@@ -1933,11 +1933,11 @@
       url: https://t.me/shadowsocks_clash
       description: 查看详情
     - title: Surge 交流
-      logo: default.webp
+      logo: /logos/surge.jpg
       url: https://t.me/loveapps
       description: Surge 使用交流分享（限正版！！！）
     - title: SURGE PRO
-      logo: default.webp
+      logo: /logos/surge_pro.jpg
       url: https://t.me/SurgePro
       description: SURGE FOR iOS & macOS
     - title: Quantumult X
@@ -1964,51 +1964,51 @@
   icon: fas fa-exclamation-triangle fa-lg
   links:
     - title: BDD@Tech
-      logo: default.webp
+      logo: /logos/bdd_tech.jpg
       url: https://t.me/bigdongdongGroup
       description: 🚫禁止任何政治内容 & NSFW 内容 & 攻击辱骂他人的行为将永久移至小黑屋 🔰管理员有权在任何时候无理由以�...
     - title: YouTube—ImShuker
-      logo: default.webp
+      logo: /logos/youtube_imshuker.jpg
       url: https://t.me/shukerz
       description: ⚠️⚠️⚠️进群请先看⚠️⚠️⚠️ 群内禁止发送色情图片、视频、链接 禁止讨论政治 理性发言，禁�...
     - title: Java 编程语言
-      logo: default.webp
+      logo: /logos/java.jpg
       url: https://t.me/Javaer
       description: Java 一种物件导向程式设计编程语言 ，不是 JAV 群（SFW） pin：https//t.me/Javaer/470283 申请入群须经审核，请确...
     - title: Jailbreak
-      logo: default.webp
+      logo: /logos/jailbreak.jpg
       url: https://t.me/iOS_Jailbreak
       description: iOS 越狱交流群，也可以约基撩妹！ 但请不要讨论与政治有关话题！ 更严禁打广告和色情内容，一次警告�...
     - title: TG 技术党
-      logo: default.webp
+      logo: /logos/tg.jpg
       url: https://t.me/MRHXPJ
       description: 🏳️‍🌈本群主题：包括但不限于关于美区 APP 代购、TIKTOK、机场、吹水、不露点 NSFW 等… 同时讨论任何有�...
     - title: 酸奶机场 VPN-SSR2.0✈️NSFW🔞
-      logo: default.webp
+      logo: /logos/vpn_ssr2_0_nsfw.jpg
       url: https://t.me/ssruSSR
       description: 无描述
     - title: 左罗・TG・交流
-      logo: default.webp
+      logo: /logos/tg.jpg
       url: https://t.me/zuoluotv
       description: ZUOLUOTV 专属交流群 ✅ 避免广告骚扰，请联系群主 @luolei 说明来意，验证通过方可入群 TECH / TRAVEL / LIFESTYLE Y...
     - title: JavaScript 中文交流
-      logo: default.webp
+      logo: /logos/javascript.jpg
       url: https://t.me/javascriptzh
       description: JavaScript，通常缩写为 JS，是一种高级的，解释执行的编程语言 请勿广告、推广、开车 误封申诉： @SCP_079_T...
     - title: Reddigram
-      logo: default.webp
+      logo: /logos/reddigram.jpg
       url: https://t.me/reddigram
       description: ❌NO SPAM ❌NO NSFW ❌NO EMOJI ❌NO SELFIES �...
     - title: 🇬🇧 Nicegram Chat
-      logo: default.webp
+      logo: /logos/nicegram_chat.jpg
       url: https://t.me/nicegramchat
       description: Official Nicegram chat! Channel @nicegramapp Navi...
     - title: JSWorld
-      logo: default.webp
+      logo: /logos/jsworld.jpg
       url: https://t.me/java_script_world
       description: JavaScript, HTML, CSS, Node...
     - title: '&#039;Karim Iskakov – канал (ex: Loss Function Porn)&#039;'
-      logo: default.webp
+      logo: /logos/039_karim_iskakov_ex.jpg
       url: https://t.me/karim_iskakov
       description: '\''TODO: channel description E...\'
     - title: 老毛子 Padavan 固件自助交流群
@@ -2020,70 +2020,70 @@
       url: https://t.me/pdcn3
       description: ''
     - title: NFT | METAVERSE
-      logo: default.webp
+      logo: /logos/nft_metaverse.jpg
       url: https://t.me/NFTsworld7
       description: A gateway to the digital wo...（原文省略，需按需补充完整）
     - title: 科技圈🎗の 茶馆
-      logo: default.webp
+      logo: /logos/科技圈_の_茶馆.jpg
       url: https://t.me/zaihuachat
       description: 【莫談國事】・禁止推广 / 黑产 / 刷屏 / 色情 / NSFW・禁止黄赌毒 / 宗教 / 政治 / 键政・禁止撕逼 / 人身攻击 / 阴阳�...
     - title: 科技圈🎗の 茶馆
-      logo: default.webp
+      logo: /logos/科技圈_の_茶馆.jpg
       url: https://t.me/GoogleFans
       description: 【莫談國事】・禁止推广 / 黑产 / 刷屏 / 色情 / NSFW・禁止黄赌毒 / 宗教 / 政治 / 键政・禁止撕逼 / 人身攻击 / 阴阳�...
     - title: 三星手机交流
-      logo: default.webp
+      logo: /logos/三星手机交流.jpg
       url: https://t.me/samsung_cn
       description: 三星手机搞机群。欢迎来搞机. ⚠️禁止血腥暴力、色情、赌博、广告，禁止政治讨论撕逼，违者直接封禁！...
     - title: 小米玩机交流群
-      logo: default.webp
+      logo: /logos/小米玩机交流群.jpg
       url: https://t.me/xiaomi6666
       description: 频道： @MiResources 群聊禁色情、辱骂、广告、外挂、黑产！ 买机注意： 1、去官网看参数，测评不建议看送...
     - title: 飞享一刻｜频道
-      logo: default.webp
+      logo: /logos/飞享一刻_频道.jpg
       url: https://t.me/w37fhy
       description: 【加入讨论群：https//t.me/fhyw37】同时欢迎访问官网：https//w37fhy.cn，获得更多资源分享及最新福利资讯！
     - title: 东京 IT 技术者交流群
-      logo: default.webp
+      logo: /logos/it.jpg
       url: https://t.me/TokyoIT
       description: ❴TokyoIT 讨论组❵ 畅所欲言 滔滔不绝 【禁止發布準則】🈲️色情、🈲️广告、🈲️黑产、🈲️推广群链...
 - taxonomy: 更多群组
   icon: fas fa-users fa-lg
   links:
     - title: 电报人：对事不对人，不得贬低群员
-      logo: default.webp
+      logo: /logos/电报人_对事不对人_不得贬低群员.jpg
       url: https://t.me/three001
       description: 群宗旨信息分享，了解世界，强大自己 群规则 1. 不可攻击群员，不能水群 2. 多研究问题，少谈主义 3. 多分享�...
     - title: 安卓手机交流圈
-      logo: default.webp
+      logo: /logos/安卓手机交流圈.jpg
       url: https://t.me/androidsee
       description: 无描述
     - title: Ruby 中文圈
-      logo: default.webp
+      logo: /logos/ruby.jpg
       url: https://t.me/rubycn
       description: 无描述
     - title: polyhedron
-      logo: default.webp
+      logo: /logos/polyhedron.jpg
       url: https://t.me/polyhedron
       description: polyhedron 的自媒體備份。有事請聯繫 telegram 的 @ngiamzsjit 或進入我的 “半地穴式聊天室” 留言（當前鏈接 http...
     - title: 骚音世界
-      logo: default.webp
+      logo: /logos/骚音世界.jpg
       url: https://t.me/listentotheworld
       description: 來自「」的即時通訊，傳遞音樂、音響和其他任何相關或不相關的事。 The yada yada.
     - title: NickTalk
-      logo: default.webp
+      logo: /logos/nicktalk.jpg
       url: https://t.me/nicktalk
       description: 格物致知，興趣相投，記錄關於政治、科技和人文奇思妙想。
     - title: iOS
-      logo: default.webp
+      logo: /logos/ios.jpg
       url: https://t.me/iOSdevotee
       description: 1 不是不能聊政治，关键这里不是 Twitter 结构松散，发的消息别人都被动接受，所以考虑这是一个群，考虑�...
     - title: GroupHub Chat
-      logo: default.webp
+      logo: /logos/grouphub_chat.jpg
       url: https://t.me/GroupHub_Chat
       description: 广播站 @GroupHub
     - title: 酷安绿色头像交流群
-      logo: default.webp
+      logo: /logos/酷安绿色头像交流群.jpg
       url: https://t.me/coolapkchina
       description: 无描述
     - title: LIF&#039;s Group - 须知
@@ -2091,219 +2091,219 @@
       url: https://t.me/MyAndroidTools
       description: 无描述
     - title: Tg 攝影社群
-      logo: default.webp
+      logo: /logos/tg.jpg
       url: https://t.me/photographyintelegram
       description: 電報攝影群組，歡迎熱愛攝影、當代攝影、當代藝術的朋友加入。不歡迎：老法師
     - title: 知日讀者群
-      logo: default.webp
+      logo: /logos/知日讀者群.jpg
       url: https://t.me/zhijapan
       description: 无描述
     - title: NF 讨论群
-      logo: default.webp
+      logo: /logos/nf.jpg
       url: https://t.me/netflixchina
       description: 无描述
     - title: Gate.io 的小伙伴們
-      logo: default.webp
+      logo: /logos/gate_io.jpg
       url: https://t.me/gate_io
       description: 歡迎！這裡是 Gate 芝麻開門的華語官方社群。Gate 生態相關的一切我們都可以在這裡討論哦！ 新用戶請點擊�...
     - title: Speechlessness
-      logo: default.webp
+      logo: /logos/speechlessness.jpg
       url: https://t.me/thespeechless
       description: Just sharing beautiful quotes
     - title: 内涵段子
-      logo: default.webp
+      logo: /logos/内涵段子.jpg
       url: https://t.me/duanzige
       description: 无描述
     - title: ss-panel
-      logo: default.webp
+      logo: /logos/ss_panel.jpg
       url: https://t.me/SSpanel
       description: 无描述
     - title: wikipedia-zh
-      logo: default.webp
+      logo: /logos/wikipedia_zh.jpg
       url: https://t.me/wikipedia_zh_n
       description: 本群組為中文維基百科聊天室，主要讨论维基百科站务。 本群另有 IRC 及 discord 两群，由转发机器人互联，对...
     - title: wikipedia-zh-help
-      logo: default.webp
+      logo: /logos/wikipedia_zh_help.jpg
       url: https://t.me/wikipedia_zh_help
       description: 本群为中文维基百科即时求助群，提供编辑、站务及其它维基百科站内相关事务的帮助，請勿在群組裡發�...
     - title: wikipedia-zh-game
-      logo: default.webp
+      logo: /logos/wikipedia_zh_game.jpg
       url: https://t.me/wikipedia_zh_game
       description: 中文維基遊戲群組。群組規則「請見置頂消息」。已有遊戲：狼人殺、阿瓦隆、Uno、1A2B、偵探任務、屏風�...
     - title: 臺大維基社
-      logo: default.webp
+      logo: /logos/臺大維基社.jpg
       url: https://t.me/ntuwpc
       description: 這裡是國立臺灣大學維基研究社 Telegram 群，與 Libera IRC 頻道...
     - title: Vedio Talk
-      logo: default.webp
+      logo: /logos/vedio_talk.jpg
       url: https://t.me/VedioTalkGroup
       description: 无描述
     - title: Coolapk Chat Group
-      logo: default.webp
+      logo: /logos/coolapk_chat_group.jpg
       url: https://t.me/coolapkxianliao
       description: 欢迎新人哦 (๑・̀ㅂ・́)و✧ 本群非酷安官方群哦 有事私聊或艾特 @Hakurei_Reimu233
     - title: 酷安
-      logo: default.webp
+      logo: /logos/酷安.jpg
       url: https://t.me/cool_apk
       description: 禁止人身攻击
     - title: Digital Immigrants 丨 Want Want Lobby
-      logo: default.webp
+      logo: /logos/digital_immigrants_want_want.jpg
       url: https://t.me/Licensess
       description: 迎宾处
     - title: 品云合租
-      logo: default.webp
+      logo: /logos/品云合租.jpg
       url: https://t.me/PinYunHeZu
       description: 品云合租群 审核 Bot @PinYunHZ_bot
     - title: 合租小车🚗
-      logo: default.webp
+      logo: /logos/合租小车.jpg
       url: https://t.me/TogetherHub
       description: 无描述
     - title: EhViewer [DEPRECATED]
-      logo: default.webp
+      logo: /logos/ehviewer_deprecated.jpg
       url: https://t.me/ehviewer
       description: EhViewer・DEPRECATED・交流群 不信谣，不传谣； 莫发广告，拒绝黄图； 文明用语，不准打架； 同则相亲，异�...
     - title: Magisk 吹水 (unofficial)
-      logo: default.webp
+      logo: /logos/magisk_unofficial.jpg
       url: https://t.me/magiskCNshare
       description: 老鸽频道： @XposedCN @magiskCN 大咕群组： @xposedCNshare 请不要在本群内发起与 Magisk 毫无关系的话题～
     - title: BAT 大家庭
-      logo: default.webp
+      logo: /logos/bat.jpg
       url: https://t.me/china_net_group
       description: 无描述
     - title: 韭菜防区 Ashare_irl
-      logo: default.webp
+      logo: /logos/ashare_irl.jpg
       url: https://t.me/China_irl
       description: 流浪防区 China_irl 官方群，已与 r/china_irl 太监区割席。已割席！太监和浪友别来错地方 1. 不要人身攻击、�...
     - title: vKvHxAkW
-      logo: default.webp
+      logo: /logos/vkvhxakw.jpg
       url: https://t.me/huochesiji
       description: 无描述
     - title: 拾趣
-      logo: default.webp
+      logo: /logos/拾趣.jpg
       url: https://t.me/peekfun
       description: 分享一点有趣的事情、有用的东西
     - title: 苹果旧版交流
-      logo: default.webp
+      logo: /logos/苹果旧版交流.jpg
       url: https://t.me/xinapp
       description: 无描述
     - title: Technical Blog | 技術博客
-      logo: default.webp
+      logo: /logos/technical_blog.jpg
       url: https://t.me/Technical_Blog
       description: 无描述
     - title: 微基主机讨论组 - 原 50KVM/50VZ
-      logo: default.webp
+      logo: /logos/50kvm_50vz.jpg
       url: https://t.me/network50_chat
       description: 无描述
     - title: Nathosts 主机交流群
-      logo: default.webp
+      logo: /logos/nathosts.jpg
       url: https://t.me/nathosts
       description: Nathosts 官方讨论群 官网www.nathosts.com
     - title: 大鸟转转转酒吧（双向流量）
-      logo: default.webp
+      logo: /logos/大鸟转转转酒吧_双向流量.jpg
       url: https://t.me/UoVzCloud
       description: 不要问，问就不行， ㍿
     - title: 中文独立博客
-      logo: default.webp
+      logo: /logos/中文独立博客.jpg
       url: https://t.me/indieBlogs
       description: Chinese independent blogs
     - title: Chromebook CN
-      logo: default.webp
+      logo: /logos/chromebook_cn.jpg
       url: https://t.me/chromebook_cn
       description: Chromebook 中文讨论组 (Chinese Group) Spam 账号较多，本群已开启人工验证，如需进群可以私管理 @twiceyuan
     - title: MWeb 及相关讨论
-      logo: default.webp
+      logo: /logos/mweb.jpg
       url: https://t.me/mwebapp
       description: 无描述
     - title: MOZE
-      logo: default.webp
+      logo: /logos/moze.jpg
       url: https://t.me/mozeapp
       description: 這裏是最美記帳應用 MOZE 官方 Telegram �...
     - title: 岁寒输入法交流群
-      logo: default.webp
+      logo: /logos/岁寒输入法交流群.jpg
       url: https://t.me/SuiHanIME
       description: 欢迎岁寒输入法的初学者和爱好者到�...
     - title: 奇点
-      logo: default.webp
+      logo: /logos/奇点.jpg
       url: https://t.me/jidian
       description: 欢迎来到奇点用户群！ 这是一个面向�...
     - title: 雷神之锤
-      logo: default.webp
+      logo: /logos/雷神之锤.jpg
       url: https://t.me/thorshu
       description: Thor 官方群已转为私群，本群仅仅是为...
     - title: KidO
-      logo: default.webp
+      logo: /logos/kido.jpg
       url: https://t.me/Pythonista3jiaoliuqun
       description: itsfeobot !
     - title: Aria2 中文交流群
-      logo: default.webp
+      logo: /logos/aria2.jpg
       url: https://t.me/Aria2_CN
       description: 无描述
     - title: Pure Writer Releases
-      logo: default.webp
+      logo: /logos/pure_writer_releases.jpg
       url: https://t.me/purewriter
       description: Changelogs in this channel are usually written in ...
     - title: EOS
-      logo: default.webp
+      logo: /logos/eos.jpg
       url: https://t.me/EOSproject
       description: The Most Powerful Infrastructure for Decentralized...
     - title: IINA 中文
-      logo: default.webp
+      logo: /logos/iina.jpg
       url: https://t.me/IINAUsersZH
       description: IINA 的官方中文讨论群 此群禁止广告
     - title: IINA
-      logo: default.webp
+      logo: /logos/iina.jpg
       url: https://t.me/IINAUsers
       description: The official discussion group for IINA.
     - title: Mac 玩儿法茶馆
-      logo: default.webp
+      logo: /logos/mac.jpg
       url: https://t.me/waerfa
       description: 无描述
     - title: LIHAI 分享
-      logo: default.webp
+      logo: /logos/lihai.jpg
       url: https://t.me/lihaiba
       description: 一个分享频道，进频道先看置顶，不�...
     - title: TelePlus | TelePro
-      logo: default.webp
+      logo: /logos/teleplus_telepro.jpg
       url: https://t.me/TelePlus_Group
       description: 无描述
     - title: MK 播放器 for M3U8
-      logo: default.webp
+      logo: /logos/mk_for_m3u8.jpg
       url: https://t.me/MKPlayerApp
       description: 这里是 MK 播放器 for M3U8 交流群，欢迎�...
     - title: 畅邮（Cymail）
-      logo: default.webp
+      logo: /logos/cymail.jpg
       url: https://t.me/cyemail
       description: 无描述
     - title: Mixin Network (XIN)
-      logo: default.webp
+      logo: /logos/mixin_network_xin.jpg
       url: https://t.me/MixinCommunity
       description: Mixin Network solves the problems of slow transact...
     - title: Launch Center Pro 交流分享
-      logo: default.webp
+      logo: /logos/launch_center_pro.jpg
       url: https://t.me/lcpapp
       description: Launch Center Pro 交流分享群，欢迎大家�...
     - title: AdGuard
-      logo: default.webp
+      logo: /logos/adguard.jpg
       url: https://t.me/AdGuard_chinese
       description: adguard.com 官方网站链接。AdGuard 信息反�...
     - title: VShareCloud
-      logo: default.webp
+      logo: /logos/vsharecloud.jpg
       url: https://t.me/VShareCloud
       description: 无描述
     - title: Telegreat Desktop 中文討論區 (Mandarin Chat)
-      logo: default.webp
+      logo: /logos/telegreat_desktop_mandarin_chat.jpg
       url: https://t.me/TelegreatX
       description: 已停止開發，請改用 @tg_x64
     - title: Here 内测群
-      logo: default.webp
+      logo: /logos/here.jpg
       url: https://t.me/HereApp
       description: Get invite code @Here02 - Channel @HereChannel ...
     - title: VNoteX
-      logo: default.webp
+      logo: /logos/vnotex.jpg
       url: https://t.me/vnotex
       description: VNote Official Group A pleasant note-taking platfo...
     - title: GBox Official
-      logo: default.webp
+      logo: /logos/gbox_official.jpg
       url: https://t.me/GBoxOfficial
       description: GBox is a no jailbreak required re-sign tool for i...
     - title: Stack&amp;Conta Insiders
@@ -2311,83 +2311,83 @@
       url: https://t.me/stack_app
       description: 无描述
     - title: 时光
-      logo: default.webp
+      logo: /logos/时光.jpg
       url: https://t.me/sgxxqg
       description: 无描述
     - title: Anti Revoke Chat
-      logo: default.webp
+      logo: /logos/anti_revoke_chat.jpg
       url: https://t.me/AntiRevokeChat
       description: 无描述
     - title: 简悦 - SimpRead
-      logo: default.webp
+      logo: /logos/simpread.jpg
       url: https://t.me/simpreadgroup
       description: 嗨，谢谢使用简悦，欢迎加入简悦「�...
     - title: ZOE Group
-      logo: default.webp
+      logo: /logos/zoe_group.jpg
       url: https://t.me/ZOEAPP
       description: 无描述
     - title: Oh my tickets!
-      logo: default.webp
+      logo: /logos/oh_my_tickets.jpg
       url: https://t.me/Oh_my_tickets
       description: Oh why my tickets listed he...
     - title: mjj18
-      logo: default.webp
+      logo: /logos/mjj18.jpg
       url: https://t.me/mjj18
       description: 带镜像地址的 Hostloc 推送频道
     - title: 西柚论坛新帖推送频道
-      logo: default.webp
+      logo: /logos/西柚论坛新帖推送频道.jpg
       url: https://t.me/xiu_news
       description: 欢迎大家加入西柚论坛新帖推...
     - title: 机界
-      logo: default.webp
+      logo: /logos/机界.jpg
       url: https://t.me/serveruniverse
       description: 主机世界，收集你需要知道的...
     - title: hostloc 新帖
-      logo: default.webp
+      logo: /logos/hostloc.jpg
       url: https://t.me/hostlocpusher
       description: 内容预览与直达链接
     - title: hostlo 新帖推送预览版
-      logo: default.webp
+      logo: /logos/hostlo.jpg
       url: https://t.me/hostlocpreview
       description: 推送 hostloc 新帖全部内容
     - title: Hostloc 新帖图文推送
-      logo: default.webp
+      logo: /logos/hostloc.jpg
       url: https://t.me/HostlocPro
       description: 本频道基本功能：爬取国内外...
     - title: hostloc 新帖推送
-      logo: default.webp
+      logo: /logos/hostloc.jpg
       url: https://t.me/hostloc2tg
       description: 一个推送 hostloc 最新帖子的频...
     - title: NodeSeek 官方频道
-      logo: default.webp
+      logo: /logos/nodeseek.jpg
       url: https://t.me/nodeseekc
       description: 本频道置顶消息会不定时发放...
     - title: Monitor Captain
-      logo: default.webp
+      logo: /logos/monitor_captain.jpg
       url: https://t.me/monitor_captain
       description: Monitor for Sales of Sparta...
     - title: HostMonit - 全球主机补货通知
-      logo: default.webp
+      logo: /logos/hostmonit.jpg
       url: https://t.me/hostmonit
       description: HostLoc 新贴推送、补货通知群...
     - title: BuyVM 补货通知（非官方）
-      logo: default.webp
+      logo: /logos/buyvm.jpg
       url: https://t.me/buyvmchannel
       description: Looking Glass： 拉斯维加斯...
     - title: ⏰ 闪购提醒
-      logo: default.webp
+      logo: /logos/闪购提醒.jpg
       url: https://t.me/virmach_sale
       description: VirMach 闪购监控 + 估价 + 语音...
     - title: RackNerd – 官方促销信息
-      logo: default.webp
+      logo: /logos/racknerd.jpg
       url: https://t.me/racknerd_promo
       description: 定期推送 RackNerd 官方最新的 V...
     - title: Leonn 的博客
-      logo: default.webp
+      logo: /logos/leonn.jpg
       url: https://t.me/liyuans
       description: 主要内容为低价主机资源，会...
     - title: Phoronix News
-      logo: default.webp
+      logo: /logos/phoronix_news.jpg
       url: https://t.me/Phoronix
       description: Phoronix News
     - title: The Devs Network
@@ -2395,63 +2395,63 @@
       url: https://thedevs.network/
       description: Developers Community on Telegram
     - title: Android Development Ebooks
-      logo: default.webp
+      logo: /logos/android_development_ebooks.jpg
       url: https://t.me/devchampions
       description: Loads of IT PDF books
     - title: 🤖 Coding News ⚡️
-      logo: default.webp
+      logo: /logos/coding_news.jpg
       url: https://t.me/CodingNews
       description: High quality articles, vide...
     - title: Devs Share
-      logo: default.webp
+      logo: /logos/devs_share.jpg
       url: https://t.me/thedevs_share
       description: Part of @thedevs Rules - G...
     - title: The Devs
-      logo: default.webp
+      logo: /logos/the_devs.jpg
       url: https://t.me/thedevs
       description: Developers community on Tel...
     - title: Web Dev
-      logo: default.webp
+      logo: /logos/web_dev.jpg
       url: https://t.me/webdel
       description: Web Development news feed. ...
     - title: Front End World
-      logo: default.webp
+      logo: /logos/front_end_world.jpg
       url: https://t.me/front_end_first
       description: New articles about Front En...
     - title: TheFrontEnd🔥
-      logo: default.webp
+      logo: /logos/thefrontend.jpg
       url: https://t.me/thefrontend
       description: 📝 Articles 🗞 News 👓 Tutoria...
     - title: FrontEnd Development
-      logo: default.webp
+      logo: /logos/frontend_development.jpg
       url: https://t.me/fedevelopment
       description: Полезные ссылки иHTML, CSS,...
     - title: Data Stitches
-      logo: default.webp
+      logo: /logos/data_stitches.jpg
       url: https://t.me/datastitches
       description: 分享数据可视化，交互叙事项...
     - title: Data Scientology
-      logo: default.webp
+      logo: /logos/data_scientology.jpg
       url: https://t.me/datascientology
       description: Hot data science related po...
     - title: Data Science by ODS.ai 🦜
-      logo: default.webp
+      logo: /logos/data_science_by_ods.jpg
       url: https://t.me/opendatascience
       description: First Telegram Data Science...
     - title: Data Science
-      logo: default.webp
+      logo: /logos/data_science.jpg
       url: https://t.me/datascienceiot
       description: Data Science. По всем вопро...
     - title: DataFlair
-      logo: default.webp
+      logo: /logos/dataflair.jpg
       url: https://t.me/dataflair
       description: This channel is meant to pr...
     - title: Data Science,ML &amp; AI Nugget Chats
-      logo: default.webp
+      logo: /logos/data_science_ml_amp.jpg
       url: https://t.me/DatascienceChats
       description: Discussion community for DS...
     - title: Data Science, Machine Learning, AI &amp; IOT
-      logo: default.webp
+      logo: /logos/data_science_machine_learning.jpg
       url: https://t.me/KDnuggets
       description: Posts from world\'s largest ...
     - title: 不良林
@@ -2459,7 +2459,7 @@
       url: https://t.me/buliang00
       description: ''
     - title: Quantumult X、Surge、Loon 的脚本讨论
-      logo: default.webp
+      logo: /logos/quantumult_x_surge_loon.jpg
       url: https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w
       description: ''
     - title: Nexitally
@@ -2487,11 +2487,11 @@
       url: https://t.me/hellcell321
       description: ''
     - title: SSPanel 机场联盟
-      logo: default.webp
+      logo: /logos/sspanel.jpg
       url: https://t.me/SSUnion
       description: ''
     - title: LAMP 交流群
-      logo: default.webp
+      logo: /logos/lamp.jpg
       url: https://t.me/qiushui2018
       description: ''
     - title: BGP 测速
@@ -2639,19 +2639,19 @@
       url: https://t.me/hlsousou
       description: 发送关键字自动回复资源地址，不信你试试
     - title: TG全能搜群搜片资源大群
-      logo: default.webp
+      logo: /logos/tg.jpg
       url: https://t.me/zysoso
       description: 发送关键字自动回复资源地址，不信你试试
     - title: 币安Binance
-      logo: default.webp
+      logo: /logos/binance.png
       url: https://accounts.marketwebb.org/register?ref=HRVGDW7H
       description: 币安交易所(持有bnb减免40%手续费)
     - title: 欧易OKX
-      logo: default.webp
+      logo: /logos/okx.png
       url: https://ouxyi.io/ul/YbU25D?channelId=2402068
       description: 欧易交易所(减免30%手续费)
     - title: 火币
-      logo: default.webp
+      logo: /logos/火币.png
       url: https://www.htx.com.ua/invite/en-us/1f?invite_code=ybwrc223 From every invitee, win a Mystery Box (up to 1,500 USDT) and 30% of their trading fees.
       description: 火币交易所(减免30%手续费)
     - title: Shortcuts
@@ -2659,7 +2659,7 @@
       url: https://t.me/SiriShortcuts
       description: 无描述
     - title: 少数派sspai
-      logo: default.webp
+      logo: /logos/sspai.jpg
       url: https://t.me/sspai
       description: 少数派 (sspai.com) 官方频道。Weibo @少数派sspai，公众号：sspaime
     - title: 资源查找机器人（ExploreTelegramBot）
@@ -2667,7 +2667,7 @@
       url: https://t.me/ExploreTelegramBot
       description: 查找 Bot、频道、群组、贴纸等资源
     - title: BlockBeats
-      logo: default.webp
+      logo: /logos/blockbeats.jpg
       url: https://t.me/theblockbeats
       description: BlockBeats - 专业的区块链研究...（原文省略，需按需补充完整）
     - title: Crypto News &amp; Tech Updates
@@ -2675,7 +2675,7 @@
       url: https://t.me/Crypto_News_and_Tech_Updates
       description: \'#1 Source For Crypto Educat...\'（原文省略，需按需补充完整）
     - title: Financial News And Report
-      logo: default.webp
+      logo: /logos/financial_news_and_report.jpg
       url: https://t.me/financialnews666
       description: 平时主要发国内外宏观策略 固...（原文省略，需按需补充完整）
     - title: Business &amp; Finance News USA Edition
@@ -2683,82 +2683,82 @@
       url: https://t.me/news_finance
       description: The source for business new...（原文省略，需按需补充完整）
     - title: 美卡交流
-      logo: default.webp
+      logo: /logos/美卡交流.jpg
       url: https://t.me/joinchat/KieX1xUIH-3W8s_hYPUyXg
       description: 群内骂脏话、聊政治、黑产、...（原文省略，需按需补充完整）
     - title: 跨境支付知多少
-      logo: default.webp
+      logo: /logos/跨境支付知多少.jpg
       url: https://t.me/+Vfd5p3CJEcPwafnb
       description: 本群是专业走资群。谈论政治...（原文省略，需按需补充完整）
     - title: TangTalk 官方小喇叭
-      logo: default.webp
+      logo: /logos/tangtalk.jpg
       url: https://t.me/tangtalknews
       description: TangTalk 官方小喇叭，欢迎关注
     - title: 85.60×53.98 卡粉订阅 / 提醒
-      logo: default.webp
+      logo: /logos/85_60_53_98.jpg
       url: https://t.me/DocOfCard
       description: 85.60×53.98 卡粉群：@DocOfCa...（原文省略，需按需补充完整）
     - title: 走资世界🅥news
-      logo: default.webp
+      logo: /logos/news.jpg
       url: https://t.me/banktoworldnews
       description: 私聊都是骗子！ 涉及黄、黑...（原文省略，需按需补充完整）
     - title: 无卡不欢订阅频道
-      logo: default.webp
+      logo: /logos/无卡不欢订阅频道.jpg
       url: https://t.me/cardfans
       description: 本頻道为无卡不欢订阅频道，...（原文省略，需按需补充完整）
     - title: 无卡不欢交流群
-      logo: default.webp
+      logo: /logos/无卡不欢交流群.jpg
       url: https://t.me/cardfansgroup
       description: 今天睡地板，明天当老板！加...（原文省略，需按需补充完整）
     - title: Trading e-Book Room
-      logo: default.webp
+      logo: /logos/trading_e_book_room.jpg
       url: https://t.me/tradingbookroom
       description: Telegram\'s N°1 Trader\'s Lib...（原文省略，需按需补充完整）
     - title: 小熊猫的交易之路
-      logo: default.webp
+      logo: /logos/小熊猫的交易之路.jpg
       url: https://t.me/redPandaStock
       description: 本频道用于吹水和讨论今晚吃...（原文省略，需按需补充完整）
     - title: 美股频道 Stock USA
-      logo: default.webp
+      logo: /logos/stock_usa.jpg
       url: https://t.me/mgstock
       description: Discuss and Research Stocks...（原文省略，需按需补充完整）
     - title: 👸大漂亮的小夥伴們（唯一群！嚴打廣告，大漂亮不會主動 DM 各位小夥伴）
-      logo: default.webp
+      logo: /logos/dm.jpg
       url: https://t.me/giantcutie6688
       description: 大漂亮唯一 tg 群，有冒牌社區，大家仔細辨別。群內非官方🔗連結請慎點！ 你在元宇宙世界裡的第一個好�...
     - title: Vultr 用户群
-      logo: default.webp
+      logo: /logos/vultr.jpg
       url: https://t.me/vultr_group
       description: Vultr 用户群，非官方 群规 * 禁止传播谣言 / 盗版 * 禁止撕逼 (谩骂 / 人身攻击等) * 禁止讨论免流 / 黄赌毒 / 宗教...
     - title: Newlearner の IT 社群
-      logo: default.webp
+      logo: /logos/newlearner_it.jpg
       url: https://t.me/NewlearnerGroup
       description: 【注意】加群需经管理同意，完善头像、昵称、简介更容易通过 Main Topics：以 IT 话题为主，包括但不局限�...
     - title: 逗比据地根
-      logo: default.webp
+      logo: /logos/逗比据地根.jpg
       url: https://t.me/doubi
       description: 无描述
     - title: 中文输入法爱好者群
-      logo: default.webp
+      logo: /logos/中文输入法爱好者群.jpg
       url: https://t.me/IME_zhCN
       description: 无描述
     - title: sspai_group
-      logo: default.webp
+      logo: /logos/sspai_group.jpg
       url: https://t.me/sspai_group
       description: 无描述
     - title: iBeta 尝鲜派 | 官方群
-      logo: default.webp
+      logo: /logos/ibeta.jpg
       url: https://t.me/ibetame
       description: iBeta 尝鲜派（BetaHub.cn）的官方群组。欢迎大家关注 @ibeta_channel
     - title: 智能手机讨论组📱
-      logo: default.webp
+      logo: /logos/智能手机讨论组.jpg
       url: https://t.me/M_Phone
       description: 智能手机讨论组，主要讨论各种手机，禁止买卖手机。加群有加减法问题验证，防止广告机器人，请正确�...
     - title: GIF 群聚地
-      logo: default.webp
+      logo: /logos/gif.jpg
       url: https://t.me/GIFgroupTW
       description: 「血腥」「R-18」與「簡體」為禁發項目，動圖屬性交由管理群判定；灰色地帶管理群持保留解釋權力，勿�...
     - title: 貼圖群 - 進群閱置頂 Sticker Group Taiwan
-      logo: default.webp
+      logo: /logos/sticker_group_taiwan.jpg
       url: https://t.me/StickerGroup
       description: 🥇新手教學 @StartzeroTG 🥈本群規定 telegra.ph/Sticker-Group-Rule-03-22 🥉本群連結 t.me/StickerGroup
