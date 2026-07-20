@@ -1,0 +1,12 @@
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 关于
+  icon: fa fa-info-circle
+  link: ""
+  list:
+    - name: TG官方
+      url: https://telegram.org/
+    - name: 提交链接
+      url: "#"

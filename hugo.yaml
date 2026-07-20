@@ -1,0 +1,49 @@
+baseURL: "https://你的域名.com/"
+languageCode: "zh-CN"
+title: "TG导航 - Telegram频道群组导航"
+theme: "WebStack-Hugo"
+preserveTaxonomyNames: true
+disablePathToLower: true
+hasCJKLanguage: true
+publishDir: "public"
+
+params:
+  author: "TG导航"
+  description: "Telegram 频道、群组、机器人、资源一站式导航"
+  upload: ""
+  about: ""
+  repository: ""
+  enablePreLoad: false
+  textPreLoad: "TG导航"
+  expandSidebar: false
+  logosPath: "assets/images/logos"
+  defaultLogo: "assets/images/logos/default.webp"
+  nightMode: false
+  yiyan: false
+
+  seo:
+    baiduhmid: ""
+    baiduSiteVer: ""
+    tj51laid: ""
+    tj51lack: ""
+    GoogleAdsClient: ""
+
+  qweather:
+    key: ""
+
+  images:
+    favicon: "assets/images/favicon.png"
+    searchImageL: ""
+    searchImageD: ""
+    logoExpandLight: ""
+    logoExpandDark: ""
+    logoCollapseLight: ""
+    logoCollapseDark: ""
+
+  footer:
+    copyright: '本站仅收录 Telegram 公开链接，不对链接内容负责。<br/>&copy; {year} TG导航'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

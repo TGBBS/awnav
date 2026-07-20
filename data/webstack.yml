@@ -1,0 +1,312 @@
+---
+- taxonomy: 搜索机器人
+  icon: fas fa-search fa-lg
+  links:
+    - title: 极搜JiSo
+      logo: default.webp
+      url: https://telegram.me/jiso
+      description: 帮你找到有趣的群、频道、视频、音乐、电影、新闻
+    - title: SOSO机器人
+      logo: default.webp
+      url: https://telegram.me/sosoo
+      description: 发送关键词来寻找群组、频道或视频
+    - title: 新币搜索机器人
+      logo: default.webp
+      url: https://telegram.me/xbso
+      description: 发送关键词来寻找群组、频道或视频
+    - title: 极搜JiSou
+      logo: default.webp
+      url: https://telegram.me/jisou2bot
+      description: 帮你找到有趣的群、频道、视频、音乐、电影、新闻
+    - title: 超级索引
+      logo: default.webp
+      url: https://telegram.me/CJSY
+      description: 老牌搜索机器人，帮你找到有趣的群、频道、视频、音乐、电影
+    - title: 神马搜索
+      logo: default.webp
+      url: https://telegram.me/smss
+      description: 发送词语即可搜索关联群组与频道资源
+    - title: kuai搜索
+      logo: default.webp
+      url: https://telegram.me/kuai
+      description: 发送词语即可搜索关联群组与频道资源
+
+- taxonomy: 搜索群组
+  icon: fas fa-users fa-lg
+  links:
+    - title: 搜片神器
+      logo: default.webp
+      url: https://telegram.me/soupianshenqibar
+      description: 发送关键字自动回复资源地址
+    - title: 电报最强搜索群
+      logo: default.webp
+      url: https://telegram.me/sesesearchbar
+      description: 发送关键字自动回复资源地址
+    - title: 暗网搜索
+      logo: default.webp
+      url: https://telegram.me/anwangsousuobar
+      description: 中文搜索 | TG搜索 | 全能搜索
+    - title: TG全能搜群
+      logo: default.webp
+      url: https://telegram.me/qnssking
+      description: 本群机器人能搜索到一切你想要搜索的东西
+    - title: 中文搜索20万人群
+      logo: default.webp
+      url: https://telegram.me/jisou20w
+      description: 聊天窗口输入关键字即可搜索电报各种有趣好玩的东西
+    - title: SOSO机器人20万人群
+      logo: default.webp
+      url: https://telegram.me/sousou20w
+      description: 电报群组、资源、私密、关键词搜索
+    - title: 搜片神器20万人群
+      logo: default.webp
+      url: https://telegram.me/soupian20w
+      description: 发送关键字，即可搜索一切你想要看的影片
+
+- taxonomy: 交易所
+  icon: fas fa-chart-line fa-lg
+  links:
+    - title: 币安 Binance
+      logo: default.webp
+      url: https://accounts.binance.com/zh-CN/register?ref=896983517
+      description: 全球最大加密货币交易所
+    - title: 欧易 OKX
+      logo: default.webp
+      url: https://chouyi.info/join/50253981
+      description: 头部加密货币交易所
+    - title: ByBit
+      logo: default.webp
+      url: https://www.bybit.com/invite?ref=4VLKDMW
+      description: 知名衍生品交易所
+    - title: Bitget
+      logo: default.webp
+      url: https://www.bitget.org/zh-CN/referral/register?clacCode=QR4A7MPY
+      description: 全球领先的加密货币交易所
+    - title: Gate.io
+      logo: default.webp
+      url: https://www.gatenode.site/signup/VLDFUFEOAW?ref_type=102
+      description: 老牌交易所
+    - title: 火币 HTX
+      logo: default.webp
+      url: https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560
+      description: 老牌交易所
+    - title: 抹茶 MEXC
+      logo: default.webp
+      url: https://promote.mexc.com/r/wIE7fPvG
+      description: 知名交易所
+
+- taxonomy: 电报相关
+  icon: fab fa-telegram fa-lg
+  links:
+    - title: 能量租赁机器人
+      logo: default.webp
+      url: https://telegram.me/trxsosobot
+      description: 全网最低价协议号，全球覆盖最全国区号商
+    - title: Spam Info Bot
+      logo: default.webp
+      url: https://telegram.me/SpamBot
+      description: Telegram账号问题处理，账号申诉
+    - title: BotFather
+      logo: default.webp
+      url: https://telegram.me/BotFather
+      description: 创建机器人，管理机器人（官方）
+    - title: Premium Bot
+      logo: default.webp
+      url: https://telegram.me/PremiumBot
+      description: Telegram会员官方购买机器人
+    - title: Wallet
+      logo: default.webp
+      url: https://telegram.me/wallet
+      description: Telegram官方钱包机器人
+    - title: Verify Bot
+      logo: default.webp
+      url: https://telegram.me/VerifyBot
+      description: 认证你的Telegram频道、群组和机器人
+    - title: Username Bot
+      logo: default.webp
+      url: https://telegram.me/username_bot
+      description: 通过权威认证获取被占用的用户名
+
+- taxonomy: 群组管理
+  icon: fas fa-cogs fa-lg
+  links:
+    - title: nmBot 尼玛机器人
+      logo: default.webp
+      url: https://telegram.me/nmnmfunbot
+      description: 柠动聊天，好戏连篇
+    - title: Group Help
+      logo: default.webp
+      url: https://telegram.me/GroupHelpBot
+      description: 轻松管理你的群组
+    - title: Rose
+      logo: default.webp
+      url: https://telegram.me/MissRose_bot
+      description: 实用的Telegram群组管理机器人
+    - title: KinhRoBot
+      logo: default.webp
+      url: https://telegram.me/KinhRoBot
+      description: 超多功能的群管机器人
+    - title: Policr Mini
+      logo: default.webp
+      url: https://telegram.me/policr_mini_bot
+      description: 功能简化、全新设计的Policr迷你版
+    - title: 呆呆兽
+      logo: default.webp
+      url: https://telegram.me/KeDuckBot
+      description: 呆呆兽群管机器人
+    - title: 方丈机器人
+      logo: default.webp
+      url: https://telegram.me/fangzhang_bot
+      description: 方丈群组管理机器人
+    - title: 阿福
+      logo: default.webp
+      url: https://telegram.me/afoolrobot
+      description: 支持克隆，自动回复，广告过滤等
+    - title: Telegram Watchdog
+      logo: default.webp
+      url: https://telegram.me/WatchdogVerifyBot
+      description: 看门狗机器人，提供入群验证
+    - title: NoAdsBot
+      logo: default.webp
+      url: https://telegram.me/autodeletead_bot
+      description: 自动删除群组中的广告消息
+    - title: CaptchatBot
+      logo: default.webp
+      url: https://telegram.me/Captchat_Bot
+      description: 新成员验证码机器人，避免广告骚扰
+
+- taxonomy: 频道分析
+  icon: fas fa-chart-bar fa-lg
+  links:
+    - title: Channel Help
+      logo: default.webp
+      url: https://telegram.me/chelpbot
+      description: 轻松管理频道，定时发布帖子
+    - title: LikeBot
+      logo: default.webp
+      url: https://telegram.me/like
+      description: 为频道帖子创建表情回应按钮
+    - title: DiscussBot
+      logo: default.webp
+      url: https://telegram.me/discussbot
+      description: 为频道所有帖子添加评论按钮
+    - title: React Bot
+      logo: default.webp
+      url: https://telegram.me/ReactBot
+      description: 为频道帖子添加表情回应和评论
+    - title: Telegram Analytics Bot
+      logo: default.webp
+      url: https://telegram.me/tg_analytics_bot
+      description: Telegram统计分析机器人
+    - title: Telemetrio
+      logo: default.webp
+      url: https://telegram.me/telemetr_io_bot
+      description: Telemetrio官方数据分析机器人
+    - title: TGStat Bot
+      logo: default.webp
+      url: https://telegram.me/TGStat_Bot
+      description: TGStat数据分析机器人
+    - title: Combot
+      logo: default.webp
+      url: https://telegram.me/combot
+      description: 群组的最佳社区管理服务，管理、分析、触发器
+
+- taxonomy: 频道推荐
+  icon: fas fa-bullhorn fa-lg
+  links:
+    - title: 电报狗
+      logo: default.webp
+      url: https://telegram.me/smsgou
+      description: TG精选收录，电报频道、讨论组收录、推广
+    - title: Telegram Discover
+      logo: default.webp
+      url: https://telegram.me/TgDiscover
+      description: Telegram频道发现平台
+    - title: Daily Channels
+      logo: default.webp
+      url: https://telegram.me/dailychannels
+      description: 每日精选Telegram频道
+    - title: Telegram Channels
+      logo: default.webp
+      url: https://telegram.me/tchannels
+      description: 发现最有趣的Telegram频道
+    - title: 频道索引&推荐
+      logo: default.webp
+      url: https://telegram.me/recommend3
+      description: 筛选优质频道，发现更大世界
+    - title: 电报群组&频道
+      logo: default.webp
+      url: https://telegram.me/tl_gc
+      description: 推荐各式各样的群组和频道
+    - title: 电报指南&精品排行榜
+      logo: default.webp
+      url: https://telegram.me/TgTrillion
+      description: 瞭望台信息中心 & 电报指南
+    - title: 群組導航
+      logo: default.webp
+      url: https://telegram.me/navi_group_share
+      description: 来这里推广你的群组(频道)吧
+    - title: TGCN群组索引计划
+      logo: default.webp
+      url: https://telegram.me/zh_groups
+      description: 中文群组索引计划
+
+- taxonomy: Bot大全
+  icon: fas fa-robot fa-lg
+  links:
+    - title: 中文机器人大全
+      logo: default.webp
+      url: https://telegram.me/bot_zh
+      description: 收录各类实用中文机器人
+    - title: Tg Tips
+      logo: default.webp
+      url: https://telegram.me/Tg1230
+      description: 瞭望台旗下Tg电报引航
+    - title: tg机器人推荐
+      logo: default.webp
+      url: https://telegram.me/tgbotlist
+      description: 推荐实用的tg机器人
+
+- taxonomy: 主题美化
+  icon: fas fa-palette fa-lg
+  links:
+    - title: 那些好看的Tg主题
+      logo: default.webp
+      url: https://telegram.me/beautifultgtheme
+      description: 分享一些好看的Telegram主题
+    - title: Telegram主题美化
+      logo: default.webp
+      url: https://telegram.me/TG_1oveTheme
+      description: 斯人若彩虹，遇上方知有
+    - title: Desktop Themes Channel
+      logo: default.webp
+      url: https://telegram.me/themes
+      description: 桌面端主题分享
+    - title: Telegram Themes
+      logo: default.webp
+      url: https://telegram.me/TelegramThemes
+      description: Telegram主题分享
+    - title: Android Themes Channel
+      logo: default.webp
+      url: https://telegram.me/AndroidThemes
+      description: Android端主题分享
+
+- taxonomy: 贴纸表情
+  icon: far fa-smile fa-lg
+  links:
+    - title: 表情包贴纸
+      logo: default.webp
+      url: https://telegram.me/tiezhia
+      description: 电报专业贴纸、表情包分享
+    - title: Sticker Collection
+      logo: default.webp
+      url: https://sticker-collection.com/
+      description: 贴纸合集目录站
+    - title: TG表情包推送总部
+      logo: default.webp
+      url: https://telegram.me/StickersXJBG
+      description: 分享Telegram上各类表情包
+    - title: 八重堂
+      logo: default.webp
+      url: https://telegram.me/YaePub
+      description: 主要用于发布贴纸包更新/变动信息
