@@ -59,14 +59,16 @@
         var $modal = $('#search-modal');
         var $input = $('#modal-filter-input');
 
-        // 弹窗显示时：清空输入 + 聚焦
+        // 弹窗显示时：隐藏 Bootstrap 遮罩层 + 清空输入 + 聚焦
         $modal.on('shown.bs.modal', function() {
+            $('.modal-backdrop').hide();
             $input.val('').focus();
             doFilter('');
         });
 
-        // 弹窗关闭时：恢复全部显示
+        // 弹窗关闭时：恢复遮罩层 + 恢复全部卡片显示
         $modal.on('hidden.bs.modal', function() {
+            $('.modal-backdrop').show();
             doFilter('');
         });
 
