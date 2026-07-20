@@ -123,13 +123,7 @@ footer.main-footer .footer-text a:hover {
 /*隐藏顶部搜索框*/
 #search-bg { display: none; }
 
-/* ========== 搜索弹窗深色遮罩（无模糊） ========== */
-#search-modal .modal-backdrop.show {
-    opacity: 1;
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: none !important;
-    -webkit-backdrop-filter: none !important;
-}
+/* ========== 搜索弹窗样式 ========== */
 #search-modal .modal-dialog {
     max-width: 600px;
 }
