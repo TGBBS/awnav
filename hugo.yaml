@@ -1,4 +1,4 @@
-baseURL: "https://你的域名.com/"
+baseURL: "https://awnav.com/"
 languageCode: "zh-CN"
 title: "TG导航 - Telegram频道群组导航"
 theme: "WebStack-Hugo"
@@ -15,7 +15,7 @@ params:
   repository: ""
   enablePreLoad: false
   textPreLoad: "TG导航"
-  expandSidebar: false
+  expandSidebar: true
   logosPath: "assets/images/logos"
   defaultLogo: "assets/images/logos/default.webp"
   nightMode: false

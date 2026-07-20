@@ -114,6 +114,12 @@ footer.main-footer .footer-text a:hover {
     border-radius: 20%;
 }
 
+/* 侧边栏导航文字防止换行折断 */
+.sidebar-menu-inner .sidebar-item > a {
+    white-space: nowrap;
+    word-break: normal;
+}
+
 
 
 
