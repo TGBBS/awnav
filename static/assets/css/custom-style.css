@@ -22,6 +22,7 @@ body,html{font-size:14px;}
 /*搜索栏字体+背景*/
 .header-big #search-text{color:#6C757D;}
 .io-black-mode .header-big #search-text{color:#fff;}
+.header-big #search-text{-webkit-backdrop-filter:none!important;backdrop-filter:none!important;}
 
 /*搜索activate图标颜色*/
 .header-big .search-type input:checked+label:before{content:'';border-width:8px 8px 0px 8px;border-style:solid;border-color:#ffffff transparent transparent;position:absolute;left:50%;top:0;margin-left:-8px}
