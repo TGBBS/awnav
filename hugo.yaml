@@ -35,10 +35,10 @@ params:
     favicon: "assets/images/favicon.png"
     searchImageL: ""
     searchImageD: ""
-    logoExpandLight: ""
-    logoExpandDark: ""
-    logoCollapseLight: ""
-    logoCollapseDark: ""
+    logoExpandLight: "assets/images/bi-expand-dark.png"
+    logoExpandDark: "assets/images/bi-expand-light.png"
+    logoCollapseLight: "assets/images/bi.png"
+    logoCollapseDark: "assets/images/bi.png"
 
   footer:
     copyright: '本站仅收录 Telegram 公开链接，不对链接内容负责。<br/>&copy; {year} TG导航'
