@@ -58,6 +58,7 @@
     $(document).ready(function() {
         var $modal = $('#search-modal');
         var $input = $('#modal-filter-input');
+        var debounceTimer;
 
         $modal.modal({
             backdrop: 'static',
@@ -73,11 +74,19 @@
 
         // 弹窗关闭时：恢复全部卡片显示
         $modal.on('hidden.bs.modal', function() {
+            clearTimeout(debounceTimer);
+            $input.val('');
             doFilter('');
         });
 
+        // 除输入框和关闭按钮外，点击弹窗任意位置都退出搜索。
+        $modal.on('click', function(event) {
+            if ($(event.target).closest('#modal-filter-input, [data-dismiss="modal"]').length === 0) {
+                $modal.modal('hide');
+            }
+        });
+
         // 实时过滤（50ms 防抖）
-        var debounceTimer;
         $input.on('input', function() {
             clearTimeout(debounceTimer);
             var val = $(this).val();
