@@ -59,6 +59,12 @@
         var $modal = $('#search-modal');
         var $input = $('#modal-filter-input');
 
+        $modal.modal({
+            backdrop: 'static',
+            keyboard: true,
+            show: false
+        });
+
         // 弹窗显示时：清空输入 + 聚焦
         $modal.on('shown.bs.modal', function() {
             $input.val('').focus();
