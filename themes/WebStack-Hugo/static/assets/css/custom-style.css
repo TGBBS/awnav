@@ -124,6 +124,20 @@ footer.main-footer .footer-text a:hover {
 /*隐藏顶部搜索框*/
 #search-bg { display: none; }
 
+#search-modal.show ~ .modal-backdrop {
+    -webkit-backdrop-filter: none !important;
+    backdrop-filter: none !important;
+    background: transparent !important;
+    opacity: 0 !important;
+}
+#search-modal [data-dismiss="modal"],
+#modal-filter-count {
+    color: rgba(49, 52, 55, 0.62) !important;
+}
+.io-black-mode #search-modal [data-dismiss="modal"],
+.io-black-mode #modal-filter-count {
+    color: rgba(255, 255, 255, 0.68) !important;
+}
 #footer-tools a[rel="search"] {
     border: 1px solid rgba(255, 255, 255, 0.45);
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);

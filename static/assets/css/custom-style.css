@@ -125,6 +125,20 @@ footer.main-footer .footer-text a:hover {
 #search-bg { display: none; }
 
 /* ========== 搜索弹窗样式 ========== */
+#search-modal.show ~ .modal-backdrop {
+    -webkit-backdrop-filter: none !important;
+    backdrop-filter: none !important;
+    background: transparent !important;
+    opacity: 0 !important;
+}
+#search-modal [data-dismiss="modal"],
+#modal-filter-count {
+    color: rgba(49, 52, 55, 0.62) !important;
+}
+.io-black-mode #search-modal [data-dismiss="modal"],
+.io-black-mode #modal-filter-count {
+    color: rgba(255, 255, 255, 0.68) !important;
+}
 #search-modal .modal-dialog {
     max-width: 600px;
 }
