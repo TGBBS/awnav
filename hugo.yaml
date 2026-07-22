@@ -1,20 +1,26 @@
 baseURL: "https://awnav.com/"
-languageCode: "zh-CN"
-title: "TG导航 - Telegram频道群组导航"
+locale: "zh-CN"
+title: "AW资源导航 - TG群组搜索与Telegram频道群组导航"
 theme: "WebStack-Hugo"
+enableRobotsTXT: true
+disableKinds:
+  - taxonomy
+  - term
 preserveTaxonomyNames: true
 disablePathToLower: true
 hasCJKLanguage: true
 publishDir: "public"
 
 params:
-  author: "TG导航"
-  description: "Telegram 频道、群组、机器人、资源一站式导航"
+  author: "AW资源导航"
+  productionBaseURL: "https://awnav.com"
+  description: "TG群组搜索、Telegram群组搜索、搜群机器人、频道搜索与公开群组导航入口，帮助你快速找到 Telegram 群组、频道、机器人和常用社群工具。"
+  keywords: "TG群组搜索,Telegram群组搜索,TG搜索群组,Telegram搜群,TG搜群,搜群机器人,Telegram频道搜索,TG群组导航"
   upload: ""
-  about: ""
+  about: "/about/"
   repository: ""
   enablePreLoad: false
-  textPreLoad: "TG导航"
+  textPreLoad: "AW资源导航"
   expandSidebar: false
   logosPath: "assets/images/logos"
   defaultLogo: "assets/images/logos/default.webp"
@@ -24,15 +30,19 @@ params:
   seo:
     baiduhmid: ""
     baiduSiteVer: ""
+    googleSiteVer: ""
     tj51laid: ""
     tj51lack: ""
     GoogleAdsClient: ""
+    homeTitle: "AW资源导航 - TG群组搜索、Telegram搜群、频道搜索与群组导航"
+    homeDescription: "提供 TG群组搜索、Telegram搜群、频道搜索、搜群机器人与公开群组入口导航，集中整理常用搜索群组、搜索机器人和群组管理工具。"
+    homeKeywords: "TG群组搜索,Telegram群组搜索,TG搜索群组,Telegram搜群,TG搜群,搜索群组,搜群机器人,Telegram频道搜索"
 
   qweather:
     key: ""
 
   images:
-    favicon: "assets/images/favicon.png"
+    favicon: "assets/images/bi-favicon.png"
     searchImageL: ""
     searchImageD: ""
     logoExpandLight: "assets/images/bi-expand-dark.png"
@@ -41,7 +51,7 @@ params:
     logoCollapseDark: "assets/images/bi.png"
 
   footer:
-    copyright: '本站仅收录 Telegram 公开链接，不对链接内容负责。<br/>&copy; {year} TG导航'
+    copyright: '本站仅收录 Telegram 公开链接，不对链接内容负责。<br/>&copy; {year} AW资源导航'
 
 markup:
   goldmark:

@@ -20,6 +20,8 @@ body,html{font-size:14px;}
 .big-header-banner:not(.header-bg) .header-mini-btn label:hover path{stroke:#ffffff;}
 
 /*搜索栏字体+背景*/
+.navbar-menu .bookmark-link{gap:4px;font-size:14px;font-weight:400;white-space:nowrap}
+.navbar-menu .bookmark-link .fas{font-size:14px}
 .header-big #search-text{color:#6C757D;}
 .io-black-mode .header-big #search-text{color:#fff;}
 .header-big #search-text{-webkit-backdrop-filter:none!important;backdrop-filter:none!important;}
@@ -115,6 +117,13 @@ footer.main-footer .footer-text a:hover {
     border-radius: 20%;
 }
 
+/*站点 Logo 圆角*/
+.logo img,
+.navbar-brand img,
+.seo-page-brand img {
+    border-radius: 6px;
+}
+
 /* 侧边栏导航文字防止换行折断 */
 .sidebar-menu-inner .sidebar-item > a {
     white-space: nowrap;
@@ -131,6 +140,532 @@ footer.main-footer .footer-text a:hover {
     background: transparent !important;
     opacity: 0 !important;
 }
+
+/* ========== SEO 关键词落地页 ========== */
+.seo-landing-body {
+    margin: 0;
+    color: #1f2937;
+    background:
+        linear-gradient(rgba(50, 0, 0, 0.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(50, 0, 0, 0.035) 1px, transparent 1px),
+        #f3f4f6;
+    background-size: 18px 18px;
+}
+
+.seo-page-header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: rgba(255, 255, 255, 0.92);
+    border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+}
+
+.seo-page-header-inner {
+    width: min(1180px, calc(100% - 32px));
+    min-height: 68px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.seo-page-brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: #111827;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.seo-page-brand:hover {
+    color: #f1404b;
+}
+
+.seo-page-brand img {
+    border-radius: 10px;
+}
+
+.seo-page-nav {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.seo-page-nav a {
+    padding: 8px 12px;
+    border-radius: 999px;
+    color: #4b5563;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.seo-page-nav a:hover {
+    color: #0f766e;
+    background: rgba(32, 201, 151, 0.1);
+}
+
+.seo-landing-main {
+    width: min(1180px, calc(100% - 32px));
+    margin: 0 auto;
+    padding: 28px 0 56px;
+}
+
+.seo-breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 18px;
+    color: #7b8492;
+    font-size: 13px;
+}
+
+.seo-breadcrumb a {
+    color: #0f766e;
+}
+
+.seo-landing-hero {
+    display: flex;
+    justify-content: space-between;
+    gap: 36px;
+    padding: 44px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 28px;
+    background:
+        radial-gradient(circle at 90% 5%, rgba(32, 201, 151, 0.2), transparent 34%),
+        linear-gradient(135deg, #ffffff, #f8fafc);
+    box-shadow: 0 24px 70px rgba(15, 23, 42, 0.09);
+}
+
+.seo-landing-hero-copy {
+    max-width: 790px;
+}
+
+.seo-landing-eyebrow,
+.seo-section-kicker {
+    margin: 0 0 10px;
+    color: #0f9f7b;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+}
+
+.seo-landing-hero h1 {
+    margin: 0;
+    color: #111827;
+    font-size: 46px;
+    line-height: 1.18;
+    letter-spacing: -.025em;
+}
+
+.seo-landing-lead {
+    max-width: 760px;
+    margin: 20px 0 0;
+    color: #5b6472;
+    font-size: 16px;
+    line-height: 1.9;
+}
+
+.seo-landing-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 26px;
+}
+
+.seo-landing-actions a {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    justify-content: center;
+    min-height: 44px;
+    padding: 10px 18px;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.seo-landing-actions a::after,
+.seo-related-links a::after,
+.home-seo-tags a::after {
+    content: "→";
+    font-size: 0.95em;
+    line-height: 1;
+    transition: transform 0.2s ease;
+}
+
+.seo-landing-actions a:hover::after,
+.seo-related-links a:hover::after,
+.home-seo-tags a:hover::after {
+    transform: translateX(2px);
+}
+
+.seo-primary-link {
+    color: #fff !important;
+    background: #f1404b;
+    box-shadow: 0 10px 24px rgba(241, 64, 75, 0.22);
+}
+
+.seo-primary-link:hover {
+    background: #d93540;
+}
+
+.seo-secondary-link {
+    color: #0f766e !important;
+    border: 1px solid rgba(15, 118, 110, 0.2);
+    background: rgba(32, 201, 151, 0.08);
+}
+
+.seo-landing-summary {
+    min-width: 190px;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 24px;
+    border-radius: 22px;
+    border: 1px solid rgba(15, 23, 42, 0.07);
+    background: rgba(255, 255, 255, 0.75);
+}
+
+.seo-landing-summary strong {
+    color: #111827;
+    font-size: 48px;
+    line-height: 1;
+}
+
+.seo-landing-summary span {
+    margin-top: 8px;
+    color: #4b5563;
+    font-weight: 700;
+}
+
+.seo-landing-summary small {
+    margin-top: 18px;
+    color: #8b93a1;
+}
+
+.seo-landing-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 240px;
+    gap: 30px;
+    margin-top: 30px;
+    align-items: start;
+}
+
+.seo-article-content {
+    padding: 32px 36px;
+    border: 1px solid rgba(15, 23, 42, 0.07);
+    border-radius: 22px;
+    background: #fff;
+}
+
+.seo-article-content h2 {
+    margin: 34px 0 14px;
+    color: #111827;
+    font-size: 25px;
+    line-height: 1.35;
+}
+
+.seo-article-content h2:first-child {
+    margin-top: 0;
+}
+
+.seo-article-content p,
+.seo-article-content li {
+    color: #505967;
+    font-size: 15px;
+    line-height: 1.95;
+}
+
+.seo-article-content ol,
+.seo-article-content ul {
+    padding-left: 24px;
+}
+
+.seo-article-toc {
+    position: sticky;
+    top: 92px;
+    display: grid;
+    gap: 4px;
+    padding: 22px;
+    border: 1px solid rgba(15, 23, 42, 0.07);
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.92);
+}
+
+.seo-article-toc strong {
+    margin-bottom: 8px;
+    color: #111827;
+}
+
+.seo-article-toc a {
+    padding: 8px 10px;
+    border-radius: 9px;
+    color: #5b6472;
+    font-size: 13px;
+}
+
+.seo-article-toc a:hover {
+    color: #0f766e;
+    background: rgba(32, 201, 151, 0.08);
+}
+
+.seo-entry-section,
+.seo-faq-section,
+.seo-related-section {
+    margin-top: 30px;
+    padding: 34px 36px;
+    border: 1px solid rgba(15, 23, 42, 0.07);
+    border-radius: 22px;
+    background: #fff;
+}
+
+.seo-section-heading {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: end;
+}
+
+.seo-section-heading h2,
+.seo-faq-section h2,
+.seo-related-section h2 {
+    margin: 0;
+    color: #111827;
+    font-size: 27px;
+}
+
+.seo-section-heading > p {
+    max-width: 520px;
+    margin: 0;
+    color: #697180;
+    font-size: 13px;
+    line-height: 1.8;
+}
+
+.seo-entry-group {
+    margin-top: 30px;
+}
+
+.seo-entry-group > h3 {
+    margin: 0 0 16px;
+    color: #374151;
+    font-size: 19px;
+}
+
+.seo-entry-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+}
+
+.seo-entry-card {
+    display: flex;
+    min-width: 0;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 16px;
+    background: #fbfcfd;
+    transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease;
+}
+
+.seo-entry-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(32, 201, 151, 0.35);
+    box-shadow: 0 14px 32px rgba(15, 23, 42, 0.08);
+}
+
+.seo-entry-card-head {
+    display: flex;
+    min-width: 0;
+    align-items: center;
+    gap: 12px;
+}
+
+.seo-entry-card-head img {
+    flex: 0 0 48px;
+    object-fit: cover;
+    border-radius: 12px;
+    background: #eef2f5;
+}
+
+.seo-entry-card-head > div {
+    min-width: 0;
+}
+
+.seo-entry-card h4 {
+    overflow: hidden;
+    margin: 0;
+    color: #111827;
+    font-size: 15px;
+    line-height: 1.4;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.seo-entry-card-head span {
+    color: #8a93a1;
+    font-size: 12px;
+}
+
+.seo-entry-card p {
+    flex: 1;
+    margin: 16px 0;
+    color: #687180;
+    font-size: 13px;
+    line-height: 1.7;
+}
+
+.seo-entry-card > a {
+    color: #0f8f72;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.seo-faq-list {
+    display: grid;
+    gap: 12px;
+    margin-top: 24px;
+}
+
+.seo-faq-list details {
+    padding: 0 20px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 14px;
+    background: #fbfcfd;
+}
+
+.seo-faq-list summary {
+    padding: 18px 0;
+    color: #263140;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.seo-faq-list p {
+    margin: -4px 0 18px;
+    color: #667080;
+    line-height: 1.8;
+}
+
+.seo-related-links {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.seo-related-links a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 16px;
+    border-radius: 13px;
+    color: #0f766e;
+    font-weight: 700;
+    background: rgba(32, 201, 151, 0.09);
+}
+
+.seo-related-links a:hover {
+    background: rgba(32, 201, 151, 0.15);
+}
+
+.seo-page-footer {
+    padding: 30px 16px 42px;
+    color: #7b8492;
+    text-align: center;
+    font-size: 12px;
+}
+
+.seo-page-footer p {
+    margin: 6px 0;
+}
+
+@media (max-width: 991.98px) {
+    .seo-landing-hero {
+        padding: 34px;
+        flex-direction: column;
+    }
+
+    .seo-landing-summary {
+        width: 100%;
+        min-width: 0;
+    }
+
+    .seo-landing-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .seo-article-toc {
+        position: static;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .seo-entry-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .seo-related-links {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 767.98px) {
+    .seo-page-header-inner,
+    .seo-landing-main {
+        width: min(100% - 24px, 1180px);
+    }
+
+    .seo-page-header-inner {
+        min-height: 60px;
+    }
+
+    .seo-page-nav {
+        display: none;
+    }
+
+    .seo-landing-main {
+        padding-top: 18px;
+    }
+
+    .seo-landing-hero,
+    .seo-article-content,
+    .seo-entry-section,
+    .seo-faq-section,
+    .seo-related-section {
+        padding: 24px 20px;
+        border-radius: 18px;
+    }
+
+    .seo-landing-hero h1 {
+        font-size: 30px;
+    }
+
+    .seo-landing-lead {
+        font-size: 15px;
+    }
+
+    .seo-section-heading {
+        align-items: start;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .seo-entry-grid,
+    .seo-related-links,
+    .seo-article-toc {
+        grid-template-columns: 1fr;
+    }
+}
+
 #search-modal [data-dismiss="modal"],
 #modal-filter-count {
     color: rgba(49, 52, 55, 0.62) !important;
@@ -176,4 +711,231 @@ footer.main-footer .footer-text a:hover {
 .io-black-mode #modal-filter-input:focus {
     border-color: rgba(255, 110, 119, 0.82);
     box-shadow: 0 0 0 3px rgba(241, 64, 75, 0.22), 0 14px 36px rgba(0, 0, 0, 0.28);
+}
+
+.home-seo-intro {
+    margin: 0 15px 18px;
+}
+
+@media (min-width: 768px) {
+    .home-seo-intro {
+        margin: 0 30px 18px;
+    }
+}
+
+.home-seo-card {
+    overflow: hidden;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    box-shadow: 0 18px 42px rgba(15, 23, 42, 0.08);
+}
+
+.home-seo-card .card-body {
+    padding: 20px 20px;
+    background:
+        radial-gradient(circle at top right, rgba(32, 201, 151, 0.16), transparent 28%),
+        linear-gradient(135deg, rgba(255, 255, 255, 0.98), rgba(248, 250, 252, 0.98));
+}
+
+.home-seo-hero {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.home-seo-copy {
+    max-width: 760px;
+}
+
+.home-seo-eyebrow {
+    margin: 0 0 6px;
+    font-size: 14px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 700;
+}
+
+.home-seo-title {
+    margin: 0 0 8px;
+    font-size: 24px;
+    line-height: 1.2;
+    color: #1f2937;
+    font-weight: 800;
+}
+
+.home-seo-desc {
+    margin: 0;
+    max-width: 720px;
+    color: #5b6472;
+    line-height: 1.6;
+    font-size: 11px;
+}
+
+.home-seo-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+}
+
+.home-seo-tags a {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    border-radius: 999px;
+    background: rgba(32, 201, 151, 0.12);
+    color: #0f766e;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.home-seo-tags a:hover {
+    color: #0f766e;
+    background: rgba(32, 201, 151, 0.18);
+}
+
+.home-seo-summary {
+    min-width: 180px;
+    display: grid;
+    gap: 8px;
+}
+
+.home-seo-metric {
+    padding: 12px 14px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.84);
+    border: 1px solid rgba(15, 23, 42, 0.06);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.65);
+}
+
+.home-seo-metric-value {
+    display: block;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 1;
+    color: #111827;
+}
+
+.home-seo-metric-label {
+    display: block;
+    margin-top: 4px;
+    color: #5b6472;
+    font-size: 10px;
+}
+
+.home-seo-faq {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+    margin-top: 16px;
+}
+
+.home-seo-faq-item {
+    padding: 12px 14px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.82);
+    border: 1px solid rgba(15, 23, 42, 0.06);
+}
+
+.home-seo-faq-item h3 {
+    margin: 0 0 6px;
+    font-size: 14px;
+    color: #1f2937;
+}
+
+.home-seo-topics {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.home-seo-topics a {
+    display: block;
+    padding: 12px 14px;
+    border-radius: 14px;
+    background: rgba(32, 201, 151, 0.08);
+    color: #0f766e;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.home-seo-topics a:hover {
+    background: rgba(32, 201, 151, 0.14);
+}
+
+.home-seo-faq-item p {
+    margin: 0;
+    font-size: 12px;
+    line-height: 1.55;
+    color: #5b6472;
+}
+
+.io-black-mode .home-seo-card {
+    border-color: rgba(255, 255, 255, 0.08);
+    box-shadow: 0 18px 42px rgba(0, 0, 0, 0.24);
+}
+
+.io-black-mode .home-seo-card .card-body {
+    background:
+        radial-gradient(circle at top right, rgba(32, 201, 151, 0.12), transparent 28%),
+        linear-gradient(135deg, rgba(22, 28, 36, 0.96), rgba(18, 24, 32, 0.96));
+}
+
+.io-black-mode .home-seo-title,
+.io-black-mode .home-seo-metric-value,
+.io-black-mode .home-seo-faq-item h3 {
+    color: #f8fafc;
+}
+
+.io-black-mode .home-seo-desc,
+.io-black-mode .home-seo-metric-label,
+.io-black-mode .home-seo-faq-item p {
+    color: rgba(226, 232, 240, 0.8);
+}
+
+.io-black-mode .home-seo-metric,
+.io-black-mode .home-seo-faq-item {
+    background: rgba(15, 23, 42, 0.44);
+    border-color: rgba(255, 255, 255, 0.08);
+}
+
+@media (max-width: 991.98px) {
+    .home-seo-hero {
+        flex-direction: column;
+    }
+
+    .home-seo-summary {
+        width: 100%;
+        min-width: 0;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .home-seo-faq {
+        grid-template-columns: 1fr;
+    }
+
+    .home-seo-topics {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .home-seo-intro {
+        margin: 0 15px 16px;
+    }
+
+    .home-seo-card .card-body {
+        padding: 20px 20px;
+    }
+
+    .home-seo-title {
+        font-size: 18px;
+    }
+
+    .home-seo-summary {
+        grid-template-columns: 1fr;
+    }
 }

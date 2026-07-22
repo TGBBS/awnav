@@ -3,7 +3,7 @@
 <script type='text/javascript' src='{{ absURL "assets/js/tooltip-extend.js" }}' id='iplaycode-nav-js'></script>
 <script type='text/javascript' id='popper-js-extra'>
 /* <![CDATA[ */
-var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/onenav\/images\/add.png","order":"asc","formpostion":"top","defaultclass":"io-grey-mode","isCustomize":"1","icourl":"","icopng":".png","urlformat":"1","customizemax":"10","newWindow":"0","lazyload":"1","minNav":"1","loading":"1","hotWords":"baidu","classColumns":" col-sm-6 col-md-4 col-xl-5a col-xxl-6a ","apikey":"TWpBeU1UVTNOekk1TWpVMEIvZ1M2bFVIQllUMmxsV1dZelkxQTVPVzB3UW04eldGQmxhM3BNWW14bVNtWk4="};
+var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/onenav\/images\/add.png","order":"asc","formpostion":"top","defaultclass":"io-grey-mode","isCustomize":"1","icourl":"","icopng":".png","urlformat":"1","customizemax":"10","newWindow":"1","lazyload":"1","minNav":"1","loading":"1","hotWords":"baidu","classColumns":" col-sm-6 col-md-4 col-xl-5a col-xxl-6a ","apikey":"TWpBeU1UVTNOekk1TWpVMEIvZ1M2bFVIQllUMmxsV1dZelkxQTVPVzB3UW04eldGQmxhM3BNWW14bVNtWk4="};
 /* ]]> */
 </script>
 <script type='text/javascript' src='{{ absURL "assets/js/popper.min.js" }}' id='popper-js'></script>
@@ -18,6 +18,16 @@ var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/
 {{ end }}
 <script type="text/javascript">
     $(document).ready(function(){
+        $('a[href]').each(function(){
+            var href = $(this).attr('href') || '';
+            if (!href || href.indexOf('#') === 0 || href.indexOf('javascript:') === 0 || href.indexOf('mailto:') === 0 || href.indexOf('tel:') === 0) {
+                return;
+            }
+            if ($(this).is('[data-toggle],[data-target],.tab-noajax,.no-new-window')) {
+                return;
+            }
+            $(this).attr('target', '_blank').attr('rel', 'noopener noreferrer');
+        });
         var siteWelcome = $('#loading');
         siteWelcome.addClass('close');
         setTimeout(function() {

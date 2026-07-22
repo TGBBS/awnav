@@ -3,11 +3,11 @@
   links:
     - title: 极搜JiSo
       logo: https://imgur.com/W5u3QiZ.png
-      url: https://telegram.me/jiso
+      url: https://t.me/jiso?start=a_7621030165
       description: 帮你找到有趣的群、频道、视频、音乐、电影、新闻
     - title: SOSO机器人
       logo: https://imgur.com/fEEcZrA.png
-      url: https://telegram.me/sosoo
+      url: https://t.me/souso?start=a_7621030165
       description: 发送关键词来寻找群组、频道或视频
     - title: 新币搜索机器人
       logo: /logos/新币搜索机器人.jpg
@@ -15,15 +15,15 @@
       description: 发送关键词来寻找群组、频道或视频
     - title: 极搜JiSou
       logo: https://imgur.com/4MYO05M.png
-      url: https://telegram.me/jisou2bot
+      url: https://t.me/jisou?start=a_7621030165
       description: 帮你找到有趣的群、频道、视频、音乐、电影、新闻
     - title: 超级索引
       logo: https://imgur.com/2f1Ns34.png
-      url: https://telegram.me/CJSY
+      url: https://t.me/CJSY?start=7337342691
       description: 老牌搜索机器人，帮你找到有趣的群、频道、视频、音乐、电影
     - title: 神马搜索
       logo: https://imgur.com/XGn43zP.png
-      url: https://telegram.me/smss
+      url: https://t.me/smss?start=spread_7337342691
       description: 发送词语即可搜索关联群组与频道资源
     - title: kuai搜索
       logo: /logos/kuai.jpg
@@ -1372,7 +1372,7 @@
       description: 帮你找到有趣的群、频道、视频、音乐、电影、新闻
     - title: Super搜索
       logo: https://imgur.com/P544xbY.png
-      url: https://t.me/Super?start=ref-7621030165
+      url: https://t.me/Super?start=ref-7337342691
       description: 帮你找到有趣的群、频道、视频、音乐、电影、新闻
     - title: AI去衣机器人
       logo: /logos/ai.jpg

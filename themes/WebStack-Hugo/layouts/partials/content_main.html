@@ -5,10 +5,10 @@
 	    <!--正文网址导航--》
             <!-- {{ .term }} -->
             <div class="d-flex flex-fill">
-                <h4 class="text-gray text-lg mb-4">
+                <h2 class="text-gray text-lg mb-4">
                     <i class="site-tag iconfont icon-tag icon-lg mr-1" id="{{ md5 .term }}"></i>
                     {{ .term }}
-                </h4>
+                </h2>
                 <div class="flex-fill"></div>
                 <!--a class='btn-move text-xs' href='#'>more+</a-->
             </div>
@@ -38,31 +38,7 @@
                             <div class="card-body">
                                 <div class="url-content d-flex align-items-center">
                                     <div class="url-img mr-2 d-flex align-items-center justify-content-center">
-                                        {{ if findRE "http.*?(.|\n)*?" .logo }}
-					    {{ if $.Site.Params.defaultLogo }}
-                                            <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
-                                                onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
-					    {{ else }}
-					    <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
-                                                onerror="javascript:this.src='{{ .logo }}'" alt="{{ .title }}">
-					    {{ end }}
-                                        {{ else if hasPrefix .logo "/" }}
-					    {{ if $.Site.Params.defaultLogo }}
-					    <img class="lazy" src="{{ .logo | relURL }}" data-src="{{ .logo | relURL }}"
-                                                onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
-					    {{ else }}
-                                            <img class="lazy" src="{{ .logo | relURL }}" data-src="{{ .logo | relURL }}"
-                                                onerror="javascript:this.src='{{ .logo | relURL }}'" alt="{{ .title }}">
-					    {{ end }}
-                                        {{ else }}
-					    {{ if $.Site.Params.defaultLogo }}
-					    <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}" data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                                onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
-					    {{ else }}
-					    <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}" data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                                onerror="javascript:this.src='{{ $.Site.Params.logosPath }}/{{ .logo }}'" alt="{{ .title }}">
-					    {{ end }}
-                                        {{ end }}
+                                        {{ partial "card_logo.html" (dict "item" . "site" $.Site) }}
                                     </div>
                                     <div class="url-info flex-fill">
                                         <div class="text-sm overflowClip_1">
@@ -88,10 +64,10 @@
 	    <!--常用推荐-->
             <!-- {{ .taxonomy }} -->
             <div class="d-flex flex-fill">
-                <h4 class="text-gray text-lg mb-4">
+                <h2 class="text-gray text-lg mb-4">
                     <i class="site-tag iconfont icon-tag icon-lg mr-1" id="{{ md5 .taxonomy }}"></i>
                     {{ .taxonomy }}
-                </h4>
+                </h2>
                 <!--div class="flex-fill"></div>
                 <a class='btn-move text-xs' href='#'>more+</a-->
             </div>
@@ -121,31 +97,7 @@
                             <div class="card-body">
                                 <div class="url-content d-flex align-items-center">
                                     <div class="url-img mr-2 d-flex align-items-center justify-content-center">
-                                        {{ if findRE "http.*?(.|\n)*?" .logo }}
-					    {{ if $.Site.Params.defaultLogo }}
-					    <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
-                                                onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
-					    {{ else }}
-                                            <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
-                                                onerror="javascript:this.src='{{ .logo }}'" alt="{{ .title }}">
-					    {{ end }}
-                                        {{ else if hasPrefix .logo "/" }}
-					    {{ if $.Site.Params.defaultLogo }}
-                                            <img class="lazy" src="{{ .logo | relURL }}" data-src="{{ .logo | relURL }}"
-                                                onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
-					    {{ else }}
-                                            <img class="lazy" src="{{ .logo | relURL }}" data-src="{{ .logo | relURL }}"
-                                                onerror="javascript:this.src='{{ .logo | relURL }}'" alt="{{ .title }}">
-					    {{ end }}
-                                        {{ else }}
-					    {{ if $.Site.Params.defaultLogo }}
-                                            <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}" data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                                onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
-					    {{ else }}
-                                            <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}" data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                                onerror="javascript:this.src='{{ $.Site.Params.logosPath }}/{{ .logo }}'" alt="{{ .title }}">
-					    {{ end }}
-                                        {{ end }}
+                                        {{ partial "card_logo.html" (dict "item" . "site" $.Site) }}
                                     </div>
                                     <div class="url-info flex-fill">
                                         <div class="text-sm overflowClip_1">
@@ -169,9 +121,9 @@
         {{ end }}
     {{ end }}                        
 
-    <h4 class="text-gray text-lg mb-4">
+    <h2 class="text-gray text-lg mb-4">
         <i class="iconfont icon-book-mark-line icon-lg mr-2" id="friendlink"></i>友情链接
-    </h4>
+    </h2>
     <div class="friendlink text-xs card">
         <div class="card-body"> 
 	    {{ range .Site.Data.friendlinks }}

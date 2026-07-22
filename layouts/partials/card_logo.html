@@ -1,0 +1,46 @@
+{{- $item := .item -}}
+{{- $site := .site -}}
+{{- $logo := $item.logo | default "" -}}
+{{- $itemURL := $item.url | default "" -}}
+{{- $defaultLogo := "" -}}
+{{- if $site.Params.defaultLogo -}}
+  {{- $defaultLogo = $site.Params.defaultLogo | relURL -}}
+{{- end -}}
+
+{{- $resolvedLogo := "" -}}
+{{- if $logo -}}
+  {{- if findRE "http.*?(.|\n)*?" $logo -}}
+    {{- $resolvedLogo = $logo -}}
+  {{- else if hasPrefix $logo "/" -}}
+    {{- $resolvedLogo = $logo | relURL -}}
+  {{- else -}}
+    {{- $resolvedLogo = printf "%s/%s" $site.Params.logosPath $logo | relURL -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $telegramUsername := "" -}}
+{{- if gt (len (findRE `(?i)^https?://(?:t|telegram)\.me/[^/?#]+/?` $itemURL)) 0 -}}
+  {{- $telegramUsername = replaceRE `(?i)^https?://(?:t|telegram)\.me/([^/?#]+).*$` "$1" $itemURL -}}
+{{- end -}}
+{{- $canUseTelegramAvatar := and $telegramUsername (ne (lower $telegramUsername) "joinchat") (not (hasPrefix $telegramUsername "+")) (ne (lower $telegramUsername) "c") -}}
+{{- $telegramAvatar := "" -}}
+{{- if $canUseTelegramAvatar -}}
+  {{- $telegramAvatar = printf "https://t.me/i/userpic/320/%s.jpg" $telegramUsername -}}
+{{- end -}}
+
+{{- $primarySrc := $resolvedLogo -}}
+{{- $fallbackSrc := $defaultLogo -}}
+
+{{- if $telegramAvatar -}}
+  {{- $primarySrc = $telegramAvatar -}}
+{{- end -}}
+
+{{- if not $primarySrc -}}
+  {{- $primarySrc = $defaultLogo -}}
+{{- end -}}
+
+<img class="lazy" src="{{ $primarySrc }}" data-src="{{ $primarySrc }}"
+    {{- if and $fallbackSrc (ne $fallbackSrc $primarySrc) }} data-fallback-src="{{ $fallbackSrc }}"{{ end -}}
+    {{- if and $defaultLogo (ne $defaultLogo $primarySrc) (ne $defaultLogo $fallbackSrc) }} data-default-src="{{ $defaultLogo }}"{{ end -}}
+    onerror="if(!this.dataset.fallbackTried&&this.dataset.fallbackSrc){this.dataset.fallbackTried='1';this.src=this.dataset.fallbackSrc;return;}if(!this.dataset.defaultTried&&this.dataset.defaultSrc){this.dataset.defaultTried='1';this.src=this.dataset.defaultSrc;return;}this.onerror=null;"
+    alt="{{ $item.title }}" referrerpolicy="no-referrer">

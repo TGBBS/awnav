@@ -73,15 +73,15 @@
                     <!-- logo -->
                     <div class="logo overflow-hidden">
                         <a href="" class="logo-expanded">
-                            <img src="{{ absURL $.Site.Params.images.logoExpandLight }}" height="40" class="logo-light"
+                            <img src="{{ relURL $.Site.Params.images.logoExpandLight }}" width="36" height="36" class="logo-light"
                                 alt="{{ .Site.Title }}">
-                            <img src="{{ absURL $.Site.Params.images.logoExpandDark }}" height="40" class="logo-dark d-none"
+                            <img src="{{ relURL $.Site.Params.images.logoExpandDark }}" width="36" height="36" class="logo-dark d-none"
                                 alt="{{ .Site.Title }}">
                         </a>
                         <a href="" class="logo-collapsed">
-                            <img src="{{ absURL $.Site.Params.images.logoCollapseLight }}" height="40" class="logo-light"
+                            <img src="{{ relURL $.Site.Params.images.logoCollapseLight }}" width="36" height="36" class="logo-light"
                                 alt="{{ .Site.Title }}">
-                            <img src="{{ absURL $.Site.Params.images.logoCollapseDark }}" height="40" class="logo-dark d-none"
+                            <img src="{{ relURL $.Site.Params.images.logoCollapseDark }}" width="36" height="36" class="logo-dark d-none"
                                 alt="{{ .Site.Title }}">
                         </a>
                     </div>
@@ -91,13 +91,6 @@
                     <div class="sidebar-scroll">
                         <div class="sidebar-menu-inner">
                             <ul>
-                                <!-- 站内过滤搜索入口 -->
-                                <li class="sidebar-item sidebar-filter-trigger-item">
-                                    <a href="javascript:" id="sidebar-filter-trigger" title="页面内容过滤">
-                                        <i class="iconfont icon-search icon-fw icon-lg mr-2"></i>
-                                        <span>站内过滤</span>
-                                    </a>
-                                </li>
                                 {{ range .Site.Data.webstack }}
                                     {{ if .list }}
                                     <li class="sidebar-item">

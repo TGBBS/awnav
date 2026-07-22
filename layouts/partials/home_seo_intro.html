@@ -1,0 +1,54 @@
+{{ $robotCount := 0 }}
+{{ range .Site.Data.webstack }}
+    {{ if eq .taxonomy "搜索机器人" }}
+        {{ $robotCount = len .links }}
+    {{ end }}
+{{ end }}
+
+<section class="home-seo-intro">
+    <div class="card home-seo-card">
+        <div class="card-body">
+            <div class="home-seo-hero">
+                <div class="home-seo-copy">
+                    <p class="home-seo-eyebrow">Telegram 公开资源导航</p>
+                    <h1 class="home-seo-title">TG群组搜索、Telegram频道搜索与搜群机器人导航</h1>
+                    <p class="home-seo-desc">
+                        这里集中整理公开可访问的 TG群组搜索、Telegram群组搜索、搜群机器人、频道搜索入口和常用社群工具，
+                        方便你快速找群、找频道、找资源，也更容易比较不同搜索入口的覆盖范围和使用方式。
+                    </p>
+                    <div class="home-seo-tags">
+                        <a href="{{ "tg-group-search/" | relURL }}">TG群组搜索指南</a>
+                        <a href="{{ "telegram-search-bot/" | relURL }}">搜群机器人</a>
+                        <a href="{{ "telegram-channel-search/" | relURL }}">Telegram频道搜索</a>
+                    </div>
+                </div>
+                <div class="home-seo-summary">
+                    <div class="home-seo-metric">
+                        <span class="home-seo-metric-value">1492</span>
+                        <span class="home-seo-metric-label">本站收录群组/频道/机器人</span>
+                    </div>
+                    <div class="home-seo-metric">
+                        <span class="home-seo-metric-value">{{ $robotCount }}</span>
+                        <span class="home-seo-metric-label">搜索机器人</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="home-seo-faq">
+                <div class="home-seo-faq-item">
+                    <h3>什么是 TG群组搜索？</h3>
+                    <p>通常是通过 Telegram 搜群机器人、公开搜索群或频道索引入口，按关键词找到公开群组、频道和讨论社区。</p>
+                </div>
+                <div class="home-seo-faq-item">
+                    <h3>怎样更快找到合适的 Telegram 群组？</h3>
+                    <p>先从搜索机器人找关键词，再去搜索群组分类交叉验证，最后结合群组主题、活跃度和入口说明筛选，会比只用一个入口更高效。</p>
+                </div>
+                <div class="home-seo-faq-item">
+                    <h3>这个页面收录哪些内容？</h3>
+                    <p>页面重点收录 TG群组搜索入口、Telegram搜群工具、搜索机器人，以及与群组运营相关的管理机器人和常用辅助工具。</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>

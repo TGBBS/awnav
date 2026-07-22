@@ -1,0 +1,137 @@
+{{ partial "header.html" . }}
+
+{{ $entries := slice }}
+{{ range $taxonomyName := .Params.dataTaxonomies }}
+    {{ range $section := $.Site.Data.webstack }}
+        {{ if eq $section.taxonomy $taxonomyName }}
+            {{ $entries = $entries | append $section.links }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+<body class="io-grey-mode seo-landing-body">
+    <header class="seo-page-header">
+        <div class="seo-page-header-inner">
+            <a class="seo-page-brand" href="{{ "/" | relURL }}" aria-label="返回 {{ .Site.Title }} 首页">
+                <img src="{{ $.Site.Params.images.logoCollapseLight | relURL }}" alt="{{ .Site.Title }}" width="36" height="36">
+                <span>{{ .Site.Title }}</span>
+            </a>
+            <nav class="seo-page-nav" aria-label="TG搜索指南">
+                <a href="{{ "tg-group-search/" | relURL }}">TG群组搜索</a>
+                <a href="{{ "telegram-search-bot/" | relURL }}">搜索机器人</a>
+                <a href="{{ "telegram-channel-search/" | relURL }}">频道搜索</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="seo-landing-main">
+        <nav class="seo-breadcrumb" aria-label="面包屑导航">
+            <a href="{{ "/" | relURL }}">首页</a>
+            <span aria-hidden="true">/</span>
+            <span>{{ .Title }}</span>
+        </nav>
+
+        <section class="seo-landing-hero">
+            <div class="seo-landing-hero-copy">
+                <p class="seo-landing-eyebrow">{{ .Params.eyebrow }}</p>
+                <h1>{{ .Title }}</h1>
+                <p class="seo-landing-lead">{{ .Params.intro }}</p>
+                <div class="seo-landing-actions">
+                    <a class="seo-primary-link" href="#entry-list">查看 {{ len $entries }} 个搜索入口</a>
+                    <a class="seo-secondary-link" href="{{ "/" | relURL }}">浏览全部 Telegram 导航</a>
+                </div>
+            </div>
+            <aside class="seo-landing-summary" aria-label="页面摘要">
+                <strong>{{ len $entries }}</strong>
+                <span>个已整理入口</span>
+                <small>最后更新：{{ .Lastmod.Format "2006-01-02" }}</small>
+            </aside>
+        </section>
+
+        <div class="seo-landing-layout">
+            <article class="seo-article-content">
+                {{ .Content }}
+            </article>
+
+            <aside class="seo-article-toc" aria-label="本页内容">
+                <strong>本页内容</strong>
+                <a href="#entry-list">搜索入口列表</a>
+                <a href="#faq">常见问题</a>
+                <a href="{{ "telegram-search-bot/" | relURL }}">搜群机器人指南</a>
+                <a href="{{ "telegram-channel-search/" | relURL }}">频道搜索指南</a>
+            </aside>
+        </div>
+
+        <section id="entry-list" class="seo-entry-section">
+            <div class="seo-section-heading">
+                <div>
+                    <p class="seo-section-kicker">公开入口</p>
+                    <h2>{{ .Title }}工具列表</h2>
+                </div>
+                <p>建议同时使用 2—3 个入口交叉搜索，并在加入群组前核对名称、简介和管理员信息。</p>
+            </div>
+
+            {{ range $taxonomyName := .Params.dataTaxonomies }}
+                {{ range $section := $.Site.Data.webstack }}
+                    {{ if eq $section.taxonomy $taxonomyName }}
+                    <div class="seo-entry-group">
+                        <h3>{{ $section.taxonomy }}</h3>
+                        <div class="seo-entry-grid">
+                            {{ range $section.links }}
+                            <article class="seo-entry-card">
+                                <div class="seo-entry-card-head">
+                                    {{ if findRE "^https?://" .logo }}
+                                    <img src="{{ .logo }}" alt="{{ .title }}" width="48" height="48" loading="lazy" referrerpolicy="no-referrer">
+                                    {{ else if hasPrefix .logo "/" }}
+                                    <img src="{{ .logo | relURL }}" alt="{{ .title }}" width="48" height="48" loading="lazy">
+                                    {{ else }}
+                                    <img src="{{ printf "%s/%s" $.Site.Params.logosPath .logo | relURL }}" alt="{{ .title }}" width="48" height="48" loading="lazy">
+                                    {{ end }}
+                                    <div>
+                                        <h4>{{ .title }}</h4>
+                                        <span>{{ $section.taxonomy }}</span>
+                                    </div>
+                                </div>
+                                <p>{{ .description | default "Telegram 公开搜索入口" }}</p>
+                                <a href="{{ .url }}" target="_blank" rel="nofollow noopener noreferrer" aria-label="打开 {{ .title }}">打开入口 <span aria-hidden="true">↗</span></a>
+                            </article>
+                            {{ end }}
+                        </div>
+                    </div>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </section>
+
+        {{ with .Params.faqs }}
+        <section id="faq" class="seo-faq-section">
+            <p class="seo-section-kicker">FAQ</p>
+            <h2>{{ $.Title }}常见问题</h2>
+            <div class="seo-faq-list">
+                {{ range . }}
+                <details>
+                    <summary>{{ .question }}</summary>
+                    <p>{{ .answer }}</p>
+                </details>
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+
+        <section class="seo-related-section">
+            <h2>继续查找 Telegram 资源</h2>
+            <div class="seo-related-links">
+                <a href="{{ "tg-group-search/" | relURL }}">TG群组搜索完整指南</a>
+                <a href="{{ "telegram-search-bot/" | relURL }}">Telegram 搜索机器人</a>
+                <a href="{{ "telegram-channel-search/" | relURL }}">Telegram 频道搜索</a>
+                <a href="{{ "/" | relURL }}#{{ md5 "群组管理" }}">Telegram 群组管理工具</a>
+            </div>
+        </section>
+    </main>
+
+    <footer class="seo-page-footer">
+        <p>本站仅整理 Telegram 公开链接，不对第三方链接内容负责。请勿向陌生机器人提交密码、验证码或支付信息。</p>
+        <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+    </footer>
+</body>
+</html>

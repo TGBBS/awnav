@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    {{ $isHome := .IsHome }}
+    {{ $siteTitle := .Site.Title }}
+    {{ $defaultDescription := .Site.Params.description }}
+    {{ $defaultKeywords := .Site.Params.keywords | default $siteTitle }}
+    {{ $homeTitle := .Site.Params.seo.homeTitle | default $siteTitle }}
+    {{ $homeDescription := .Site.Params.seo.homeDescription | default $defaultDescription }}
+    {{ $homeKeywords := .Site.Params.seo.homeKeywords | default $defaultKeywords }}
+    {{ $siteBase := strings.TrimSuffix "/" (.Site.Params.productionBaseURL | default .Site.BaseURL) }}
+    {{ $pageTitle := $siteTitle }}
+    {{ $pageDescription := $defaultDescription }}
+    {{ $pageKeywords := $defaultKeywords }}
+    {{ if $isHome }}
+        {{ $pageTitle = $homeTitle }}
+        {{ $pageDescription = $homeDescription }}
+        {{ $pageKeywords = $homeKeywords }}
+    {{ else if .IsPage }}
+        {{ $pageTitle = .Params.seoTitle | default (printf "%s - %s" .Title $siteTitle) }}
+        {{ $pageDescription = .Description | default $defaultDescription }}
+        {{ $pageKeywords = .Params.keywords | default $defaultKeywords }}
+    {{ end }}
+    {{ $canonical := printf "%s%s" $siteBase .RelPermalink }}
+    {{ if $isHome }}
+        {{ $canonical = printf "%s/" $siteBase }}
+    {{ end }}
+    {{ $shareImage := absURL $.Site.Params.images.favicon }}
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#f9f9f9" />
+    <title>{{ $pageTitle }}</title>
+    <meta name="description" content="{{ $pageDescription }}" />
+    <meta name="keywords" content="{{ $pageKeywords }}" />
+    <meta name="author" content="{{ .Site.Params.author }}" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <link rel="canonical" href="{{ $canonical }}" />
+    <link rel="shortcut icon" href="{{ relURL $.Site.Params.images.favicon }}" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+    <meta property="og:title" content="{{ $pageTitle }}" />
+    <meta property="og:description" content="{{ $pageDescription }}" />
+    <meta property="og:url" content="{{ $canonical }}" />
+    <meta property="og:image" content="{{ $shareImage }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ $pageTitle }}" />
+    <meta name="twitter:description" content="{{ $pageDescription }}" />
+    <meta name="twitter:image" content="{{ $shareImage }}" />
+    {{ if $.Site.Params.seo.baiduSiteVer }}
+    <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
+    {{ end }}
+    {{ if $.Site.Params.seo.googleSiteVer }}
+    <meta name="google-site-verification" content="{{ $.Site.Params.seo.googleSiteVer }}" />
+    {{ end }}
+    <link rel="stylesheet" id="block-library-css"
+        href="{{ relURL "assets/css/block-library.min-5.6.2.css" }}" type="text/css" media="all" />
+    <link rel="stylesheet" id="iconfont-css" href="{{ relURL "assets/css/iconfont-3.03029.1.css" }}"
+        type="text/css" media="all" />
+    <link rel="stylesheet" id="bootstrap-css" href="{{ relURL "assets/css/bootstrap.min-4.3.1.css" }}"
+        type="text/css" media="all" />
+    <link rel="stylesheet" id="fancybox-css" href="{{ relURL "assets/css/fancybox.min-3.5.7.css" }}"
+        type="text/css" media="all" />
+    <link rel="stylesheet" id="iowen-css" href="{{ relURL "assets/css/style-3.03029.1.css" }}"
+        type="text/css" media="all" />
+    <link rel="stylesheet" id="custom-css" href="{{ relURL "assets/css/custom-style.css" }}?v=20260722-2"
+        type="text/css" media="all" />
+    <link rel="stylesheet" id="fortawesome-css" href="{{ relURL "assets/fontawesome-5.15.4/css/all.min.css" }}" type="text/css" />
+    <script type="text/javascript" src="{{ relURL "assets/js/jquery.min-3.2.1.js" }}" id="jquery-js"></script>
+    <script type="text/javascript" src="{{ relURL "assets/js/content-search.js" }}" id="content-search-js"></script>
+    {{ partial "seo_jsonld.html" . }}
+    <!-- 百度统计 -->
+    <script>
+        {{ with .Site.Params.seo.baiduhmid }}
+        var _hmt = _hmt || [];
+            (function () {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?{{ $.Site.Params.seo.baiduhmid }}";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        {{ end }}
+    </script>
+    <!-- end 百度统计 -->
+
+    <!-- 51.LA 网站统计 -->
+    {{ with .Site.Params.seo.tj51laid }}
+    <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    <script>LA.init({id:"{{ $.Site.Params.seo.tj51laid }}",ck:"{{ $.Site.Params.seo.tj51lack }}"})</script>
+    {{ end }}
+    <!-- end 51.LA 网站统计 -->
+
+    <!-- Google AdSense -->
+    {{ if .Site.Params.seo.GoogleAdsClient }}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ $.Site.Params.seo.GoogleAdsClient }}" crossorigin="anonymous"></script>
+    {{ end }}
+    <!-- end Google AdSense -->
+
+    <!-- Fancybox -->
+    {{if .Page.Site.Params.fancybox }}
+    <link rel="stylesheet" id="fancybox-css" href="{{ relURL "assets/css/fancybox.min-3.5.7.css" }}"/>
+    <script type="text/javascript" id="fancybox-js" src="{{ relURL "assets/js/fancybox.min-3.5.7.js" }}"></script>
+    {{ end }}
+    <!-- end Fancybox -->
+
+</head>

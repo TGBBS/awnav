@@ -1,0 +1,156 @@
+{{ if .IsHome }}
+{{ $pageTitle := .Site.Params.seo.homeTitle | default .Site.Title }}
+{{ $pageDescription := .Site.Params.seo.homeDescription | default .Site.Params.description }}
+{{ $siteBase := printf "%s/" (strings.TrimSuffix "/" (.Site.Params.productionBaseURL | default .Site.BaseURL)) }}
+{{ $websiteID := printf "%s#website" $siteBase }}
+{{ $collectionID := printf "%s#collection" $siteBase }}
+{{ $groupLinks := slice }}
+{{ $robotLinks := slice }}
+{{ range .Site.Data.webstack }}
+    {{ if eq .taxonomy "搜索群组" }}
+        {{ $groupLinks = .links }}
+    {{ end }}
+    {{ if eq .taxonomy "搜索机器人" }}
+        {{ $robotLinks = .links }}
+    {{ end }}
+{{ end }}
+{{ $groupItems := slice }}
+{{ range $index, $item := $groupLinks }}
+    {{ $groupItems = $groupItems | append (dict
+        "@type" "ListItem"
+        "position" (add $index 1)
+        "name" $item.title
+        "url" $item.url
+        "description" $item.description
+    ) }}
+{{ end }}
+{{ $robotItems := slice }}
+{{ range $index, $item := $robotLinks }}
+    {{ $robotItems = $robotItems | append (dict
+        "@type" "ListItem"
+        "position" (add $index 1)
+        "name" $item.title
+        "url" $item.url
+        "description" $item.description
+    ) }}
+{{ end }}
+{{ $faqItems := slice
+    (dict
+        "@type" "Question"
+        "name" "什么是 TG群组搜索？"
+        "acceptedAnswer" (dict
+            "@type" "Answer"
+            "text" "TG群组搜索指通过 Telegram 搜群机器人、公开群组入口或频道搜索工具，快速找到公开的 Telegram 群组、频道和资源入口。"
+        )
+    )
+    (dict
+        "@type" "Question"
+        "name" "这个页面主要整理哪些内容？"
+        "acceptedAnswer" (dict
+            "@type" "Answer"
+            "text" "这个页面集中整理 TG群组搜索、Telegram搜群、搜索机器人、公开群组入口和群组管理工具，方便用户按用途快速查找。"
+        )
+    )
+    (dict
+        "@type" "Question"
+        "name" "如何更快找到合适的 Telegram 群组？"
+        "acceptedAnswer" (dict
+            "@type" "Answer"
+            "text" "可以先看搜索机器人，再看搜索群组分类，结合关键词、频道主题和公开入口交叉搜索，通常会比单一搜索更快。"
+        )
+    )
+}}
+{{ $graph := slice
+    (dict
+        "@type" "WebSite"
+        "@id" $websiteID
+        "url" $siteBase
+        "name" .Site.Title
+        "description" $pageDescription
+        "inLanguage" "zh-CN"
+    )
+    (dict
+        "@type" "CollectionPage"
+        "@id" $collectionID
+        "url" $siteBase
+        "name" $pageTitle
+        "description" $pageDescription
+        "isPartOf" (dict "@id" $websiteID)
+        "about" (slice "TG群组搜索" "Telegram群组搜索" "Telegram搜群" "搜群机器人")
+    )
+    (dict
+        "@type" "ItemList"
+        "name" "TG群组搜索推荐"
+        "itemListElement" $groupItems
+    )
+    (dict
+        "@type" "ItemList"
+        "name" "TG搜索机器人推荐"
+        "itemListElement" $robotItems
+    )
+    (dict
+        "@type" "FAQPage"
+        "mainEntity" $faqItems
+    )
+}}
+{{ $schema := dict "@context" "https://schema.org" "@graph" $graph }}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{ else if eq .Layout "seo-landing" }}
+{{ $siteBase := strings.TrimSuffix "/" (.Site.Params.productionBaseURL | default .Site.BaseURL) }}
+{{ $pageURL := printf "%s%s" $siteBase .RelPermalink }}
+{{ $listItems := slice }}
+{{ $position := 0 }}
+{{ range $taxonomyName := .Params.dataTaxonomies }}
+    {{ range $section := $.Site.Data.webstack }}
+        {{ if eq $section.taxonomy $taxonomyName }}
+            {{ range $item := $section.links }}
+                {{ $position = add $position 1 }}
+                {{ $listItems = $listItems | append (dict
+                    "@type" "ListItem"
+                    "position" $position
+                    "name" $item.title
+                    "url" $item.url
+                    "description" $item.description
+                ) }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ $faqItems := slice }}
+{{ range .Params.faqs }}
+    {{ $faqItems = $faqItems | append (dict
+        "@type" "Question"
+        "name" .question
+        "acceptedAnswer" (dict "@type" "Answer" "text" .answer)
+    ) }}
+{{ end }}
+{{ $pageGraph := slice
+    (dict
+        "@type" "WebPage"
+        "@id" (printf "%s#webpage" $pageURL)
+        "url" $pageURL
+        "name" (.Params.seoTitle | default .Title)
+        "description" .Description
+        "inLanguage" "zh-CN"
+        "isPartOf" (dict "@id" (printf "%s/#website" $siteBase))
+    )
+    (dict
+        "@type" "BreadcrumbList"
+        "itemListElement" (slice
+            (dict "@type" "ListItem" "position" 1 "name" "首页" "item" (printf "%s/" $siteBase))
+            (dict "@type" "ListItem" "position" 2 "name" .Title "item" $pageURL)
+        )
+    )
+    (dict
+        "@type" "ItemList"
+        "name" (printf "%s入口列表" .Title)
+        "numberOfItems" (len $listItems)
+        "itemListElement" $listItems
+    )
+}}
+{{ if gt (len $faqItems) 0 }}
+    {{ $pageGraph = $pageGraph | append (dict "@type" "FAQPage" "mainEntity" $faqItems) }}
+{{ end }}
+{{ $pageSchema := dict "@context" "https://schema.org" "@graph" $pageGraph }}
+<script type="application/ld+json">{{ $pageSchema | jsonify | safeJS }}</script>
+{{ end }}
