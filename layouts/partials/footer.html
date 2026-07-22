@@ -21,7 +21,53 @@ var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/
 <script type='text/javascript' src='{{ relURL "assets/js/custom-filter.js" }}?v=20260722-3' id='custom-filter-js'></script>
 
 <script type="text/javascript">
+    window.initCardLazyImages = function(root){
+        var scope = root && root.querySelectorAll ? root : document;
+        var lazyImages = scope.querySelectorAll('img.card-logo-img[data-src]');
+        if (!lazyImages.length) {
+            return;
+        }
+
+        var activateImage = function(img) {
+            if (!img || img.dataset.loaded === '1') {
+                return;
+            }
+            var src = img.getAttribute('data-src');
+            if (src) {
+                img.src = src;
+            }
+            img.dataset.loaded = '1';
+        };
+
+        if ('IntersectionObserver' in window) {
+            if (!window.__cardLogoObserver) {
+                window.__cardLogoObserver = new IntersectionObserver(function(entries, observer) {
+                    entries.forEach(function(entry) {
+                        if (entry.isIntersecting || entry.intersectionRatio > 0) {
+                            activateImage(entry.target);
+                            observer.unobserve(entry.target);
+                        }
+                    });
+                }, {
+                    rootMargin: '300px 0px'
+                });
+            }
+
+            Array.prototype.forEach.call(lazyImages, function(img) {
+                if (img.dataset.loaded === '1' || img.dataset.observing === '1') {
+                    return;
+                }
+                img.dataset.observing = '1';
+                window.__cardLogoObserver.observe(img);
+            });
+            return;
+        }
+
+        Array.prototype.forEach.call(lazyImages, activateImage);
+    };
+
     $(document).ready(function(){
+        window.initCardLazyImages(document);
         $('a[href]').each(function(){
             var href = $(this).attr('href') || '';
             if (!href || href.indexOf('#') === 0 || href.indexOf('javascript:') === 0 || href.indexOf('mailto:') === 0 || href.indexOf('tel:') === 0) {

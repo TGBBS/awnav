@@ -63,10 +63,14 @@
         {{ else }}
 	    <!--常用推荐-->
             <!-- {{ .taxonomy }} -->
+            {{ $displayTaxonomy := .taxonomy }}
+            {{ if eq .taxonomy "搜索机器人" }}
+                {{ $displayTaxonomy = "百万日活的搜索机器人" }}
+            {{ end }}
             <div class="d-flex flex-fill">
                 <h2 class="text-gray text-lg mb-4">
                     <i class="site-tag iconfont icon-tag icon-lg mr-1" id="{{ md5 .taxonomy }}"></i>
-                    {{ .taxonomy }}
+                    {{ $displayTaxonomy }}
                 </h2>
                 <!--div class="flex-fill"></div>
                 <a class='btn-move text-xs' href='#'>more+</a-->

@@ -490,6 +490,9 @@
                 if (response.trim()) { 
                     $(body).html('');
                     $(body).append(response); 
+                    if (window.initCardLazyImages) {
+                        window.initCardLazyImages($(body)[0]);
+                    }
                     //if(theme.lazyload == '1') {
                     //    $(body+" img.lazy").lazyload();
                     //} 

@@ -30,8 +30,9 @@
 
 {{- $primarySrc := $resolvedLogo -}}
 {{- $fallbackSrc := $defaultLogo -}}
+{{- $placeholderSrc := "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='transparent'/%3E%3C/svg%3E" -}}
 
-{{- if $telegramAvatar -}}
+{{- if not $primarySrc -}}
   {{- $primarySrc = $telegramAvatar -}}
 {{- end -}}
 
@@ -39,8 +40,8 @@
   {{- $primarySrc = $defaultLogo -}}
 {{- end -}}
 
-<img class="lazy" src="{{ $primarySrc }}" data-src="{{ $primarySrc }}"
+<img class="lazy card-logo-img" src="{{ $placeholderSrc | safeURL }}" data-src="{{ $primarySrc }}" data-loaded="0"
     {{- if and $fallbackSrc (ne $fallbackSrc $primarySrc) }} data-fallback-src="{{ $fallbackSrc }}"{{ end -}}
     {{- if and $defaultLogo (ne $defaultLogo $primarySrc) (ne $defaultLogo $fallbackSrc) }} data-default-src="{{ $defaultLogo }}"{{ end -}}
     onerror="if(!this.dataset.fallbackTried&&this.dataset.fallbackSrc){this.dataset.fallbackTried='1';this.src=this.dataset.fallbackSrc;return;}if(!this.dataset.defaultTried&&this.dataset.defaultSrc){this.dataset.defaultTried='1';this.src=this.dataset.defaultSrc;return;}this.onerror=null;"
-    alt="{{ $item.title }}" referrerpolicy="no-referrer">
+    alt="{{ $item.title }}" width="40" height="40" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer">
