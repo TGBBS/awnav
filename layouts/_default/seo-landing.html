@@ -9,6 +9,11 @@
     {{ end }}
 {{ end }}
 
+{{ $taxonomyDisplayNames := dict
+    "搜索机器人" "百万日活的資源搜尋機器人"
+    "搜索群组" "資源搜尋群"
+}}
+
 <body class="io-grey-mode seo-landing-body">
     <header class="seo-page-header">
         <div class="seo-page-header-inner">
@@ -75,21 +80,15 @@
                 {{ range $section := $.Site.Data.webstack }}
                     {{ if eq $section.taxonomy $taxonomyName }}
                     <div class="seo-entry-group">
-                        <h3>{{ $section.taxonomy }}</h3>
+                        <h3>{{ index $taxonomyDisplayNames $section.taxonomy | default $section.taxonomy }}</h3>
                         <div class="seo-entry-grid">
                             {{ range $section.links }}
                             <article class="seo-entry-card">
                                 <div class="seo-entry-card-head">
-                                    {{ if findRE "^https?://" .logo }}
-                                    <img src="{{ .logo }}" alt="{{ .title }}" width="48" height="48" loading="lazy" referrerpolicy="no-referrer">
-                                    {{ else if hasPrefix .logo "/" }}
-                                    <img src="{{ .logo | relURL }}" alt="{{ .title }}" width="48" height="48" loading="lazy">
-                                    {{ else }}
-                                    <img src="{{ printf "%s/%s" $.Site.Params.logosPath .logo | relURL }}" alt="{{ .title }}" width="48" height="48" loading="lazy">
-                                    {{ end }}
+                                    {{ partial "card_logo.html" (dict "item" . "site" $.Site "width" 36 "height" 36 "class" "seo-entry-logo" "loading" "eager" "fetchpriority" "high") }}
                                     <div>
                                         <h4>{{ .title }}</h4>
-                                        <span>{{ $section.taxonomy }}</span>
+                                        <span>{{ index $taxonomyDisplayNames $section.taxonomy | default $section.taxonomy }}</span>
                                     </div>
                                 </div>
                                 <p>{{ .description | default "Telegram 公开搜索入口" }}</p>

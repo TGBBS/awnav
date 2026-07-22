@@ -1,5 +1,10 @@
 {{- $item := .item -}}
 {{- $site := .site -}}
+{{- $class := .class | default "" -}}
+{{- $width := .width | default 40 -}}
+{{- $height := .height | default 40 -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $fetchpriority := .fetchpriority | default "low" -}}
 {{- $logo := $item.logo | default "" -}}
 {{- $itemURL := $item.url | default "" -}}
 {{- $defaultLogo := "" -}}
@@ -18,6 +23,11 @@
   {{- end -}}
 {{- end -}}
 
+{{- $thumbLogo := "" -}}
+{{- if and $resolvedLogo (hasPrefix $resolvedLogo "/logos/") -}}
+  {{- $thumbLogo = printf "/logos-thumb/%s.webp" (strings.TrimPrefix "/logos/" $resolvedLogo) | relURL -}}
+{{- end -}}
+
 {{- $telegramUsername := "" -}}
 {{- if gt (len (findRE `(?i)^https?://(?:t|telegram)\.me/[^/?#]+/?` $itemURL)) 0 -}}
   {{- $telegramUsername = replaceRE `(?i)^https?://(?:t|telegram)\.me/([^/?#]+).*$` "$1" $itemURL -}}
@@ -30,7 +40,12 @@
 
 {{- $primarySrc := $resolvedLogo -}}
 {{- $fallbackSrc := $defaultLogo -}}
-{{- $placeholderSrc := "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='transparent'/%3E%3C/svg%3E" -}}
+{{- if $thumbLogo -}}
+  {{- $primarySrc = $thumbLogo -}}
+  {{- if $resolvedLogo -}}
+    {{- $fallbackSrc = $resolvedLogo -}}
+  {{- end -}}
+{{- end -}}
 
 {{- if not $primarySrc -}}
   {{- $primarySrc = $telegramAvatar -}}
@@ -40,8 +55,8 @@
   {{- $primarySrc = $defaultLogo -}}
 {{- end -}}
 
-<img class="lazy card-logo-img" src="{{ $placeholderSrc | safeURL }}" data-src="{{ $primarySrc }}" data-loaded="0"
+<img class="card-logo-img{{ if $class }} {{ $class }}{{ end }}" src="{{ $primarySrc }}"
     {{- if and $fallbackSrc (ne $fallbackSrc $primarySrc) }} data-fallback-src="{{ $fallbackSrc }}"{{ end -}}
     {{- if and $defaultLogo (ne $defaultLogo $primarySrc) (ne $defaultLogo $fallbackSrc) }} data-default-src="{{ $defaultLogo }}"{{ end -}}
     onerror="if(!this.dataset.fallbackTried&&this.dataset.fallbackSrc){this.dataset.fallbackTried='1';this.src=this.dataset.fallbackSrc;return;}if(!this.dataset.defaultTried&&this.dataset.defaultSrc){this.dataset.defaultTried='1';this.src=this.dataset.defaultSrc;return;}this.onerror=null;"
-    alt="{{ $item.title }}" width="40" height="40" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer">
+    alt="{{ $item.title }}" width="{{ $width }}" height="{{ $height }}" loading="{{ $loading }}" decoding="async" fetchpriority="{{ $fetchpriority }}" referrerpolicy="no-referrer">

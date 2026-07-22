@@ -65,7 +65,9 @@
             <!-- {{ .taxonomy }} -->
             {{ $displayTaxonomy := .taxonomy }}
             {{ if eq .taxonomy "搜索机器人" }}
-                {{ $displayTaxonomy = "百万日活的搜索机器人" }}
+                {{ $displayTaxonomy = "百万日活的資源搜尋機器人" }}
+            {{ else if eq .taxonomy "搜索群组" }}
+                {{ $displayTaxonomy = "資源搜尋群" }}
             {{ end }}
             <div class="d-flex flex-fill">
                 <h2 class="text-gray text-lg mb-4">

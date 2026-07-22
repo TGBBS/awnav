@@ -1,65 +1,65 @@
 - taxonomy: 搜索机器人
   icon: fas fa-search fa-lg
   links:
-    - title: 极搜JiSo
-      logo: /logos/20.jpg
-      url: https://t.me/jiso?start=a_7621030165
-      description: 帮你找到有趣的群、频道、视频、音乐、电影、新闻
-    - title: SOSO机器人
+    - title: SOSO
       logo: /logos/soso_20.jpg
       url: https://t.me/souso?start=a_7621030165
-      description: 发送关键词来寻找群组、频道或视频
-    - title: 新币搜索机器人
-      logo: /logos/新币搜索机器人.jpg
-      url: https://telegram.me/xbso
-      description: 发送关键词来寻找群组、频道或视频
-    - title: 极搜JiSou
+      description: SOSO资源库 发送关键词搜索，将"SOSO"新增到昵称，新增后立刻获得 0.5 U的空投，每天签到领取0.01至10U的随机奖励。
+    - title: 極搜JiSou
       logo: /logos/20.jpg
       url: https://t.me/jisou?start=a_7621030165
-      description: 帮你找到有趣的群、频道、视频、音乐、电影、新闻
-    - title: 超级索引
+      description: jisou资源库 发送关键词找到有趣的群、频道、影片、音乐、电影、新闻
+    - title: 新币搜尋
+      logo: /logos/新币搜索机器人.jpg
+      url: https://t.me/xbso1?start=a_7337342691
+      description: 新币资源库 发送关键词找到有趣的群、频道、影片、音乐、电影、新闻
+    - title: 搜啦
+      logo: /logos/tg.jpg
+      url: https://t.me/soula?start=a_7337342691
+      description: 搜啦资源库 发送关键词找到有趣的群、频道、影片、音乐、电影、新闻
+    - title: JISO
+      logo: /logos/20.jpg
+      url: https://t.me/jiso?start=a_7621030165
+      description: jiso资源库 发送关键词搜寻群、频道、影片等资源，输入{热点、原始码、seo}等获取资料
+    - title: 超級索引
       logo: /logos/频道索引_推荐.jpg
       url: https://t.me/CJSY?start=7337342691
-      description: 老牌搜索机器人，帮你找到有趣的群、频道、视频、音乐、电影
-    - title: 神马搜索
+      description: 超级索引资源库 发送词语即可搜寻关联群组与频道资源，老牌搜尋机器人超级索引邀请好友，新人使用直接领取1.88U！！(完成1次有效搜尋)
+    - title: Super搜尋
+      logo: /logos/tg.jpg
+      url: https://t.me/Super?start=ref-7337342691
+      description: super资源库 查询群组、频道、影视、音乐或机器人
+    - title: 神馬搜尋
       logo: /logos/tg.jpg
       url: https://t.me/smss?start=spread_7337342691
-      description: 发送词语即可搜索关联群组与频道资源
-    - title: kuai搜索
+      description: 神马资源库 发送词语即可搜寻关联群组与频道资源，连续签到一週送2.88USDT
+    - title: 快搜
       logo: /logos/kuai.jpg
-      url: https://telegram.me/kuai
-      description: 发送词语即可搜索关联群组与频道资源
+      url: https://t.me/kuaia?start=a_3DCGPXU
+      description: 快搜资源库 发送词语即可搜寻关联群组与频道资源
 - taxonomy: 搜索群组
   icon: fas fa-users fa-lg
   links:
-    - title: 搜片神器
+    - title: TG全域搜尋資源/CG
       logo: /logos/tg.jpg
-      url: https://telegram.me/soupianshenqibar
-      description: 发送关键字自动回复资源地址
-    - title: 电报最强搜索群
-      logo: /logos/电报最强搜索群.jpg
-      url: https://telegram.me/sesesearchbar
-      description: 发送关键字自动回复资源地址
-    - title: 暗网搜索
-      logo: /logos/暗网搜索.jpg
-      url: https://telegram.me/anwangsousuobar
-      description: 中文搜索 | TG搜索 | 全能搜索
-    - title: TG全能搜群
+      url: https://t.me/sosobo2
+      description: 打破资讯差，看看最近热门搜尋的关键词-soso资源库
+    - title: T電報中文搜尋
       logo: /logos/tg.jpg
-      url: https://telegram.me/qnssking
-      description: 本群机器人能搜索到一切你想要搜索的东西
-    - title: 中文搜索20万人群
-      logo: /logos/20.jpg
-      url: https://telegram.me/jisou20w
-      description: 聊天窗口输入关键字即可搜索电报各种有趣好玩的东西
-    - title: SOSO机器人20万人群
-      logo: /logos/soso_20.jpg
-      url: https://telegram.me/sousou20w
-      description: 电报群组、资源、私密、关键词搜索
-    - title: 搜片神器20万人群
-      logo: /logos/20.jpg
-      url: https://telegram.me/soupian20w
-      description: 发送关键字，即可搜索一切你想要看的影片
+      url: https://t.me/tgxqzy
+      description: 群中输入关键字，搜尋频道、群、热点、影片、音乐等资源
+    - title: TG资源搜尋交流
+      logo: /logos/tg.jpg
+      url: https://t.me/tgsousuo55
+      description: 打破资讯差，看看最近热门搜尋的关键词
+    - title: TG全能搜群資源大群
+      logo: /logos/tg.jpg
+      url: https://t.me/zysoso
+      description: 群中输入关键字，搜尋频道、群、热点、影片、音乐等资源
+    - title: 搜索资源群组
+      logo: /logos/tg.jpg
+      url: https://t.me/sousuozzss
+      description: 群中输入关键字，搜尋频道、群、热点、影片、音乐等资源-JIsou资源库
 - taxonomy: 交易所
   icon: fas fa-chart-line fa-lg
   links:
@@ -2626,22 +2626,26 @@
       logo: default.webp
       url: https://t.me/SSTapRule
       description: ''
-    - title: TG全局搜索稀缺资源/吃瓜/热点
+    - title: TG全域搜尋資源/CG
       logo: /logos/tg.jpg
       url: https://t.me/sosobo2
-      description: 发送关键字自动回复资源地址，不信你试试
-    - title: 电报稀缺资源大全中文搜索
+      description: 打破资讯差，看看最近热门搜尋的关键词-soso资源库
+    - title: T電報中文搜尋
       logo: /logos/tg.jpg
       url: https://t.me/tgxqzy
-      description: 发送关键字自动回复资源地址，不信你试试
-    - title: 黑料搜索交流群
+      description: 群中输入关键字，搜尋频道、群、热点、影片、音乐等资源
+    - title: TG资源搜尋交流
       logo: /logos/tg.jpg
-      url: https://t.me/hlsousou
-      description: 发送关键字自动回复资源地址，不信你试试
-    - title: TG全能搜群搜片资源大群
+      url: https://t.me/tgsousuo55
+      description: 打破资讯差，看看最近热门搜尋的关键词
+    - title: TG全能搜群資源大群
       logo: /logos/tg.jpg
       url: https://t.me/zysoso
-      description: 发送关键字自动回复资源地址，不信你试试
+      description: 群中输入关键字，搜尋频道、群、热点、影片、音乐等资源
+    - title: 搜索资源群组
+      logo: /logos/tg.jpg
+      url: https://t.me/sousuozzss
+      description: 群中输入关键字，搜尋频道、群、热点、影片、音乐等资源-JIsou资源库
     - title: 币安Binance
       logo: /logos/binance.png
       url: https://accounts.marketwebb.org/register?ref=HRVGDW7H
