@@ -5,13 +5,25 @@
 {{- $height := .height | default 40 -}}
 {{- $loading := .loading | default "eager" -}}
 {{- $fetchpriority := .fetchpriority | default "auto" -}}
-{{- $logo := $item.logo | default "" -}}
+{{- $rawLogo := $item.logo | default "" -}}
 {{- $itemURL := $item.url | default "" -}}
 {{- $defaultLogo := "" -}}
 {{- if $site.Params.defaultLogo -}}
   {{- $defaultLogo = $site.Params.defaultLogo | relURL -}}
 {{- end -}}
 
+{{- $telegramUsername := "" -}}
+{{- if gt (len (findRE `(?i)^https?://(?:t|telegram)\.me/[^/?#]+/?` $itemURL)) 0 -}}
+  {{- $telegramUsername = replaceRE `(?i)^https?://(?:t|telegram)\.me/([^/?#]+).*$` "$1" $itemURL -}}
+{{- end -}}
+{{- $telegramLogoOverrides := $site.Data.telegram_logo_overrides | default dict -}}
+{{- $overrideLogo := "" -}}
+{{- if $telegramUsername -}}
+  {{- with index $telegramLogoOverrides (lower $telegramUsername) -}}
+    {{- $overrideLogo = . -}}
+  {{- end -}}
+{{- end -}}
+{{- $logo := or $overrideLogo $rawLogo -}}
 {{- $resolvedLogo := "" -}}
 {{- if $logo -}}
   {{- if findRE "http.*?(.|\n)*?" $logo -}}
@@ -22,15 +34,9 @@
     {{- $resolvedLogo = printf "%s/%s" $site.Params.logosPath $logo | relURL -}}
   {{- end -}}
 {{- end -}}
-
 {{- $thumbLogo := "" -}}
 {{- if and $resolvedLogo (hasPrefix $resolvedLogo "/logos/") -}}
   {{- $thumbLogo = printf "/logos-thumb/%s.webp" (strings.TrimPrefix "/logos/" $resolvedLogo) | relURL -}}
-{{- end -}}
-
-{{- $telegramUsername := "" -}}
-{{- if gt (len (findRE `(?i)^https?://(?:t|telegram)\.me/[^/?#]+/?` $itemURL)) 0 -}}
-  {{- $telegramUsername = replaceRE `(?i)^https?://(?:t|telegram)\.me/([^/?#]+).*$` "$1" $itemURL -}}
 {{- end -}}
 {{- $canUseTelegramAvatar := and $telegramUsername (ne (lower $telegramUsername) "joinchat") (not (hasPrefix $telegramUsername "+")) (ne (lower $telegramUsername) "c") -}}
 {{- $telegramAvatar := "" -}}
