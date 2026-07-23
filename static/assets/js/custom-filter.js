@@ -4,41 +4,6 @@
  */
 (function($) {
 
-    function getTelegramAvatar(url) {
-        var match = (url || '').match(/^https?:\/\/(?:t|telegram)\.me\/([^\/?#]+)/i);
-        if (!match || !match[1]) {
-            return '';
-        }
-
-        var username = match[1];
-        var lower = username.toLowerCase();
-        if (lower === 'joinchat' || lower === 'c' || username.charAt(0) === '+') {
-            return '';
-        }
-
-        return 'https://t.me/i/userpic/320/' + username + '.jpg';
-    }
-
-    function applyTelegramAvatars() {
-        $('.url-card').each(function() {
-            var $card = $(this);
-            var $link = $card.find('a.card[data-url], a.card[href]').first();
-            var avatar = getTelegramAvatar($link.attr('data-url') || $link.attr('href') || '');
-            var $img = $card.find('.url-img img').first();
-            var defaultSrc = '/assets/images/logos/default.webp';
-
-            if (!avatar || !$img.length) {
-                return;
-            }
-
-            $img.attr('src', avatar);
-            $img.attr('data-src', avatar);
-            $img.attr('data-fallback-src', defaultSrc);
-            $img.attr('data-default-src', defaultSrc);
-            $img.attr('referrerpolicy', 'no-referrer');
-        });
-    }
-
     // 实时过滤核心函数
     function doFilter(keyword) {
         keyword = $.trim(keyword).toLowerCase();
@@ -94,8 +59,6 @@
         var $modal = $('#search-modal');
         var $input = $('#modal-filter-input');
         var debounceTimer;
-
-        applyTelegramAvatars();
 
         $modal.modal({
             backdrop: 'static',

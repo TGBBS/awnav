@@ -48,11 +48,11 @@
 {{- end -}}
 
 {{- if not $primarySrc -}}
-  {{- $primarySrc = $telegramAvatar -}}
+  {{- $primarySrc = $defaultLogo -}}
 {{- end -}}
 
-{{- if not $primarySrc -}}
-  {{- $primarySrc = $defaultLogo -}}
+{{- if and (not $primarySrc) $telegramAvatar -}}
+  {{- $primarySrc = $telegramAvatar -}}
 {{- end -}}
 
 <img class="card-logo-img{{ if $class }} {{ $class }}{{ end }}" src="{{ $primarySrc }}"
