@@ -3,8 +3,8 @@
 {{- $class := .class | default "" -}}
 {{- $width := .width | default 40 -}}
 {{- $height := .height | default 40 -}}
-{{- $loading := .loading | default "lazy" -}}
-{{- $fetchpriority := .fetchpriority | default "low" -}}
+{{- $loading := .loading | default "eager" -}}
+{{- $fetchpriority := .fetchpriority | default "auto" -}}
 {{- $logo := $item.logo | default "" -}}
 {{- $itemURL := $item.url | default "" -}}
 {{- $defaultLogo := "" -}}
