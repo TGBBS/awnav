@@ -16,8 +16,8 @@ collections:
     slug: "{{slug}}"
     extension: md
     format: yaml-frontmatter
-    media_folder: ""
-    public_folder: ""
+    media_folder: /blog-site/static/uploads/posts
+    public_folder: /blog/uploads/posts
     fields:
       - { label: 标题, name: title, widget: string }
       - { label: 描述, name: description, widget: text, required: false }
