@@ -1,0 +1,28 @@
+backend:
+  name: github
+  repo: TGBBS/awnav
+  branch: main
+
+site_url: https://awnav.com/blog/
+display_url: https://awnav.com/blog/
+
+collections:
+  - name: posts
+    label: 文章
+    label_singular: 文章
+    folder: blog-site/content/post
+    path: "{{slug}}/index"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: yaml-frontmatter
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - { label: 标题, name: title, widget: string }
+      - { label: 描述, name: description, widget: text, required: false }
+      - { label: 发布日期, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZZ" }
+      - { label: 更新时间, name: lastmod, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZZ", required: false }
+      - { label: 分类, name: categories, widget: list, required: false }
+      - { label: 标签, name: tags, widget: list, required: false }
+      - { label: 正文, name: body, widget: markdown }
