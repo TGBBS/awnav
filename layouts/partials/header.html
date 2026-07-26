@@ -17,10 +17,10 @@
         {{ $pageTitle = $homeTitle }}
         {{ $pageDescription = $homeDescription }}
         {{ $pageKeywords = $homeKeywords }}
-    {{ else if .IsPage }}
+    {{ else if or .IsPage .IsSection }}
         {{ $pageTitle = .Params.seoTitle | default (printf "%s - %s" .Title $siteTitle) }}
-        {{ $pageDescription = .Description | default $defaultDescription }}
-        {{ $pageKeywords = .Params.keywords | default $defaultKeywords }}
+        {{ $pageDescription = .Params.description | default .Description | default $defaultDescription }}
+        {{ $pageKeywords = .Params.seoKeywords | default .Params.keywords | default $defaultKeywords }}
     {{ end }}
     {{ $canonical := printf "%s%s" $siteBase .RelPermalink }}
     {{ if $isHome }}

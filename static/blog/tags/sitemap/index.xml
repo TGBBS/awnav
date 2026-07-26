@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sitemap on AW Blog</title>
+        <link>https://awnav.com/blog/tags/sitemap/</link>
+        <description>Recent content in Sitemap on AW Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language>
+        <lastBuildDate>Sun, 26 Jul 2026 00:10:00 +0800</lastBuildDate><atom:link href="https://awnav.com/blog/tags/sitemap/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Google Search Console 在哪里提交 sitemap.xml</title>
+            <link>https://awnav.com/blog/post/submit-sitemap/</link>
+            <pubDate>Sun, 26 Jul 2026 00:10:00 +0800</pubDate>
+            <guid>https://awnav.com/blog/post/submit-sitemap/</guid>
+            <description>&lt;h2 id=&#34;提交入口&#34;&gt;&lt;a href=&#34;#%e6%8f%90%e4%ba%a4%e5%85%a5%e5%8f%a3&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;提交入口&#xA;&lt;/h2&gt;&lt;p&gt;进入 Google Search Console，选择已经验证过的站点属性，然后在左侧菜单里找到 “Sitemaps”。&lt;/p&gt;&#xA;&lt;h2 id=&#34;填写地址&#34;&gt;&lt;a href=&#34;#%e5%a1%ab%e5%86%99%e5%9c%b0%e5%9d%80&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;填写地址&#xA;&lt;/h2&gt;&lt;p&gt;如果站点主域是 &lt;code&gt;https://awnav.com/&lt;/code&gt;，常见提交地址就是：&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;https://awnav.com/sitemap.xml&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;看状态&#34;&gt;&lt;a href=&#34;#%e7%9c%8b%e7%8a%b6%e6%80%81&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;看状态&#xA;&lt;/h2&gt;&lt;p&gt;提交后重点看三件事：是否成功抓取、是否有 URL 被发现、是否存在页面被排除。&lt;/p&gt;&#xA;&lt;h2 id=&#34;常见误区&#34;&gt;&lt;a href=&#34;#%e5%b8%b8%e8%a7%81%e8%af%af%e5%8c%ba&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;常见误区&#xA;&lt;/h2&gt;&lt;p&gt;提交了 sitemap 不是马上收录。更关键的是页面质量、内链、抓取可达性和内容是否真的有搜索价值。&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

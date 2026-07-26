@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on AW Blog</title>
+        <link>https://awnav.com/blog/page/</link>
+        <description>Recent content in Pages on AW Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language><atom:link href="https://awnav.com/blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>关于</title>
+            <link>https://awnav.com/blog/page/about/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>https://awnav.com/blog/page/about/</guid>
+            <description>&lt;p&gt;AW Blog 是挂在 &lt;code&gt;awnav.com/blog/&lt;/code&gt; 下的同域博客，用来承接 Google SEO、索引收录、Telegram 长尾内容和专题页。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>归档</title>
+            <link>https://awnav.com/blog/page/archives/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>https://awnav.com/blog/page/archives/</guid>
+            <description></description>
+        </item><item>
+            <title>搜索</title>
+            <link>https://awnav.com/blog/page/search/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>https://awnav.com/blog/page/search/</guid>
+            <description></description>
+        </item></channel>
+</rss>

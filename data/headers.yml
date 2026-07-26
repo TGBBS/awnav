@@ -2,6 +2,10 @@
   icon: fa fa-home
   link: "./"
 
+- item: 热门
+  icon: fa fa-fire
+  link: "/blog/"
+
 - item: 关于
   icon: fa fa-info-circle
   link: ""

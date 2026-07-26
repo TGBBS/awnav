@@ -1,0 +1,25 @@
+[[main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/page/archives/"
+    weight = 1
+
+    [main.params]
+        icon = "archives"
+
+[[main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/page/search/"
+    weight = 2
+
+    [main.params]
+        icon = "search"
+
+[[social]]
+    identifier = "home"
+    name = "AW导航"
+    url = "https://awnav.com/"
+
+    [social.params]
+        icon = "link"

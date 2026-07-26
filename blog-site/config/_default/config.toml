@@ -1,0 +1,9 @@
+baseurl = "https://awnav.com/blog/"
+locale = "zh-CN"
+defaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
+title = "AW Blog"
+theme = "hugo-theme-stack"
+
+[pagination]
+    pagerSize = 6
