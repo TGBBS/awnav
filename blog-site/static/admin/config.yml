@@ -2,6 +2,7 @@ backend:
   name: github
   repo: TGBBS/awnav
   branch: main
+  auth_methods: [token]
 
 media_folder: /blog-site/static/uploads/posts
 public_folder: /blog/uploads/posts
