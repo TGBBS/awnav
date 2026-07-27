@@ -1,7 +1,7 @@
----
+﻿---
 title: Slickdeals
 description: 一个强大的在线购物网站
-seoTitle: Slickdeals - 详细介绍与评价 | 007出海导航
+seoTitle: Slickdeals - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/slickdeals/
 slug: slickdeals
@@ -36,3 +36,4 @@ related:
 ---
 
 一个强大的在线购物网站
+

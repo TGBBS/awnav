@@ -1,7 +1,7 @@
----
+﻿---
 title: Inboxkitten
 description: 开源的临时邮箱
-seoTitle: Inboxkitten - 详细介绍与评价 | 007出海导航
+seoTitle: Inboxkitten - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/inboxkitten/
 slug: inboxkitten
@@ -92,3 +92,4 @@ related:
 ---
 
 InboxKitten 是一款完全开源的免费临时邮件服务，用户无需注册即可使用一次性邮箱地址接收邮件。作为开源项目，InboxKitten 的代码完全公开，任何人都可以在 GitHub 上查看、审计或自行部署，这使其在隐私保护和透明度方面具有显著优势，适合注重数据安全的技术用户。平台提供简洁的网页界面，用户可自定义邮件地址前缀，使地址更易记忆。由于是开源工具，有技术能力的用户还可以将其部署在自己的服务器上，实现完全自主可控的临时邮件服务，彻底解决信任第三方的顾虑。InboxKitten 主要面向技术型用户、开发者和隐私敏感用户，是在众多临时邮件工具中少数能够提供完整代码透明度的选择之一。对于追求开源精神和数字隐私保护的用户来说，InboxKitten 代表了一种与闭源商业服务截然不同的使用理念，是值得关注的开源临时邮件工具。
+

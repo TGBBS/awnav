@@ -1,7 +1,7 @@
----
+﻿---
 title: Sheet+
 description: Excel和Google Sheet表格AI处理工具
-seoTitle: Sheet+ - 详细介绍与评价 | 007出海导航
+seoTitle: Sheet+ - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sheet/
 slug: sheet
@@ -91,3 +91,4 @@ related:
 ---
 
 Sheet+ 是一款专为 Excel 和 Google Sheets 用户打造的 AI 辅助工具，核心功能是通过自然语言描述自动生成复杂公式。用户只需用文字说明想要实现的功能，Sheet+ 即可即时生成对应的 Excel 或 Google Sheets 公式，并提供详细解释，大幅降低表格处理的学习门槛。同时，Sheet+ 还支持反向功能：将已有的复杂公式转化为通俗易懂的自然语言解释，帮助用户理解公式含义。平台还提供 AI 电子表格功能，支持批量数据处理和智能分析。适用人群涵盖财务分析师、数据分析师、HR 人员、项目经理及所有日常需要处理电子表格的办公人员。Sheet+ 有效解决了「公式太难记、公式太难懂」的痛点，是提升日常办公效率的实用工具，支持 Chrome 扩展插件，可直接在浏览器中使用。
+

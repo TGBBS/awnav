@@ -1,7 +1,7 @@
----
+﻿---
 title: Grammarly
 description: 一款使用人工智能帮助用户提高写作能力的写作助手
-seoTitle: Grammarly - 详细介绍与评价 | 007出海导航
+seoTitle: Grammarly - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/grammarly/
 slug: grammarly
@@ -91,3 +91,4 @@ related:
 ---
 
 Grammarly 是全球最知名的 AI 写作助手，通过先进的自然语言处理技术帮助用户检测和纠正英文写作中的语法错误、拼写错误、标点问题及风格问题。Grammarly 不仅是一款语法检查工具，更是全方位的写作质量提升平台，提供语气检测、清晰度改进、简洁性建议、参与度优化等深层次写作建议。近年来，Grammarly 推出了 GrammarlyGO 功能，整合生成式 AI 能力，支持内容生成、邮件起草、改写等功能。Grammarly 通过浏览器插件与 Gmail、Google Docs、Word、Slack 等数百个平台无缝集成，实现随处写随处检查。企业版（Grammarly Business）还提供团队风格指南、品牌语音管理等高级功能。Grammarly 适合所有需要用英文写作的用户，尤其是非母语英语写作者、职场人士、学生及内容创作者。凭借超过 3000 万日活用户的规模，Grammarly 是英文写作辅助领域无可争议的市场领导者。
+

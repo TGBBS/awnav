@@ -1,7 +1,7 @@
----
+﻿---
 title: Runway
 description: 一款由美国创业公司RunwayML开发的人工智能创作平台
-seoTitle: Runway - 详细介绍与评价 | 007出海导航
+seoTitle: Runway - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/runway/
 slug: runway
@@ -95,3 +95,4 @@ related:
 ---
 
 Runway 是由美国初创公司 RunwayML 开发的 AI 创作平台，专注于视频和图像的 AI 生成与编辑，是目前 AI 视频生成领域最领先的商业工具之一。Runway 提供多种核心 AI 功能：Gen-2 和 Gen-3 Alpha 视频生成（文字或图像生成视频）、视频编辑（绿幕抠像、场景转换、运动追踪）、图像生成和编辑、AI 训练（基于用户自有视频数据训练个性化模型）等。Runway 的 Gen-3 Alpha 模型在视频生成质量、时长和一致性方面处于业界前沿，能够生成逼真的动态场景和人物运动。Runway 被众多好莱坞电影人、广告公司、内容创作者和音乐视频制作团队所使用，在专业创意行业中具有很高的认可度。2024 年 Runway 的视觉效果甚至出现在多部电影项目中，标志着 AI 视频技术正式进入专业影视制作领域。Runway 在创意内容创作者、影视后期制作人员、广告创意团队和数字艺术家中有广泛应用，是目前商业化最成功的 AI 视频生成工具之一。
+

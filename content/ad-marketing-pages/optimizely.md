@@ -1,7 +1,7 @@
----
+﻿---
 title: Optimizely
 description: 一家全球最大的A/B测试和实验平台
-seoTitle: Optimizely - 详细介绍与评价 | 007出海导航
+seoTitle: Optimizely - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/optimizely/
 slug: optimizely
@@ -66,3 +66,4 @@ related:
 ---
 
 一家全球最大的A/B测试和实验平台
+

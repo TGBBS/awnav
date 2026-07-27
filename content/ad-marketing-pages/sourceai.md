@@ -1,7 +1,7 @@
----
+﻿---
 title: SourceAI
 description: 一家人工智能公司
-seoTitle: SourceAI - 详细介绍与评价 | 007出海导航
+seoTitle: SourceAI - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sourceai/
 slug: sourceai
@@ -92,3 +92,4 @@ related:
 ---
 
 SourceAI 是一个面向非程序员和初级开发者的 AI 代码生成平台，允许用户通过自然语言描述来生成代码。用户只需用任意语言描述想要实现的功能，SourceAI 就能自动生成对应的代码片段，支持 Python、JavaScript、Java、C++ 等主流编程语言。SourceAI 的核心定位是降低编程门槛，让没有专业编程背景的人也能借助 AI 完成简单的编程任务。其功能包括代码生成、代码解释、错误检测与修复以及代码简化。平台界面简洁直观，不需要安装任何软件，浏览器访问即可使用。SourceAI 特别适合学生、创业者、数据分析师等需要偶尔写一些小脚本或自动化任务的非专业程序员，也可用于快速验证编程思路。相比 GitHub Copilot 等专业工具，SourceAI 更注重易用性和可访问性，是 AI 编程工具领域面向大众用户的典型代表。
+

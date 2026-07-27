@@ -1,7 +1,7 @@
----
+﻿---
 title: FUDforum
 description: 开源的论坛软件
-seoTitle: FUDforum - 详细介绍与评价 | 007出海导航
+seoTitle: FUDforum - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/fudforum/
 slug: fudforum
@@ -92,3 +92,4 @@ related:
 ---
 
 FUDforum是一款开源的互联网论坛软件，以其高性能和可扩展性著称。该软件采用PHP开发，支持MySQL和PostgreSQL数据库，设计目标是在低硬件配置下也能处理大量用户并发访问，性能优于同期许多其他论坛软件。FUDforum功能较为完整，支持私信、用户组权限管理、文件附件、RSS订阅、搜索等基础论坛功能，并提供主题定制选项。项目由Ilia Alshanetsky主导开发，在2000年代初期有一定的用户群体，特别受到关注服务器性能的站长青睐。然而随着Discourse、NodeBB等现代化论坛软件的兴起，以及bbPress等更易集成的产品出现，FUDforum的活跃开发和社区维护逐渐减少，目前项目更新不够活跃，官方论坛访问也较为冷清。对于需要轻量级、高性能论坛解决方案的站长，FUDforum仍是一个可行选项，但建议评估项目活跃度后再做决定。
+

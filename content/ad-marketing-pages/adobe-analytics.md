@@ -1,7 +1,7 @@
----
+﻿---
 title: Adobe Analytics
 description: Adobe公司推出的一款全球领先的数据分析和营销分析平台
-seoTitle: Adobe Analytics - 详细介绍与评价 | 007出海导航
+seoTitle: Adobe Analytics - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/adobe-analytics/
 slug: adobe-analytics
@@ -93,3 +93,4 @@ related:
 ---
 
 Adobe Analytics 是 Adobe Experience Cloud 旗下的企业级数字数据分析平台，被誉为全球最强大的营销分析解决方案之一。它专为大型企业和跨国公司设计，提供超越普通网站统计的深度分析能力。Adobe Analytics 的核心优势在于其极强的数据定制化能力：用户可以自定义任意数量的变量和指标，构建完全符合业务逻辑的数据模型，而不受平台预设框架的限制。主要功能包括：多渠道数据整合分析、实时数据处理与报告、高级细分和归因分析、客户旅程分析、预测分析（基于 AI/ML）、以及与 Adobe Experience Manager、Adobe Target、Audience Manager 等产品的深度整合。Adobe Analytics 的归因模型极为灵活，支持数十种归因方式，能够精确评估每个营销渠道的贡献价值。数据处理速度快，报告刷新及时，适合需要实时决策的大型广告主和代理公司。由于定价昂贵，主要客户群为财富500强企业、大型零售商和金融机构。中小企业更适合使用 Google Analytics 作为替代方案。
+

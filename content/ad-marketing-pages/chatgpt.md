@@ -1,7 +1,7 @@
----
+﻿---
 title: ChatGPT
 description: 一款功能强大且易于使用的聊天机器人
-seoTitle: ChatGPT - 详细介绍与评价 | 007出海导航
+seoTitle: ChatGPT - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/chatgpt/
 slug: chatgpt
@@ -95,3 +95,4 @@ related:
 ---
 
 ChatGPT 是由 OpenAI 于 2022 年 11 月发布的对话式 AI 助手，基于大型语言模型（GPT-3.5/GPT-4/GPT-4o）构建，是迄今为止用户增长最快的消费级 AI 产品。ChatGPT 发布仅 5 天用户数即突破 100 万，两个月内月活突破 1 亿，创下互联网史上最快增长记录。ChatGPT 能够进行流畅的多轮对话，处理内容创作、代码编写、翻译、分析、问答、总结等几乎所有文本类任务。ChatGPT Plus（付费版）支持 GPT-4o 等最新模型，并提供联网搜索、DALL·E 图像生成、数据分析（Code Interpreter）、自定义 GPT 等高级功能。2024 年推出的 GPT-4o 支持多模态输入（文字、图像、语音），使 ChatGPT 成为真正意义上的多模态 AI 助手。ChatGPT 适用人群极为广泛，从学生、写作者、程序员到企业决策者，几乎所有知识工作者都能从中受益。它彻底改变了人们与 AI 交互的方式，并催生了整个生成式 AI 行业的爆发式增长。
+

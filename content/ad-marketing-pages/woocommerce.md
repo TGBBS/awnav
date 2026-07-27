@@ -1,7 +1,7 @@
----
+﻿---
 title: Woocommerce
 description: 一个开放源码的电子商务平台
-seoTitle: Woocommerce - 详细介绍与评价 | 007出海导航
+seoTitle: Woocommerce - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/woocommerce/
 slug: woocommerce
@@ -92,3 +92,4 @@ related:
 ---
 
 WooCommerce 是全球使用量最大的开源电商插件，专为 WordPress 平台设计，由 Automattic 公司开发和维护（2015年收购）。全球超过400万个在线商店基于 WooCommerce 构建，其市场占有率在全球所有电商平台中长期位居前三。WooCommerce 完全免费开源，可以将任何 WordPress 网站迅速转变为功能齐全的在线商店，支持实体商品、数字产品、订阅服务、预约等多种销售模式。平台拥有庞大的插件和扩展生态，覆盖支付（PayPal、Stripe 等）、物流、CRM、营销自动化等各类需求。WooCommerce 的 SEO 能力得益于 WordPress 生态的积累，在自然搜索流量获取方面有显著优势。适合中小型电商商家、博客主转型卖家，以及希望低成本运营独立站的各类电商卖家。
+

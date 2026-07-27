@@ -1,7 +1,7 @@
----
+﻿---
 title: Telegram
 description: 俗称“电报”，是一款全球知名度非常高的加密聊天工具
-seoTitle: Telegram - 详细介绍与评价 | 007出海导航
+seoTitle: Telegram - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/telegram/
 slug: telegram
@@ -71,3 +71,4 @@ related:
 ---
 
 俗称“电报”，是一款全球知名度非常高的加密聊天工具
+

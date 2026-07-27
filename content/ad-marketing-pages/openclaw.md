@@ -1,7 +1,7 @@
----
+﻿---
 title: OpenClaw
 description: 开源个人AI助手运行时，连接消息平台执行真实任务，GitHub 290K+ stars
-seoTitle: OpenClaw - 详细介绍与评价 | 007出海导航
+seoTitle: OpenClaw - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/openclaw/
 slug: openclaw
@@ -80,3 +80,4 @@ related:
 ---
 
 OpenClaw 是一款开源的个人 AI 助手运行时，旨在让每个人都能在自己的设备上运行强大的自主 AI 代理。其核心理念是将 AI 助手与用户日常使用的消息平台（如微信、Telegram、飞书、钉钉等）深度融合，使用户可以通过聊天界面指挥 AI 执行真实世界的任务——包括文件管理、网页浏览、代码执行、邮件收发等。OpenClaw 在 GitHub 上积累了超过 290K 星标，是同类项目中最受欢迎的开源 AI 代理运行时。它采用插件化架构，支持通过官方技能商店 ClawHub 安装各种功能扩展，也允许开发者自行编写技能插件。OpenClaw 支持接入 OpenAI、Claude、Gemini、通义千问等主流大语言模型，并兼容 MCP（Model Context Protocol）协议。适用人群涵盖希望将 AI 融入日常工作流的普通用户、需要自动化办公任务的职场人士，以及希望在本地部署私有 AI 助手的技术爱好者。
+

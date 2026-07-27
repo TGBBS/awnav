@@ -1,7 +1,7 @@
----
+﻿---
 title: Hotspot Shield
 description: 虚拟专用网络（VPN）服务提供商
-seoTitle: Hotspot Shield - 详细介绍与评价 | 007出海导航
+seoTitle: Hotspot Shield - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/hotspot-shield/
 slug: hotspot-shield
@@ -93,3 +93,4 @@ related:
 ---
 
 Hotspot Shield 是一家成立于2008年的 VPN 服务提供商，由 Aura（前身为 Pango/AnchorFree）运营，总部位于加利福尼亚州圣克拉拉。Hotspot Shield 是全球下载量最大的 VPN 之一，拥有超过6.5亿次下载记录，以其自研的 Catapult Hydra 协议著称——该协议经过多项独立测速测试验证，在速度方面处于 VPN 行业领先地位，尤其在长距离连接时速度优势明显。Catapult Hydra 协议已被 McAfee Secure、Norton VPN 等多家安全公司授权使用，说明其技术实力获得了行业认可。Hotspot Shield 提供覆盖80多个国家的服务器网络，支持 Windows、macOS、iOS、Android 和浏览器扩展。服务提供永久免费版（带宽无限制，但仅限美国服务器和含广告），以及功能完整的付费版。然而，Hotspot Shield 曾于2017年被隐私权益组织 CSIRO 发现其免费版将用户数据共享给广告合作伙伴，并向 FTC 进行了投诉，此事对其隐私声誉造成了影响。对于注重极致速度的用户，Hotspot Shield 是优选；但对于隐私敏感用户，建议选择经过独立审计的替代产品。
+

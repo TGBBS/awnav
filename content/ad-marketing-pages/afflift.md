@@ -1,7 +1,7 @@
----
+﻿---
 title: Afflift
 description: 最近崛起的Affiliate Marketing论坛，免费课程比较多
-seoTitle: Afflift - 详细介绍与评价 | 007出海导航
+seoTitle: Afflift - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/afflift/
 slug: afflift
@@ -92,3 +92,4 @@ related:
 ---
 
 Afflift是近年来崛起的联盟营销（Affiliate Marketing）论坛社区，由资深联盟营销人Luke Kling创办，以提供高质量的免费学习资源和课程内容著称。平台定位于帮助联盟营销从业者提升付费广告投放和流量变现的专业能力，内容涵盖推送通知广告、原生广告、Facebook广告、Google广告等主流付费流量渠道。Afflift最大的特色是提供了大量免费的实战课程和跟帖案例，质量可媲美部分付费论坛的内容，极大降低了新人的学习门槛。平台还设有工具推荐、资源分享和活动优惠等板块，帮助会员以更低成本开展营销活动。Afflift社区氛围活跃，创始人Luke Kling本人经常参与讨论并解答会员问题，这种创始人积极互动的风格增强了社区粘性。对于想要以低成本系统学习联盟营销的从业者来说，Afflift是一个性价比极高的学习社区。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Accfarm
 description: Verified Social Media Accounts for Sale
-seoTitle: Accfarm - 详细介绍与评价 | 007出海导航
+seoTitle: Accfarm - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/accfarm/
 slug: accfarm
@@ -92,3 +92,4 @@ related:
 ---
 
 Accfarm 是一个专注于销售经过验证的社交媒体账号的在线平台。该平台提供多种社交媒体账号，包括 Facebook、Instagram、Twitter、TikTok、Gmail 等平台的账号，主要面向需要批量账号进行营销推广、广告投放、跨境电商运营的企业和个人用户。Accfarm 的账号均经过手机号码验证，且通常为养号一段时间的老号，账号质量相对较高，具有较强的真实性和可用性。平台支持多种支付方式，并提供即时交付服务。该平台主要服务于跨境电商卖家、社交媒体营销人员、广告代理商等群体，帮助他们快速获取多个社交媒体账号以满足业务需求。购买社交媒体账号存在一定的政策风险，用户需自行评估使用风险。
+

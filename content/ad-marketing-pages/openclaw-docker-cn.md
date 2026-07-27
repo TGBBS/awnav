@@ -1,7 +1,7 @@
----
+﻿---
 title: OpenClaw Docker CN IM
 description: OpenClaw中国IM整合Docker版，预装飞书、钉钉、QQ、企业微信插件
-seoTitle: OpenClaw Docker CN IM - 详细介绍与评价 | 007出海导航
+seoTitle: OpenClaw Docker CN IM - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/openclaw-docker-cn/
 slug: openclaw-docker-cn
@@ -72,3 +72,4 @@ related:
 ---
 
 OpenClaw Docker CN IM 是由 GitHub 用户 justlovemaki 维护的 OpenClaw 中国即时通讯整合 Docker 镜像项目。该项目将 OpenClaw 及其在中国最常用的即时通讯平台插件打包成一个完整的 Docker 镜像，用户只需执行一条 docker run 命令即可部署预装了飞书、钉钉、QQ、企业微信（WeCom）四大主流 IM 平台插件的完整 OpenClaw 实例。这解决了国内用户最核心的使用场景需求——通过工作中已有的 IM 工具来操控 AI 助手，而无需额外安装其他消息客户端。Docker 化部署还带来了环境一致性的优势，避免了在不同操作系统上手动配置依赖时可能遇到的各种问题。镜像针对国内镜像源进行了优化，拉取速度快，适合在国内服务器或个人电脑上快速部署。该项目是国内 OpenClaw 社区中部署便利性最高的方案之一，特别适合需要快速上手、不想在配置上花费大量时间的国内用户，以及希望在企业内网部署私有 AI 助手的 IT 管理员。
+

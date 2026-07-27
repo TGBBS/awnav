@@ -1,7 +1,7 @@
----
+﻿---
 title: WorldFirst
 description: 超额实现您的预期
-seoTitle: WorldFirst - 详细介绍与评价 | 007出海导航
+seoTitle: WorldFirst - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/worldfirst/
 slug: worldfirst
@@ -93,3 +93,4 @@ related:
 ---
 
 WorldFirst（万里汇）成立于2004年，总部位于英国伦敦，是全球领先的外汇和国际支付服务商，2019年被蚂蚁集团收购后加速布局中国市场。WorldFirst 专为跨境电商卖家、中小企业和个人提供多币种收款账户、汇率兑换及国际汇款服务。其核心产品 World Account 支持在全球主要市场开立本地银行账户（美元、欧元、英镑、日元、澳元、加元等），帮助卖家像本地企业一样收取平台款项，并以极具竞争力的汇率将资金兑换成所需货币。WorldFirst 与亚马逊、eBay、Shopify、速卖通等主流电商平台合作，支持卖家直接关联店铺账户。相比传统银行，WorldFirst 的汇率通常更优惠，手续费更透明，转账速度更快。蚂蚁集团的背书为其带来了更强的技术支持和风控能力。对于中国跨境电商卖家，WorldFirst 提供人民币提现服务，资金可快速到账国内银行，且享受支付宝生态内的更多便利。适用人群：跨境电商卖家、外贸企业、需要国际汇款的中小企业主及个人用户。
+

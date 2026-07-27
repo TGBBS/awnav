@@ -1,7 +1,7 @@
----
+﻿---
 title: CurrencyFair
 description: 一家成立于2010年的网络汇款平台
-seoTitle: CurrencyFair - 详细介绍与评价 | 007出海导航
+seoTitle: CurrencyFair - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/currencyfair/
 slug: currencyfair
@@ -94,3 +94,4 @@ related:
 ---
 
 CurrencyFair 成立于2010年，总部位于爱尔兰都柏林，是一家创新的在线外汇兑换和国际汇款平台，以其独特的点对点（P2P）外汇交易模式著称。CurrencyFair 的核心创新在于其市场交易机制——用户可以自己设定汇率，等待系统匹配另一方进行交易，从而获得比银行更优惠的汇率；如果无法即时匹配，系统会以接近市场中间价的汇率完成交易。与传统银行相比，CurrencyFair 的换汇成本通常可节省3%-8%。CurrencyFair 支持20+种主要货币的兑换和转账，主要覆盖欧元区、英国、澳大利亚、新西兰、加拿大、美国、新加坡等市场。其服务特别适合有规律性大额外汇需求的用户，如海外购房、移民资金转移、跨国企业结算等场景。CurrencyFair 提供低至0.35%的兑换手续费加固定转账费用（约3欧元），透明度高。2021年，CurrencyFair 与澳大利亚金融科技公司 Assembly Payments 合并，扩展了其产品能力。平台获得爱尔兰央行（Central Bank of Ireland）授权监管。适用人群：需要大额外汇兑换的个人（移民、海外置业）、中小企业财务人员、对汇率敏感的海外工作者。
+

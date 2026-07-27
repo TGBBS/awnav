@@ -1,7 +1,7 @@
----
+﻿---
 title: Prezi
 description: 非常流行的演示软件
-seoTitle: Prezi - 详细介绍与评价 | 007出海导航
+seoTitle: Prezi - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/prezi/
 slug: prezi
@@ -71,3 +71,4 @@ related:
 ---
 
 非常流行的演示软件
+

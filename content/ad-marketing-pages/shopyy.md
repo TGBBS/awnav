@@ -1,7 +1,7 @@
----
+﻿---
 title: SHOPYY
 description: SHOPYY是厦门中恒天下网络科技有限公司2016年推出的一个针对跨境电商独立站的SAAS平台
-seoTitle: SHOPYY - 详细介绍与评价 | 007出海导航
+seoTitle: SHOPYY - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/shopyy/
 slug: shopyy
@@ -92,3 +92,4 @@ related:
 ---
 
 SHOPYY 是由厦门中恒天下网络科技有限公司于2016年推出的跨境电商独立站 SaaS 建站平台，专为中国跨境出口电商卖家设计。平台提供全托管的独立站建设服务，无需技术背景即可快速搭建专业的外贸电商网站，支持多语言、多货币、国际主流支付方式集成，并提供 SEO 优化工具、社交媒体营销集成、数据分析等功能。SHOPYY 深度针对中国跨境卖家的痛点进行优化，提供中文客服支持和本土化运营指导。平台还集成了与 Facebook、Google 广告的对接工具，方便卖家开展海外流量投放。相比 Shopify，SHOPYY 的本地化服务更强，费用也相对较低，适合中小型跨境出口卖家快速建立品牌独立站。
+

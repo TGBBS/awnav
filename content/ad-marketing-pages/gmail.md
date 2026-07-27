@@ -1,7 +1,7 @@
----
+﻿---
 title: Gmail
 description: Google 公司开发和推出的一款免费的电子邮件服务
-seoTitle: Gmail - 详细介绍与评价 | 007出海导航
+seoTitle: Gmail - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/gmail/
 slug: gmail
@@ -95,3 +95,4 @@ related:
 ---
 
 Gmail 是 Google 开发的电子邮件服务，自2004年发布以来已成为全球最受欢迎的电子邮件平台，拥有超过18亿活跃用户。Gmail 提供15GB免费存储空间（与 Google Drive 和 Google Photos 共享），并以其强大的搜索功能、智能分类、垃圾邮件过滤和安全保护著称。界面简洁直观，支持标签（Labels）、对话视图（Conversation View）、优先收件箱等智能邮件管理功能。AI 功能方面，Gmail 提供智能回复（Smart Reply）、智能撰写（Smart Compose）建议，以及 Gemini AI 助手功能，大幅提升邮件处理效率。Gmail 与 Google Meet、Google Calendar、Google Tasks 等服务深度集成，在邮件界面即可创建日程和视频会议。对于企业用户，Google Workspace 版 Gmail 提供自定义域名邮箱（如 [email protected]）、更大存储空间和高级安全功能。Gmail 还支持 IMAP/SMTP 协议，可在第三方邮件客户端使用。作为 Google 账号的核心服务，Gmail 是使用其他 Google 产品的基础，在全球企业和个人通信中扮演着不可替代的角色。
+

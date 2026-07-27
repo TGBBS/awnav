@@ -1,7 +1,7 @@
----
+﻿---
 title: Seed Keywords
 description: 一种有助于改进SEO和SEM的非常强大的工具
-seoTitle: Seed Keywords - 详细介绍与评价 | 007出海导航
+seoTitle: Seed Keywords - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/seed-keywords/
 slug: seed-keywords
@@ -91,3 +91,4 @@ related:
 ---
 
 Seed Keywords 是一款独特的关键词研究辅助工具，通过众包方式帮助 SEO 从业者和内容创作者发现真实用户在搜索特定信息时使用的自然语言词汇。其工作原理与众不同：用户首先设计一个搜索场景（Scenario），描述用户遇到某个问题时可能进行的搜索行为，然后将场景分享给自己的朋友、同事、社交媒体粉丝或客户，让他们在真实的 Google 搜索框中输入他们会用的搜索词，这些词汇被收集汇总成关键词列表。这种方法的核心价值在于获取普通用户自然使用的语言，而不是 SEO 从业者凭经验预设的专业词汇，从而发现大量被传统关键词工具忽略的长尾词和自然语言搜索词。Seed Keywords 完全免费，界面极其简洁，创建场景和收集结果非常方便。生成的关键词列表可以导出并导入到 Google Keywords Planner 等工具中进行搜索量验证。Seed Keywords 更多是一种方法论的体现而非功能复杂的工具，适合希望从用户视角出发进行关键词研究的 SEO 从业者和内容营销人员，特别适合在已有用户群体或受访者资源的情况下使用。
+

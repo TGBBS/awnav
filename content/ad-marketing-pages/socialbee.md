@@ -1,7 +1,7 @@
----
+﻿---
 title: SocialBee
 description: 一款自动化社交媒体管理工具
-seoTitle: SocialBee - 详细介绍与评价 | 007出海导航
+seoTitle: SocialBee - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/socialbee/
 slug: socialbee
@@ -92,3 +92,4 @@ related:
 ---
 
 SocialBee 是一款功能全面的社交媒体管理和自动化工具，2019年成立于罗马尼亚克卢日-纳波卡。平台帮助个人创作者、自由职业者、中小企业和代理机构高效管理多个社交媒体账号，实现内容计划、发布和分析的一体化管理。SocialBee 最大的特色是其基于分类的内容管理系统，允许用户将内容分组归类（如教育内容、推广内容、用户评价等），并设置每类内容的发布频率和轮换规则，确保内容类型的平衡多样。支持 Facebook、Instagram、Twitter/X、LinkedIn、Pinterest、Google My Business 和 TikTok 等主流平台。AI 写作助手功能帮助用户快速生成和优化社交媒体文案。Canva 集成让用户可以直接在平台内完成图片设计。RSS 源导入功能支持自动将博客内容转化为社交媒体帖子，节省内容创作时间。团队协作功能支持多成员分工管理不同账号和内容审批流程。相比 Buffer 和 Hootsuite，SocialBee 在内容分类管理和自动化方面更具特色，价格也更具竞争力。适合内容密集型的中小企业和社交媒体代理机构。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: CrazyDomains
 description: 一家专业的域名注册商
-seoTitle: CrazyDomains - 详细介绍与评价 | 007出海导航
+seoTitle: CrazyDomains - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/crazydomains/
 slug: crazydomains
@@ -92,3 +92,4 @@ related:
 ---
 
 CrazyDomains 是一家成立于2000年的澳大利亚域名注册商，总部位于澳大利亚珀斯，是澳大利亚和亚太地区最知名的域名注册服务提供商之一。平台提供域名注册、网站托管、云主机、SSL证书、网站建设工具等一站式网络服务，覆盖澳大利亚、马来西亚、新加坡、印度等多个亚太市场，尤其在东南亚地区具有较强的品牌影响力。CrazyDomains 以简单易用的界面设计和面向非技术用户的服务理念著称，提供拖拽式网站建设工具，帮助没有技术背景的用户快速建站。平台支持澳大利亚特有的 .com.au、.net.au 等本地顶级域名，并能为本地企业提供合规注册服务。在定价方面，CrazyDomains 经常推出大折扣促销，首年注册价格极为低廉，但续费价格相对较高。客服支持本地化，提供澳大利亚本地电话支持和在线聊天，非常适合澳大利亚和东南亚地区的中小企业和个人用户。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: OpenCV
 description: 一个开源的计算机视觉库
-seoTitle: OpenCV - 详细介绍与评价 | 007出海导航
+seoTitle: OpenCV - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/opencv/
 slug: opencv
@@ -92,3 +92,4 @@ related:
 ---
 
 OpenCV（Open Source Computer Vision Library）是全球最广泛使用的开源计算机视觉库，最初由英特尔公司于 1999 年开发，现已成为计算机视觉领域的事实标准。OpenCV 提供了超过 2500 种优化算法，涵盖图像处理、视频分析、目标检测与识别、人脸识别、特征提取、相机标定、3D 重建等计算机视觉各个方向。它支持 C++、Python、Java 等主流语言，并可在 Windows、Linux、macOS、Android、iOS 等多种平台上运行，也支持 GPU 加速（CUDA）。OpenCV 在学术研究、工业检测、安防监控、自动驾驶、医疗影像、机器人视觉等众多领域有广泛应用。Python 接口的 opencv-python 包使其在数据科学和深度学习社区中极为流行，常与 NumPy、PyTorch、TensorFlow 等框架配合使用。OpenCV 至今已有超过 4700 万次下载，是全球下载量最大的科学计算库之一。对于任何涉及图像或视频处理的项目，OpenCV 几乎是不可或缺的工具。
+

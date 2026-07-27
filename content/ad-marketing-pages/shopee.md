@@ -1,7 +1,7 @@
----
+﻿---
 title: Shopee
 description: Shopee是东南亚及中国台湾地区领先的电商平台
-seoTitle: Shopee - 详细介绍与评价 | 007出海导航
+seoTitle: Shopee - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/shopee/
 slug: shopee
@@ -92,3 +92,4 @@ related:
 ---
 
 Shopee 是东南亚和中国台湾地区领先的电商平台，由 Sea Limited（冬海集团）于2015年推出，总部位于新加坡。平台覆盖新加坡、马来西亚、印度尼西亚、泰国、越南、菲律宾、台湾等多个市场，是东南亚电商市场的头部玩家之一。Shopee 以移动端优先的产品设计、低门槛的卖家入驻政策和丰富的营销活动（如双11、双12大促）快速积累了庞大的用户基础。平台提供 Shopee Mall（品牌官方店）、Shopee 保障等买家保障机制，并通过 ShopeePay 等金融服务增强生态黏性。Shopee 深受价格敏感型消费者欢迎，适合希望进入东南亚市场的中国跨境卖家，以及当地消费者日常购物。
+

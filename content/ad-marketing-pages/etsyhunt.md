@@ -1,7 +1,7 @@
----
+﻿---
 title: EtsyHunt
 description: 一款在线选品工具
-seoTitle: EtsyHunt - 详细介绍与评价 | 007出海导航
+seoTitle: EtsyHunt - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/etsyhunt/
 slug: etsyhunt
@@ -72,3 +72,4 @@ related:
 ---
 
 EtsyHunt 是专为 Etsy 卖家打造的数据分析和选品工具，通过深度挖掘 Etsy 平台数据，帮助卖家发现热销商品、分析市场趋势、研究竞争对手店铺，从而优化选品策略和提升店铺排名。工具提供商品关键词研究、店铺流量分析、爆款商品识别、竞品标签分析等功能，是 Etsy 卖家进行精细化运营的重要助手。EtsyHunt 还提供 Chrome 插件，方便卖家在浏览 Etsy 时直接查看商品的销量、评价数、评分等关键指标。平台数据覆盖数百万个 Etsy 店铺和商品，更新频率较高。EtsyHunt 适合在 Etsy 上销售手工艺品、打印品、个性化商品的卖家，以及希望系统化运营 Etsy 店铺的创作者和电商从业者。
+

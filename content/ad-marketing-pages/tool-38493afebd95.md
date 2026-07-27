@@ -1,7 +1,7 @@
----
+﻿---
 title: FB广告管理工具
 description: Facebook广告管理工具
-seoTitle: FB广告管理工具 - 详细介绍与评价 | 007出海导航
+seoTitle: FB广告管理工具 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/fb%E5%B9%BF%E5%91%8A%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/
 slug: fb广告管理工具
@@ -92,3 +92,4 @@ related:
 ---
 
 Facebook 广告管理工具（Ads Manager）是 Meta 官方提供的核心广告投放和管理平台，是所有 Facebook 和 Instagram 广告活动的创建、管理、监控和优化的中枢界面。广告管理工具采用三层结构组织广告：广告系列（Campaign）、广告组（Ad Set）和广告（Ad），每个层级分别控制营销目标、受众定向与预算，以及广告素材和格式。主要功能包括：广告系列创建（支持15+种营销目标，如品牌知名度、转化量、应用安装等）、受众定向（核心受众、自定义受众、类似受众）、预算与出价管理、A/B 测试、广告数据报告与分析、自动化广告规则、广告账单管理以及广告健康度检查。对于任何在 Facebook 平台投放广告的企业和个人，Ads Manager 是不可或缺的官方工具。第三方广告管理工具（如 AdEspresso、Revealbot 等）通常基于 Ads Manager 的功能进行扩展，但 Ads Manager 本身提供最直接、最完整的广告控制能力。熟练掌握 Ads Manager 是 Facebook 广告从业者的核心技能要求。
+

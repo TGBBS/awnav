@@ -16,7 +16,7 @@ import yaml
 ROOT = Path(r"E:\awnav\awnav.com")
 DATA_FILE = ROOT / "data" / "overseas_marketing.yml"
 OUTPUT_DIR = ROOT / "content" / "ad-marketing-pages"
-CACHE_DIR = ROOT / ".cache" / "007-tool-pages"
+CACHE_DIR = ROOT / ".cache" / "ad-marketing-tool-pages"
 REQUEST_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "

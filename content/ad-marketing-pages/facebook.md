@@ -1,7 +1,7 @@
----
+﻿---
 title: Facebook
 description: 全球最大的的社交平台
-seoTitle: Facebook - 详细介绍与评价 | 007出海导航
+seoTitle: Facebook - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/facebook/
 slug: facebook
@@ -92,3 +92,4 @@ related:
 ---
 
 Facebook 是全球最大的社交网络平台，由马克·扎克伯格（Mark Zuckerberg）于 2004 年创立，总部位于美国加利福尼亚州门洛帕克。作为 Meta 旗下的核心产品，Facebook 拥有超过 30 亿月活跃用户，覆盖全球几乎所有国家和地区。Facebook 提供丰富的社交功能，包括个人资料页、好友系统、动态消息、群组、活动、Marketplace 电商市场、Stories 故事、Facebook Live 直播等。对于商业用户，Facebook 提供了强大的广告投放平台（Facebook Ads），支持精准定向投放，覆盖全球广告受众，是全球第二大数字广告平台（仅次于 Google）。Facebook 还提供 Facebook Pages（公共主页）功能，供品牌和企业建立官方存在。对于跨境电商从业者，Facebook 是进行品牌推广、产品销售和用户获取的核心渠道之一。Facebook 与 Instagram 和 WhatsApp 共同构成 Meta 的社交媒体生态系统。
+

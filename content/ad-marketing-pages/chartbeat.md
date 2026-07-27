@@ -1,7 +1,7 @@
----
+﻿---
 title: Chartbeat
 description: 一款基于网络的实时分析工具
-seoTitle: Chartbeat - 详细介绍与评价 | 007出海导航
+seoTitle: Chartbeat - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/chartbeat/
 slug: chartbeat
@@ -66,3 +66,4 @@ related:
 ---
 
 一款基于网络的实时分析工具
+

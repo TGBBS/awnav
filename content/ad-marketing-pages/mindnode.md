@@ -1,7 +1,7 @@
----
+﻿---
 title: MindNode
 description: 思维导图应用程序
-seoTitle: MindNode - 详细介绍与评价 | 007出海导航
+seoTitle: MindNode - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/mindnode/
 slug: mindnode
@@ -92,3 +92,4 @@ related:
 ---
 
 MindNode 是一款专为 Apple 生态系统设计的思维导图应用程序，以简洁优雅的界面和流畅的操作体验著称，深受 Mac 和 iOS 用户的喜爱。MindNode 让用户能够快速捕捉和整理想法，通过可视化的节点和连线构建思维导图，支持无限画布扩展。应用提供丰富的样式自定义选项，包括多种主题、颜色方案和节点样式，让思维导图既实用又美观。核心功能包括：快速输入和折叠节点、添加图片和链接、任务清单集成（支持将节点转为待办事项）、导出为多种格式（PDF、PNG、Markdown、OPML等）以及与其他 Apple 生态应用的深度集成。MindNode 支持 iCloud 同步，在 Mac、iPhone、iPad 之间无缝切换。主要面向需要进行头脑风暴、规划项目、整理学习笔记的学生、创意工作者、项目经理和写作者。MindNode 采用订阅制，提供免费试用版，完整功能需订阅使用。
+

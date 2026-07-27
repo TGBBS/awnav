@@ -1,7 +1,7 @@
----
+﻿---
 title: Decktopus AI
 description: 一款基于人工智能技术的在线演示文稿制作工具
-seoTitle: Decktopus AI - 详细介绍与评价 | 007出海导航
+seoTitle: Decktopus AI - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/decktopus-ai/
 slug: decktopus-ai
@@ -91,3 +91,4 @@ related:
 ---
 
 Decktopus AI 是一款基于人工智能技术的在线演示文稿（PPT）自动生成工具，用户只需输入演讲主题或上传相关内容，AI 就能在几分钟内自动生成结构完整、设计精美的演示文稿。Decktopus AI 的核心优势在于将内容生成与视觉设计一体化：AI 不仅负责文字内容的框架搭建，还自动匹配合适的主题、布局、配色和配图，省去了在 PowerPoint 或 Keynote 中反复调整格式的时间。主要功能包括：AI 演示文稿生成、丰富模板库、在线分享与嵌入、演讲备注自动生成、表单嵌入等。产品特别适合需要快速制作演示的场景，如销售 Pitch、课堂教学、商业提案、个人演讲等。Decktopus AI 支持多语言内容生成，平台界面简洁，设计即时预览，适合无设计背景的用户。对于追求效率、希望快速生成「足够好」演示文稿的用户，Decktopus AI 是一款值得尝试的工具。
+

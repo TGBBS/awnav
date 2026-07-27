@@ -1,7 +1,7 @@
----
+﻿---
 title: Designevo
 description: 随心所欲的设计你的专属Logo
-seoTitle: Designevo - 详细介绍与评价 | 007出海导航
+seoTitle: Designevo - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/designevo/
 slug: designevo
@@ -92,3 +92,4 @@ related:
 ---
 
 DesignEvo 是一款功能强大的在线Logo设计工具，由PearlMountain公司开发，致力于让每个人都能轻松创建专业水准的品牌标志。平台提供超过10000个精心设计的Logo模板，涵盖科技、餐饮、教育、时尚、健康等各行各业，用户无需任何设计经验即可快速上手。DesignEvo的编辑器功能直观，支持自定义图标、字体、颜色、形状等元素，还内置了丰富的图标库供用户选择。无论是初创公司、自由职业者还是小型企业主，都能在DesignEvo上找到符合品牌调性的设计方案。平台提供免费版和付费版，免费版可下载小尺寸水印Logo，付费版则支持高分辨率PNG、SVG等多种格式下载，满足各类商业使用需求。DesignEvo还支持一键导出到社交媒体、名片等场景，极大提升了设计效率，是中小企业和个人品牌建设的理想选择。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Adsbridge
 description: 有API对接网盟，能够在线制作lander
-seoTitle: Adsbridge - 详细介绍与评价 | 007出海导航
+seoTitle: Adsbridge - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/adsbridge/
 slug: adsbridge
@@ -92,3 +92,4 @@ related:
 ---
 
 AdsBridge 是一款功能全面的云端广告追踪和流量分发平台，在联盟营销社区中拥有良好口碑。它将广告追踪、落地页制作和流量智能分发三大核心功能集于一体，是中级联盟营销从业者的高性价比选择。AdsBridge 的独特优势在于内置的落地页编辑器：用户无需额外的建站工具，可以直接在平台内创建和托管落地页，节省了额外订阅费用。同时，AdsBridge 支持与 200+ 广告网络和联盟平台的 API 对接，可以自动同步 Offer 信息和成本数据，减少手动录入工作。主要功能包括：多维度流量追踪与报表、智能流量分配规则（基于设备、地区、语言等）、A/B 落地页测试、自动成本更新（通过 API 对接）、Bot 过滤以及自定义域名支持。AdsBridge 采用云端 SaaS 模式，无需自行搭建服务器，开箱即用。相比 Keitaro 等自托管工具，AdsBridge 在便捷性上更具优势，但数据完全控制权相对较弱。适合希望快速开始追踪、不想在技术运维上花时间的联盟营销从业者。
+

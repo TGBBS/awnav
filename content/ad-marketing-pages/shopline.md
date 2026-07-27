@@ -1,7 +1,7 @@
----
+﻿---
 title: SHOPLINE
 description: xshoppy是当下主流的跨境电商平台之一,操作简单
-seoTitle: SHOPLINE - 详细介绍与评价 | 007出海导航
+seoTitle: SHOPLINE - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/shopline/
 slug: shopline
@@ -92,3 +92,4 @@ related:
 ---
 
 SHOPLINE 是一家面向全球商家的 SaaS 电商平台，总部位于香港，在中国大陆、台湾、东南亚等市场拥有广泛的用户群体。平台致力于为品牌商和中小卖家提供一站式的在线商店搭建、多渠道销售、营销自动化和数据分析解决方案。SHOPLINE 支持独立站、多平台同步管理（连接淘宝、亚马逊、Facebook Shop等），并提供完善的直播电商功能，适应中国大陆及东南亚市场的社交电商趋势。平台的本土化功能非常突出，尤其在亚洲市场具有竞争优势。注意：该工具的 URL 指向 xshoppy.com，两者可能存在关联或为同一生态下的产品。SHOPLINE 适合希望在亚洲市场建立多渠道电商业务的品牌商和独立卖家。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Notion
 description: 一款简单而强大的多功能协作和组织工具
-seoTitle: Notion - 详细介绍与评价 | 007出海导航
+seoTitle: Notion - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/notion/
 slug: notion
@@ -71,3 +71,4 @@ related:
 ---
 
 一款简单而强大的多功能协作和组织工具
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Social Media Examiner
 description: 学习各种社交渠道的市场营销方法
-seoTitle: Social Media Examiner - 详细介绍与评价 | 007出海导航
+seoTitle: Social Media Examiner - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/social-media-examiner/
 slug: social-media-examiner
@@ -93,3 +93,4 @@ related:
 ---
 
 Social Media Examiner（SME）创立于2009年，是全球最大的面向营销人员的社交媒体营销资讯和教育平台。网站由Michael Stelzner创办，专注于帮助企业和营销人员掌握Facebook、Instagram、Twitter、LinkedIn、YouTube、TikTok等各大社交媒体平台的营销方法。SME以其全面、实操性强的社交媒体营销指南著称，内容从平台功能介绍到广告投放策略、内容创作技巧、数据分析方法，覆盖了社交媒体营销的方方面面。平台每年举办「Social Media Marketing World」年度峰会，是全球规模最大的社交媒体营销线下活动之一，吸引数千名营销人员参与。SME还运营着高质量的Podcast节目和在线培训课程，形成了多元化的内容生态。对于希望系统提升社交媒体营销能力的市场营销人员、内容创作者和企业主来说，Social Media Examiner是最权威的英文学习资源之一。
+

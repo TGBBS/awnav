@@ -1,7 +1,7 @@
----
+﻿---
 title: Turbo Ad Finder
 description: facebook插件，让facebook的信息流只出现广告
-seoTitle: Turbo Ad Finder - 详细介绍与评价 | 007出海导航
+seoTitle: Turbo Ad Finder - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/turbo-ad-finder/
 slug: turbo-ad-finder
@@ -91,3 +91,4 @@ related:
 ---
 
 Turbo Ad Finder 是一款 Chrome 浏览器扩展，专为 Facebook 广告竞品分析而设计。安装并激活后，它能过滤 Facebook 信息流（News Feed），使信息流中只显示广告内容，屏蔽掉所有好友动态和非广告帖子，从而让用户可以专注地浏览和研究 Facebook 广告创意。对于数字营销人员和 Facebook 广告投放者来说，研究竞争对手的广告创意、文案风格、广告格式和投放策略是优化自身广告的重要方法。Turbo Ad Finder 大大简化了这一过程，让广告研究变得高效直接。用户不需要在大量非广告内容中寻找广告，可以快速浏览大量广告样本，收集灵感和分析竞品策略。工具操作简单，只需点击扩展图标即可开关广告过滤模式。需要注意的是，该工具依赖 Facebook 信息流的正常显示机制，Facebook 平台的算法更新可能影响工具的有效性。对于专业的 Facebook 广告创意研究，也可以配合 Meta 广告库（Ad Library）使用，进行更系统化的广告创意分析。适合 Facebook 广告优化师、创意策划和社交媒体营销人员。
+

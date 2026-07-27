@@ -1,7 +1,7 @@
----
+﻿---
 title: IBM Watson
 description: IBM公司旗下的一个人工智能平台
-seoTitle: IBM Watson - 详细介绍与评价 | 007出海导航
+seoTitle: IBM Watson - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/ibm-watson/
 slug: ibm-watson
@@ -92,3 +92,4 @@ related:
 ---
 
 IBM Watson 是 IBM 公司旗下的企业级人工智能平台，以 2011 年在智力竞赛节目《危险边缘》中击败人类冠军而声名大噪。Watson 提供一套完整的 AI 服务套件，包括自然语言处理（Watson NLP）、语音识别与合成（Watson Speech）、视觉识别（Watson Visual Recognition）、机器学习（Watson Machine Learning）、AI 助手（Watson Assistant）等核心服务。Watson 在企业级 AI 应用领域有深厚积累，特别是在医疗健康、金融服务、客户服务、供应链管理等行业有大量实际部署案例。Watson Assistant 被众多企业用于构建智能客服机器人，能够处理多轮对话并与企业系统集成。IBM Watson 通过 IBM Cloud 提供，支持私有云和混合云部署，满足企业对数据安全和合规的要求。然而随着 OpenAI 等公司的崛起，Watson 在 AI 领域的技术领先优势已逐渐减弱。IBM 已将 Watson 品牌重塑为 watsonx，聚焦企业级生成式 AI 平台，为企业提供负责任的 AI 解决方案。
+

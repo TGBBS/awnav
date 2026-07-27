@@ -1,7 +1,7 @@
----
+﻿---
 title: Crazy Egg
 description: 一款基于网络的A/B测试和用户行为分析工具
-seoTitle: Crazy Egg - 详细介绍与评价 | 007出海导航
+seoTitle: Crazy Egg - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/crazy-egg/
 slug: crazy-egg
@@ -92,3 +92,4 @@ related:
 ---
 
 Crazy Egg 是一款专注于用户行为可视化分析和 A/B 测试的网站优化工具，帮助网站运营者直观了解访客如何与页面交互，从而优化页面设计和转化率。其最著名的功能是热图分析（Heatmap），通过颜色热度直观展示页面上哪些区域获得了最多点击和关注，让运营者无需阅读复杂数据报表就能快速发现用户行为规律。Crazy Egg 提供多种可视化分析工具：点击热图（Heatmap，展示点击分布）、滚动图（Scrollmap，展示用户向下滚动的深度）、保形图（Confetti，按来源/设备等维度区分点击）以及用户录屏回放（Recordings，记录个别用户的完整浏览路径）。除可视化分析外，Crazy Egg 还提供完整的 A/B 测试功能，允许用户在不同版本的页面设计之间进行对比测试，用数据驱动页面优化决策。设置简单，通常只需在页面添加一段 JavaScript 代码即可开始收集数据。适合电商网站、落地页设计师、CRO（转化率优化）专员和任何希望提升网站转化效率的运营者。是 CRO 工具市场中性价比和知名度均较高的选择。
+

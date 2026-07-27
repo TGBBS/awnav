@@ -1,7 +1,7 @@
----
+﻿---
 title: OpenClaw 阿里云部署
 description: 通过阿里云百炼平台一键部署OpenClaw，接入通义千问系列模型
-seoTitle: OpenClaw 阿里云部署 - 详细介绍与评价 | 007出海导航
+seoTitle: OpenClaw 阿里云部署 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/openclaw-aliyun/
 slug: openclaw-aliyun
@@ -72,3 +72,4 @@ related:
 ---
 
 OpenClaw 阿里云部署版是阿里云百炼平台（Model Studio）提供的 OpenClaw 一键部署解决方案，通过官方帮助文档引导用户快速在阿里云基础设施上搭建 OpenClaw 实例并接入通义千问系列模型。该方案专为希望使用云端算力运行 OpenClaw 但不想自行运维服务器的用户设计。用户无需深入了解容器化部署、环境配置等技术细节，只需在阿里云控制台按照文档步骤操作，即可在数分钟内获得一个稳定运行的 OpenClaw 实例。该方案深度集成了通义千问系列模型（包括 Qwen-Max、Qwen-Plus、Qwen-Turbo 等），支持按 token 计费，成本可控。同时享受阿里云的网络加速、弹性扩容、高可用等云服务特性，适合对稳定性有要求的企业用户和个人开发者。对于已经在使用阿里云生态（如阿里云 OSS、RDS、函数计算等）的用户来说，该方案可以与现有云资源无缝联动，构建更完整的 AI 自动化工作流。
+

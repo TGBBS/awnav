@@ -1,7 +1,7 @@
----
+﻿---
 title: Ruby
 description: 一种高级编程语言
-seoTitle: Ruby - 详细介绍与评价 | 007出海导航
+seoTitle: Ruby - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/ruby/
 slug: ruby
@@ -92,3 +92,4 @@ related:
 ---
 
 Ruby是一种高级、面向对象的动态编程语言，由日本程序员松本行弘（Matz）于1995年发布。Ruby的设计哲学强调编程的愉悦性和开发者的生产力，语法优雅自然，接近人类语言的表达方式，被誉为'程序员的最爱'。Ruby遵循最小惊讶原则（POLA），让代码的行为符合开发者的直觉预期。Ruby一切皆对象的纯面向对象设计使代码结构高度一致，易于理解和维护。Ruby on Rails框架的诞生是Ruby历史上的里程碑事件，Rails开创性地引入了'约定优于配置'的开发理念，极大加速了Web应用的开发速度，影响了整个Web开发生态的发展。众多知名互联网公司和产品（包括GitHub、Shopify、Airbnb等）早期使用Ruby on Rails构建。Ruby拥有活跃的开发者社区，RubyGems包管理系统提供了超过15万个gem包。近年来Ruby持续更新进化，Ruby 3.x版本在性能方面取得了重大突破，实现了'Ruby 3×3'性能目标。适合Web开发者（特别是Rails项目）、创业公司快速原型开发以及注重代码优雅性的编程爱好者。
+

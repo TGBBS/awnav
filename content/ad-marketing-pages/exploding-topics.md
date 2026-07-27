@@ -1,7 +1,7 @@
----
+﻿---
 title: Exploding Topics
 description: 一种基于机器学习的技术
-seoTitle: Exploding Topics - 详细介绍与评价 | 007出海导航
+seoTitle: Exploding Topics - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/exploding-topics/
 slug: exploding-topics
@@ -66,3 +66,4 @@ related:
 ---
 
 一种基于机器学习的技术
+

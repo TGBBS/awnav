@@ -1,7 +1,7 @@
----
+﻿---
 title: Antbrowser
 description: 蚂蚁浏览器，战斗民族俄罗斯出品
-seoTitle: Antbrowser - 详细介绍与评价 | 007出海导航
+seoTitle: Antbrowser - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/antbrowser/
 slug: antbrowser
@@ -91,3 +91,4 @@ related:
 ---
 
 Antbrowser（蚂蚁浏览器）是由俄罗斯团队开发的多账号防关联指纹浏览器，在俄语区和东欧地区拥有一定的用户群体。产品基于Chromium内核，通过修改浏览器指纹参数实现账号隔离，支持创建多个独立的浏览器配置文件。Antbrowser主要面向社交媒体营销人员、广告投手和流量运营从业者，支持Facebook、Instagram、VKontakte（俄罗斯社交网络）等平台的多账号管理。核心功能包括：浏览器指纹定制（UA、分辨率、时区、语言、Canvas等）、代理IP绑定、Cookie管理、独立配置文件存储。产品以其轻量级和易用性著称，安装部署简单，适合个人用户和小型团队使用。Antbrowser提供免费版本和付费版本，付费版解锁更多配置文件数量和高级功能。相较于Multilogin等国际头部产品，Antbrowser价格更为亲民，在预算有限的用户中有一定吸引力。适合需要基础指纹浏览器功能、主要在俄语区平台运营的用户。
+

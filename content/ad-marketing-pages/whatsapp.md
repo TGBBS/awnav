@@ -1,7 +1,7 @@
----
+﻿---
 title: WhatsApp
 description: facebook旗下的全球性移动聊天工具
-seoTitle: WhatsApp - 详细介绍与评价 | 007出海导航
+seoTitle: WhatsApp - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/whatsapp/
 slug: whatsapp
@@ -92,3 +92,4 @@ related:
 ---
 
 WhatsApp 是全球使用最广泛的即时通讯应用之一，由扬·库姆（Jan Koum）和布莱恩·艾克顿（Brian Acton）于 2009 年创立，2014 年被 Facebook（现 Meta）以 190 亿美元收购。WhatsApp 拥有超过 20 亿月活跃用户，在全球 180 多个国家广泛使用，特别在印度、巴西、欧洲和东南亚市场占据主导地位。WhatsApp 提供免费的文字、语音、视频通话和文件分享服务，以端对端加密著称，保护用户隐私。对于商业用户，WhatsApp 推出了 WhatsApp Business 应用和 WhatsApp Business API，允许企业建立商业主页、与客户直接沟通、设置自动回复，并通过 API 接入客户服务系统实现大规模客户互动。对于跨境电商企业，WhatsApp Business 是在海外市场开展客户服务、产品咨询和销售转化的重要工具，尤其在新兴市场具有不可替代的渗透率。
+

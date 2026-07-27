@@ -1,7 +1,7 @@
----
+﻿---
 title: PowerShell
 description: 一种基于命令行和脚本的跨平台Shell环境和脚本语言
-seoTitle: PowerShell - 详细介绍与评价 | 007出海导航
+seoTitle: PowerShell - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/powershell/
 slug: powershell
@@ -92,3 +92,4 @@ related:
 ---
 
 PowerShell是微软开发的跨平台命令行Shell环境和脚本语言，基于.NET框架构建。初始版本于2006年作为Windows专有工具发布，2016年开源并推出跨平台版本PowerShell Core（现为PowerShell 7+），支持Windows、macOS和Linux系统。PowerShell的核心创新在于其面向对象的管道机制，不同于传统Shell将纯文本在管道中传递，PowerShell传递的是.NET对象，使数据处理和命令链接更加强大灵活。PowerShell与Windows系统深度集成，提供对Active Directory、Exchange、Azure、Office 365等微软产品生态的原生管理能力，是Windows系统管理员和企业IT运维人员的核心工具。脚本语言特性完善，支持函数、类、错误处理、模块系统等高级编程特性，能够编写复杂的自动化管理脚本。PowerShell Gallery模块库提供数千个社区和官方模块，扩展功能丰富。与Azure云服务的深度集成使其成为Azure云资源管理的首选命令行工具。适合Windows系统管理员、企业IT运维工程师、Azure云架构师以及各类需要自动化Windows和微软生态管理任务的技术人员。
+

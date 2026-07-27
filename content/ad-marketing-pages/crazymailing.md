@@ -1,7 +1,7 @@
----
+﻿---
 title: Crazymailing
 description: Crazymailing临时邮箱，有效时间30分钟
-seoTitle: Crazymailing - 详细介绍与评价 | 007出海导航
+seoTitle: Crazymailing - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/crazymailing/
 slug: crazymailing
@@ -91,3 +91,4 @@ related:
 ---
 
 CrazyMailing 是一款提供临时电子邮箱服务的工具，以 30 分钟有效期的临时邮件地址为核心功能。用户访问平台后可立即获得一个随机生成的临时邮件地址，该地址在 30 分钟内可接收来自任意发件人的邮件，超过有效期后地址和邮件内容将自动清除。CrazyMailing 的 30 分钟有效期处于超短时效（10分钟）和中等时效（60分钟）之间，对大多数需要等待验证邮件的场景来说较为合适。平台界面提供英文版本，操作简单，无需注册即可直接使用。该工具主要面向需要保护真实邮箱隐私、完成一次性注册验证的普通用户。相比大型临时邮件平台，CrazyMailing 在功能丰富度和用户基础方面规模较小，但提供了基本的临时邮件接收功能，满足日常简单使用需求。适合作为临时邮件工具备选方案，在其他平台不可用时作为替代使用。
+

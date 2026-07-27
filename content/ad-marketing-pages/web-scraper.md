@@ -1,7 +1,7 @@
----
+﻿---
 title: Web Scraper
 description: 非常好用的网页爬虫插件工具
-seoTitle: Web Scraper - 详细介绍与评价 | 007出海导航
+seoTitle: Web Scraper - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/web-scraper/
 slug: web-scraper
@@ -95,3 +95,4 @@ related:
 ---
 
 Web Scraper 是一款功能强大且易用的 Chrome 浏览器扩展，专为非技术人员提供可视化网页数据抓取能力，无需编写代码即可从任何网站提取数据。用户通过点击界面定义网页结构，创建抓取计划（Sitemap），然后让工具自动浏览网站并按照设定的结构提取数据，最终导出为 CSV 或 JSON 格式。Web Scraper 支持多种复杂场景，包括翻页抓取、无限滚动加载、下拉菜单选择、链接跟踪等。它被广泛用于市场调研（竞品价格监控）、房产数据采集、招聘信息汇总、学术研究数据收集、电商选品分析等场景。工具提供免费版（基于浏览器运行）和付费云端版（支持定时抓取和云端存储），满足不同规模的数据需求。Web Scraper 还提供详细的教程和活跃的社区支持，帮助新手快速上手。对于数据分析师、市场调研人员、电商从业者和研究人员来说，Web Scraper 是最实用的免费数据采集工具之一，极大降低了数据获取的门槛。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Sms-Activate
 description: $1起充，提供50多个国家的虚拟号码让您接收短信和来电
-seoTitle: Sms-Activate - 详细介绍与评价 | 007出海导航
+seoTitle: Sms-Activate - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sms-activate/
 slug: sms-activate
@@ -93,3 +93,4 @@ related:
 ---
 
 SMS-Activate 是全球领先的虚拟手机号码接码平台，提供来自 50 多个国家和地区的虚拟号码，支持接收 SMS 短信验证码。平台主要用于注册 WhatsApp、Telegram、Google、Facebook、Instagram、TikTok 等各类热门应用和网站时所需的手机验证。用户只需充值最低 1 美元即可开始使用，按次计费，单次接码价格从几美分到数十美分不等，价格亲民。平台界面支持中文，操作简便，提供实时状态查询，号码可在规定时间内无限次接收指定服务的验证码。除短信接码外，还提供来电接听（语音验证）服务。SMS-Activate 适合需要注册多个账号的跨境电商卖家、社交媒体营销人员、海外业务拓展团队，以及需要保护个人手机号隐私的普通用户。平台还提供 API 接口，支持开发者集成自动化接码流程。是目前市场上口碑较好、覆盖范围最广的接码平台之一。
+

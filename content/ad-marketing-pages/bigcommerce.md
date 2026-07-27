@@ -1,7 +1,7 @@
----
+﻿---
 title: Bigcommerce
 description: 一家位于德克萨斯州的在线零售解决方案提供商
-seoTitle: Bigcommerce - 详细介绍与评价 | 007出海导航
+seoTitle: Bigcommerce - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/bigcommerce/
 slug: bigcommerce
@@ -92,3 +92,4 @@ related:
 ---
 
 BigCommerce 是一家总部位于美国得克萨斯州奥斯汀的 SaaS 电商平台，成立于2009年，在澳大利亚创立，后将总部迁至美国。BigCommerce 为全球超过6万家在线商店提供服务，是 Shopify 的主要竞争对手之一，尤其在中大型企业市场（BigCommerce Enterprise）具有较强的竞争力。平台的核心优势在于其强大的原生功能——无需大量插件即可获得多币种、多语言、高级SEO工具、B2B批发功能等企业级特性。BigCommerce 对第三方平台开放，不收取额外交易费用（仅限使用第三方支付时），对高销售额商家而言成本相对较低。平台还提供无头电商 API，支持灵活的前端定制。BigCommerce 适合年销售额在100万美元以上、业务复杂度较高的中大型电商品牌和企业。
+

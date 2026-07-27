@@ -1,7 +1,7 @@
----
+﻿---
 title: Playerup
 description: Playerup-Marketplace to Buy and Sell Facebook Accounts. Facebook Account for Sale.
-seoTitle: Playerup - 详细介绍与评价 | 007出海导航
+seoTitle: Playerup - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/playerup/
 slug: playerup
@@ -92,3 +92,4 @@ related:
 ---
 
 Playerup 是一个综合性的数字资产交易市场，最初以游戏账号买卖起家，后来扩展到社交媒体账号、网站域名等数字资产的交易。在社交媒体账号板块，Playerup 提供 Facebook、Instagram、Twitter、YouTube 等平台账号的买卖服务，买家和卖家均可在平台上发布交易信息。平台采用中介托管机制保障交易安全，买卖双方通过平台完成资金托管和账号交接。Playerup 的用户群体较为广泛，包括游戏玩家、社交媒体营销人员、数字资产投资者等。平台历史较长，积累了大量用户评价和交易记录，透明度相对较高。平台收取一定比例的交易手续费，并提供争议解决机制。用户在使用前需了解各平台的账号转让政策及相关风险。
+

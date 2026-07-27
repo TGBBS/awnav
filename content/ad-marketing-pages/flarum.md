@@ -1,7 +1,7 @@
----
+﻿---
 title: Flarum
 description: 一款开源的论坛软件
-seoTitle: Flarum - 详细介绍与评价 | 007出海导航
+seoTitle: Flarum - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/flarum/
 slug: flarum
@@ -93,3 +93,4 @@ related:
 ---
 
 Flarum是一款现代化的开源论坛软件，以其优雅简洁的用户界面和出色的用户体验著称。项目于2014年通过Kickstarter众筹启动，由Toby Zerner和Franz Lanting创建，目标是打造「下一代讨论平台」，将论坛的简单性与现代Web应用的交互体验完美结合。Flarum采用PHP后端和Vue.js前端构建，实现了流畅的单页应用（SPA）体验，用户无需刷新页面即可进行各类交互操作。软件界面设计精美，三列布局（话题列表、讨论内容、用户侧边栏）独具特色，在同类论坛软件中辨识度极高。Flarum拥有活跃的扩展生态系统，社区开发了数百个插件覆盖SEO、社交登录、内容管理等各类需求。项目在GitHub上持续活跃维护，版本迭代稳定。Flarum对非技术用户相对友好，管理后台功能完善，是当前最受欢迎的现代化开源论坛软件之一，特别适合追求颜值和用户体验的社区项目。
+

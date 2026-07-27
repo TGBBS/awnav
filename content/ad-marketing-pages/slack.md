@@ -1,7 +1,7 @@
----
+﻿---
 title: Slack
 description: 团队协作工具
-seoTitle: Slack - 详细介绍与评价 | 007出海导航
+seoTitle: Slack - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/slack/
 slug: slack
@@ -93,3 +93,4 @@ related:
 ---
 
 Slack 是全球最受欢迎的企业即时通讯与团队协作平台，由 Stewart Butterfield 于2013年创立，2020年被 Salesforce 以约277亿美元收购。Slack 以频道（Channel）为核心组织架构，支持按项目、部门或话题创建专属频道，使团队沟通更加有序高效。平台提供即时消息、文件共享、音视频通话、工作流自动化（Workflow Builder）以及强大的应用集成能力（支持2400+款第三方工具，包括 Google Workspace、GitHub、Zoom、Jira 等）。近年来，Slack 深度整合 AI 功能，推出 Slack AI，可自动总结频道对话、搜索历史信息、生成工作摘要。Slack 适用于初创公司到500强企业的各类规模团队，特别受工程师、产品团队和设计师群体青睐。其开放的 API 生态允许开发者构建自定义机器人和集成，极大扩展了平台的使用场景。目前 Slack 在全球拥有超过3000万日活用户。
+

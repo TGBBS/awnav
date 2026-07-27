@@ -1,7 +1,7 @@
----
+﻿---
 title: ConvertKit
 description: 营销自动化工具
-seoTitle: ConvertKit - 详细介绍与评价 | 007出海导航
+seoTitle: ConvertKit - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/convertkit/
 slug: convertkit
@@ -92,3 +92,4 @@ related:
 ---
 
 ConvertKit 是一款专为内容创作者、博主、播客主和在线课程创作者设计的电子邮件营销平台，由 Nathan Barry 于2013年创立，总部位于美国爱达荷州博伊西。与通用型邮件营销工具不同，ConvertKit 深度聚焦于创作者经济生态，提供专门针对创作者需求设计的功能，包括订阅者标签系统、内容升级表单、自动化漏斗和付费新闻简报（Newsletter）功能。平台的标签和细分系统让创作者可以精细管理订阅者，根据订阅者的兴趣、购买历史和互动行为发送高度个性化的内容。ConvertKit Commerce 功能允许创作者直接在平台上销售数字产品、会员资格和付费新闻简报，无需额外的电商工具。视觉化自动化工作流构建器简洁直观，适合非技术背景的创作者使用。平台社区活跃，提供丰富的创作者教育资源。免费版支持最多1000名订阅者和基础功能，付费版解锁自动化和高级功能。是 YouTube 创作者、独立作家、教育工作者和数字产品创业者的首选工具。
+

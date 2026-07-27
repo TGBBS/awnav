@@ -1,7 +1,7 @@
----
+﻿---
 title: DeepCode
 description: 一款基于机器学习的代码审核工具
-seoTitle: DeepCode - 详细介绍与评价 | 007出海导航
+seoTitle: DeepCode - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/deepcode/
 slug: deepcode
@@ -92,3 +92,4 @@ related:
 ---
 
 DeepCode 是一款基于机器学习的智能代码安全审核工具，由瑞士公司 DeepCode AG 开发，后被 Snyk 于 2020 年收购，并整合为 Snyk Code 产品的核心引擎。DeepCode 通过分析数以亿计的开源代码库来学习代码模式，能够自动检测代码中的安全漏洞、错误和性能问题，并给出修复建议。与传统静态分析工具不同，DeepCode 使用机器学习能够理解代码的语义，而不仅仅是语法层面的规则匹配，因此能发现更复杂的安全问题。DeepCode 支持 JavaScript、TypeScript、Python、Java、C/C++ 等主流语言，并提供 VS Code、IntelliJ 等 IDE 插件以及 GitHub、GitLab、Bitbucket 的集成。被 Snyk 收购后，DeepCode 的技术被深度整合进 Snyk Code，成为 Snyk 安全平台的重要组成部分。DeepCode 特别适合关注代码安全的企业开发团队，以及需要在 CI/CD 流程中自动化代码安全检测的工程团队。
+

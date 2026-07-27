@@ -1,7 +1,7 @@
----
+﻿---
 title: Saleor.io
 description: 一个开源电子商务平台
-seoTitle: Saleor.io - 详细介绍与评价 | 007出海导航
+seoTitle: Saleor.io - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/saleorio/
 slug: saleorio
@@ -92,3 +92,4 @@ related:
 ---
 
 Saleor 是一款基于 Python（Django/GraphQL）构建的开源电商平台，于2013年首次发布，是现代化无头电商（Headless Commerce）架构的代表性平台之一。Saleor 以其先进的 GraphQL API 优先设计、高性能和云原生架构著称，受到技术先进型电商团队的青睐。平台提供完整的电商功能，包括多渠道销售、多货币、动态定价、复杂商品变体、订单管理、CMS 内容管理等，并支持通过 Dashboard（React 管理后台）进行可视化操作。Saleor Cloud 提供托管版本，降低了运维门槛。Saleor 在欧洲电商技术圈中颇受关注，公司总部位于波兰。适合拥有 Python/JavaScript 技术能力、追求现代化技术架构的中大型电商团队和技术型创业公司。
+

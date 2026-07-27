@@ -1,7 +1,7 @@
----
+﻿---
 title: GitHub Copilot
 description: 一种AI 工具，可根据命名或者正在编辑的代码上下文为开发者提供代码建议
-seoTitle: GitHub Copilot - 详细介绍与评价 | 007出海导航
+seoTitle: GitHub Copilot - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/github-copilot/
 slug: github-copilot
@@ -95,3 +95,4 @@ related:
 ---
 
 GitHub Copilot 是由 GitHub 和 OpenAI 联合开发的 AI 编程助手，于 2021 年推出，是目前全球用户最多、最具影响力的 AI 编程工具。Copilot 基于 OpenAI Codex 和后续 GPT 模型训练，通过分析当前代码文件的上下文，实时提供行级和函数级的代码补全建议。GitHub Copilot 深度集成于 VS Code、JetBrains、Neovim 等主流 IDE，提供极为流畅的编程体验。2023年推出的 GitHub Copilot Chat 允许开发者通过自然语言与 AI 对话，讨论代码问题、请求解释或要求生成特定功能。GitHub Copilot X 计划进一步将 AI 能力扩展至 Pull Request 审查、文档生成、CLI 命令建议等场景。Copilot 对超过 30 种编程语言都有良好支持，对 Python、JavaScript、TypeScript、Ruby、Go 等主流语言的表现尤为出色。它被 Airbnb、Stripe 等知名企业广泛采用，全球已有超过 100 万付费开发者订阅。GitHub Copilot 代表了 AI 原生开发工具的标杆，也是每个现代开发者都应该了解和试用的工具。
+

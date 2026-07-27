@@ -1,7 +1,7 @@
----
+﻿---
 title: Snapchat
 description: 深受欧美年轻人喜爱的拍照社交App
-seoTitle: Snapchat - 详细介绍与评价 | 007出海导航
+seoTitle: Snapchat - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/snapchat/
 slug: snapchat
@@ -92,3 +92,4 @@ related:
 ---
 
 Snapchat 是一款以阅后即焚和增强现实（AR）滤镜为核心特色的社交媒体应用，由埃文·斯皮格尔（Evan Spiegel）等人于 2011 年创立，总部位于美国洛杉矶。Snapchat 深受欧美年轻人（尤其是 Z 世代）喜爱，拥有约 4 亿日活跃用户。平台的核心功能包括：阅后即焚图片和视频消息、Stories（24 小时限时故事）、Spotlight（短视频）、地图功能（Snap Map）、AR 滤镜（Lens）和 Discover 内容频道。Snapchat 在 AR 技术方面处于行业领先地位，其创新的 AR 滤镜技术不仅吸引了大量普通用户，也成为品牌营销的创意展示窗口。对于针对 13-24 岁年轻群体的品牌，Snapchat 是触达目标受众的重要渠道。Snapchat 广告系统支持多种广告格式，包括 Snap Ads（全屏视频广告）、AR Lens 品牌滤镜、Story Ads 等。Snapchat 在美国、英国、法国等西方国家的年轻人中拥有极高的渗透率。
+

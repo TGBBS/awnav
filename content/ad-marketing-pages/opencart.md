@@ -1,7 +1,7 @@
----
+﻿---
 title: Opencart
 description: 世界著名的开源电子商务系统，系统开发语言为 PHP。
-seoTitle: Opencart - 详细介绍与评价 | 007出海导航
+seoTitle: Opencart - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/opencart/
 slug: opencart
@@ -92,3 +92,4 @@ related:
 ---
 
 OpenCart 是一款世界知名的开源电子商务系统，基于 PHP+MySQL 开发，于2008年发布1.0正式版，目前已在全球拥有数十万活跃安装量。OpenCart 的特点是轻量级、安装简单、管理界面直观，适合中小型在线商店快速部署。平台支持多商店管理、多货币、多语言，提供丰富的主题和扩展市场，覆盖支付网关、物流集成、营销工具等各类插件。OpenCart 的开源特性使其完全免费，用户可以自由定制，适合有技术能力或预算聘请开发者的商家。与 Magento 相比，OpenCart 更轻量，适合中小规模的电商网站；与 Shopify 相比，OpenCart 一次性部署无月费，长期运营成本更低。适合希望自主建站、掌控数据的独立站卖家。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Appodeal
 description: 一个自动化设备
-seoTitle: Appodeal - 详细介绍与评价 | 007出海导航
+seoTitle: Appodeal - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/appodeal/
 slug: appodeal
@@ -96,3 +96,4 @@ related:
 ---
 
 Appodeal是一个智能化的移动应用广告变现自动化平台，专为移动游戏和应用开发者提供一站式广告收益最大化解决方案。平台的核心创新在于其自动化的广告中介（Mediation）技术，能够自动选择出价最高的广告网络填充每次广告请求，从而最大化开发者的广告收入。Appodeal集成了Facebook Audience Network、AdColony、Unity Ads、Vungle、AppLovin等数十个主流广告网络，开发者只需接入一个SDK即可同时获得多个广告源的竞争填充。核心功能包括：自动化广告中介与实时竞价（Header Bidding）、多格式广告支持（激励视频、插屏、横幅、原生）、详细的收益数据分析面板、A/B测试工具，以及用于精细化运营的用户细分功能。平台对中小型开发者非常友好，无最低流量要求，新开发者也可以快速上手获得变现能力。Appodeal还提供增长工具（App Growth），帮助开发者同时解决变现和用户获取两大核心需求。特别适合移动游戏开发者、工具类APP和内容类应用，是实现广告变现收益最大化的高效平台。
+

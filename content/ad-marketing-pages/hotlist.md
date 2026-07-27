@@ -1,7 +1,7 @@
----
+﻿---
 title: Hotlist
 description: Hotlist，海外社媒化品牌营销推手
-seoTitle: Hotlist - 详细介绍与评价 | 007出海导航
+seoTitle: Hotlist - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/hotlist/
 slug: hotlist
@@ -92,3 +92,4 @@ related:
 ---
 
 Hotlist是专注于海外社交媒体品牌营销的服务机构，定位为出海品牌的社媒化营销推手，帮助中国企业在全球社交媒体平台上建立品牌影响力和用户社群。不同于纯效果广告代理，Hotlist更专注于品牌内容营销、社媒账号运营和网红KOL合作营销，帮助出海品牌在Instagram、TikTok、YouTube、Facebook等平台上打造有辨识度的品牌形象。核心服务包括：社交媒体账号策划与运营、KOL/网红合作推广、品牌内容创作与本地化、用户社群建设与管理、以及社媒数据监测分析。Hotlist在帮助品牌进行海外内容营销方面具有独特的创意能力，能够根据不同目标市场的文化特点制作有共鸣的内容。公司服务客户以时尚、美妆、消费电子和生活方式品牌为主，擅长打造具有传播力的社媒营销活动。相比纯流量买量思路，Hotlist更注重品牌长期价值的积累，适合希望在海外建立真实品牌认知和忠实用户群体的出海企业。
+

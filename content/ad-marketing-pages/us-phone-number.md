@@ -1,7 +1,7 @@
----
+﻿---
 title: Us-Phone-Number
 description: Receive SMS Online Free And Receive SMS Online Instantly
-seoTitle: Us-Phone-Number - 详细介绍与评价 | 007出海导航
+seoTitle: Us-Phone-Number - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/us-phone-number/
 slug: us-phone-number
@@ -92,3 +92,4 @@ related:
 ---
 
 US-Phone-Number.com 是一家专注于提供免费美国虚拟手机号码的在线接码平台，用户可即时获取美国虚拟号码并实时接收发往该号码的短信内容。平台主打免费、即时、无需注册的使用体验，所有号码上收到的短信均公开显示在网页上，刷新页面即可查看最新短信。该平台的特色在于专注提供美国号码，适合需要在美国区服务注册验证的用户，如注册美国 Apple ID、美国亚马逊账号、PayPal 以及其他要求美国手机号的平台。界面简单直接，支持多个美国号码轮换使用，方便用户在一个号码不可用时快速切换。由于平台完全免费且号码公开共享，建议仅用于不涉及个人隐私的临时验证场景。US-Phone-Number.com 在需要美国号码的用户群体中有一定知名度，是同类服务中专注美国号码的代表性平台之一。
+

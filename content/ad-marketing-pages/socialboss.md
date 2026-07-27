@@ -1,7 +1,7 @@
----
+﻿---
 title: SocialBoss
 description: 2020年社交媒体营销市场
-seoTitle: SocialBoss - 详细介绍与评价 | 007出海导航
+seoTitle: SocialBoss - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/socialboss/
 slug: socialboss
@@ -71,3 +71,4 @@ related:
 ---
 
 SocialBoss 是一个面向社交媒体营销人员的增长服务平台，提供多个主流社交媒体平台的粉丝、点赞、评论和观看量等服务。平台成立于 2020 年前后，定位为社交媒体营销市场的综合服务提供商。SocialBoss 支持 Instagram、TikTok、YouTube、Facebook、Twitter、Spotify 等多个平台，为用户提供数据增长解决方案。平台注重服务质量和安全性，声称提供真实或高质量的粉丝和互动，降低账号被封禁的风险。SocialBoss 的定价策略相对透明，提供多种套餐供不同预算的用户选择。主要服务对象包括内容创作者、品牌方、营销机构等希望快速提升社交媒体影响力的用户群体。平台提供中英文服务，对华人用户较为友好。使用社交媒体增长服务需了解各平台的相关政策风险。
+

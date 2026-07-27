@@ -1,7 +1,7 @@
----
+﻿---
 title: Xiaomi MiClaw
 description: 小米首款移动端Claw，基于MiMo模型，一句话操控手机和米家设备
-seoTitle: Xiaomi MiClaw - 详细介绍与评价 | 007出海导航
+seoTitle: Xiaomi MiClaw - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/xiaomi-miclaw/
 slug: xiaomi-miclaw
@@ -87,3 +87,4 @@ related:
 ---
 
 Xiaomi MiClaw 是小米公司推出的首款移动端 AI 代理产品，基于小米自研的 MiMo（小米魔方）大语言模型构建，专为移动设备和智能家居生态场景设计。MiClaw 最核心的创新是「一句话操控手机」——用户可以用自然语言指挥 AI 自动完成手机上的各类操作，如发消息、设置闹钟、查找照片、下载应用、预订外卖等，无需逐个打开 App 手动操作。更进一步，MiClaw 深度集成了小米米家智能家居生态，用户可以通过一句指令同时控制多个米家设备——例如「我要睡觉了」可以自动关灯、调低空调温度、开启睡眠模式、设置明日闹钟等一系列联动操作。MiMo 模型针对移动端进行了专项优化，在低功耗条件下仍能快速响应。MiClaw 预装于小米 MIUI/HyperOS 系统中，无需额外下载安装，小米手机用户可直接激活使用。对于拥有多台小米设备和米家智能家居的用户，MiClaw 提供了真正意义上的「一个助手统一管理一切」的体验。
+

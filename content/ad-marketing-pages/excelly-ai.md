@@ -1,7 +1,7 @@
----
+﻿---
 title: Excelly-AI
 description: 一款基于人工智能技术的智能办公软件
-seoTitle: Excelly-AI - 详细介绍与评价 | 007出海导航
+seoTitle: Excelly-AI - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/excelly-ai/
 slug: excelly-ai
@@ -91,3 +91,4 @@ related:
 ---
 
 Excelly-AI 是一款专注于 Excel 和 Google Sheets 公式生成的 AI 辅助工具，与 Sheet+ 类似但侧重点略有不同。用户通过自然语言描述需要实现的功能，Excelly-AI 即可自动生成对应的 Excel 或 Google Sheets 公式，并附带详细的使用说明。Excelly-AI 特别针对复杂公式、VBA 宏代码以及 Google Apps Script 的生成进行了优化，是面向更有经验用户的进阶工具。主要功能包括：自然语言生成 Excel/Sheets 公式、VBA 宏代码生成与解释、Google Apps Script 生成、公式错误排查与修复建议等。适合财务人员、数据分析师、会计、商务分析师等日常深度使用电子表格的用户。对于那些有一定表格基础但希望进一步提升自动化能力的用户，Excelly-AI 提供了一条从基础公式到复杂自动化的完整路径，是提升表格处理效率的实用辅助工具。
+

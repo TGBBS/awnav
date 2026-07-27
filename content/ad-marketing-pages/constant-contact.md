@@ -1,7 +1,7 @@
----
+﻿---
 title: Constant Contact
 description: 电子邮件营销平台
-seoTitle: Constant Contact - 详细介绍与评价 | 007出海导航
+seoTitle: Constant Contact - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/constant-contact/
 slug: constant-contact
@@ -92,3 +92,4 @@ related:
 ---
 
 Constant Contact 是美国历史最悠久的电子邮件营销平台之一，1995年成立于马萨诸塞州沃尔瑟姆，是专为小型企业和非营利组织量身打造的营销工具。平台以其简单易用和出色的客户服务著称，特别受到技术基础较弱的小企业主和传统行业从业者的欢迎。Constant Contact 提供超过300个专业邮件模板、拖放编辑器、联系人管理和基础自动化功能。其事件管理功能允许用户创建和推广活动，销售门票并管理注册，这在同类工具中较为特色。社交媒体整合功能支持将邮件内容同步发布到 Facebook、Instagram 等平台，扩大内容传播范围。平台的全渠道营销套件还包括短信营销和落地页功能。Constant Contact 的客服支持被业界公认为行业最佳之一，提供电话、在线聊天和邮件等多渠道支持方式，非常适合需要帮助的初学者。适合餐饮、零售、房地产、教育、非营利组织等传统行业的小企业主。提供60天免费试用，价格相对较高但服务质量有保障。
+

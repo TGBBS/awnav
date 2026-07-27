@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Keywords Planner
 description: 一个强大的关键字研究工具
-seoTitle: Google Keywords Planner - 详细介绍与评价 | 007出海导航
+seoTitle: Google Keywords Planner - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/google-keywords-planner/
 slug: google-keywords-planner
@@ -95,3 +95,4 @@ related:
 ---
 
 Google Keywords Planner（谷歌关键词规划师）是 Google Ads 平台内置的免费关键词研究工具，是数字营销领域最权威、最受信赖的关键词数据来源之一。它提供来自 Google 搜索的第一方数据，包括关键词月均搜索量、搜索量历史趋势、广告竞争程度（低/中/高）以及建议出价（CPC）等核心指标。工具主要功能包括两大模块：关键词发现（输入种子词或网站 URL 发现相关关键词）和搜索量预测（查看指定关键词的预计搜索量和广告效果）。关键词规划师不仅是 Google Ads 广告投放前的必备调研工具，也是 SEO 从业者验证关键词搜索量的重要参考。虽然免费版显示的搜索量是区间范围（如1K-10K）而非精确数字，但对于评估关键词价值已经足够。精确数据需要有活跃的 Google Ads 广告活动才能获取。Google Keywords Planner 适合所有进行关键词研究的数字营销人员、SEO 专员、内容创作者和 Google Ads 广告主，是关键词策略制定不可绕过的基础工具，与第三方关键词工具配合使用效果更佳。
+

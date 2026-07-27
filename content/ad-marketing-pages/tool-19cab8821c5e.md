@@ -1,7 +1,7 @@
----
+﻿---
 title: FB 用户综合搜索
 description: 使用FB语法综合搜索
-seoTitle: FB 用户综合搜索 - 详细介绍与评价 | 007出海导航
+seoTitle: FB 用户综合搜索 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/fb%E7%94%A8%E6%88%B7%E7%BB%BC%E5%90%88%E6%90%9C%E7%B4%A2/
 slug: fb用户综合搜索
@@ -91,3 +91,4 @@ related:
 ---
 
 FB 用户综合搜索是基于 lookup-id.com 平台提供的 Facebook 高级搜索工具，利用 Facebook 的图谱搜索（Graph Search）语法帮助用户进行更精准的 Facebook 内容和用户搜索。传统的 Facebook 搜索栏功能有限，无法进行复杂的条件组合搜索，而该工具通过构建结构化的 Facebook 搜索 URL，让用户能够按照地理位置、工作单位、学校、兴趣等多个维度组合搜索 Facebook 用户和内容。主要使用场景包括：寻找特定地区的目标用户群体、挖掘潜在客户或合作伙伴、社会媒体情报收集、品牌监控和舆情分析，以及营销人员进行竞品用户分析。对于 B2B 营销人员和销售人员而言，该工具提供了一种低成本的 Facebook 用户发现方法。需要注意的是，使用此类工具时应遵守 Facebook 的使用条款和隐私政策，合法合规地使用搜索功能，不应将结果用于垃圾邮件或骚扰行为。
+

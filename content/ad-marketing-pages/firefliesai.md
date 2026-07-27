@@ -1,7 +1,7 @@
----
+﻿---
 title: Fireflies.ai
 description: 一款人工智能会议记录和自动化工具
-seoTitle: Fireflies.ai - 详细介绍与评价 | 007出海导航
+seoTitle: Fireflies.ai - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/firefliesai/
 slug: firefliesai
@@ -91,3 +91,4 @@ related:
 ---
 
 Fireflies.ai 是一款人工智能会议记录与自动化工具，专注于帮助团队自动捕捉、转录和分析会议内容。Fireflies.ai 通过其 AI 机器人「Fred」自动加入视频会议，完成录音、转录、生成摘要及提取关键信息等全套工作。产品与 Zoom、Google Meet、Microsoft Teams、Webex 等主流会议平台深度集成，还支持与 Salesforce、HubSpot、Slack、Notion 等 CRM 和协作工具的对接，实现会议内容的自动流转和工作流自动化。主要功能包括：AI 转录与摘要、对话智能分析（如情感分析、话题追踪）、可搜索的会议知识库、团队协作注释等。特别适合销售团队（通话分析）、项目经理（会议跟进）、客户成功团队等专业场景。Fireflies.ai 在国际市场广受好评，是企业级会议自动化领域的领导者之一，帮助团队从繁琐的会议记录中解放出来，专注于高价值工作。
+

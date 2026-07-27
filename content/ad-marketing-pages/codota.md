@@ -1,7 +1,7 @@
----
+﻿---
 title: Codota
 description: 一种AI辅助编程工具
-seoTitle: Codota - 详细介绍与评价 | 007出海导航
+seoTitle: Codota - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/codota/
 slug: codota
@@ -87,3 +87,4 @@ related:
 ---
 
 Codota（现已品牌升级为 Tabnine）是一款专注于 Java 和 JavaScript 的 AI 代码补全工具，通过分析数百万个开源代码库来提供智能补全建议。Codota 插件可在 IntelliJ IDEA、Android Studio、Eclipse 等主流 Java 开发 IDE 中使用，是 Java 开发者中非常流行的 AI 辅助工具。它的核心功能是基于上下文的代码补全，能够预测整行代码并提供最相关的 API 使用示例。Codota 尤其擅长 Android 开发场景，能够准确识别 Android SDK 中的类和方法并给出使用建议。2021年 Codota 收购了另一款 AI 编程工具 TabNine，并于 2022 年将品牌统一为 TabNine，原 Codota 功能也整合进了 TabNine 产品线。因此 Codota 作为独立产品已经不再维护，相关功能和用户已经迁移至 TabNine。对于 JetBrains 插件市场上仍存在的 Codota 插件入口，实际上已经重定向到 TabNine。
+

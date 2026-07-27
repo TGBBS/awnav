@@ -1,7 +1,7 @@
----
+﻿---
 title: Onesight
 description: OneSight是国人开发的海外社交媒体数据管理营销平台
-seoTitle: Onesight - 详细介绍与评价 | 007出海导航
+seoTitle: Onesight - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/onesight/
 slug: onesight
@@ -92,3 +92,4 @@ related:
 ---
 
 OneSight 是一个由中国团队开发的海外社交媒体数据管理和营销平台，专为中国企业出海和跨境营销设计。平台整合了 Instagram、Facebook、Twitter、YouTube、TikTok 等海外主流社交媒体平台的数据，提供统一的数据管理和分析服务。OneSight 的核心功能包括：多平台社交媒体数据监控、KOL（关键意见领袖）数据库和搜索、竞品分析、内容表现分析、行业趋势洞察等。作为国人开发的平台，OneSight 特别针对中国企业出海的需求进行了优化，提供中文界面和本地化支持，帮助中国企业更好地理解和进入海外市场。平台主要服务于出海品牌、跨境电商企业、广告代理公司和市场研究机构。OneSight 的 KOL 数据库是其重要特色，覆盖大量海外网红数据，方便品牌进行 KOL 营销合作。
+

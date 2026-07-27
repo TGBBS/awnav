@@ -1,7 +1,7 @@
----
+﻿---
 title: YouTube
 description: YouTube是世界上最大的视频网站
-seoTitle: YouTube - 详细介绍与评价 | 007出海导航
+seoTitle: YouTube - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/youtube/
 slug: youtube
@@ -92,3 +92,4 @@ related:
 ---
 
 YouTube 是全球最大的视频分享和流媒体平台，由查德·赫利（Chad Hurley）、陈士骏（Steve Chen）和贾韦德·卡里姆（Jawed Karim）于 2005 年创立，2006 年被谷歌以 16.5 亿美元收购。YouTube 拥有超过 25 亿月活跃用户，每天有超过 10 亿小时的视频被观看，是仅次于 Google 的全球第二大搜索引擎。平台支持用户上传、分享和评论视频，涵盖教育、娱乐、新闻、音乐、游戏等几乎所有内容领域。YouTube 的变现生态非常完善，内容创作者可以通过广告分成（Partner Program）、频道会员、超级感谢、品牌合作等多种方式获得收入。对于品牌营销，YouTube 提供多种广告格式，包括可跳过和不可跳过的视频广告、横幅广告等，并支持精准的受众定向投放。YouTube Shorts 短视频功能的推出与 TikTok 形成直接竞争，为创作者提供了快速增长粉丝的新机会。
+

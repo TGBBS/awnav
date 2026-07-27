@@ -1,7 +1,7 @@
----
+﻿---
 title: 谷歌云盘
 description: google云端硬盘
-seoTitle: 谷歌云盘 - 详细介绍与评价 | 007出海导航
+seoTitle: 谷歌云盘 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/%E8%B0%B7%E6%AD%8C%E4%BA%91%E7%9B%98/
 slug: 谷歌云盘
@@ -95,3 +95,4 @@ related:
 ---
 
 谷歌云盘（Google Drive）是 Google 提供的云端文件存储和同步服务，是全球最受欢迎的云存储产品之一。每个 Google 账号免费提供15GB存储空间，可用于存储文档、图片、视频、音乐等各类文件。Google Drive 与 Google Docs、Sheets、Slides 等办公套件深度集成，支持多人在线协作编辑，是远程团队协作的核心工具。文件共享功能灵活，可按链接分享或指定用户，设置查看、评论或编辑权限。强大的搜索功能支持文件名和文件内容搜索，甚至可以识别图片中的文字。Drive 客户端支持 Windows、Mac、iOS 和 Android 平台，实现跨设备文件同步。对于企业用户，Google Workspace 提供更大存储空间和高级管理功能。Google Drive 作为 Google 生态的核心枢纽，与 Gmail、Google Photos、Google Meet 等服务无缝联动，形成完整的云端工作环境。适合个人用户、学生、自由职业者、小团队和企业用户，是文件存储、共享和协作的高效解决方案。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: DigitalOcean
 description: 俗称水滴，DO，常用主机服务商
-seoTitle: DigitalOcean - 详细介绍与评价 | 007出海导航
+seoTitle: DigitalOcean - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/digitalocean/
 slug: digitalocean
@@ -95,3 +95,4 @@ related:
 ---
 
 DigitalOcean（俗称「DO」或「水滴」）是一家成立于2011年的美国云计算平台，以开发者友好、简洁易用、文档详尽著称，是全球开发者社区最受欢迎的VPS和云平台之一。DigitalOcean的核心产品「Droplets」（云虚拟机）以SSD存储、固定价格、秒级部署为特点，最低$4/月起，支持按小时计费。产品线还包括托管数据库（MySQL、PostgreSQL、Redis、MongoDB）、Kubernetes（DOKS）、托管App Platform、Spaces对象存储、负载均衡、CDN等，覆盖完整的云原生开发栈。DigitalOcean以其丰富、高质量的技术文档和教程闻名，社区资源（Community Tutorials）是全球最优质的云计算学习资源之一，大量开发者通过DigitalOcean文档学习Linux、云部署和DevOps技能。数据中心分布在纽约、旧金山、阿姆斯特丹、新加坡、班加罗尔、伦敦、多伦多等地。支持信用卡、PayPal付款，新用户可领取免费额度。特别适合独立开发者、初创公司、开源项目和需要快速部署的技术团队。
+

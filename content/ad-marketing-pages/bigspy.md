@@ -1,7 +1,7 @@
----
+﻿---
 title: BigSpy
 description: 值得推荐的免费广告spy工具
-seoTitle: BigSpy - 详细介绍与评价 | 007出海导航
+seoTitle: BigSpy - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/bigspy/
 slug: bigspy
@@ -71,3 +71,4 @@ related:
 ---
 
 值得推荐的免费广告spy工具
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: OpenAI Codex
 description: 一种基于 OpenAI GPT-3 的自然语言处理模型，可以生成十多种编程语言的工作代码
-seoTitle: OpenAI Codex - 详细介绍与评价 | 007出海导航
+seoTitle: OpenAI Codex - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/openai-codex/
 slug: openai-codex
@@ -88,3 +88,4 @@ related:
 ---
 
 OpenAI Codex 是 OpenAI 于 2021 年推出的专注于代码生成的 AI 模型，基于 GPT-3 微调而来，能够理解自然语言并生成十多种编程语言的可运行代码。Codex 是 GitHub Copilot 的底层技术支撑，可以说 Codex 的推出直接催生了 AI 辅助编程这一重要应用方向。Codex 能够完成代码生成、代码补全、代码解释、代码翻译等任务，在 Python 上的表现尤为突出。OpenAI 曾通过 API 形式向开发者开放 Codex，允许开发者在自己的应用中集成代码生成能力。然而，2023 年 3 月，OpenAI 宣布停止 Codex API 的访问，官方建议开发者迁移到 GPT-3.5-turbo 或 GPT-4，因为这些更新的模型在代码理解和生成方面已经全面超越了 Codex。尽管 Codex 作为独立 API 已停止服务，但其技术思路和开创的 AI 编程助手范式深刻影响了整个 AI 编程工具行业，是 AI 编程历史上的里程碑产品。
+

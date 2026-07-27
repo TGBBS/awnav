@@ -1,7 +1,7 @@
----
+﻿---
 title: Resolution Test
 description: 一种测试技术，用于检查系统、组件、设备和软件的性能
-seoTitle: Resolution Test - 详细介绍与评价 | 007出海导航
+seoTitle: Resolution Test - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/resolution-test/
 slug: resolution-test
@@ -91,3 +91,4 @@ related:
 ---
 
 Resolution Test 是一款 Chrome 浏览器扩展，帮助 Web 开发者和设计师在不同分辨率下测试网页的显示效果。该工具允许用户快速切换浏览器窗口到预设的常见分辨率，如 1024×768、1280×800、1920×1080 等，也支持自定义分辨率，从而在开发过程中方便地检查响应式设计的适配效果。响应式网页设计需要确保在各种屏幕尺寸下都有良好的显示效果，Resolution Test 让这一测试过程变得简单快捷，无需真实设备即可模拟不同屏幕尺寸的显示效果。工具提供常用设备分辨率列表，覆盖桌面、笔记本、平板等各类设备规格，一键切换，即时预览。对于前端开发者和 UI/UX 设计师，Resolution Test 是跨设备兼容性测试工作流程中的实用辅助工具。虽然 Chrome DevTools 的设备模拟功能已经提供了类似能力，但 Resolution Test 作为独立插件使用更为便捷，特别适合快速进行多分辨率切换对比的测试场景。
+

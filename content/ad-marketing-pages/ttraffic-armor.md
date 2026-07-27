@@ -1,7 +1,7 @@
----
+﻿---
 title: Ttraffic Armor
 description: 推荐Cloak工具，按触发次数收费，上手比较简单
-seoTitle: Ttraffic Armor - 详细介绍与评价 | 007出海导航
+seoTitle: Ttraffic Armor - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/ttraffic-armor/
 slug: ttraffic-armor
@@ -91,3 +91,4 @@ related:
 ---
 
 Traffic Armor 是一款专注于广告流量过滤与 Cloaking 的工具，主要面向联盟营销从业者和跨境广告投放人员。它通过智能识别访客来源，将真实用户与审查机器人、爬虫等区分开来，从而在广告审核时展示合规页面、对真实用户展示实际推广内容。Traffic Armor 采用按触发次数计费的模式，上手门槛较低，即使是 Cloaking 新手也能快速配置使用。其核心功能包括：IP 黑白名单管理、访客 User-Agent 识别、设备类型过滤以及多平台广告兼容支持。该工具特别适合在 Facebook、Google 等主流广告平台投放灰色或敏感类广告的从业者，帮助他们绕过平台审查，提高广告账号存活率。Traffic Armor 的计费方式相比传统按月订阅更为灵活，适合投放量不稳定的中小卖家。整体界面较为简洁，配置流程也比较直观，是入门级 Cloaking 工具中性价比较高的选择之一。
+

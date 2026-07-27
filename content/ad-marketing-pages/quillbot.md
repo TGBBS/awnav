@@ -1,7 +1,7 @@
----
+﻿---
 title: Quillbot
 description: 一款使用人工智能技术帮助用户改写和翻译文本的工具
-seoTitle: Quillbot - 详细介绍与评价 | 007出海导航
+seoTitle: Quillbot - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/quillbot/
 slug: quillbot
@@ -91,3 +91,4 @@ related:
 ---
 
 QuillBot 是一款广受欢迎的 AI 写作辅助工具，核心功能是文本改写（Paraphrase）和翻译，通过 AI 技术帮助用户提升写作质量、规避剽窃风险。QuillBot 提供多种改写模式（标准、流利、简洁、创意、正式、学术等），用户可以根据需要选择不同风格进行文本改写。除改写功能外，QuillBot 还集成了：AI 文章摘要、语法检测与纠正、引文生成器、剽窃检测以及 AI 写作助手等多项功能，形成了完整的写作支持生态。QuillBot 深受学术界用户喜爱，特别是学生和研究人员，用于论文改写、摘要生成和学术写作优化。平台提供 Chrome 扩展插件，支持直接在 Google Docs 和 Word 中使用。支持 23 种语言的改写功能，具备较强的多语言处理能力。凭借精准的改写质量和丰富的写作工具集合，QuillBot 已成为全球最受欢迎的 AI 写作工具之一，月活用户规模庞大。
+

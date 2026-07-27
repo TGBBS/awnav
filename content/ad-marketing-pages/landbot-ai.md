@@ -1,7 +1,7 @@
----
+﻿---
 title: Landbot AI
 description: Landbot平台的人工智能组件
-seoTitle: Landbot AI - 详细介绍与评价 | 007出海导航
+seoTitle: Landbot AI - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/landbot-ai/
 slug: landbot-ai
@@ -92,3 +92,4 @@ related:
 ---
 
 Landbot AI 是 Landbot 对话式营销平台的 AI 增强组件，允许企业通过无代码界面构建智能聊天机器人，并将 AI 能力融入对话流程。Landbot 以其可视化的流程设计器著称，用户可以通过拖拽构建复杂的对话逻辑，集成 GPT 等 AI 模型后，机器人能够处理开放式问题并给出智能回答。Landbot AI 的应用场景包括：潜客获取与资格筛选、客户服务自动化、产品推荐、预约调度、用户调研等。Landbot 支持在网站、WhatsApp、Facebook Messenger 等多种渠道部署。其独特优势在于将结构化流程逻辑（保证对话走向可控）与 AI 自由对话能力结合，既有传统聊天机器人的可靠性，又有 AI 的灵活性。Landbot 主要面向中小企业的市场营销和销售团队，以及需要快速搭建对话式营销工具而又缺乏开发资源的企业。无代码的特性使非技术人员也能独立创建和维护聊天机器人。
+

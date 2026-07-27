@@ -1,7 +1,7 @@
----
+﻿---
 title: Publicwww
 description: 在网页 HTML、JS 和 CSS 代码中查找任何字母数字片段、签名或关键字。
-seoTitle: Publicwww - 详细介绍与评价 | 007出海导航
+seoTitle: Publicwww - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/publicwww/
 slug: publicwww
@@ -62,3 +62,4 @@ related:
 ---
 
 Publicwww 是一款独特的网页源代码搜索引擎，允许用户在数百万网页的 HTML、JavaScript 和 CSS 代码中搜索特定的代码片段、签名或关键词。与普通搜索引擎搜索网页内容不同，Publicwww 专门索引网页的源代码，让用户能够发现哪些网站使用了特定的技术、脚本、分析工具或广告网络。对于数字营销从业者来说，Publicwww 是一个强大的竞争情报工具：可以查找使用特定广告网络代码的所有网站、发现竞争对手使用的技术栈、寻找潜在的联盟合作伙伴，以及研究特定 Offer 在哪些网站上推广。对于 SEO 人员，可以找到相似技术栈的网站进行链接建设。对于开发者，可以搜索特定代码模式或库的使用情况。Publicwww 还支持搜索 AdSense 发布商 ID、联盟追踪代码等，是发掘竞争对手推广策略的利器。提供免费和付费两种访问模式，付费版本提供更多搜索结果和高级过滤功能，是广告情报和技术调研领域的独特工具。
+

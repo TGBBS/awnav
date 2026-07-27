@@ -1,7 +1,7 @@
----
+﻿---
 title: Oeasy
 description: Oeasy免费学软件
-seoTitle: Oeasy - 详细介绍与评价 | 007出海导航
+seoTitle: Oeasy - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/oeasy/
 slug: oeasy
@@ -71,3 +71,4 @@ related:
 ---
 
 Oeasy免费学软件
+

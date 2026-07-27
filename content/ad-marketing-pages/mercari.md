@@ -1,7 +1,7 @@
----
+﻿---
 title: Mercari
 description: 一家在线二手商品交易平台
-seoTitle: Mercari - 详细介绍与评价 | 007出海导航
+seoTitle: Mercari - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/mercari/
 slug: mercari
@@ -92,3 +92,4 @@ related:
 ---
 
 Mercari 是日本最大的二手商品交易平台，成立于2013年，总部位于东京，随后扩展至美国市场。Mercari 以其简单易用的手机 App 著称，用户只需拍几张照片即可在几分钟内完成商品上架，降低了二手交易的门槛。平台涵盖服装、电子产品、玩具、游戏、家居等几乎所有品类的二手商品，并对新品销售也开放。Mercari 在日本的月活用户超过2000万，交易规模庞大。在美国市场，Mercari 同样快速增长，与 eBay、Poshmark 展开竞争。平台提供买卖双方保护机制，支持便捷的发货和安全支付，Mercari Points 积分系统增强用户粘性。Mercari 适合喜欢二手淘宝的消费者、需要清理闲置物品的个人卖家，以及追求低价或稀有商品的买家。
+

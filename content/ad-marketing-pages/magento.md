@@ -1,7 +1,7 @@
----
+﻿---
 title: Magento
 description: Magento是一套专业开源的PHP电子商务系统。Magento设计得非常灵活，具有模块化架构体系和丰富的功能。
-seoTitle: Magento - 详细介绍与评价 | 007出海导航
+seoTitle: Magento - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/magento/
 slug: magento
@@ -92,3 +92,4 @@ related:
 ---
 
 Magento 是全球最强大的开源电商平台之一，于2007年首次发布，2018年被 Adobe 收购并更名为 Adobe Commerce。Magento 以其高度灵活的模块化架构著称，支持极为复杂的电商业务逻辑定制，能够处理大规模商品目录和高并发交易，是企业级电商的首选平台之一。平台提供强大的多商店管理、多语言、多货币支持，拥有庞大的开发者社区和丰富的扩展市场（Magento Marketplace）。Magento Open Source 版本免费开源，而 Adobe Commerce 提供云托管和企业级支持服务。由于其高度复杂性，Magento 通常需要专业的 Magento 开发团队来实施和维护。适合拥有较大商品规模、复杂业务需求的中大型电商企业和品牌商。
+

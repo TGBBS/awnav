@@ -1,7 +1,7 @@
----
+﻿---
 title: Lucidchart
 description: 易于使用的在线图表和流程图制作工具
-seoTitle: Lucidchart - 详细介绍与评价 | 007出海导航
+seoTitle: Lucidchart - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/lucidchart/
 slug: lucidchart
@@ -92,3 +92,4 @@ related:
 ---
 
 Lucidchart 是一款功能强大的在线图表和流程图制作工具，以专业级的可视化能力和出色的团队协作功能在企业市场享有很高的声誉。平台支持创建流程图、思维导图、组织架构图、UML图、网络架构图、ER图、泳道图等几乎所有类型的业务和技术图表，提供丰富的图形库和模板资源。Lucidchart 的核心优势在于其强大的协作功能：多人可以同时在线编辑同一文档，支持实时评论、版本历史和变更追踪，非常适合分布式团队协作。与Atlassian（Confluence/Jira）、Google Workspace、Microsoft 365、Salesforce等主流企业工具的深度集成，让图表能够无缝嵌入各类工作流中。智能数据导入功能可以从CSV、SQL等数据源自动生成组织架构图和ER图，大幅提升效率。主要用户群体包括产品经理、工程师、IT团队、业务分析师以及企业管理咨询团队。Lucidchart 采用按用户数量的订阅制定价，也提供有限免费版。
+

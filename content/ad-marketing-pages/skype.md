@@ -1,7 +1,7 @@
----
+﻿---
 title: Skype
 description: Skype是一款著名的全球网络电话软件
-seoTitle: Skype - 详细介绍与评价 | 007出海导航
+seoTitle: Skype - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/skype/
 slug: skype
@@ -91,3 +91,4 @@ related:
 ---
 
 Skype 是一款全球知名的网络电话和即时通讯软件，由尼古拉斯·曾斯特罗姆（Niklas Zennström）和贾纳斯·弗里斯（Janus Friis）于 2003 年创立，2011 年被微软以 85 亿美元收购。Skype 提供免费的视频通话、语音通话、即时消息和文件分享功能，支持用户之间的免费网络通话，以及以低廉价格拨打全球固话和手机的 Skype Out 服务。Skype 在 2000 至 2010 年代是全球最流行的网络通话工具，尤其在商务沟通和国际长途通话领域具有重要地位。然而，随着 WhatsApp、微信、Zoom 等竞争对手的崛起，以及微软自身推出 Microsoft Teams，Skype 的用户活跃度和市场地位有所下降。微软已于 2025 年 5 月正式宣布关闭 Skype 消费者版本，引导用户迁移至 Microsoft Teams。对于商业用户，Microsoft Teams 已经成为取代 Skype for Business 的官方推荐工具。
+

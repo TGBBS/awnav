@@ -1,7 +1,7 @@
----
+﻿---
 title: Focusky PPT制作
 description: 快速制作高大上的动画PPT演示
-seoTitle: Focusky PPT制作 - 详细介绍与评价 | 007出海导航
+seoTitle: Focusky PPT制作 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/focusky-ppt/
 slug: focusky-ppt
@@ -92,3 +92,4 @@ related:
 ---
 
 Focusky PPT制作是一款国产动画演示文稿制作工具，以其独特的缩放式导航（Zoomable Presentation）为核心特色，区别于传统的线性幻灯片模式。该工具采用无限画布设计理念，用户可在一张超大画布上布局所有内容，演示时通过放大、缩小、平移等动态效果在各个区域之间切换，创造出极具视觉冲击力的演示体验。Focusky 提供丰富的动画特效、内置模板、3D背景、粒子效果等设计元素，帮助用户快速制作出与众不同的商业演示、教学课件和产品展示。软件支持 Windows 和 Mac 系统，并可将作品导出为 HTML5、EXE、视频等多种格式，方便分享传播。特别适合教师、培训师、企业市场人员以及需要打动客户的销售人员使用。Focusky 提供免费版和专业付费版，免费版已包含大量核心功能，适合个人用户入门体验。
+

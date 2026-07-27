@@ -1,7 +1,7 @@
----
+﻿---
 title: PowerAdSpy
 description: 一款功能强大的营销分析工具
-seoTitle: PowerAdSpy - 详细介绍与评价 | 007出海导航
+seoTitle: PowerAdSpy - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/poweradspy/
 slug: poweradspy
@@ -92,3 +92,4 @@ related:
 ---
 
 PowerAdSpy 是一款功能强大的跨平台广告情报工具，支持监控包括 Facebook、Instagram、Google、YouTube、GDN（谷歌展示网络）、Reddit、Quora 等多个广告平台的广告数据，平台覆盖广度是其主要竞争优势之一。该工具拥有超过1亿条广告数据，支持按关键词、广告主、落地页域名、广告号召行动（CTA）等多种维度进行搜索和过滤。PowerAdSpy 提供广告素材的完整预览，包括广告文案、图片/视频、落地页链接以及目标受众信息（年龄、性别、兴趣标签等），帮助用户深入了解竞争对手的广告定向策略。特色功能包括：广告互动数据展示（点赞、评论、分享统计）、广告运行时间追踪、落地页快照保存以及高级过滤器（按国家、广告格式、运行状态等）。相比部分竞品，PowerAdSpy 在定价上具有一定优势，提供多个价格档位满足不同规模用户的需求。适合电商卖家、联盟营销人员、内容营销团队以及希望通过竞品研究优化广告策略的各类数字营销从业者。
+

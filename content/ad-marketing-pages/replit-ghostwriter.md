@@ -1,7 +1,7 @@
----
+﻿---
 title: Replit Ghostwriter
 description: 一个人工智能驱动的编程助手
-seoTitle: Replit Ghostwriter - 详细介绍与评价 | 007出海导航
+seoTitle: Replit Ghostwriter - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/replit-ghostwriter/
 slug: replit-ghostwriter
@@ -92,3 +92,4 @@ related:
 ---
 
 Replit Ghostwriter 是 Replit 在线编程平台内置的 AI 编程助手，专为在浏览器中直接编写、运行和部署代码的开发者设计。Ghostwriter 深度集成于 Replit IDE，无需任何本地配置即可使用，特别适合学生、初学者和需要快速原型开发的工程师。其核心功能包括：代码补全（实时智能补全代码片段）、代码解释（自动解释选中的代码逻辑）、代码调试（识别并修复错误）、代码重构建议，以及 Generate Code（通过自然语言描述生成代码）。Ghostwriter 支持 Python、JavaScript、TypeScript、Go 等数十种编程语言。由于它运行在云端，用户无需担心本地环境配置问题，非常适合教育场景和快速实验。Replit 平台本身也提供代码托管和一键部署功能，形成从编写到发布的完整闭环。Ghostwriter 于 2022 年正式推出，面向 Replit 的核心用户群体——全球数百万在线编程学习者和开发者。
+

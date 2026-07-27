@@ -1,7 +1,7 @@
----
+﻿---
 title: FB域名标记检测
 description: 检测域名链接是否被Facebook标记封禁
-seoTitle: FB域名标记检测 - 详细介绍与评价 | 007出海导航
+seoTitle: FB域名标记检测 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/fb%E5%9F%9F%E5%90%8D%E6%A0%87%E8%AE%B0%E6%A3%80%E6%B5%8B/
 slug: fb域名标记检测
@@ -92,3 +92,4 @@ related:
 ---
 
 Facebook 域名标记检测工具（Sharing Debugger / URL Debugger）是 Facebook 官方提供的链接调试工具，用于检测外部域名或 URL 是否被 Facebook 系统标记为违规或存在问题，同时也可以用来预览链接在 Facebook 分享时的缩略图效果、标题和描述等 Open Graph 信息的展示情况。对于跨境电商独立站运营者和 Facebook 广告主而言，域名健康状态至关重要：如果网站域名被 Facebook 标记为危险或违规，所有指向该域名的广告都无法正常投放，用户分享该网站链接时也会看到安全警告，严重影响流量获取和广告效果。该工具的主要功能包括：检测 URL 是否被封禁或标记、查看 Open Graph 标签的抓取状态、强制刷新 Facebook 对某个链接的缓存数据（当更新了网站内容或图片后需要更新 Facebook 的缓存）、查看分享预览效果。建议广告主在上新广告落地页前先使用此工具检测域名状态，在新建广告账户时也应验证所用域名的健康状态，是 Facebook 广告投放前的必要例行检查工具。
+

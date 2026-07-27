@@ -1,7 +1,7 @@
----
+﻿---
 title: Incogniton指纹浏览器
 description: 一款基于网络的跨平台浏览器
-seoTitle: Incogniton指纹浏览器 - 详细介绍与评价 | 007出海导航
+seoTitle: Incogniton指纹浏览器 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/incogniton/
 slug: incogniton
@@ -92,3 +92,4 @@ related:
 ---
 
 Incogniton是一款基于网络的跨平台指纹浏览器，面向全球用户提供多账号防关联管理解决方案。产品由荷兰团队开发，基于Chromium内核，通过精细化的浏览器指纹参数控制，帮助用户管理多个独立的浏览器配置文件，防止社交媒体、广告平台和电商平台追踪账号关联。Incogniton的一大亮点是提供真正可用的永久免费套餐（10个配置文件），在国际指纹浏览器产品中较为少见。核心功能包括：浏览器指纹全面定制、Selenium/Playwright/Puppeteer自动化集成、批量配置文件创建、Cookie管理与导入导出、团队协作与成员管理、代理IP绑定等。产品界面简洁现代，支持Windows和macOS，提供直观的用户体验。Incogniton还提供人性化的配置文件粘贴板功能（Paste-as-you-type），提升数据录入效率。适合需要经济实惠的国际指纹浏览器方案的社媒营销人员、SEO运营者、广告投手及电商卖家，特别是欧美市场用户。
+

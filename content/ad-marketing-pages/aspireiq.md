@@ -1,7 +1,7 @@
----
+﻿---
 title: Aspireiq
 description: 通过关键词可以查找相关红人，以及红人的关键性指标
-seoTitle: Aspireiq - 详细介绍与评价 | 007出海导航
+seoTitle: Aspireiq - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/aspireiq/
 slug: aspireiq
@@ -92,3 +92,4 @@ related:
 ---
 
 AspireIQ（现更名为 Aspire）是一款综合性网红营销管理平台，帮助品牌发现、联系、管理和分析网红合作关系。平台拥有超过1000万名网红的数据库，涵盖 Instagram、YouTube、TikTok、Pinterest 等主流社交媒体平台，支持通过关键词、类别、地理位置、受众规模和参与率等多维度筛选条件精准定位目标网红。AspireIQ 的关键亮点是其 Community Commerce 理念，鼓励品牌与网红建立长期合作关系而非一次性合作，通过持续的内容共创积累真实用户口碑。平台内置协作工具，支持内容审批工作流、合同管理和付款处理，让网红营销的全流程在一个平台上完成。数据分析面板实时追踪每次合作的触达量、互动率、内容表现和投资回报率。AspireIQ 还提供产品寄样管理功能，简化样品申请和审批流程。适合电商品牌、美妆、时尚、食品饮料等消费品公司的营销团队，以及代理机构管理多客户网红项目。服务客户包括多个知名消费品品牌。
+

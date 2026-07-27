@@ -1,7 +1,7 @@
----
+﻿---
 title: Ponzu
 description: 一个基于人工智能技术的纹理生成器
-seoTitle: Ponzu - 详细介绍与评价 | 007出海导航
+seoTitle: Ponzu - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/ponzu/
 slug: ponzu
@@ -88,3 +88,4 @@ related:
 ---
 
 Ponzu 是一个基于人工智能技术的游戏纹理生成器，专门为游戏开发者和 3D 艺术家提供 AI 生成的无缝纹理素材。用户可以通过文字描述所需纹理的材质和风格，Ponzu 即可快速生成可直接用于游戏引擎（如 Unity、Unreal Engine）的无缝循环纹理贴图，包括漫反射贴图（Albedo）、法线贴图（Normal）、粗糙度贴图（Roughness）等多种类型的 PBR（基于物理的渲染）纹理。这对游戏开发者来说极具价值，因为手工制作高质量的 PBR 纹理集通常需要大量时间和专业技能。Ponzu 生成的纹理无缝可铺贴，适合覆盖大面积地形、墙壁、地板等游戏场景。作为专注游戏纹理生成的垂直工具，Ponzu 的目标用户主要是独立游戏开发者和小型游戏工作室，帮助他们以较低成本获得满足需求的纹理素材。该平台规模较小，产品处于持续发展阶段。
+

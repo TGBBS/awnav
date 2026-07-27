@@ -1,7 +1,7 @@
----
+﻿---
 title: Groupon
 description: Groupon是全球最大的折扣网站，同时也是极具竞争力的电商平台
-seoTitle: Groupon - 详细介绍与评价 | 007出海导航
+seoTitle: Groupon - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/groupon/
 slug: groupon
@@ -71,3 +71,4 @@ related:
 ---
 
 Groupon是全球最大的折扣网站，同时也是极具竞争力的电商平台
+

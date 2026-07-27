@@ -1,7 +1,7 @@
----
+﻿---
 title: 5KPlayer
 description: 一款功能强大的多媒体播放器
-seoTitle: 5KPlayer - 详细介绍与评价 | 007出海导航
+seoTitle: 5KPlayer - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/5kplayer/
 slug: 5kplayer
@@ -92,3 +92,4 @@ related:
 ---
 
 5KPlayer 是由Digiarty Software开发的一款功能强大的免费多媒体播放器，不仅能够流畅播放4K、5K、8K超高清视频，还集成了视频下载、AirPlay无线投屏和DLNA串流等多种实用功能，是一款真正的全能多媒体中心软件。作为视频播放器，5KPlayer支持几乎所有主流视频格式，包括MP4、AVI、MKV、FLV、MOV等，并对HDR10、杜比视界等高动态范围内容有良好支持。内置的视频下载功能支持从YouTube、Dailymotion、Vimeo等300多个网站下载视频，操作简单方便。5KPlayer的AirPlay功能让用户可以将iPhone、iPad上的视频无线投屏到Mac，也可以将Mac上的内容推送到Apple TV，实现跨设备内容共享。DLNA功能则支持在局域网内的设备间共享和串流媒体内容。5KPlayer提供Windows和Mac双平台完全免费版本，对于追求高画质播放体验又不想额外付费的用户来说，是理想的媒体播放解决方案。
+

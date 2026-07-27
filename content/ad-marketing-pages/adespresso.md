@@ -1,7 +1,7 @@
----
+﻿---
 title: AdEspresso
 description: AdEspresso facebook广告投放自动化工具
-seoTitle: AdEspresso - 详细介绍与评价 | 007出海导航
+seoTitle: AdEspresso - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/adespresso/
 slug: adespresso
@@ -82,3 +82,4 @@ related:
 ---
 
 AdEspresso 是由 Hootsuite 旗下的 Facebook 和 Instagram 广告管理与优化平台，专注于帮助中小企业和营销代理商简化广告投放流程，实现广告自动化管理。该平台以强大的 A/B 测试能力著称，用户可以轻松测试不同的广告文案、图片、受众和出价策略，系统会自动分析结果并推荐最优方案。AdEspresso 的主要功能包括：多变量 A/B 测试、广告批量创建、自动化规则（自动暂停或扩展广告）、详细绩效报告、PDF 报告导出（适合向客户汇报）以及 Google Ads 管理支持。该平台配套提供了大量教育资源，包括博客文章、案例研究和广告示例库，帮助广告主持续学习最佳实践。AdEspresso 特别适合广告代理机构、中小电商商家以及希望系统化测试广告策略的营销团队。其教育性内容资源丰富，是 Facebook 广告领域知名的学习参考平台之一。
+

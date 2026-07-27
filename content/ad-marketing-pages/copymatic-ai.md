@@ -1,7 +1,7 @@
----
+﻿---
 title: Copymatic AI
 description: 一种人工智能写作助手
-seoTitle: Copymatic AI - 详细介绍与评价 | 007出海导航
+seoTitle: Copymatic AI - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/copymatic-ai/
 slug: copymatic-ai
@@ -91,3 +91,4 @@ related:
 ---
 
 Copymatic AI 是一款基于 GPT 技术的 AI 写作助手，专注于帮助用户快速生成高质量的营销文案、博客文章、网站内容和 SEO 优化内容。Copymatic AI 提供超过 80 种写作工具和模板，覆盖从短文案（广告标题、产品描述）到长文章（博客文章、落地页）的完整内容创作需求。平台的 SEO 内容功能尤为突出，支持关键词集成和元标签生成，帮助内容在搜索引擎中获得更好的排名。Copymatic AI 还提供网站整站内容生成功能，用户输入网站主题后，AI 可以自动生成多页面的完整网站内容。支持 25+ 种语言，适合跨语言内容创作需求。产品界面清晰，操作简便，适合个人博主、SEO 工作者、内容营销团队及中小企业。在功能和价格方面，Copymatic AI 提供了较为均衡的选择，是内容创作者工具箱中的实用选项。
+

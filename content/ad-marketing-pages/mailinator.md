@@ -1,7 +1,7 @@
----
+﻿---
 title: Mailinator
 description: Mailinator临时邮箱
-seoTitle: Mailinator - 详细介绍与评价 | 007出海导航
+seoTitle: Mailinator - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/mailinator/
 slug: mailinator
@@ -92,3 +92,4 @@ related:
 ---
 
 Mailinator 是临时邮件服务领域的知名老牌平台，以其独特的公共收件箱模式著称。任何人可以直接向任意 @mailinator.com 地址发送邮件，收件人只需在网站输入对应的邮箱名即可查看。Mailinator 的最大特色是无需任何配置——不需要先创建账号或邮箱，只需在注册网站时填入一个 @mailinator.com 的地址，然后去 Mailinator 网站输入该地址名称即可查看收件。平台提供 API 接口，方便开发者在自动化测试中集成邮件验证功能，这是 Mailinator 相比普通临时邮箱工具的重要优势。对于 QA 测试人员、开发者和技术团队来说，Mailinator 是测试邮件发送功能的强大工具。免费版仅支持 @mailinator.com 域名，且邮件公开可见；付费版则支持私有域名、私有收件箱和更多企业级功能，适合专业团队使用。Mailinator 长期以来是开发测试社区的标准参考工具，具有极高的行业认知度。
+

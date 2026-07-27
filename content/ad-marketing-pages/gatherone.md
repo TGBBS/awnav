@@ -1,7 +1,7 @@
----
+﻿---
 title: GatherOne
 description: Facebook官方授权代理商
-seoTitle: GatherOne - 详细介绍与评价 | 007出海导航
+seoTitle: GatherOne - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/gatherone/
 slug: gatherone
@@ -91,3 +91,4 @@ related:
 ---
 
 GatherOne是专注于海外数字营销的服务公司，作为Facebook官方授权代理商，为中国出海企业提供社交媒体广告投放和整合营销服务。公司致力于帮助品牌和企业在Facebook、Instagram等Meta平台上高效触达海外目标用户，提供从账户开通、策略规划到效果优化的完整营销服务链条。GatherOne的核心服务包括Facebook广告账户申请与管理、广告创意策划与制作、精准受众定位与投放优化、数据分析与ROI追踪报告，以及跨平台整合营销方案。凭借官方代理商资质，GatherOne能够为客户提供更稳定可靠的广告账户资源，同时获得平台优先支持和政策变化的及时通知。公司团队具备多语言运营能力，熟悉欧美、东南亚等主要目标市场的用户特征和营销规律。GatherOne特别适合中小型跨境电商企业和希望扩展海外用户基础的互联网公司，能够以相对亲民的门槛享受到专业的Facebook广告投放服务，是中国企业出海营销的可靠合作伙伴。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Flurry
 description: 一款安卓和iOS的手机应用分析服务
-seoTitle: Flurry - 详细介绍与评价 | 007出海导航
+seoTitle: Flurry - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/flurry/
 slug: flurry
@@ -92,3 +92,4 @@ related:
 ---
 
 Flurry Analytics 是 Yahoo（现属 Verizon Media）旗下的免费移动应用分析平台，是全球使用最广泛的移动应用数据分析工具之一，支持 iOS 和 Android 双平台。Flurry 提供全面的移动应用用户行为分析功能，包括：用户会话分析、活跃用户统计（DAU/MAU）、用户留存率追踪、用户路径分析、事件追踪、崩溃报告以及用户画像分析。其最大优势是完全免费，且接入 SDK 非常简单，几行代码即可完成集成，因此在全球移动开发者社区中拥有极高的普及率。Flurry 的数据覆盖超过100万个应用，月活设备超过10亿，积累了庞大的移动用户行为数据。对于独立开发者和初创公司来说，Flurry 是获取应用分析能力的零成本解决方案，在没有预算的情况下也能获得专业级的数据洞察。然而，随着 Firebase（Google）等竞品的崛起，Flurry 的市场份额有所下滑，产品更新也相对滞后，部分高级功能已不再是行业最优选择。目前仍是性价比极高的入门级移动分析工具。
+

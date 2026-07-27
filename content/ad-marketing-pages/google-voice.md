@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Voice
 description: 谷歌虚拟手机号，可永久使用
-seoTitle: Google Voice - 详细介绍与评价 | 007出海导航
+seoTitle: Google Voice - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/google-voice/
 slug: google-voice
@@ -92,3 +92,4 @@ related:
 ---
 
 Google Voice 是由 Google 提供的免费虚拟电话号码服务，用户可获得一个美国虚拟手机号码，用于拨打和接听电话、收发短信及语音邮件。与一次性接码平台不同，Google Voice 提供的号码可以长期持有和永久使用，只需定期活跃即可保留。该服务完全免费，支持在 iOS、Android 和网页端跨设备使用，所有通话记录和短信均可同步。Google Voice 在中国大陆无法直接访问，通常需要配合代理工具使用，且注册时需要一个真实美国手机号进行验证。对于需要美国号码进行海外账号注册、跨境业务联络的用户而言，Google Voice 是极具性价比的选择。号码可用于注册 Facebook、Twitter、各类美国服务等，稳定性和可信度远高于一次性接码平台。该服务主要面向需要长期使用美国虚拟号码的海外华人、跨境从业者和全球化业务团队，是保护个人手机号隐私的同时维持长期通讯能力的理想工具。
+

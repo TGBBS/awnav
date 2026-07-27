@@ -1,7 +1,7 @@
----
+﻿---
 title: Python.org
 description: Python 编程语言的官方网站
-seoTitle: Python.org - 详细介绍与评价 | 007出海导航
+seoTitle: Python.org - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/pythonorg/
 slug: pythonorg
@@ -93,3 +93,4 @@ related:
 ---
 
 Python.org是Python编程语言的官方网站，Python语言由荷兰程序员Guido van Rossum于1991年发布，是当今全球使用最广泛、最受欢迎的编程语言之一。Python以其简洁清晰的语法著称，代码可读性极强，强制使用缩进来表示代码块的设计让代码结构一目了然。Python是通用编程语言，应用领域极为广泛，涵盖Web开发、数据科学、人工智能与机器学习、科学计算、自动化脚本、网络爬虫、系统运维等几乎所有编程场景。在人工智能和数据科学领域，Python已成为事实上的标准语言，TensorFlow、PyTorch、NumPy、Pandas等核心AI和数据处理库均以Python为主要接口。Python丰富的标准库和第三方包生态（PyPI拥有超过50万个包）使开发者能够快速实现各类功能需求。Python是全球众多知名科技公司和机构的首选编程语言，包括Google、Instagram、Dropbox、NASA等。Python社区庞大且友好，提供海量教程和学习资源。适合编程初学者、数据科学家、AI研究人员、Web开发者以及各类软件工程师。
+

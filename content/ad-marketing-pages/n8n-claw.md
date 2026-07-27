@@ -1,7 +1,7 @@
----
+﻿---
 title: n8n-claw
 description: 完全基于n8n构建的自主AI代理，集成RAG和MCP协议
-seoTitle: n8n-claw - 详细介绍与评价 | 007出海导航
+seoTitle: n8n-claw - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/n8n-claw/
 slug: n8n-claw
@@ -82,3 +82,4 @@ related:
 ---
 
 n8n-claw 是由开发者 Freddy Schuetz 构建的完全基于 n8n 工作流自动化平台的自主 AI 代理系统，托管于 GitHub（freddy-schuetz/n8n-claw）。这一项目的独特之处在于它将 OpenClaw 风格的 AI 代理能力完全实现在 n8n 的可视化工作流环境中，而非创建一个独立的运行时。n8n 是一个广受欢迎的开源工作流自动化工具，拥有 300+ 内置集成节点，用户可以通过拖拽方式构建复杂的自动化流程。n8n-claw 在此基础上集成了两项关键技术：RAG（检索增强生成），使 AI 代理能够从用户自定义的知识库中检索信息，大幅提升特定领域任务的准确性；以及 MCP（Model Context Protocol）协议支持，允许 AI 代理通过标准化协议访问外部工具和数据源。对于已经在使用 n8n 的团队来说，n8n-claw 提供了一种无缝添加 AI 代理能力的方式，无需引入新的技术栈。可视化的工作流编辑器也使非技术用户能够理解和修改 AI 代理的行为逻辑，降低了 AI 代理开发的门槛。
+

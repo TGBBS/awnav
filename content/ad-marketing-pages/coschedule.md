@@ -1,7 +1,7 @@
----
+﻿---
 title: CoSchedule
 description: 一款非常强大的社交媒体管理工具
-seoTitle: CoSchedule - 详细介绍与评价 | 007出海导航
+seoTitle: CoSchedule - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/coschedule/
 slug: coschedule
@@ -92,3 +92,4 @@ related:
 ---
 
 CoSchedule 是一款功能强大的营销日历和社交媒体管理工具，成立于 2013 年，总部位于美国北达科他州法戈市。CoSchedule 的核心产品是其营销日历（Marketing Calendar），将社交媒体发布、博客文章、营销活动等所有内容统一在一个可视化日历中管理，帮助营销团队实现内容策略的全局把控。平台支持 Facebook、Instagram、Twitter、LinkedIn、Pinterest 等主流社交媒体平台，提供内容排期、自动重复发布（ReQueue）、社交媒体数据分析和团队协作功能。CoSchedule 的 ReQueue 功能可以自动将表现优秀的历史帖子重新安排发布，最大化内容价值。平台与 WordPress、HubSpot 等内容平台的集成功能也是其重要特色。CoSchedule 主要面向内容营销团队、博主、营销经理等需要统一管理内容计划的专业用户。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Scrunch
 description: 拥有20 million+网红数据，10 biliion+帖子数据
-seoTitle: Scrunch - 详细介绍与评价 | 007出海导航
+seoTitle: Scrunch - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/scrunch/
 slug: scrunch
@@ -92,3 +92,4 @@ related:
 ---
 
 Scrunch 是一款澳大利亚的网红营销平台，拥有超过2000万网红数据和100亿条帖子数据，帮助品牌发现和管理跨平台的网红营销活动。平台覆盖 Instagram、YouTube、Facebook、Twitter 和 Pinterest 等主流社交媒体平台，支持多维度搜索和筛选网红资源。Scrunch 的数据库特别注重亚太地区网红的收录，这使其在澳大利亚、新西兰和东南亚市场具有较强优势。平台提供网红档案数据，包括粉丝数量、参与率、内容主题标签和受众地理分布等信息，帮助品牌做出基于数据的合作决策。活动管理功能支持追踪多个网红合作项目的进度和内容表现。Scrunch 的定位相对中端，价格比顶级企业级平台更亲民，适合中小企业进行专业化的网红营销。平台还提供白标（White Label）解决方案，适合代理机构以自有品牌向客户提供网红营销服务。整体而言，Scrunch 在规模和功能深度上不及 Upfluence 或 AspireIQ，但对于亚太市场的网红营销需求有独特优势。
+

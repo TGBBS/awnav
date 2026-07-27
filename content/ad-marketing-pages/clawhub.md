@@ -1,7 +1,7 @@
----
+﻿---
 title: ClawHub
 description: OpenClaw 官方技能商店，下载和分享社区构建的AI技能插件
-seoTitle: ClawHub - 详细介绍与评价 | 007出海导航
+seoTitle: ClawHub - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/clawhub/
 slug: clawhub
@@ -72,3 +72,4 @@ related:
 ---
 
 ClawHub 是 OpenClaw 的官方技能商店平台，类似于 iOS App Store 之于 iPhone，为 OpenClaw 用户提供一站式的 AI 技能插件下载和分享服务。用户可以在 ClawHub 上浏览数千款由官方和社区开发者贡献的技能插件，涵盖生产力工具、娱乐、信息获取、智能家居控制、编程辅助等各类场景。每款插件都经过基本的安全审查，并附有用户评分和使用说明。开发者可以将自己开发的技能插件上传至 ClawHub，与全球 OpenClaw 用户分享，同时可选择付费或免费分发模式。ClawHub 支持一键安装，插件下载后会自动集成到用户的 OpenClaw 实例中，无需手动配置。平台还提供技能调试工具、版本管理和使用统计功能，帮助开发者持续迭代优化。ClawHub 是 OpenClaw 生态系统的重要组成部分，它大幅降低了普通用户扩展 AI 助手能力的门槛，同时为开发者提供了一个有效的分发渠道，推动了整个 OpenClaw 生态的繁荣发展。
+

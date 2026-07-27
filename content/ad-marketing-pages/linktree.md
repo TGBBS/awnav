@@ -1,7 +1,7 @@
----
+﻿---
 title: linktree
 description: 分享个人的链接合集
-seoTitle: linktree - 详细介绍与评价 | 007出海导航
+seoTitle: linktree - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/linktree/
 slug: linktree
@@ -92,3 +92,4 @@ related:
 ---
 
 Linktree 是一款专为社交媒体用户打造的个人链接聚合工具，帮助用户将多个重要链接整合到一个简洁的落地页中，并通过单一链接在Instagram、TikTok、Twitter等社交平台简介处分享。由于大多数社交媒体平台在个人简介处只允许放置一个链接，Linktree 通过提供一个可无限添加链接的个人主页完美解决了这一痛点。用户可以在Linktree页面上展示个人网站、作品集、社交媒体账号、商品购买链接、联系方式等任意数量的链接，并对每个链接进行命名和排序。Linktree 提供丰富的主题和样式自定义选项，让个人主页风格与个人品牌保持一致。Pro版还支持链接动画、视频背景、邮件收集表单、支付功能（收集打赏/捐款）以及详细的点击数据分析，帮助创作者了解受众行为。主要用户群体包括内容创作者、网红、艺术家、音乐人、小企业主等需要通过社交媒体进行个人或品牌推广的用户。Linktree 提供免费版和付费Pro版。
+

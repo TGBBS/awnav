@@ -1,7 +1,7 @@
----
+﻿---
 title: Logo Garden
 description: 一款免费的在线标志制作工具
-seoTitle: Logo Garden - 详细介绍与评价 | 007出海导航
+seoTitle: Logo Garden - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/logo-garden/
 slug: logo-garden
@@ -91,3 +91,4 @@ related:
 ---
 
 Logo Garden 是一款在线免费标志制作工具，提供超过三百万个可编辑的剪贴画和向量图形素材，是图标资源最为丰富的Logo制作平台之一。用户可以通过搜索关键词快速找到与自己业务相关的图形素材，结合自定义文字、颜色和字体，创建个性化的品牌标志。Logo Garden的特色在于其庞大的图形素材库，涵盖动物、植物、建筑、科技等几乎所有类别，特别适合需要找到特定行业符号的用户。平台的编辑器设计直观，拖拽式操作让非设计师也能轻松完成Logo制作。Logo Garden 主要面向小企业主、自由职业者和个人品牌建设者，提供从预览到付费下载的完整服务流程。虽然界面设计较为传统，但其丰富的素材资源使其在特定用户群中保持着稳定的使用量，是老牌在线Logo工具中资源量最为突出的平台之一。
+

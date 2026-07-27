@@ -1,7 +1,7 @@
----
+﻿---
 title: NeuralText
 description: 一款出色的人工智能工具，可与Google Docs 和WordPress、Google Chrome 和Shopify 等平台无缝集成
-seoTitle: NeuralText - 详细介绍与评价 | 007出海导航
+seoTitle: NeuralText - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/neuraltext/
 slug: neuraltext
@@ -91,3 +91,4 @@ related:
 ---
 
 NeuralText 是一款面向内容营销和 SEO 优化的 AI 写作平台，特别强调与主流工作平台的无缝集成能力。NeuralText 支持与 Google Docs、WordPress、Google Chrome 扩展、Shopify 等平台深度集成，让内容创作者无需离开惯用工具即可获得 AI 写作辅助。产品核心功能包括：AI 文章生成与扩写、关键词研究工具、SERP 内容分析（分析搜索结果页顶级竞争对手内容）、内容简报（Content Brief）生成、SEO 内容优化等。NeuralText 的 SERP 分析功能尤为实用，能够分析目标关键词排名前列的内容，提取常见主题和问题，为用户生成全面的内容框架，帮助创作出更有竞争力的 SEO 文章。适合 SEO 专家、内容营销人员、博主及 WordPress 站长。NeuralText 将 AI 写作与 SEO 研究工具合二为一，是希望提升内容搜索排名的创作者的高效工具。
+

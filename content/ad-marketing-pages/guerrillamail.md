@@ -1,7 +1,7 @@
----
+﻿---
 title: Guerrillamail
 description: Guerrilla临时邮箱，有限时间60分钟
-seoTitle: Guerrillamail - 详细介绍与评价 | 007出海导航
+seoTitle: Guerrillamail - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/guerrillamail/
 slug: guerrillamail
@@ -92,3 +92,4 @@ related:
 ---
 
 Guerrilla Mail 是临时邮件服务领域的知名工具，以其独特的「游击战」概念命名，强调用完即弃的特性。平台提供默认 1 小时有效期的临时邮件地址（原为 60 分钟），邮件到期后自动删除，有效保护用户隐私。Guerrilla Mail 的特色在于它不仅可以接收邮件，还支持发送邮件，这在临时邮件工具中较为少见，使其适用范围更广。平台支持多个邮件域名选择，降低被特定网站屏蔽的概率。用户无需任何注册即可使用，还可以选择记住当前地址以便下次访问同一收件箱。Guerrilla Mail 还提供 API 接口，方便开发者在自动化测试中使用。该服务在技术社区和隐私保护用户群中有较高知名度，长期以来以稳定可靠的服务赢得用户信任。对于需要发送邮件功能的临时邮件场景，Guerrilla Mail 是为数不多能够满足需求的免费工具，是临时邮件工具中功能较为完整的代表。
+

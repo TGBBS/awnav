@@ -1,7 +1,7 @@
----
+﻿---
 title: NullClaw
 description: Zig语言编写的极速AI助手，678KB超轻量，启动毫秒级
-seoTitle: NullClaw - 详细介绍与评价 | 007出海导航
+seoTitle: NullClaw - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/nullclaw/
 slug: nullclaw
@@ -92,3 +92,4 @@ related:
 ---
 
 NullClaw 是一款用 Zig 语言编写的极速超轻量 AI 助手，其最显著的特点是将整个运行时压缩到 678KB 以内，启动时间达到毫秒级——这在 AI 助手领域是极为罕见的极致性能追求。Zig 是一种现代系统级编程语言，以无 GC（垃圾回收）、零开销抽象和精确内存控制著称，非常适合构建高性能、低资源占用的系统软件。NullClaw 的设计哲学是「极简主义」——移除一切非必要的功能和依赖，只保留最核心的 AI 代理交互能力，使其能够在资源极其受限的环境中运行，例如旧款电脑、嵌入式 Linux 设备、Serverless 函数等。678KB 的体积意味着它可以轻松嵌入其他应用或部署到存储空间有限的设备中。NullClaw 主要面向极客用户、系统开发者，以及对启动速度和资源消耗有苛刻要求的技术场景。它不追求功能的全面性，而是在性能和轻量化上做到极致，是那些被臃肿 AI 工具「劝退」的用户的理想选择。项目托管于 nullclaw.org，文档完整，对 Zig 生态有良好的集成支持。
+

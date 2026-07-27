@@ -1,7 +1,7 @@
----
+﻿---
 title: WordStream
 description: 利用最新的谷歌搜索数据，提供准确、有针对性的广告分析
-seoTitle: WordStream - 详细介绍与评价 | 007出海导航
+seoTitle: WordStream - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/wordstream/
 slug: wordstream
@@ -91,3 +91,4 @@ related:
 ---
 
 WordStream 是一家专注于数字广告优化的软件公司，提供以 Google Ads、Microsoft Ads（Bing Ads）为核心的广告管理和优化平台。其关键词工具基于最新的 Google 搜索数据，提供关键词搜索量、CPC、竞争度等关键指标，帮助广告主发现高价值关键词机会。WordStream 的核心产品包括关键词研究工具和 Google Ads Performance Grader（广告效果评级工具），后者可以免费分析 Google Ads 账户的质量评分、广告文案、关键词匹配类型等问题，并给出优化建议。WordStream Advisor 是其付费的广告管理平台，通过算法分析账户数据，每周提供优先优化建议，帮助广告主最大化广告 ROI。平台特别适合中小企业主和不擅长 Google Ads 技术操作的营销人员，通过简化复杂的广告优化流程来提升广告效果。WordStream 于2018年被 Gannett 以1.5亿美元收购，2021年又被 LOCALiQ 整合。其关键词工具虽然有免费版，但完整功能需要付费订阅。对于预算有限的中小企业广告主，WordStream 是简化 Google Ads 管理工作量的实用解决方案。
+

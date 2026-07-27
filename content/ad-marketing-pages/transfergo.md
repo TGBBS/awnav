@@ -1,7 +1,7 @@
----
+﻿---
 title: TransferGo
 description: 在线跨境汇款服务提供商
-seoTitle: TransferGo - 详细介绍与评价 | 007出海导航
+seoTitle: TransferGo - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/transfergo/
 slug: transfergo
@@ -94,3 +94,4 @@ related:
 ---
 
 TransferGo 成立于2012年，总部位于英国伦敦，是一家专注于为移民和海外工作者提供快速、低价跨境汇款服务的金融科技公司。TransferGo 的核心用户群是在欧洲工作的东欧移民（尤其是波兰、立陶宛、乌克兰、罗马尼亚等国家的侨民），他们需要定期将工资汇回家乡。TransferGo 以极快的转账速度（最快30分钟到账，许多路线支持即时到账）和低廉的手续费（部分路线免费或收取固定低额费用）为卖点，与传统银行和西联汇款相比具有显著优势。TransferGo 支持的货币超过60种，覆盖欧洲、亚洲、非洲、美洲等地区，转账路线超过160条。其产品设计简洁，移动App体验良好，注册流程快速，KYC验证简便。TransferGo 还提供 TransferGo Business 服务，为中小企业提供批量付款和工资代发功能。平台采用银行级别的安全措施，并获得英国FCA及欧盟多国金融监管机构授权。适用人群：海外华人及移民工作者、需要向家人汇款的海外劳工、有欧洲市场收付款需求的中小企业。
+

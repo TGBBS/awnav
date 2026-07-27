@@ -1,7 +1,7 @@
----
+﻿---
 title: Apache MXNet
 description: 一个开源的深度学习框架
-seoTitle: Apache MXNet - 详细介绍与评价 | 007出海导航
+seoTitle: Apache MXNet - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/apache-mxnet/
 slug: apache-mxnet
@@ -89,3 +89,4 @@ related:
 ---
 
 Apache MXNet 是一个由 Apache 软件基金会维护的开源深度学习框架，最初由卡内基梅隆大学和华盛顿大学的研究人员共同开发，后来获得亚马逊 AWS 的大力支持，成为 AWS 的首选深度学习框架。MXNet 以其高效的内存利用率和出色的分布式训练性能著称，支持多种编程语言的前端接口，包括 Python、R、Scala、Julia、Perl 和 C++。MXNet 的核心优势在于其混合编程模式（Gluon API），既支持命令式编程的灵活性，又支持符号式编程的高性能优化。然而，随着 PyTorch 和 TensorFlow 主导 AI 框架市场，MXNet 的社区活跃度持续下降。2023 年，Apache 软件基金会宣布 MXNet 项目退休，停止维护。MXNet 适合曾在 AWS 生态系统中进行深度学习开发的工程师和研究人员，但新项目建议迁移至 PyTorch 或 TensorFlow。
+

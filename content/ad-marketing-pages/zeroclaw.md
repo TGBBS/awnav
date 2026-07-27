@@ -1,7 +1,7 @@
----
+﻿---
 title: ZeroClaw
 description: Android端24/7运行的AI代理，原生Rust核心，支持25+大模型
-seoTitle: ZeroClaw - 详细介绍与评价 | 007出海导航
+seoTitle: ZeroClaw - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/zeroclaw/
 slug: zeroclaw
@@ -82,3 +82,4 @@ related:
 ---
 
 ZeroClaw 是一款专为 Android 平台设计的 7×24 小时持续运行 AI 代理，托管于 GitHub（Natfi/ZeroClaw-Android）。其核心亮点是采用原生 Rust 语言编写的核心引擎，带来了极高的性能效率和内存安全性，使其能够在 Android 设备上以极低的电池和内存消耗长期后台运行，真正实现全天候 AI 代理能力。ZeroClaw 支持接入超过 25 种主流大语言模型，包括 OpenAI GPT 系列、Anthropic Claude、Google Gemini、国内的通义千问、文心一言等，用户可以根据需求和预算自由选择和切换模型后端。对于 Android 用户来说，ZeroClaw 弥补了移动端 AI 代理工具的空缺——在此之前，功能完整的 AI 代理主要运行在桌面端。ZeroClaw 允许用户设置定时任务、消息触发的自动化工作流，并能与 Android 系统功能（通知、联系人、日历等）进行集成。Rust 核心保证了代码的高可靠性和低崩溃率，这对于需要长期稳定运行的后台代理至关重要。适合 Android 重度用户、移动端自动化爱好者，以及希望让手机 24 小时处理后台 AI 任务的技术用户。
+

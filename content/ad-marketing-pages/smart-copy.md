@@ -1,7 +1,7 @@
----
+﻿---
 title: Smart Copy
 description: 一个运行在GPT-3技术上的人工智能写作工具
-seoTitle: Smart Copy - 详细介绍与评价 | 007出海导航
+seoTitle: Smart Copy - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/smart-copy/
 slug: smart-copy
@@ -91,3 +91,4 @@ related:
 ---
 
 Smart Copy（原 Snazzy AI）是 Unbounce 旗下的 AI 文案写作工具，基于 GPT-3 技术构建，与 Unbounce 的落地页优化平台深度整合。Smart Copy 的核心优势在于其与转化优化的紧密结合：作为 Unbounce 生态的一部分，Smart Copy 生成的文案天然与高转化率落地页设计相配合，帮助营销人员快速生成经过优化的广告文案、落地页内容和营销邮件。主要功能包括：落地页文案生成、广告文案创作、邮件营销内容、品牌故事、CTA（行动号召）优化等。Smart Copy 提供多种写作模板，操作简单，适合营销人员快速生成内容草稿。产品与 Unbounce 落地页编辑器无缝集成，是 Unbounce 用户的自然延伸工具。对于已经在使用 Unbounce 进行落地页测试的营销团队，Smart Copy 提供了一种将 AI 文案生成与转化优化一体化的高效工作方式。
+

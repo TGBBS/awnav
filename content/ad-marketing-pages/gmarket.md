@@ -1,7 +1,7 @@
----
+﻿---
 title: Gmarket
 description: 韩国最大的综合性购物网站
-seoTitle: Gmarket - 详细介绍与评价 | 007出海导航
+seoTitle: Gmarket - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/gmarket/
 slug: gmarket
@@ -92,3 +92,4 @@ related:
 ---
 
 Gmarket 是韩国最大的综合性购物网站之一，成立于2000年，提供从电子产品、时尚服装、美妆护肤、食品、婴幼儿用品到生活家居的全品类商品。平台采用C2C和B2C混合模式，汇聚了大量韩国本土中小卖家和品牌旗舰店。Gmarket 于2009年被 eBay 收购，2022年 eBay 将 Gmarket 出售给韩国新世界集团（Shinsegae），与旗下的 SSG.com 深度整合。Gmarket 拥有丰富的优惠券和积分体系，定期举办大促活动，是韩国消费者日常购物的重要渠道。平台还提供 Gmarket Global（英文版），方便海外买家购买正宗韩国商品，包括K-beauty、K-food等热门品类。适合韩国本地消费者及希望购买韩国产品的全球买家。
+

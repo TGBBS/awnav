@@ -1,7 +1,7 @@
----
+﻿---
 title: Session Buddy
 description: 一款浏览器扩展
-seoTitle: Session Buddy - 详细介绍与评价 | 007出海导航
+seoTitle: Session Buddy - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/session-buddy/
 slug: session-buddy
@@ -92,3 +92,4 @@ related:
 ---
 
 Session Buddy 是一款流行的 Chrome 浏览器扩展，专为管理浏览器标签页和会话而设计。它能够保存当前所有打开的标签页为一个会话（Session），方便用户在需要时快速恢复所有标签，极大地解决了标签页过多导致浏览器卡顿、标签页误关或重启后丢失工作状态的痛点。Session Buddy 的核心功能包括：一键保存当前会话、随时恢复已保存的会话、管理多个命名会话、搜索所有已保存会话中的标签页，以及导出会话数据进行备份。工具还提供自动会话保存功能，定期备份浏览状态，防止意外情况导致工作丢失。对于需要同时处理多个项目的研究人员、程序员、新闻工作者和知识工作者来说，Session Buddy 是管理大量标签页工作流程的神器。它也适合喜欢深度研究某个话题时开大量标签页，但又需要定期清理浏览器保持流畅运行的用户。Session Buddy 界面简洁易用，安装量超过100万，是 Chrome 最受欢迎的标签页管理扩展之一。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: 谷歌测速
 description: 谷歌网站测速工具
-seoTitle: 谷歌测速 - 详细介绍与评价 | 007出海导航
+seoTitle: 谷歌测速 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/%E8%B0%B7%E6%AD%8C%E6%B5%8B%E9%80%9F/
 slug: 谷歌测速
@@ -95,3 +95,4 @@ related:
 ---
 
 谷歌测速（PageSpeed Insights）是 Google 提供的免费网页性能分析工具，帮助开发者和网站管理员评估并优化网页加载速度和用户体验。工具对指定 URL 进行全面分析，从移动端和桌面端两个维度分别给出0-100的性能评分，并详细列出影响性能的各项问题及优化建议。PageSpeed Insights 基于 Lighthouse 技术，并融合了 Chrome 用户体验报告（CrUX）中的真实用户数据，让分析结果更贴近实际使用情况。核心网页指标（Core Web Vitals）是分析的重点，包括最大内容绘制（LCP）、首次输入延迟（FID）、累积布局偏移（CLS）等关键指标。这些指标也是 Google 搜索排名算法的重要因素，因此优化 PageSpeed 分数对 SEO 也有直接帮助。工具提供具体的优化建议，如压缩图片、启用浏览器缓存、消除渲染阻塞资源等，并估算每项优化能节省的时间。PageSpeed Insights 适合前端开发者、SEO 专员和网站管理员，是网站性能优化工作流程中不可缺少的诊断工具。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: ZonPages
 description: Zonpages为卖家提供各种销售工具,比如自动发邮件,Landing Page生成,和赠品页面创建等。
-seoTitle: ZonPages - 详细介绍与评价 | 007出海导航
+seoTitle: ZonPages - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/zonpages/
 slug: zonpages
@@ -87,3 +87,4 @@ related:
 ---
 
 ZonPages是一款专为亚马逊卖家打造的多功能营销工具套件，提供包括Landing Page创建、自动化邮件发送、赠品活动页面、买家插页以及关键词排名工具等多种实用功能，帮助亚马逊FBA卖家提升产品排名、获取评价和建立站外营销渠道。ZonPages的Landing Page功能允许卖家通过美观的产品落地页将社交媒体流量引导至亚马逊，同时收集买家联系信息建立私域流量。自动化邮件功能帮助卖家在符合亚马逊政策的前提下与买家沟通，提升自然评价获取率。赠品活动功能可以快速创建产品促销活动页面，配合折扣码发放，有效提升产品销量和BSR排名。平台对亚马逊卖家场景进行了深度优化，操作界面简洁易用，无需技术背景即可快速上手。主要用户群体为亚马逊FBA卖家和私标品牌卖家，尤其适合需要进行系统化站外推广和评价管理的中小卖家。
+

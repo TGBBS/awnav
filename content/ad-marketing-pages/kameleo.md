@@ -1,7 +1,7 @@
----
+﻿---
 title: Kameleo指纹浏览器
 description: 一款功能强大的网络浏览器
-seoTitle: Kameleo指纹浏览器 - 详细介绍与评价 | 007出海导航
+seoTitle: Kameleo指纹浏览器 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/kameleo/
 slug: kameleo
@@ -92,3 +92,4 @@ related:
 ---
 
 Kameleo是由匈牙利团队开发的专业指纹浏览器，在欧洲市场具有较高知名度，以强大的移动端指纹模拟能力著称。产品支持同时模拟桌面端和移动端浏览器指纹，这在同类产品中是一大差异化优势，可以模拟Android和iOS设备的浏览器行为。Kameleo基于自研的Chroma（Chromium内核）和Jungo（Firefox内核）浏览器，同时提供移动端虚拟浏览器功能。核心功能涵盖：桌面与移动端双模指纹模拟、超过50项指纹参数精细控制、Selenium/Playwright自动化框架集成、代理IP管理、Cookie导入导出、团队账号共享等。产品特别适合需要同时管理PC端和移动端账号的社媒营销人员、广告投手和流量运营者。Kameleo提供本地部署方案，数据不经过云端，对数据隐私有较高要求的企业用户尤为合适。产品支持Windows和macOS，英文界面，主要面向欧美市场用户。定价在中高档，提供免费试用期。
+

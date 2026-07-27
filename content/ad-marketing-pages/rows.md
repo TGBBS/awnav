@@ -1,7 +1,7 @@
----
+﻿---
 title: Rows
 description: 集成了AI功能的在线表格处理工具
-seoTitle: Rows - 详细介绍与评价 | 007出海导航
+seoTitle: Rows - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/rows/
 slug: rows
@@ -91,3 +91,4 @@ related:
 ---
 
 Rows 是一款集成了 AI 能力的新一代在线电子表格工具，致力于将传统表格与数据自动化、AI 分析深度融合。与传统的 Excel 或 Google Sheets 不同，Rows 内置了大量第三方数据集成（如 Google Analytics、Salesforce、HubSpot、Twitter 等），让用户无需手动导入数据即可直接在表格中拉取实时数据进行分析。Rows 的 AI 功能允许用户通过自然语言提问来分析表格数据，生成图表和洞察报告，还能自动化数据处理任务。主要功能包括：内置 50+ 数据集成、AI 数据分析、自动化工作流、精美报告分享页面等。Rows 特别适合营销分析师、增长团队、数据驱动的运营人员及希望快速构建数据仪表盘的用户。产品的分享功能独特，可以将表格内容转化为精美的互动报告页面，适合对外展示数据。
+

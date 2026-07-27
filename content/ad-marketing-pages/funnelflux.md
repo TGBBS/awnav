@@ -1,7 +1,7 @@
----
+﻿---
 title: FunnelFlux
 description: 功能比较强大，但是设置也比较复杂
-seoTitle: FunnelFlux - 详细介绍与评价 | 007出海导航
+seoTitle: FunnelFlux - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/funnelflux/
 slug: funnelflux
@@ -92,3 +92,4 @@ related:
 ---
 
 FunnelFlux 是一款以可视化漏斗构建为核心特色的广告追踪平台，其独创的漏斗流程图界面让用户能够以可视化方式设计和管理复杂的流量分发逻辑。与传统追踪工具的线性规则设置不同，FunnelFlux 允许用户通过拖拽方式构建多层次、多分支的广告漏斗，直观呈现流量从广告点击到最终转化的每一个节点和路径。这种可视化方法特别适合需要管理复杂多步骤漏斗的高级用户。FunnelFlux 的核心功能包括：可视化漏斗构建器、多维度流量追踪与实时报表、多落地页轮播和 A/B 测试、智能流量分发规则、Bot 过滤以及自定义域名追踪。平台提供云端（FunnelFlux Cloud）和自托管（FunnelFlux Pro）两种部署选项，满足不同用户对数据控制和成本的需求。FunnelFlux 的功能深度较高，学习曲线比大多数追踪工具陡峭，但一旦掌握，其灵活性和可视化能力是同类工具中的佼佼者。适合有一定经验、追求精细化漏斗管理的中高级联盟营销从业者和媒体购买团队。
+

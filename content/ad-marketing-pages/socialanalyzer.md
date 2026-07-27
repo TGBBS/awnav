@@ -1,7 +1,7 @@
----
+﻿---
 title: SocialAnalyzer
 description: Social Analyzer 是一个社交媒体监控和分析的免费工具,可以从FB视频中寻找niche产品
-seoTitle: SocialAnalyzer - 详细介绍与评价 | 007出海导航
+seoTitle: SocialAnalyzer - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/socialanalyzer/
 slug: socialanalyzer
@@ -92,3 +92,4 @@ related:
 ---
 
 Social Analyzer 是一个免费的社交媒体监控和分析工具，以 Chrome 浏览器扩展程序的形式提供服务。该工具的核心功能包括社交媒体情感分析和 niche 产品挖掘，尤其擅长从 Facebook 视频内容中识别潜在的热销产品和市场机会。对于跨境电商从业者而言，Social Analyzer 可以帮助他们发现 Facebook 上的热门产品视频，分析市场趋势，找到值得跟进的爆款产品。工具界面集成在浏览器中，使用便捷，无需额外安装复杂软件。作为免费工具，Social Analyzer 对于预算有限的个人卖家和小型团队具有较高的性价比。该工具主要面向跨境电商卖家、社交媒体营销人员和市场研究人员，帮助他们在浏览社交媒体时即时获取有价值的数据洞察。
+

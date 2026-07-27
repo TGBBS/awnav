@@ -1,7 +1,7 @@
----
+﻿---
 title: LINE
 description: LINE是日本和台湾地区最常用的社交聊天app
-seoTitle: LINE - 详细介绍与评价 | 007出海导航
+seoTitle: LINE - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/line/
 slug: line
@@ -92,3 +92,4 @@ related:
 ---
 
 LINE 是日本和台湾地区最广泛使用的社交聊天应用，由 LINE Corporation（原 NHN Japan）于 2011 年创立，总部位于日本东京。LINE 于 2011 年日本 311 大地震后推出，最初作为灾难通讯工具，迅速成为日本最受欢迎的通讯应用。LINE 的月活跃用户超过 1.8 亿，在日本、台湾、泰国、印度尼西亚等亚洲市场占据主导地位。LINE 提供免费的文字、语音、视频通话、贴纸（Sticker）分享等功能，其丰富多彩的贴纸文化是 LINE 的重要特色之一。对于商业用户，LINE 提供 LINE Official Account（LINE 官方账号）服务，企业可以通过官方账号与粉丝互动、发送营销信息、提供客户服务。LINE 还拥有 LINE Pay 移动支付、LINE Shopping、LINE Travel 等延伸服务，构建了完整的生活服务生态。对于出海日本、台湾、泰国等东亚/东南亚市场的企业，LINE 是本地化营销和客户服务不可缺少的渠道。
+

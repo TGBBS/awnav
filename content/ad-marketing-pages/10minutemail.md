@@ -1,7 +1,7 @@
----
+﻿---
 title: 10minutemail
 description: 10分钟邮箱
-seoTitle: 10minutemail - 详细介绍与评价 | 007出海导航
+seoTitle: 10minutemail - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/10minutemail/
 slug: 10minutemail
@@ -71,3 +71,4 @@ related:
 ---
 
 10分钟邮箱
+

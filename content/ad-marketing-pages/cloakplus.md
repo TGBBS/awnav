@@ -1,7 +1,7 @@
----
+﻿---
 title: Cloakplus
 description: 国人开发，市面上最准确的Cloak屏蔽系统之一
-seoTitle: Cloakplus - 详细介绍与评价 | 007出海导航
+seoTitle: Cloakplus - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/cloakplus/
 slug: cloakplus
@@ -95,3 +95,4 @@ related:
 ---
 
 Cloakplus 是由国人团队开发的广告 Cloaking 工具，被业内认为是市面上屏蔽精准度最高的 Cloak 系统之一。该工具专为跨境广告从业者打造，帮助广告投放人员在平台审核时呈现合规白页，对真实目标用户则展示实际推广内容。Cloakplus 的核心优势在于其自主研发的访客识别引擎，通过多维度信号（IP 信誉、User-Agent、浏览器指纹、行为特征等）综合判断访客身份，识别精准度在同类工具中位居前列。主要功能包括：实时 IP 黑名单库（持续更新）、多平台适配（Facebook、Google、TikTok、原生广告平台等）、访客行为分析、规则自定义、A/B 落地页管理以及详细的数据报告。Cloakplus 以国人开发为背景，提供完整的中文文档、视频教程和中文技术支持，对国内广告从业者非常友好。在定价方面具有竞争优势，相比国外同类产品更为实惠。是国内联盟营销和跨境电商广告圈中口碑较好的 Cloaking 解决方案。
+

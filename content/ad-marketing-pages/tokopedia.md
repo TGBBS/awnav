@@ -1,7 +1,7 @@
----
+﻿---
 title: Tokopedia
 description: 印尼最大的电商平台
-seoTitle: Tokopedia - 详细介绍与评价 | 007出海导航
+seoTitle: Tokopedia - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/tokopedia/
 slug: tokopedia
@@ -92,3 +92,4 @@ related:
 ---
 
 Tokopedia 是印度尼西亚最大的本土电商平台之一，成立于2009年，由 William Tanuwijaya 和 Leontinus Alpha Edison 共同创立，总部位于雅加达。Tokopedia 于2021年与东南亚打车巨头 Gojek 合并，组建了超级应用 GoTo 集团，构建了电商、出行、外卖和金融科技的综合生态。平台采用C2C和B2C混合模式，为印尼数百万卖家和消费者提供交易服务，涵盖电子产品、时尚、家居、食品等全品类。Tokopedia 拥有印尼最大的本土电商用户群，与 Shopee 在印尼市场展开激烈竞争。平台的 GoPay 数字支付、GoSend 配送服务构成完整的交易生态。Tokopedia 适合希望进入印尼市场的跨境卖家和印尼本地消费者。
+

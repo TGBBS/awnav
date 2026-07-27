@@ -1,7 +1,7 @@
----
+﻿---
 title: LandingCube
 description: LandingCube是亚马逊FBA卖家着落页面的生成工具,可以帮助你将外部流量转换为销售额。
-seoTitle: LandingCube - 详细介绍与评价 | 007出海导航
+seoTitle: LandingCube - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/landingcube/
 slug: landingcube
@@ -87,3 +87,4 @@ related:
 ---
 
 LandingCube是专为亚马逊FBA卖家设计的着陆页生成工具，核心定位是帮助卖家将Facebook、Google、Instagram等渠道的外部流量高效转化为亚马逊销售额，同时合规地收集买家邮件地址建立私域营销资产。LandingCube的落地页模板经过专门针对亚马逊流量转化的优化设计，用户可以轻松设置折扣码分发流程——访客在落地页输入邮件地址后自动获取亚马逊优惠码，有效激励转化。平台集成了ManyChat等Messenger营销工具，支持通过Facebook Messenger进行折扣码分发和买家沟通，进一步提升转化效率。此外，LandingCube提供详细的推广数据分析功能，帮助卖家评估不同流量来源的ROI。平台操作简单，不需要技术背景，亚马逊卖家可以在几分钟内完成落地页搭建。主要用户群体为专业亚马逊FBA卖家和私标品牌，尤其适合正在进行系统化站外引流和新品推广的卖家群体。
+

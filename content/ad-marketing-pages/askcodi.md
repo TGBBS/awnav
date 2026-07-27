@@ -1,7 +1,7 @@
----
+﻿---
 title: AskCodi
 description: 一个基于AI的代码生成助手
-seoTitle: AskCodi - 详细介绍与评价 | 007出海导航
+seoTitle: AskCodi - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/askcodi/
 slug: askcodi
@@ -71,3 +71,4 @@ related:
 ---
 
 一个基于AI的代码生成助手
+

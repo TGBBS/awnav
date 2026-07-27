@@ -1,7 +1,7 @@
----
+﻿---
 title: Mobfox
 description: 一家提供移动营销解决方案的公司
-seoTitle: Mobfox - 详细介绍与评价 | 007出海导航
+seoTitle: Mobfox - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/mobfox/
 slug: mobfox
@@ -92,3 +92,4 @@ related:
 ---
 
 Mobfox是专注于移动广告的综合营销技术平台，为移动应用发布商和广告主提供完整的移动广告解决方案。平台集成了移动广告交易（Mobile Exchange）、自助式广告投放平台（DSP）和发布商变现工具（SSP）等核心功能，构建了覆盖移动广告生态多个环节的技术服务体系。Mobfox的核心产品包括：移动广告交易平台（连接买卖双方的RTB竞价市场）、MobFox SDK（发布商变现接入工具）、程序化广告采购工具（DSP）、以及数据分析和报告系统。平台支持横幅广告、插屏广告、视频广告和原生广告等多种移动广告格式，覆盖iOS和Android两大主流移动操作系统。Mobfox在欧洲市场有较强的影响力，在全球移动广告生态中也有一定的地位。公司注重广告质量管控，通过技术手段过滤无效流量和欺诈广告，保障买卖双方的利益。平台适合中小型移动应用开发者寻求广告变现，以及希望在移动端进行程序化广告投放的广告主。目前Mobfox已被Matomy Media Group收购。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: CodeGeeX
 description: 一个具有130 亿参数的多编程语言代码生成预训练模型
-seoTitle: CodeGeeX - 详细介绍与评价 | 007出海导航
+seoTitle: CodeGeeX - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/codegeex/
 slug: codegeex
@@ -92,3 +92,4 @@ related:
 ---
 
 CodeGeeX 是由清华大学知识工程研究室和智谱 AI 联合开发的多编程语言代码生成预训练模型，拥有 130 亿参数规模。CodeGeeX 于 2022 年开源发布，是国内最早的大规模代码生成开源模型之一。它支持超过 20 种编程语言，包括 Python、Java、C++、JavaScript 等主流语言。CodeGeeX 提供 VS Code 和 JetBrains IDE 插件，功能包括代码自动补全、代码翻译（将代码从一种语言转换为另一种语言）、代码解释和注释生成。CodeGeeX 2 于 2023 年推出，基于 ChatGLM2-6B 基础模型，性能大幅提升且模型更轻量。2024 年 CodeGeeX 4.0 进一步更新，引入更强的对话和代码生成能力。CodeGeeX 的代码翻译功能是其独特亮点，能够将 Python 代码转换为 C++、Java 等语言。作为完全开源的项目，CodeGeeX 对国内开发者尤为友好，无需翻墙即可使用，且对中文注释和中文编程习惯有较好的理解。
+

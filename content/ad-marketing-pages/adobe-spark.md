@@ -1,7 +1,7 @@
----
+﻿---
 title: Adobe Spark
 description: Adobe Spark线上免费Facebook广告素材设计
-seoTitle: Adobe Spark - 详细介绍与评价 | 007出海导航
+seoTitle: Adobe Spark - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/adobe-spark/
 slug: adobe-spark
@@ -77,3 +77,4 @@ related:
 ---
 
 Adobe Spark（现已更名为 Adobe Express）是 Adobe 推出的在线免费设计工具，专为非专业设计师打造，让任何人都能快速创作出精美的视觉内容。在 Facebook 广告素材设计方面，Adobe Spark 提供了大量专业模板，涵盖方形图、横幅、故事广告等多种 Facebook 广告尺寸格式。用户无需任何设计基础，只需选择模板、替换图片和文字，即可在几分钟内生成符合 Facebook 广告规范的高质量素材。核心功能包括：海量品牌模板库、字体与色彩定制、图层编辑、一键移除背景、品牌工具包（统一 logo、字体、配色）以及动态动画效果。Adobe Spark 支持直接导出适合各平台的尺寸规格，大幅降低广告主的素材制作成本。特别适合中小电商卖家、独立站运营者、社交媒体营销人员以及预算有限的小团队使用。其免费版已能满足大部分基础需求，付费版则提供无水印导出和更多高级模板。
+

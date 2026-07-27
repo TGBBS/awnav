@@ -1,7 +1,7 @@
----
+﻿---
 title: Android（飞机）
 description: Android（飞机）
-seoTitle: Android（飞机） - 详细介绍与评价 | 007出海导航
+seoTitle: Android（飞机） - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/android/
 slug: android
@@ -92,3 +92,4 @@ related:
 ---
 
 Shadowsocks for Android（俗称「飞机」）是基于开源 Shadowsocks 协议的 Android 客户端应用，由开源社区在 GitHub 上维护。Shadowsocks 是一种基于 SOCKS5 代理的加密传输协议，最初由中国程序员 clowwindy 于2012年开发，旨在帮助用户突破网络封锁。Shadowsocks Android 客户端允许用户配置自有服务器或购买第三方代理服务（机场），通过加密混淆流量实现科学上网。应用完全开源，代码托管于 GitHub，安全透明，无广告，无收费——但用户需要自备代理服务器或购买第三方订阅。客户端支持多种插件（如 v2ray-plugin、obfs-local 等），可进一步混淆流量特征，提高抗检测能力。由于协议层面的技术优势，Shadowsocks 在网络环境严格的地区（如中国大陆）比传统 VPN 更难被检测和封锁。这是一款纯工具型应用，适合有一定技术基础、能自行配置服务器或对接机场订阅的用户。对于完全不了解技术的普通用户，使用门槛相对较高。
+

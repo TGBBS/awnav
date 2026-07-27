@@ -1,7 +1,7 @@
----
+﻿---
 title: AI Code Reviewer
 description: AI代码检查
-seoTitle: AI Code Reviewer - 详细介绍与评价 | 007出海导航
+seoTitle: AI Code Reviewer - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/ai-code-reviewer/
 slug: ai-code-reviewer
@@ -92,3 +92,4 @@ related:
 ---
 
 AI Code Reviewer 是一个专注于自动化代码审查的 AI 工具，通过 AI 技术帮助开发者快速发现代码中的问题、潜在 bug、安全漏洞和性能隐患。用户可以将代码粘贴到平台上，AI 会自动对代码进行分析并给出详细的审查意见，包括代码质量评估、改进建议和最佳实践提示。该工具还支持集成到 GitHub 等代码托管平台，在 Pull Request 提交时自动触发代码审查。AI Code Reviewer 对于代码规范检查、安全漏洞扫描和代码质量提升都有一定帮助，特别适合中小型团队没有资深代码审查人员的情况。它能够对 Python、JavaScript、Java、Go 等多种语言进行审查，给出符合行业最佳实践的建议。该工具定位于降低代码审查成本，让每个开发者都能在提交代码前获得一次 AI 层面的质量把关。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Bash
 description: 一个开源软件
-seoTitle: Bash - 详细介绍与评价 | 007出海导航
+seoTitle: Bash - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/bash/
 slug: bash
@@ -92,3 +92,4 @@ related:
 ---
 
 Bash（Bourne Again Shell）是GNU项目的一部分，是Unix/Linux系统上最广泛使用的命令行Shell和脚本语言，由Brian Fox于1989年创建，作为Bourne Shell（sh）的改进版本。Bash在几乎所有Linux发行版中作为默认Shell，同时也是macOS系统长期使用的默认Shell（macOS Catalina后默认切换为Zsh）。Bash的核心价值在于其作为Unix/Linux系统操作的基础工具地位，掌握Bash是系统管理、DevOps、云计算等技术领域的基本技能要求。Bash脚本能够将多个命令组合成自动化工作流，实现系统维护、批量文件处理、软件部署、CI/CD流程等各类自动化任务。Bash与Unix/Linux系统工具链（grep、awk、sed、find等）深度集成，通过管道和重定向机制实现强大的文本处理和数据流操作能力。Bash脚本语法简洁，无需编译直接执行，快速编写小工具的效率极高。在容器化和云原生时代，Bash脚本在Docker容器构建、Kubernetes运维、云资源管理等场景中仍然不可或缺。适合Linux/Unix系统管理员、DevOps工程师、后端开发者以及所有需要在命令行环境下工作的技术人员。
+

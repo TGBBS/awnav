@@ -1,7 +1,7 @@
----
+﻿---
 title: OpenClaw 中文版
 description: 非阉割版OpenClaw中文适配，内置飞书集成和国内网络环境优化
-seoTitle: OpenClaw 中文版 - 详细介绍与评价 | 007出海导航
+seoTitle: OpenClaw 中文版 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/openclaw-cn/
 slug: openclaw-cn
@@ -77,3 +77,4 @@ related:
 ---
 
 OpenClaw 中文版是由国内开发者社区维护的 OpenClaw 非官方中文适配版本，托管于 GitHub（jiulingyun/openclaw-cn）。该版本在原版 OpenClaw 的基础上进行了深度本土化改造：首先提供完整的中文界面和中文文档，降低非英语用户的使用门槛；其次内置了飞书（Lark）的原生集成，支持通过飞书机器人直接与 AI 助手交互；第三，针对国内网络环境进行了专项优化，内置代理配置支持，解决直连境外服务不稳定的问题，同时预配置了通义千问、文心一言、智谱 GLM 等国内主流大模型的接入。该项目被称为「非阉割版」，意在保留 OpenClaw 原版的全部功能，不做功能删减，区别于某些仅保留基础功能的简化适配版。项目由国内开源爱好者维护，更新较为活跃，通常在原版发布后数天内完成中文适配。适合希望使用 OpenClaw 但对英文环境不熟悉、或需要在国内网络环境下稳定运行的用户。
+

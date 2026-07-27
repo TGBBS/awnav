@@ -1,7 +1,7 @@
----
+﻿---
 title: Juliusworks
 description: 红人搜索，红人管理，红人分析
-seoTitle: Juliusworks - 详细介绍与评价 | 007出海导航
+seoTitle: Juliusworks - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/juliusworks/
 slug: juliusworks
@@ -92,3 +92,4 @@ related:
 ---
 
 Julius 是一款专业的网红营销管理平台，提供网红搜索、数据分析和营销活动管理功能，帮助品牌和代理机构高效开展网红合作。平台收录了超过10万名经过手动审核和认证的网红数据，覆盖 Instagram、YouTube、Twitter、Facebook 和 Pinterest 等主流平台。与依赖算法自动抓取的平台不同，Julius 对每位网红的数据进行人工核验，确保信息的准确性和可靠性。搜索系统支持超过50个筛选维度，包括网红的受众人口统计、内容主题、合作经历和地理位置等，帮助品牌精准定位理想合作对象。平台内置项目管理工具，支持追踪活动进度、管理沟通记录和评估合作效果。Julius 的分析报告涵盖真实触达量、互动率、内容表现和估算 CPM 等关键指标。平台主要面向需要管理多个复杂网红项目的大型品牌和代理机构，提供个性化的客户成功支持。适合消费品牌、娱乐公司和需要系统化管理网红关系的专业营销团队。
+

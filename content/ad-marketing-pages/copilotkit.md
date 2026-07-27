@@ -1,7 +1,7 @@
----
+﻿---
 title: CopilotKit
 description: 前端AI代理框架，为React/Angular应用提供生成式UI和Agent能力
-seoTitle: CopilotKit - 详细介绍与评价 | 007出海导航
+seoTitle: CopilotKit - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/copilotkit/
 slug: copilotkit
@@ -70,3 +70,4 @@ related:
 ---
 
 CopilotKit 是一个专为前端应用设计的 AI 代理框架，由 CopilotKit 公司开发，专注于为 React 和 Angular 等前端框架提供生成式 UI 和 AI Agent 能力。其核心创新在于将 AI 代理能力与用户界面深度融合——不仅仅是在界面上展示 AI 对话，而是让 AI 代理能够直接感知和操控应用的 UI 状态，实现真正的人机协作。CopilotKit 提供了一套完整的 React 组件库和 Hooks，开发者只需几行代码即可在现有 Web 应用中嵌入 AI 助手侧边栏、内联建议、文本编辑器 AI 辅助等功能。其「CoAgents」功能使 AI 代理能够感知应用的当前状态，并以自然语言与用户交互来执行 UI 操作，例如「帮我在表单里填上这些信息」或「把这个图表的数据导出来」。框架支持 LangGraph 集成，便于构建复杂的有状态 AI 工作流。CopilotKit 在 GitHub 上积累了超过 15K 星标，受到众多 Web 开发者的青睐。适合希望为 SaaS 产品、企业内部工具或 Web 应用添加 AI 助手能力的前端开发者和全栈工程师。
+

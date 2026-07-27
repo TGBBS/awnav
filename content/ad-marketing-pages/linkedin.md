@@ -1,7 +1,7 @@
----
+﻿---
 title: Linkedin
 description: 领英，全球知名职场社交平台
-seoTitle: Linkedin - 详细介绍与评价 | 007出海导航
+seoTitle: Linkedin - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/linkedin/
 slug: linkedin
@@ -92,3 +92,4 @@ related:
 ---
 
 LinkedIn 是全球最大的职业社交网络平台，由雷德·霍夫曼（Reid Hoffman）等人于 2002 年创立，2016 年被微软以 262 亿美元收购，总部位于美国加利福尼亚州桑尼维尔。LinkedIn 拥有超过 9 亿注册会员，覆盖全球 200 多个国家和地区，是 B2B 营销、招聘和职业发展的核心平台。LinkedIn 的主要功能包括：职业档案展示、职位招聘与求职、专业内容发布、企业主页、群组讨论、LinkedIn Learning 在线学习等。对于 B2B 企业，LinkedIn 是触达决策者和采购负责人的最有效渠道，LinkedIn Ads 的 B2B 广告定向精准度在所有社交平台中最高，可以按职位、行业、公司规模等精准定向。LinkedIn 的 Sales Navigator 工具帮助销售团队高效开展社交销售。对于个人用户，LinkedIn 是建立职业品牌、拓展人脉和寻找工作机会的重要平台。近年来 LinkedIn 也在内容创作和思想领袖（Thought Leadership）方面加大投入。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Speedify
 description: 可以帮助您提高网络性能，提供安全性和私密性，以及支持多台设备。
-seoTitle: Speedify - 详细介绍与评价 | 007出海导航
+seoTitle: Speedify - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/speedify/
 slug: speedify
@@ -71,3 +71,4 @@ related:
 ---
 
 可以帮助您提高网络性能，提供安全性和私密性，以及支持多台设备。
+

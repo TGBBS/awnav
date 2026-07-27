@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Drive
 description: Google提供的云存储服务
-seoTitle: Google Drive - 详细介绍与评价 | 007出海导航
+seoTitle: Google Drive - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/google-drive/
 slug: google-drive
@@ -95,3 +95,4 @@ related:
 ---
 
 Google Drive 是 Google 提供的云端存储和协作平台，深度整合了 Google Docs、Sheets、Slides 等在线办公工具，构成 Google Workspace 的核心。每个 Google 账号免费获得15GB存储空间，可存储任意类型的文件。Google Drive 的核心优势在于与 Google 生产力套件的无缝集成，支持多人实时协同编辑文档、表格和演示文稿，所有更改自动保存，还提供完整的版本历史记录。文件共享功能灵活，可通过链接分享或指定特定用户，精细控制查看、评论或编辑权限。Drive 提供跨平台客户端，支持 Windows、macOS、iOS 和 Android，实现文件本地同步和随时随地访问。强大的搜索功能可以搜索文件名、文件内容，甚至识别图片和 PDF 中的文字（OCR）。在企业版（Google Workspace）中，Drive 提供更大存储空间、高级管理控制和更严格的数据安全保障。Google Drive 是远程工作、学习协作和个人文件管理的理想工具，特别适合经常需要多设备切换和团队协作的用户群体。
+

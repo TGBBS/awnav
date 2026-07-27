@@ -1,7 +1,7 @@
----
+﻿---
 title: PandaGPT
 description: 一款基于开源GPT-2模型的自然语言处理工具
-seoTitle: PandaGPT - 详细介绍与评价 | 007出海导航
+seoTitle: PandaGPT - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/pandagpt/
 slug: pandagpt
@@ -91,3 +91,4 @@ related:
 ---
 
 PandaGPT 是一款基于人工智能技术的文件分析与问答工具，允许用户上传 PDF、Word、PowerPoint、Excel、图片等多种格式的文件，然后通过自然语言提问的方式与文件内容进行交互。PandaGPT 的核心价值在于「与文件对话」——用户无需逐字阅读长篇文件，只需上传后直接提问，AI 会基于文件内容给出精确答案和摘要。主要功能包括：多格式文件上传与解析、基于文件内容的智能问答、文件内容摘要生成、多文件联合分析等。PandaGPT 尤其适合需要快速处理大量文档的用户，如研究人员、律师、咨询顾问、学生及商务人士。与传统的文档阅读方式相比，PandaGPT 大幅提升了信息提取效率。平台提供免费使用额度，付费版支持更大的文件和更多的问答次数，是文档智能化处理领域的实用工具。
+

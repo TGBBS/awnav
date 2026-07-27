@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Search Console
 description: 由谷歌提供的一款免费的SEO工具
-seoTitle: Google Search Console - 详细介绍与评价 | 007出海导航
+seoTitle: Google Search Console - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/google-search-console/
 slug: google-search-console
@@ -92,3 +92,4 @@ related:
 ---
 
 Google Search Console（谷歌搜索控制台，前身为 Google Webmaster Tools）是由谷歌提供的完全免费的 SEO 分析和网站管理工具，是每个拥有网站的人最应该首先配置的 SEO 工具。平台提供网站在 Google 搜索中的实际表现数据，包括搜索词点击量、曝光次数、点击率（CTR）和平均排名位置，这些数据直接来自 Google 数据库，是最准确的搜索表现来源。网站索引状态报告显示哪些页面已被 Google 收录、哪些页面存在索引问题，帮助站长确保重要内容被搜索引擎发现。Core Web Vitals 报告追踪网页加载性能、交互性和视觉稳定性指标，这些是影响 Google 排名的重要信号。移动端可用性报告检测页面在移动设备上的显示问题。外链报告提供网站获得的外链数据。Sitemap 提交功能帮助搜索引擎更好地了解网站结构。URL 检查工具允许单独查看任意 URL 的索引状态。当网站遭到手动惩罚时，Google 会通过 Search Console 发送通知。完全免费且数据权威性无与伦比，是每位 SEO 从业者日常工作中不可或缺的基础工具。
+

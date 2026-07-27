@@ -1,7 +1,7 @@
----
+﻿---
 title: Host1Plus
 description: 成立于2008的年老牌主机厂商，支持支付宝付款
-seoTitle: Host1Plus - 详细介绍与评价 | 007出海导航
+seoTitle: Host1Plus - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/host1plus/
 slug: host1plus
@@ -92,3 +92,4 @@ related:
 ---
 
 Host1Plus是一家成立于2008年的老牌主机服务商，目前已更名并整合为Heficed（网址已变更为heficed.com），提供云服务器、独立服务器和IP地址管理服务。Heficed的核心特色是其庞大的IPv4地址资源池——拥有数十万个IPv4地址，支持IP租赁和IP地址管理服务（IPAM），在IP租赁市场中占有重要地位。云服务器产品覆盖全球多个数据中心，包括法兰克福、伦敦、纽约、圣保罗、约翰内斯堡等地，提供灵活的按需计费和包月套餐。整体产品定位向企业级倾斜，特别是需要大量独立IP资源、多地区合规部署的广告科技、金融科技等行业客户。原Host1Plus时期以性价比和支持支付宝付款吸引了一批亚洲用户，现在Heficed主要面向企业客户市场，个人用户使用较少。对于需要大量IP资源或欧洲数据中心的企业客户，Heficed是一个值得考虑的选择。
+

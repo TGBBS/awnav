@@ -1,7 +1,7 @@
----
+﻿---
 title: Stockimg AI
 description: 一款基于AI技术的图片搜索工具
-seoTitle: Stockimg AI - 详细介绍与评价 | 007出海导航
+seoTitle: Stockimg AI - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/stockimg-ai/
 slug: stockimg-ai
@@ -92,3 +92,4 @@ related:
 ---
 
 Stockimg AI 是一款基于 AI 技术的图片生成工具，专注于为内容创作者、营销人员和设计师快速生成各类商业用途的图片素材。与传统图库不同，Stockimg AI 通过 AI 生成图像，用户描述所需图片后即可获得独一无二的原创图片，完全避免了在传统图库中找不到心仪图片的困境，也不存在版权问题。Stockimg AI 支持多种内容类型的生成，包括库存照片、插图、图标、海报、书籍封面、Logo、壁纸等多种类别，形成了一个多功能的 AI 设计资产生成平台。用户可以通过平台的模板库快速开始创作，或使用自定义 prompt 进行精细控制。Stockimg AI 特别适合需要大量视觉素材的内容运营团队、社交媒体经理、博主和小型企业主，帮助他们以低成本获得高质量、版权无忧的商业图片。该平台提供批量生成功能，支持快速生成系列化的视觉内容。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: FireBug Lite
 description: 一款基于浏览器的轻量级调试工具
-seoTitle: FireBug Lite - 详细介绍与评价 | 007出海导航
+seoTitle: FireBug Lite - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/firebug-lite/
 slug: firebug-lite
@@ -88,3 +88,4 @@ related:
 ---
 
 FireBug Lite 是基于 Firebug 调试工具理念开发的轻量级浏览器调试扩展，最初是为了在非 Firefox 浏览器（如 Chrome、IE 等）中提供类似 Firebug 的调试体验而设计。它提供 HTML/DOM 检查、CSS 样式调试、JavaScript 控制台等基础前端调试功能，帮助开发者在不依赖特定浏览器原生开发者工具的情况下进行网页调试。FireBug Lite 的 Chrome 版本作为扩展存在，可以在 Chrome 中提供独立的调试面板。然而，随着各主流浏览器（尤其是 Chrome）内置开发者工具（DevTools）的功能越来越强大，FireBug Lite 的实用价值大幅下降。原版 Firebug（Firefox 扩展）已于2017年正式退役，功能并入 Firefox DevTools。FireBug Lite 也随之逐渐被开发者社区放弃，在 Chrome Web Store 上的版本也已停止更新维护。对于现代 Web 开发者，Chrome DevTools 提供的 Elements、Console、Network 等面板已经远超 FireBug Lite 的能力，无需安装额外插件即可完成所有前端调试工作。
+

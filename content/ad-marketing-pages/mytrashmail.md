@@ -1,7 +1,7 @@
----
+﻿---
 title: Mytrashmail
 description: Mytrashmail临时邮箱
-seoTitle: Mytrashmail - 详细介绍与评价 | 007出海导航
+seoTitle: Mytrashmail - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/mytrashmail/
 slug: mytrashmail
@@ -71,3 +71,4 @@ related:
 ---
 
 Mytrashmail临时邮箱
+

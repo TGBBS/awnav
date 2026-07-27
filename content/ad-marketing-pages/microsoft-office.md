@@ -1,7 +1,7 @@
----
+﻿---
 title: Microsoft Office
 description: 微软公司开发的办公软件套装
-seoTitle: Microsoft Office - 详细介绍与评价 | 007出海导航
+seoTitle: Microsoft Office - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/microsoft-office/
 slug: microsoft-office
@@ -93,3 +93,4 @@ related:
 ---
 
 Microsoft Office 是微软公司开发的全球最广泛使用的办公软件套装，自1989年发布以来持续主导企业和个人办公市场。核心产品包括 Word（文字处理）、Excel（电子表格）、PowerPoint（演示文稿）、Outlook（邮件与日历）、OneNote（笔记）以及 Teams（团队协作）等。Office 365（现更名 Microsoft 365）采用订阅制模式，用户可获得持续更新的功能及云存储服务（OneDrive）。如今，Microsoft Office 已全面融合 AI 能力，推出 Copilot 功能，可在 Word、Excel、PowerPoint 中提供智能写作、数据分析和演示稿生成辅助。Office 套件在全球拥有超过13亿用户，广泛应用于企业办公、教育机构、政府部门及个人用途。其跨平台支持覆盖 Windows、macOS、iOS、Android 及 Web 端，保障了用户在不同设备间的无缝工作体验。对于需要专业文档处理、数据分析和协作办公的用户，Microsoft Office 依然是行业标准首选。
+

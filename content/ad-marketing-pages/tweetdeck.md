@@ -1,7 +1,7 @@
----
+﻿---
 title: Tweetdeck
 description: 专注于Twitter的营销工具
-seoTitle: Tweetdeck - 详细介绍与评价 | 007出海导航
+seoTitle: Tweetdeck - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/tweetdeck/
 slug: tweetdeck
@@ -92,3 +92,4 @@ related:
 ---
 
 TweetDeck 是 Twitter（现称 X）官方提供的专业 Twitter 管理工具，专门为 Twitter 重度用户和社交媒体营销人员设计。TweetDeck 以其独特的多列仪表盘界面著称，用户可以同时监控多个 Twitter 流，包括时间线、提及、搜索结果、话题列表等，实现对 Twitter 的全面实时监控。核心功能包括：多账号管理、实时 Twitter 流监控、定时发布推文、搜索关键词监控、Twitter 列表管理等。TweetDeck 曾是免费工具，但 Twitter 被 Elon Musk 收购后，TweetDeck 已改版为 X Pro，部分功能需要 X Premium 订阅才能使用。对于 Twitter 营销人员、新闻媒体从业者和社交媒体分析师，TweetDeck 是进行 Twitter 实时监控和管理的最佳工具之一。平台的主要优势在于其与 Twitter 平台的深度集成，数据实时性优于第三方工具。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Meta Pixel
 description: Facebook提供的一种跟踪代码
-seoTitle: Meta Pixel - 详细介绍与评价 | 007出海导航
+seoTitle: Meta Pixel - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/meta-pixel/
 slug: meta-pixel
@@ -92,3 +92,4 @@ related:
 ---
 
 Meta Pixel（前称 Facebook Pixel）是 Meta 提供的一段 JavaScript 追踪代码，安装在广告主的网站上后，能够追踪访客在网站上的行为数据，并将这些数据回传给 Facebook 广告系统用于广告优化和受众建立。Meta Pixel 是 Facebook 广告生态中最核心的基础设施之一，几乎所有专业的 Facebook 广告投放都依赖 Pixel 来实现精准优化。Pixel 可追踪的事件包括：页面浏览、内容浏览、加入购物车、发起结账、完成购买、注册、潜在客户提交等标准事件，也支持自定义事件。基于 Pixel 收集的数据，广告主可以实现：以转化为目标的广告优化（让算法找到最可能转化的用户）、再营销受众建立（向访问过特定页面的用户二次投放广告）、类似受众扩展（基于现有客户找到相似的新用户）以及广告 ROI 准确归因。随着 iOS 14 后隐私政策的变化，Meta 推出了 Conversions API 作为 Pixel 的服务端补充，两者结合使用能够获得更完整的转化数据。
+

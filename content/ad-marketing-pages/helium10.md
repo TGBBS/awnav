@@ -1,7 +1,7 @@
----
+﻿---
 title: Helium10
 description: 强大的亚马逊智能选品工具
-seoTitle: Helium10 - 详细介绍与评价 | 007出海导航
+seoTitle: Helium10 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/helium10/
 slug: helium10
@@ -92,3 +92,4 @@ related:
 ---
 
 Helium 10 是亚马逊卖家最受欢迎的智能选品和运营工具套件之一，提供覆盖亚马逊卖家业务全流程的综合解决方案。平台包含20余款专业工具，核心功能涵盖：Black Box（产品研究，通过多维度筛选发现高潜力品类）、Cerebro（反查竞品关键词）、Magnet（关键词研究）、Frankenstein（关键词处理）、Scribbles（Listing优化）、Xray（市场分析Chrome插件）、Profits（利润分析）以及库存管理、PPC广告优化等模块。Helium 10 的数据覆盖美国、欧洲、日本等主要亚马逊站点，实时更新，帮助卖家在激烈的竞争中发现利基市场、优化产品Listing排名、制定精准的关键词策略。其Chrome插件在浏览亚马逊页面时即可直接显示关键数据，极大提升选品研究效率。主要用户群体为各类规模的亚马逊卖家，从入门级的个人卖家到年销售额数百万美元的大卖，均有广泛使用。Helium 10 提供免费版和多个付费套餐，功能权限随套餐级别递增。
+

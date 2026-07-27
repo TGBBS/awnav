@@ -1,7 +1,7 @@
----
+﻿---
 title: Hootsuite
 description: 几乎支持所有主流社交平台的账号管理
-seoTitle: Hootsuite - 详细介绍与评价 | 007出海导航
+seoTitle: Hootsuite - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/hootsuite/
 slug: hootsuite
@@ -92,3 +92,4 @@ related:
 ---
 
 Hootsuite 是全球最知名的社交媒体管理平台之一，成立于 2008 年，总部位于加拿大温哥华。平台几乎支持所有主流社交媒体平台，包括 Facebook、Instagram、Twitter、LinkedIn、YouTube、Pinterest、TikTok 等，是一个真正的全平台社交媒体管理解决方案。Hootsuite 的核心功能包括：统一收件箱管理多平台信息、内容日历和定时发布、社交媒体分析和报告、团队协作和权限管理、社交媒体监听和关键词追踪等。该平台广泛服务于各类企业和机构，从小型创业公司到财富 500 强企业均有使用，用户规模超过 1800 万。Hootsuite 的强大之处在于其高度的平台集成能力和丰富的功能生态，用户可以通过应用市场扩展功能。对于需要统一管理多个社交媒体账号的营销团队，Hootsuite 是行业标准工具之一。
+

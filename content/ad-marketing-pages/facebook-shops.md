@@ -1,7 +1,7 @@
----
+﻿---
 title: Facebook Shops
 description: Facebook推出的电子商务平台
-seoTitle: Facebook Shops - 详细介绍与评价 | 007出海导航
+seoTitle: Facebook Shops - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/facebook-shops/
 slug: facebook-shops
@@ -92,3 +92,4 @@ related:
 ---
 
 Facebook Shops 是 Meta 推出的电子商务功能，允许企业在 Facebook 和 Instagram 上搭建免费的线上商店，让消费者可以直接在社交媒体平台上浏览商品、加入购物车并完成购买，无需跳转到外部网站。Facebook Shops 大幅降低了社交电商的门槛，品牌只需设置一次商品目录，即可在 Facebook 主页、Instagram 主页、Stories 以及 Reels 中展示可购买的商品。主要功能包括：定制商店界面（可自定义品牌色彩和版式）、商品目录管理、Collections 商品分组展示、Messenger 和 Instagram Direct 结账咨询、结账体验（部分地区支持原生结账，无需跳转）以及与 Shopify、WooCommerce 等主流电商平台的数据同步。Facebook Shops 特别适合中小企业主、独立品牌和 DTC（Direct to Consumer）品牌，在社交媒体上建立直接销售渠道。该功能将内容消费和购物行为融合，有效缩短购买漏斗，提升转化率。在东南亚、拉丁美洲等社交电商活跃的市场，Facebook Shops 的效果尤为显著。
+

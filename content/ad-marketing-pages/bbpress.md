@@ -1,7 +1,7 @@
----
+﻿---
 title: bbPress
 description: 开源的论坛软件
-seoTitle: bbPress - 详细介绍与评价 | 007出海导航
+seoTitle: bbPress - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/bbpress/
 slug: bbpress
@@ -94,3 +94,4 @@ related:
 ---
 
 bbPress是由WordPress官方团队（Automattic）开发维护的开源论坛插件，专门为WordPress网站提供原生的论坛功能集成。项目最早作为独立论坛软件开发，后来以WordPress插件的形式重生，成为WordPress生态中最受欢迎的论坛解决方案之一。bbPress与WordPress深度整合，共用用户系统、主题样式和内容管理后台，使已有WordPress网站的站长能够以最低成本快速添加社区讨论功能。插件支持论坛分类、话题管理、回复、私信、用户角色权限、垃圾内容过滤等基础功能，并能与BuddyPress等社交插件协同工作以扩展社区功能。bbPress轻量化的设计理念使其对网站性能影响较小，适合中小型WordPress社区使用。插件在WordPress官方目录中拥有百万级安装量，社区支持和文档资源丰富。对于使用WordPress建站并希望添加论坛功能的站长来说，bbPress是最自然且集成度最高的选择。
+

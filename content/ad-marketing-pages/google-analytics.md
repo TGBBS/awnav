@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Analytics
 description: 一款由Google公司开发的网站流量分析软件
-seoTitle: Google Analytics - 详细介绍与评价 | 007出海导航
+seoTitle: Google Analytics - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/google-analytics/
 slug: google-analytics
@@ -97,3 +97,4 @@ related:
 ---
 
 Google Analytics（谷歌分析）是全球使用最广泛的网站和应用流量分析平台，由谷歌开发，目前最新版本为 GA4（Google Analytics 4）。作为数字营销人员、网站运营者和电商从业者的必备工具，Google Analytics 提供了全面的用户行为数据洞察，帮助用户了解网站访客从何而来、如何与网站互动以及最终的转化情况。核心功能包括：实时流量监控、受众画像分析（年龄、地域、设备、兴趣）、流量来源追踪（自然搜索、付费广告、社交媒体、直接访问等）、用户行为路径分析、转化目标设置与漏斗分析、电商追踪以及自定义报表和仪表盘。GA4 引入了基于事件的数据模型，提供了更灵活的追踪能力和更强大的机器学习洞察。谷歌分析免费版对绝大多数网站来说功能已经非常充足，与 Google Ads、Search Console、BigQuery 等谷歌生态产品深度集成，是数字营销体系中不可或缺的基础设施。适用于从个人博客到大型电商的各类网站运营者。
+

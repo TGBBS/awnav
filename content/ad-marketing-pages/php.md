@@ -1,7 +1,7 @@
----
+﻿---
 title: PHP
 description: 一种通用的服务器端脚本语言
-seoTitle: PHP - 详细介绍与评价 | 007出海导航
+seoTitle: PHP - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/php/
 slug: php
@@ -93,3 +93,4 @@ related:
 ---
 
 PHP（Hypertext Preprocessor）是全球最广泛使用的服务器端脚本语言之一，由Rasmus Lerdorf于1994年创建。PHP专为Web开发而设计，能够嵌入HTML文档中执行服务器端逻辑，生成动态网页内容。经过三十年的发展，PHP已成为互联网基础设施中不可或缺的组成部分，驱动着全球超过75%的网站，包括WordPress、Facebook早期版本、Drupal、Joomla等知名平台。PHP语法简洁直观，学习门槛低，大量初学者将其作为Web后端开发的入门语言。语言提供丰富的内置函数库，覆盖字符串处理、数据库操作、文件系统、网络编程等Web开发的各个方面。PHP 7及PHP 8的重大版本更新显著提升了执行性能和类型安全性，使PHP在保持向后兼容的同时跟上了现代编程语言的发展步伐。Composer包管理器和Laravel、Symfony等现代框架的崛起，为PHP生态系统注入了新活力，使其能够支撑大型企业级Web应用开发。PHP适合Web开发者、WordPress主题和插件开发者、内容管理系统开发者以及各类互联网后端工程师。
+

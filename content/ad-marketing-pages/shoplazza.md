@@ -1,7 +1,7 @@
----
+﻿---
 title: Shoplazza
 description: 店匠是国内领先的外贸网站建设服务提供商,并拥有10年以上的海外数字广告投放经验。
-seoTitle: Shoplazza - 详细介绍与评价 | 007出海导航
+seoTitle: Shoplazza - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/shoplazza/
 slug: shoplazza
@@ -92,3 +92,4 @@ related:
 ---
 
 Shoplazza（店匠科技）是国内领先的跨境电商独立站 SaaS 平台，成立于2016年，专注于帮助中国出口品牌建设全球化独立站。平台由深圳店匠科技有限公司运营，拥有超过10年的海外数字广告投放经验，为卖家提供建站、营销、支付、物流的一站式解决方案。Shoplazza 的技术架构基于云原生设计，性能稳定，加载速度快，支持全球CDN加速。平台提供丰富的定制化主题、強大的SEO工具、邮件营销、Facebook/Google广告对接等功能，并建立了完整的应用商店生态（App Store）。Shoplazza 在2022年完成了亿级融资，获得了腾讯战略投资，背靠强大的资本和技术支持。适合追求高性能独立站、具有一定规模的跨境电商品牌和卖家。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Trello
 description: Trello是一种基于网络的工具，用于协作、任务管理和项目管理。
-seoTitle: Trello - 详细介绍与评价 | 007出海导航
+seoTitle: Trello - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/trello/
 slug: trello
@@ -71,3 +71,4 @@ related:
 ---
 
 Trello是一种基于网络的工具，用于协作、任务管理和项目管理。
+

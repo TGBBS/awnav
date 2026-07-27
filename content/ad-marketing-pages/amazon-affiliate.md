@@ -1,7 +1,7 @@
----
+﻿---
 title: Amazon affiliate
 description: 亚马逊联盟伙伴平台
-seoTitle: Amazon affiliate - 详细介绍与评价 | 007出海导航
+seoTitle: Amazon affiliate - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/amazon-affiliate/
 slug: amazon-affiliate
@@ -93,3 +93,4 @@ related:
 ---
 
 Amazon Associates（亚马逊联盟）是全球参与人数最多的联盟营销计划，由亚马逊官方运营，覆盖美国、英国、日本、德国、法国、加拿大等20多个国家站点。联盟会员通过推广亚马逊上的商品赚取佣金，商品范围涵盖亿级SKU，几乎囊括所有消费品类。Amazon Associates 最大的优势是超高的品牌信任度和极为完善的购物体验，用户跳转到亚马逊后，24小时内在站内购买的任何商品均计入佣金，不限于推广的具体商品。平台提供SiteStripe工具栏，可以在浏览亚马逊页面时一键生成联盟链接，操作极为简便。佣金率因商品类别不同而差异较大，从奢侈品的10%到电子产品的1%不等，平均约4%-8%。平台报表系统直观，实时展示点击量、转化率和收益数据。Amazon Associates 适合几乎所有类型的内容创作者，无论是科技评测、家居生活、母婴育儿还是图书推荐，都能在亚马逊找到相应商品。对于英语内容站和日本市场的垂直站来说，Amazon Associates 通常是首选且高效的变现渠道。
+

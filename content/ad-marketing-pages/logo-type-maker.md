@@ -1,7 +1,7 @@
----
+﻿---
 title: Logo Type Maker
 description: 一款免费的在线标志制作工具
-seoTitle: Logo Type Maker - 详细介绍与评价 | 007出海导航
+seoTitle: Logo Type Maker - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/logo-type-maker/
 slug: logo-type-maker
@@ -91,3 +91,4 @@ related:
 ---
 
 Logo Type Maker 是一款专注于文字Logo（Logotype）设计的免费在线工具，以其对字体排印艺术的深入理解和丰富的字体组合方案而著称。与传统Logo工具不同，Logo Type Maker专注于纯文字标志的创作，特别适合时尚品牌、设计工作室、咨询公司等偏爱简约文字Logo风格的用户。平台提供数百种专业字体和精心设计的字体组合方案，用户可以快速浏览不同字体在自己品牌名称上的视觉效果，选择最满意的方案后进行颜色和间距的微调。Logo Type Maker操作极其简便，整个设计流程可在几分钟内完成，无需任何设计专业知识。平台支持免费下载基础版本，高清商业版需要付费。对于希望打造简约、优雅品牌形象的用户来说，Logo Type Maker提供了一个专注且高效的文字Logo设计解决方案，在同类型工具中具有独特的专业定位。
+

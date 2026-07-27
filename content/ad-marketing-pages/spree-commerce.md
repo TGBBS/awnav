@@ -1,7 +1,7 @@
----
+﻿---
 title: Spree Commerce
 description: 一个开源电子商务平台
-seoTitle: Spree Commerce - 详细介绍与评价 | 007出海导航
+seoTitle: Spree Commerce - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/spree-commerce/
 slug: spree-commerce
@@ -92,3 +92,4 @@ related:
 ---
 
 Spree Commerce 是一个基于 Ruby on Rails 构建的开源电子商务平台，由 Sean Schofield 于2007年创立，目前由 Vendo Commerce 公司维护和商业化运营。Spree 以其模块化、可扩展的架构著称，是 Ruby on Rails 技术栈开发者构建电商系统的首选框架之一。平台提供完整的电商核心功能，包括商品管理、订单处理、支付集成、多仓库管理、多货币支持等，并通过 REST API 和 GraphQL API 支持无头电商（Headless Commerce）架构。Spree 的开源版本在 GitHub 上有大量 Star 和活跃贡献者，在全球拥有数千个部署案例。商业化的 Vendo 平台提供多租户 SaaS 电商解决方案。Spree 适合使用 Ruby on Rails 技术栈的开发团队，以及希望构建无头电商架构的企业。
+

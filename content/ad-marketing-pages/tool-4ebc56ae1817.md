@@ -1,7 +1,7 @@
----
+﻿---
 title: 百度爱采购
 description: 由中国知名的互联网公司百度推出的一款在线采购平台
-seoTitle: 百度爱采购 - 详细介绍与评价 | 007出海导航
+seoTitle: 百度爱采购 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/%E7%99%BE%E5%BA%A6%E7%88%B1%E9%87%87%E8%B4%AD/
 slug: 百度爱采购
@@ -66,3 +66,4 @@ related:
 ---
 
 由中国知名的互联网公司百度推出的一款在线采购平台
+

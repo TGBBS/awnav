@@ -1,7 +1,7 @@
----
+﻿---
 title: Copysmith
 description: 一个人工智能写作工具，可以帮助你更好、更快地创作内容
-seoTitle: Copysmith - 详细介绍与评价 | 007出海导航
+seoTitle: Copysmith - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/copysmith/
 slug: copysmith
@@ -91,3 +91,4 @@ related:
 ---
 
 Copysmith 是一款专为电商和企业团队设计的 AI 内容生成平台，主打大规模内容生产能力。Copysmith 的核心优势在于其批量内容生成功能，支持通过 CSV 批量上传产品信息，AI 自动生成大量产品描述、广告文案、SEO 内容，特别适合拥有大量 SKU 的电商平台和内容需求密集的企业。产品与 Google Ads、Facebook 广告、Frase、WordPress 等平台集成，支持直接从平台发布内容。主要功能包括：批量产品描述生成、广告文案创作、博客内容生成、改写与翻译、内容质量分析等。Copysmith 面向 B2B 企业和电商团队，提供了 API 接口，方便与现有电商系统集成。在被 Frase.io 收购后，Copysmith 与 Frase 的 SEO 优化功能进一步整合，成为集内容生成与搜索优化于一体的综合平台。对于需要规模化内容生产的电商和企业，Copysmith 是一个高效的解决方案。
+

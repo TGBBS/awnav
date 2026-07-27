@@ -1,7 +1,7 @@
----
+﻿---
 title: Campaign Monitor
 description: 电子邮件营销和自动化平台
-seoTitle: Campaign Monitor - 详细介绍与评价 | 007出海导航
+seoTitle: Campaign Monitor - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/campaign-monitor/
 slug: campaign-monitor
@@ -92,3 +92,4 @@ related:
 ---
 
 Campaign Monitor 是一款界面精美、易于使用的电子邮件营销和自动化平台，2004年成立于澳大利亚悉尼。平台以其视觉上出众的邮件模板设计和拖放编辑器著称，帮助企业快速创建品牌一致、专业美观的营销邮件。Campaign Monitor 提供强大的个性化功能，支持动态内容块，让同一封邮件对不同细分受众显示不同内容，大幅提升邮件相关性。自动化功能涵盖欢迎序列、生日祝福、客户旅程自动化等常见场景，支持基于日期、行为和表单提交触发。平台提供清晰直观的数据分析报告，包括开信率、点击率、地理位置分析和设备类型统计。Campaign Monitor 还提供 Link Review 功能，在发送前自动检查邮件中所有链接的有效性，避免发送含有死链接的邮件。适合注重品牌形象的中型企业、设计驱动型团队、代理机构和非营利组织。平台还专为营销代理机构提供了多客户管理功能，可以集中管理多个客户账户。订阅者越多，套餐价格按比例调整，整体定价合理。
+

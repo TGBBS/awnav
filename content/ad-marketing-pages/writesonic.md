@@ -1,7 +1,7 @@
----
+﻿---
 title: Writesonic
 description: 一个由人工智能驱动的文案写作工具
-seoTitle: Writesonic - 详细介绍与评价 | 007出海导航
+seoTitle: Writesonic - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/writesonic/
 slug: writesonic
@@ -92,3 +92,4 @@ related:
 ---
 
 Writesonic 是一款由 AI 驱动的内容创作平台，专注于帮助营销人员、创业者和内容团队快速生成高质量的营销文案。Writesonic 基于 GPT-4 等先进语言模型，提供超过 100 种内容模板，涵盖博客文章、广告文案、社交媒体帖子、产品描述、电子邮件、SEO 内容等各类营销内容类型。其旗舰功能 Chatsonic 是一个类 ChatGPT 的对话 AI，支持联网实时信息搜索，能够生成包含最新信息的内容。Writesonic 还推出了 Botsonic，允许用户基于自有数据训练定制 AI 客服机器人。SEO 内容优化是 Writesonic 的核心卖点之一，Article Writer 功能可生成针对特定关键词优化的长篇博客文章，并支持自动发布到 WordPress。Writesonic 面向的核心用户是数字营销人员、SEO 专家、内容运营团队和电商从业者。相比 Jasper，Writesonic 的价格更为亲民，提供了更好的性价比，是中小企业内容营销团队的热门选择。
+

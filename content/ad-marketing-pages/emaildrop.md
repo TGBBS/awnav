@@ -1,7 +1,7 @@
----
+﻿---
 title: EmailDrop
 description: 谷歌插件，采集Facebook/Ins/Linkedln上的用户邮箱
-seoTitle: EmailDrop - 详细介绍与评价 | 007出海导航
+seoTitle: EmailDrop - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/emaildrop/
 slug: emaildrop
@@ -91,3 +91,4 @@ related:
 ---
 
 EmailDrop 是一款 Chrome 浏览器扩展插件，专为营销人员和销售人员设计，能够从 Facebook、Instagram、LinkedIn 等社交媒体平台的用户主页或帖子中批量提取邮箱地址。它通过自动扫描页面内容，识别并收集公开的电子邮件地址，大大节省了手动收集联系信息的时间。对于 B2B 销售、招聘人员、营销专员和自媒体从业者来说，能够快速建立目标受众的邮件列表是开展邮件营销和精准触达的基础工作。EmailDrop 简化了这一流程，只需在目标页面点击插件按钮，即可自动抓取页面上可见的邮件地址并导出。需要注意的是，使用此类工具采集邮件地址时，必须遵守 GDPR 等数据隐私法规，以及各平台的使用条款，确保邮件营销行为合法合规。不当使用可能导致账号封禁或法律风险。此插件适合有专业邮件获客需求的营销和销售团队，建议与邮件营销平台配合使用，并确保发送对象已明确知情同意。
+

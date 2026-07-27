@@ -1,7 +1,7 @@
----
+﻿---
 title: Cursor
 description: 和openai合作的AI编程工具
-seoTitle: Cursor - 详细介绍与评价 | 007出海导航
+seoTitle: Cursor - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/cursor/
 slug: cursor
@@ -95,3 +95,4 @@ related:
 ---
 
 Cursor 是一款专为开发者打造的 AI 原生代码编辑器，由 Anysphere 公司开发，并与 OpenAI 深度合作。它基于 VS Code 构建，完美兼容现有插件和工作流，同时引入了强大的 AI 能力，让编程效率大幅提升。Cursor 的核心功能包括：AI 代码补全（可预测并自动完成整个函数或代码块）、Chat 对话功能（可直接与 AI 对话讨论代码问题）、Cmd+K 指令（通过自然语言编辑代码）以及 Codebase 索引（能理解整个项目上下文，给出更精准的建议）。Cursor 支持 GPT-4、Claude 等多种主流大模型，用户可根据需求切换。它非常适合全栈开发者、独立开发者和技术创业者，尤其是希望用 AI 加速开发流程的工程师。2024年 Cursor 迅速走红，成为 AI 编程工具领域的标杆产品，月活用户增长极为迅猛，受到大量硅谷开发者的追捧。
+

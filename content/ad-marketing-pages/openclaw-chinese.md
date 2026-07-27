@@ -1,7 +1,7 @@
----
+﻿---
 title: OpenClaw 汉化版
 description: OpenClaw全中文汉化，CLI和Dashboard全中文界面，每小时自动同步原版
-seoTitle: OpenClaw 汉化版 - 详细介绍与评价 | 007出海导航
+seoTitle: OpenClaw 汉化版 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/openclaw-chinese/
 slug: openclaw-chinese
@@ -87,3 +87,4 @@ related:
 ---
 
 OpenClaw 汉化版是由 GitHub 用户 MaoTouHU 维护的 OpenClaw 全中文本地化项目（MaoTouHU/OpenClawChinese），致力于将 OpenClaw 的所有用户界面元素完整翻译为中文，包括 CLI（命令行界面）和 Dashboard（网页管理界面）的每一处文字。这一项目的核心价值在于「真正全面」的中文化——不仅是部分菜单翻译，而是确保从安装向导、配置界面到错误提示信息的每一行文字都是准确流畅的中文，让不懂英文的用户也能无障碍地使用 OpenClaw 的全部功能。项目最显著的技术亮点是每小时自动同步原版的 CI/CD 机制——通过 GitHub Actions，系统每小时自动检查上游 OpenClaw 是否有更新，一旦检测到新版本即自动触发翻译流程并发布更新，确保汉化版本始终与官方版本保持高度同步，用户不会因为使用汉化版而错过最新功能和安全修复。该自动化同步机制是 OpenClaw 中文化项目中技术成熟度最高的，也是其区别于其他中文适配版本的核心竞争力。适合完全不懂英文但希望使用完整 OpenClaw 功能的国内用户。
+

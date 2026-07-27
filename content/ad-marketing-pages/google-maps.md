@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Maps
 description: 一个基于网络的地图应用程序
-seoTitle: Google Maps - 详细介绍与评价 | 007出海导航
+seoTitle: Google Maps - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/google-maps/
 slug: google-maps
@@ -95,3 +95,4 @@ related:
 ---
 
 Google Maps 是 Google 提供的地图和导航服务，是全球使用最广泛的地图应用之一，全球月活跃用户超过10亿。Google Maps 提供详尽的地图浏览、路线规划、实时导航、交通状况、街景（Street View）、卫星图像等功能，覆盖全球220多个国家和地区。对于普通用户，Google Maps 是日常出行导航的首选工具，支持步行、驾车、骑行、公共交通等多种出行方式，并提供实时路况和预计到达时间。商业功能方面，Google Maps 提供 Google My Business（商家信息管理），帮助本地商家在地图上展示信息、获取客户评价并提升线上可见度。对于开发者，Google Maps Platform 提供丰富的 API，包括地图 API、路线 API、地点 API 等，被广泛用于构建基于位置的应用程序。Google Maps 还支持离线地图下载，方便在无网络环境使用。对于出海企业和跨境电商，Google Maps 是了解当地市场地理分布和商业格局的重要工具，也是本地化营销（Local SEO）的核心平台。
+

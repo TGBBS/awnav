@@ -1,7 +1,7 @@
----
+﻿---
 title: 沃尔玛
 description: 全球最大零售百货公司
-seoTitle: 沃尔玛 - 详细介绍与评价 | 007出海导航
+seoTitle: 沃尔玛 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/%E6%B2%83%E5%B0%94%E7%8E%9B/
 slug: 沃尔玛
@@ -71,3 +71,4 @@ related:
 ---
 
 全球最大零售百货公司
+

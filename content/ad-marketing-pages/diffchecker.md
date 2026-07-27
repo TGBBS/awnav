@@ -1,7 +1,7 @@
----
+﻿---
 title: Diffchecker
 description: 文件差异检查器
-seoTitle: Diffchecker - 详细介绍与评价 | 007出海导航
+seoTitle: Diffchecker - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/diffchecker/
 slug: diffchecker
@@ -92,3 +92,4 @@ related:
 ---
 
 Diffchecker 是一款简单实用的在线文件差异对比工具，帮助用户快速找出两段文本或两个文件之间的不同之处。用户只需将两份内容粘贴到左右两个输入框中，即可高亮显示所有增加、删除和修改的部分，差异一目了然。Diffchecker 支持多种比较模式，除了基础的文本对比外，还支持图片对比（PNG、JPG等格式）、PDF对比和Excel表格对比，大幅拓展了应用场景。工具提供行级对比和字符级对比两种精度，满足不同精细程度的需求。在线版无需注册即可使用，也提供离线桌面版（支持Windows和macOS）供需要隐私保护的用户使用。Diffchecker 还支持永久链接功能，可以将对比结果生成链接分享给他人，方便代码审查和文档协作。主要用户群体包括程序员（比较代码差异）、法律从业者（比较合同版本）、编辑（比较文档修改前后）以及需要进行文件版本管理的各类专业人士。基础版免费，专业版支持更大文件和更多高级功能。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Myspace
 description: 全球第二的社交网站
-seoTitle: Myspace - 详细介绍与评价 | 007出海导航
+seoTitle: Myspace - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/myspace/
 slug: myspace
@@ -91,3 +91,4 @@ related:
 ---
 
 Myspace 是美国早期最重要的社交网络之一，于 2003 年创立，曾在 2006 年超越 Google 成为美国访问量最大的网站，被媒体大亨鲁伯特·默多克以 5.8 亿美元收购。Myspace 在 2000 年代中期是全球最流行的社交平台，尤其在音乐人和乐队中极受欢迎，许多知名音乐人（如 Lady Gaga、Arctic Monkeys）都是通过 Myspace 获得早期关注。然而，随着 Facebook 的兴起，Myspace 的用户迅速流失，最终被出售并大幅转型。现在的 Myspace 主要定位为音乐发现平台，提供音乐和视频流媒体服务，重点服务于音乐人和音乐爱好者。尽管 Myspace 已经失去了其曾经的社交网络地位，但对于独立音乐人来说，Myspace 仍然提供了一个展示音乐作品的平台。平台的全球影响力和用户基础已大幅萎缩，与巅峰时期相比判若云泥。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Sketch2Code
 description: 一个基于Web 的解决方案，使用AI 将手绘的用户界面草图转换为可用的HTML 代码
-seoTitle: Sketch2Code - 详细介绍与评价 | 007出海导航
+seoTitle: Sketch2Code - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sketch2code/
 slug: sketch2code
@@ -88,3 +88,4 @@ related:
 ---
 
 Sketch2Code 是微软 AI Lab 推出的一个实验性 Web 应用，能够将手绘的用户界面草图自动转换为可用的 HTML 代码。用户上传手绘 UI 草图的照片，Sketch2Code 使用计算机视觉技术识别草图中的 UI 组件（按钮、输入框、标题、图片占位符等），然后生成对应的 HTML 原型代码。这个工具的目标是加速 UI 设计流程，让设计师和产品经理可以快速将纸质草图转化为可交互的 HTML 原型，而无需具备专业的前端开发技能。Sketch2Code 作为微软 AI Lab 的研究项目和开源项目推出，展示了 AI 在视觉理解和代码生成交叉领域的应用潜力。该项目的代码已开源在 GitHub 上。然而作为一个实验性工具，Sketch2Code 的精确度和实用性有一定局限，生成的 HTML 通常是基础原型而非生产就绪的代码，识别复杂草图的能力也有限。它更多代表了一个概念验证，展示了从草图到代码这一创新应用方向的可能性。
+

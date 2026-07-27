@@ -1,7 +1,7 @@
----
+﻿---
 title: Rakuten
 description: 一家位于日本的在线零售商
-seoTitle: Rakuten - 详细介绍与评价 | 007出海导航
+seoTitle: Rakuten - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/rakuten/
 slug: rakuten
@@ -92,3 +92,4 @@ related:
 ---
 
 乐天市场（Rakuten Ichiba）是日本最大的综合电商平台，由乐天集团（Rakuten Group）创立于1997年，总部位于东京。乐天市场汇聚了超过5万家商铺，提供服装、电子产品、食品、美妆、家居等全品类商品，是日本消费者最常用的购物平台之一。乐天的核心特色是其强大的积分体系（乐天超级积分），用户在购物、使用乐天信用卡、乐天旅行等多个服务时均可积累和消费积分，形成了高粘性的会员生态。乐天集团还在美国、欧洲等海外市场布局，旗下拥有 Viber、Kobo 等多个全球化品牌。乐天市场适合日本本地消费者和希望采购日本正品商品的海外买家。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Fameswap
 description: 购买Tiktok、Youtube、Instagram海外社交媒体账号
-seoTitle: Fameswap - 详细介绍与评价 | 007出海导航
+seoTitle: Fameswap - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/fameswap/
 slug: fameswap
@@ -92,3 +92,4 @@ related:
 ---
 
 Fameswap 是一个专注于高粉丝社交媒体账号买卖的专业交易平台，主要支持 TikTok、YouTube、Instagram 等热门社交媒体平台的账号交易。与普通账号销售平台不同，Fameswap 更专注于有一定粉丝基础的 KOL 账号和网红账号，是社交媒体资产变现的重要渠道。平台提供账号的详细数据报告，包括粉丝增长曲线、互动率、受众人口统计等信息，帮助买家做出理性决策。Fameswap 设有完善的账号验证和交易托管机制，确保交易双方的权益。主要用户群体包括：希望购买有影响力社交账号的品牌方、MCN 机构，以及希望出售账号变现的内容创作者。平台收取一定比例的交易佣金。由于专注于高质量账号市场，Fameswap 在社交媒体账号交易领域具有较高的知名度和信誉度，是目前较为知名的社交媒体账号交易平台之一。
+

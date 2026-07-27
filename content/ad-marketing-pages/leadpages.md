@@ -1,7 +1,7 @@
----
+﻿---
 title: Leadpages
 description: 非常优秀的着陆页生成器
-seoTitle: Leadpages - 详细介绍与评价 | 007出海导航
+seoTitle: Leadpages - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/leadpages/
 slug: leadpages
@@ -88,3 +88,4 @@ related:
 ---
 
 Leadpages是一款功能强大的专业着陆页（Landing Page）生成器和网站建设平台，帮助中小企业主、营销人员和创业者快速创建高转化率的落地页、弹窗广告和网站。平台提供200多个经过转化率优化的专业模板，涵盖产品销售页、潜在客户获取页、活动报名页、感谢页等多种类型，用户通过拖拽式编辑器即可轻松定制，无需编程知识。Leadpages的核心优势在于其以转化为中心的设计理念——所有模板均基于大量A/B测试数据优化，并内置实时转化率预测功能，帮助用户在发布前评估页面表现。平台与Mailchimp、HubSpot、Salesforce等主流营销工具深度集成，支持支付网关接入，可直接在落地页完成产品销售。主要适用于数字营销人员、SaaS公司、电商品牌、咨询顾问和内容创作者等群体。Leadpages自2013年成立以来积累了大量用户，在落地页工具领域具有良好的市场认可度，是Unbounce、Instapage等竞品的有力竞争者。
+

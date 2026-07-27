@@ -1,7 +1,7 @@
----
+﻿---
 title: GetSMS.ONLINE
 description: GetSMS.ONLINE-在线接收短信，短信激活...
-seoTitle: GetSMS.ONLINE - 详细介绍与评价 | 007出海导航
+seoTitle: GetSMS.ONLINE - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/getsmsonline/
 slug: getsmsonline
@@ -92,3 +92,4 @@ related:
 ---
 
 GetSMS.ONLINE 是一家提供在线短信接收和 SMS 激活服务的虚拟号码平台，支持用户通过虚拟手机号码接收来自各类网站和应用的注册验证码。平台提供付费和免费两类服务：免费公共号码可供多用户共享查看短信，适合对隐私要求不高的临时验证场景；付费私人号码则保证消息私密，适合账号注册等需要专属号码的场景。平台涵盖多个国家的虚拟号码，支持接收 Google、Facebook、WhatsApp、Telegram 等主流服务验证码。GetSMS.ONLINE 操作流程简单，无需注册账号即可使用免费公共号码查看短信，付费服务则需要预先充值。对于需要临时验证或偶尔注册海外账号的用户而言，免费公共号码功能尤为实用。平台整体定位为中等规模的接码服务商，在价格和功能覆盖方面处于市场中游水平，适合日常个人使用或小规模团队使用需求。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Stable Diffusion
 description: Stability AI 公司开发的一款文本到图像的产品模型
-seoTitle: Stable Diffusion - 详细介绍与评价 | 007出海导航
+seoTitle: Stable Diffusion - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/stable-diffusion/
 slug: stable-diffusion
@@ -95,3 +95,4 @@ related:
 ---
 
 Stable Diffusion 是由 Stability AI 公司开发的开源文本到图像生成模型，于 2022 年 8 月发布，是 AI 图像生成领域最具里程碑意义的开源项目。与 Midjourney 等闭源商业工具不同，Stable Diffusion 的模型权重完全开源，任何人可以免费下载和本地运行，没有使用次数或内容限制。这种开放性催生了极其繁荣的社区生态：Civitai、Hugging Face 等平台上有数万个基于 SD 微调的社区模型，覆盖各种艺术风格和特定应用场景。用户可以通过 AUTOMATIC1111、ComfyUI 等开源 WebUI 来使用 Stable Diffusion，支持 txt2img、img2img、ControlNet（精确控制构图）、Inpainting（局部编辑）、Lora（轻量微调）等强大功能。Stable Diffusion 特别适合有技术背景的用户和专业创作者，需要对图像生成过程进行深度控制。StableDiffusionWeb.com 等在线平台则提供了更便捷的网页端访问。Stable Diffusion 是开源 AI 图像生成社区的核心，对 AI 艺术的民主化普及做出了巨大贡献。
+

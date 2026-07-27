@@ -1,7 +1,7 @@
----
+﻿---
 title: JavaScript
 description: 一种广泛使用的编程语言
-seoTitle: JavaScript - 详细介绍与评价 | 007出海导航
+seoTitle: JavaScript - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/javascript/
 slug: javascript
@@ -93,3 +93,4 @@ related:
 ---
 
 JavaScript是全球使用最广泛的编程语言之一，最初由Brendan Eich于1995年在网景公司创建，最初仅用于浏览器端的交互效果，如今已发展成为全栈开发的核心语言。JavaScript是Web前端开发的唯一原生编程语言，所有现代浏览器都内置了JavaScript引擎，使其成为互联网应用开发不可或缺的基础技术。随着Node.js的诞生，JavaScript突破了浏览器的边界，成为服务器端开发的主流选择之一，实现了前后端统一语言的'同构开发'模式。JavaScript生态系统极为庞大，npm包注册表拥有超过200万个开源包，React、Vue、Angular等前端框架和Express、NestJS等后端框架构建了丰富完整的技术栈。ECMAScript标准的持续演进（ES6、ES7…ES2024）不断为语言带来新特性，包括箭头函数、异步编程（async/await）、模块系统等现代编程特性。JavaScript还是移动应用开发（React Native）、桌面应用开发（Electron）、IoT编程等领域的重要工具。适合Web前端工程师、全栈开发者、移动应用开发者以及所有希望进入Web开发领域的初学者。
+

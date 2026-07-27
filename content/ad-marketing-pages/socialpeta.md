@@ -1,7 +1,7 @@
----
+﻿---
 title: SocialPeta
 description: 一个全球领先的社交广告情报平台
-seoTitle: SocialPeta - 详细介绍与评价 | 007出海导航
+seoTitle: SocialPeta - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/socialpeta/
 slug: socialpeta
@@ -95,3 +95,4 @@ related:
 ---
 
 SocialPeta 是全球领先的广告创意情报平台，专注于移动广告和社交媒体广告的监控与分析，被全球数千家广告主、代理公司和游戏厂商广泛使用。SocialPeta 拥有来自全球 73 个国家和地区的海量广告数据，覆盖超过 70 个广告网络和媒体渠道，数据库中收录了超过10亿条广告素材。其在游戏广告和应用营销领域的数据尤为强大，被全球众多头部手游公司和 APP 厂商视为核心竞争情报工具。核心功能包括：多平台广告素材搜索与分析、广告主投放策略追踪、热门素材排行榜、创意趋势分析、市场规模估算以及本地化营销洞察。SocialPeta 还提供详细的广告效果数据（估算的曝光量、投放时长、受众覆盖等），帮助用户评估竞品广告的规模和效果。平台支持 Facebook、TikTok、YouTube、AppLovin、ironSource 等众多移动广告平台的数据，特别适合出海游戏公司、移动应用开发者和跨境电商广告团队。SocialPeta 提供中英文双语界面，在亚太区市场有较强的品牌认知度。
+

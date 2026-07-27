@@ -1,7 +1,7 @@
----
+﻿---
 title: Perl
 description: 一种通用的高级编程语言
-seoTitle: Perl - 详细介绍与评价 | 007出海导航
+seoTitle: Perl - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/perl/
 slug: perl
@@ -92,3 +92,4 @@ related:
 ---
 
 Perl是一种通用的高级编程语言，由Larry Wall于1987年创建，以其强大的文本处理能力和灵活的语法而著称。Perl的名字来源于'Practical Extraction and Report Language'，最初设计用于文本操作、系统管理和网络编程等任务。Perl具有极强的正则表达式支持，是处理文本数据、日志分析、数据格式转换等场景的理想工具。语言奉行'条条大路通罗马'（TMTOWTDI）的设计哲学，允许开发者以多种方式实现同一功能，提供极高的编程灵活性。Perl生态系统的核心是CPAN（Comprehensive Perl Archive Network），拥有超过20万个模块，覆盖几乎所有编程需求。在互联网早期，Perl是CGI脚本和Web开发的主流语言，许多早期互联网网站基于Perl构建。虽然随着Python、Ruby等语言的兴起，Perl在新项目中的使用率有所下降，但在系统管理、生物信息学、金融数据处理等领域仍然保有重要地位。Perl 5是目前广泛使用的版本，而实验性的Perl 6（现已重命名为Raku）提供了全新的语言设计。适合系统管理员、生物信息学研究人员、文本处理开发者以及维护遗留系统的工程师。
+

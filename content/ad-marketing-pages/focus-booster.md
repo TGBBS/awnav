@@ -1,7 +1,7 @@
----
+﻿---
 title: focus booster
 description: 专门为时间管理和提高工作效率而设计的应用程序
-seoTitle: focus booster - 详细介绍与评价 | 007出海导航
+seoTitle: focus booster - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/focus-booster/
 slug: focus-booster
@@ -92,3 +92,4 @@ related:
 ---
 
 Focus Booster 是一款基于番茄工作法（Pomodoro Technique）设计的时间管理应用程序，专门帮助用户通过周期性专注工作和短暂休息的方式提升工作效率。应用将工作时间划分为25分钟的专注时段（番茄钟）和5分钟的休息时段，每完成四个番茄钟后可享受一次较长休息。Focus Booster 不仅仅是一个计时器，还提供完整的时间记录和分析功能，自动记录每个番茄钟的工作内容，生成详细的时间报告，帮助用户了解时间分配情况。其会话记录功能对于需要向客户汇报工时的自由职业者尤为实用。应用界面简洁优雅，支持Web浏览器、Windows和macOS多平台使用，数据在设备间自动同步。主要面向需要克服拖延症、提高专注力的上班族、学生以及需要精确记录工时的自由职业者。Focus Booster 提供免费试用版，付费版支持更多功能和无限历史记录查看。
+

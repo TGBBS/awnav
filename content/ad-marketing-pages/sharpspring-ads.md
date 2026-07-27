@@ -1,7 +1,7 @@
----
+﻿---
 title: SharpSpring Ads
 description: 可以定位到Facebook广告那些没有转化或购买的情况下离开网站的用户
-seoTitle: SharpSpring Ads - 详细介绍与评价 | 007出海导航
+seoTitle: SharpSpring Ads - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sharpspring-ads/
 slug: sharpspring-ads
@@ -77,3 +77,4 @@ related:
 ---
 
 SharpSpring Ads（原名 Perfect Audience）是一款专注于再营销（Retargeting）的广告自动化平台，核心能力是帮助广告主追踪并重新触达那些访问过网站但未完成转化或购买行为的用户。该平台支持在 Facebook、Instagram、Google Display Network 等多渠道同步投放再营销广告，通过像素追踪技术识别网站访客，并将其加入自定义受众列表，实现精准的二次触达。SharpSpring Ads 的主要功能包括：跨渠道再营销管理、动态广告创建、受众分组与细分、转化追踪与归因分析、预算自动优化以及详细的 ROI 报告。它特别适合拥有稳定网站流量的电商企业、SaaS 公司以及 B2B 品牌，尤其适合希望提升购物车遗弃率回购和降低获客成本的卖家。平台界面清晰简洁，即使没有专业广告经验的营销人员也能较快上手，是中小企业做 Facebook 再营销的实用选择。
+

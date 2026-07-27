@@ -1,7 +1,7 @@
----
+﻿---
 title: pandamobo
 description: Facebook官方授权代理商
-seoTitle: pandamobo - 详细介绍与评价 | 007出海导航
+seoTitle: pandamobo - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/pandamobo/
 slug: pandamobo
@@ -92,3 +92,4 @@ related:
 ---
 
 PandaMobo是专注于移动应用和游戏出海的综合营销服务平台，作为Facebook官方授权代理商，为中国开发者和游戏公司提供海外用户获取解决方案。平台汇聚多渠道广告资源，覆盖Facebook、Google UAC、TikTok、Twitter等主流海外流量平台，提供一站式的APP推广和用户增长服务。PandaMobo专注于移动端效果广告投放，拥有专业的买量优化团队，具备丰富的游戏、工具类和电商类APP推广经验。核心服务包括：广告账户开户管理、多平台投放策略制定、创意素材制作与测试、用户获取成本优化和数据效果分析报告。平台采用数据驱动的优化方式，通过A/B测试和实时出价策略帮助客户降低CPI、提升LTV。PandaMobo具备本土化运营优势，深度了解中国出海企业在账户申请、合规运营、多语言本地化等方面的需求，尤其适合希望快速打入东南亚、欧美等市场的手游公司和移动应用开发者。
+

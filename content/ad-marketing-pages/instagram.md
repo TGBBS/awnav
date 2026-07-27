@@ -1,7 +1,7 @@
----
+﻿---
 title: Instagram
 description: Facebook旗下最受欢迎的图片视频分享社交平台
-seoTitle: Instagram - 详细介绍与评价 | 007出海导航
+seoTitle: Instagram - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/instagram/
 slug: instagram
@@ -92,3 +92,4 @@ related:
 ---
 
 Instagram 是全球最受欢迎的图片和视频分享社交平台，由凯文·斯特罗姆（Kevin Systrom）和迈克·克里格（Mike Krieger）于 2010 年创立，2012 年被 Facebook（现 Meta）以 10 亿美元收购。Instagram 拥有超过 20 亿月活跃用户，以其出色的视觉内容展示能力和创意社区文化著称。平台核心功能包括：图片和视频发布、Stories（24 小时限时故事）、Reels（短视频）、IGTV（长视频）、直播、购物功能（Instagram Shopping）等。Instagram 是当前最重要的网红营销（Influencer Marketing）平台之一，吸引了大量美妆、时尚、生活方式、旅行等领域的内容创作者。对于跨境电商卖家，Instagram Shopping 功能允许商家直接在帖子中标记商品并完成购买，大幅缩短了用户从发现到购买的路径。Instagram 在 18-35 岁年龄段用户中极具影响力，是面向年轻消费群体的品牌营销必选平台。
+

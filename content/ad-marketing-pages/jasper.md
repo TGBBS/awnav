@@ -1,7 +1,7 @@
----
+﻿---
 title: Jasper
 description: 适用于企业的生成式人工智能平台，可帮助你的团队在任何地方以 10 倍的速度创建适合你品牌的内容
-seoTitle: Jasper - 详细介绍与评价 | 007出海导航
+seoTitle: Jasper - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/jasper/
 slug: jasper
@@ -95,3 +95,4 @@ related:
 ---
 
 Jasper（原名 Jarvis）是一款面向企业的生成式 AI 内容创作平台，专注于帮助企业营销团队高效创建符合品牌调性的内容。Jasper 提供了丰富的内容模板（超过50种），支持博客文章、社交媒体内容、广告文案、电子邮件、SEO 内容、产品描述等各类营销材料的生成。Jasper 的核心差异化能力在于品牌语音（Brand Voice）功能，能够学习企业的写作风格、行业术语和品牌个性，确保所有 AI 生成内容与品牌保持一致。Jasper Art 功能还支持 AI 图像生成，形成图文一体的内容创作解决方案。Jasper 提供 Chrome 插件，可在任意网页上调用 AI 功能，并支持 Google Docs、HubSpot、Webflow 等第三方工具集成。Jasper 主要面向中大型企业的内容团队和营销部门，强调团队协作和内容工作流管理。虽然价格比竞品偏高，但在品牌一致性管理和企业团队协作方面有明显优势，是许多知名企业内容团队的选择。
+

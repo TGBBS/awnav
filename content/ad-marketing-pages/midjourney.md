@@ -1,7 +1,7 @@
----
+﻿---
 title: Midjourney
 description: 绘画AI，海报、插 画、写实图片轻松生成
-seoTitle: Midjourney - 详细介绍与评价 | 007出海导航
+seoTitle: Midjourney - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/midjourney/
 slug: midjourney
@@ -95,3 +95,4 @@ related:
 ---
 
 Midjourney 是由同名研究实验室 Midjourney, Inc. 开发的 AI 图像生成工具，于 2022 年 3 月发布公开测试版，迅速成为全球最受欢迎的 AI 绘画工具之一。Midjourney 以其卓越的艺术美感著称，生成的图像具有独特的艺术风格，色彩丰富、细节精美，特别擅长生成插画、概念艺术、奇幻场景、人像和风景图。Midjourney 主要通过 Discord 机器人交互（同时提供 Web 界面），用户通过文本 prompt 描述想要的图像，AI 生成 4 张备选图供用户选择和精化。Midjourney V6 和后续版本对真实感、文字渲染和人物生成有大幅提升。Midjourney 的订阅用户已超过 1600 万，是 AI 图像生成领域营收最高的商业化工具之一。它特别适合平面设计师、插画师、概念艺术家、游戏设计师以及所有需要快速视觉创意的创作者。从个人创意项目到商业插图创作，Midjourney 已经成为众多创意工作者不可或缺的工具。
+

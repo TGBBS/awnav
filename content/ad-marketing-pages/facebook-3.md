@@ -1,7 +1,7 @@
----
+﻿---
 title: Facebook广告投放教程
 description: Facebook广告投放教程
-seoTitle: Facebook广告投放教程 - 详细介绍与评价 | 007出海导航
+seoTitle: Facebook广告投放教程 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/facebook-3/
 slug: facebook-3
@@ -92,3 +92,4 @@ related:
 ---
 
 Facebook 广告投放教程（Facebook Blueprint ExceedLMS 课程目录）是 Meta 通过 ExceedLMS 学习管理系统提供的结构化在线广告培训课程，为广告从业者提供系统化的 Facebook 广告知识体系。该课程目录包含数百门涵盖 Facebook 广告各个方面的在线课程，内容从基础概念到高级策略全面覆盖，并与 Facebook Blueprint 认证考试体系直接对接。课程内容按照营销目标、广告产品和受众类型进行分类组织，学员可以根据自己的角色和学习目标定制学习路径。课程格式包括：交互式电子学习模块、短视频教程、实践练习和知识测验。典型课程主题包括：Facebook 广告基础知识、营销策略制定、广告创意最佳实践、受众定向深度解析、广告优化与测试方法、衡量和归因、以及行业特定解决方案（零售、旅游、金融等）。完成指定课程后可以参加 Blueprint 专业认证考试。该平台是希望系统提升 Facebook 广告专业能力、取得官方认证的个人和团队的权威学习资源。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Ads
 description: 谷歌ADS广告管理
-seoTitle: Google Ads - 详细介绍与评价 | 007出海导航
+seoTitle: Google Ads - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/google-ads/
 slug: google-ads
@@ -95,3 +95,4 @@ related:
 ---
 
 Google Ads（谷歌广告）是 Google 提供的在线广告平台，是全球规模最大、影响力最广的数字广告系统。它允许企业和个人在 Google 搜索结果、YouTube、Gmail、Google Display Network 等渠道投放付费广告。Google Ads 支持多种广告形式，包括搜索广告、展示广告、视频广告、购物广告和应用广告。其核心竞价机制基于关键词拍卖，广告主按点击付费（CPC）或按展示付费（CPM）。平台提供强大的受众定向功能，支持按地域、年龄、兴趣、行为、再营销等多维度精准触达目标用户。内置的数据分析工具可实时监控广告效果，包括点击率、转化率、ROI 等核心指标。Google Ads 适合各类企业，从本地小商家到跨国集团均可使用。对于跨境电商、出海企业和希望拓展海外市场的中国企业来说，Google Ads 是必备的推广工具。平台提供智能出价策略，帮助广告主自动优化预算分配，实现最优广告效果。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: 99bitcoins
 description: 提供教程介绍如何用PayPal、信用卡、借记卡等方式购买比特币
-seoTitle: 99bitcoins - 详细介绍与评价 | 007出海导航
+seoTitle: 99bitcoins - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/99bitcoins/
 slug: 99bitcoins
@@ -71,3 +71,4 @@ related:
 ---
 
 提供教程介绍如何用PayPal、信用卡、借记卡等方式购买比特币
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Search
 description: Google 公司旗下的搜索引擎
-seoTitle: Google Search - 详细介绍与评价 | 007出海导航
+seoTitle: Google Search - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/google-search/
 slug: google-search
@@ -95,3 +95,4 @@ related:
 ---
 
 Google Search 是全球使用率最高的搜索引擎，由 Google 公司开发运营，全球搜索引擎市场占有率长期维持在90%以上。Google 搜索以其卓越的算法准确性、搜索速度和丰富的结果类型著称。除了基本的网页搜索，Google Search 还支持图片搜索、视频搜索、新闻搜索、地图搜索、购物搜索和学术搜索等多种垂直搜索功能。知识图谱功能能够直接在搜索结果页面显示结构化信息，如天气、汇率、翻译、计算等实用工具。Google 还提供高级搜索语法，支持精确搜索（引号）、排除词（减号）、站内搜索（site:）、文件类型搜索（filetype:）等多种指令，让搜索更精准。Google 搜索算法持续迭代更新，融合了 AI 技术（如 MUM 和 AI Overview），提供更智能的搜索体验。每天处理超过85亿次搜索查询，是人类获取信息最重要的工具之一。对于数字营销人员，Google Search 也是最重要的流量来源，SEO 优化的核心目标就是提升在 Google 搜索中的排名。
+

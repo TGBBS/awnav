@@ -1,7 +1,7 @@
----
+﻿---
 title: Salehoo
 description: 一个在线零售商和供应商市场
-seoTitle: Salehoo - 详细介绍与评价 | 007出海导航
+seoTitle: Salehoo - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/salehoo/
 slug: salehoo
@@ -77,3 +77,4 @@ related:
 ---
 
 SaleHoo 是一个面向电商卖家的批发供应商目录和研究工具平台，成立于2005年，总部位于新西兰基督城。平台汇聚了来自全球经过人工审核验证的8000多个批发供应商和制造商，帮助中小跨境电商卖家找到可靠的货源，规避假货和骗子风险。SaleHoo 提供市场调研工具，帮助卖家识别利润潜力大的热销商品，是 eBay、亚马逊、Shopify 卖家寻找货源的常用工具。平台还提供在线教育课程和活跃的会员社区，帮助新手电商卖家快速成长。SaleHoo 的核心价值在于其严格的供应商审核体系，大大降低了卖家对接陌生供应商的风险。适合 eBay/亚马逊/独立站卖家，尤其是希望从事代发货（dropshipping）或小批量批发业务的跨境卖家。
+

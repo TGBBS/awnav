@@ -1,7 +1,7 @@
----
+﻿---
 title: Facebook兴趣词工具
 description: Facebook兴趣词查询工具
-seoTitle: Facebook兴趣词工具 - 详细介绍与评价 | 007出海导航
+seoTitle: Facebook兴趣词工具 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/facebook-6/
 slug: facebook-6
@@ -87,3 +87,4 @@ related:
 ---
 
 Facebook 兴趣词查询工具是由 Engine Scout 开发的免费在线工具，专门帮助 Facebook 广告主发现和挖掘受众兴趣词，从而实现更精准的广告定向。在 Facebook 广告系统中，兴趣词定向是触达目标受众的关键手段，但 Facebook 官方界面提供的兴趣词建议往往有限，许多隐藏的小众但高效的兴趣词需要通过第三方工具才能发现。该工具通过调用 Facebook 的兴趣数据，提供关键词搜索、相关词扩展、受众规模预估等功能，帮助广告主构建更全面的兴趣词库。用户只需输入一个种子关键词，工具会自动返回相关的兴趣词列表及对应的受众规模，大幅提升受众定向的精准性。该工具特别适合刚开始做 Facebook 广告的新手、希望降低广告 CPM 的中级广告主，以及需要快速为新产品寻找目标受众的营销人员。完全免费的特性让它成为 Facebook 广告受众研究的入门首选工具。
+

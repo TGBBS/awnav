@@ -1,7 +1,7 @@
----
+﻿---
 title: OpenFang
 description: Rust编写的Agent操作系统，32MB单文件，40个渠道适配器，16层安全系统
-seoTitle: OpenFang - 详细介绍与评价 | 007出海导航
+seoTitle: OpenFang - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/openfang/
 slug: openfang
@@ -77,3 +77,4 @@ related:
 ---
 
 OpenFang 是一款用 Rust 语言编写的 AI Agent 操作系统级运行时，以极致的工程设计著称。整个系统被打包为 32MB 的单一可执行文件，无需任何外部依赖即可运行，真正实现了「下载即用」的部署体验。OpenFang 最突出的技术特点有两个：一是内置 40 个渠道适配器，支持将 AI 代理连接到 40 种不同的消息和服务平台，包括各类 IM 工具、API 服务和系统接口，覆盖范围极广；二是内置 16 层安全系统，从权限控制、数据加密、沙箱隔离到审计日志，提供企业级的安全保障，这在开源 AI 代理运行时中极为罕见。Rust 语言保证了 OpenFang 出色的性能和内存安全性，使其适合在生产环境中长期稳定运行。32MB 单文件的特性使其非常易于分发和部署，可以轻松运行在服务器、个人电脑，甚至资源有限的边缘计算设备上。项目托管于 openfang.sh，提供详细的技术文档和 API 参考。OpenFang 主要面向对安全性有较高要求的企业用户和技术团队，以及需要在多种平台上统一部署 AI 代理的开发者。
+

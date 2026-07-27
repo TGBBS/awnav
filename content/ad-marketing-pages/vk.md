@@ -1,7 +1,7 @@
----
+﻿---
 title: VK
 description: VK(原VKontakte)是一个俄罗斯社交平台,类似于Facebook、INS,由于其设计风格以及功能都与美国Facebook十分相似,因此VK也经常被称为“克隆Facebook”。
-seoTitle: VK - 详细介绍与评价 | 007出海导航
+seoTitle: VK - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/vk/
 slug: vk
@@ -71,3 +71,4 @@ related:
 ---
 
 VK(原VKontakte)是一个俄罗斯社交平台,类似于Facebook、INS,由于其设计风格以及功能都与美国Facebook十分相似,因此VK也经常被称为“克隆Facebook”。
+

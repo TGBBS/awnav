@@ -1,7 +1,7 @@
----
+﻿---
 title: GetResponse
 description: 电子邮件营销平台
-seoTitle: GetResponse - 详细介绍与评价 | 007出海导航
+seoTitle: GetResponse - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/getresponse/
 slug: getresponse
@@ -92,3 +92,4 @@ related:
 ---
 
 GetResponse 是一款历史悠久的综合性电子邮件营销平台，1998年由 Simon Grabowski 创立于波兰格但斯克，是波兰最成功的 SaaS 产品之一。经过25年以上的发展，GetResponse 已从单纯的邮件工具演变为包含邮件营销、营销自动化、登陆页面、网络研讨会（Webinar）和电商功能的全能营销平台。其标志性功能是内置的 Webinar 功能，允许用户直接在平台上主持在线研讨会并与邮件营销无缝集成，这在同类工具中较为独特。自动化功能支持复杂的条件分支工作流，结合评分系统可以对订阅者的参与度进行量化评估。登陆页面构建器内置超过200个模板，方便快速创建高转化落地页。GetResponse 的转化漏斗（Conversion Funnel）功能让用户一站式管理从广告投放到邮件跟进的整个获客流程。现服务超过35万家企业，在中欧、东欧市场特别受欢迎。免费版支持500名联系人，适合预算有限的创业团队，付费版价格相比主要竞品具有一定优势。
+

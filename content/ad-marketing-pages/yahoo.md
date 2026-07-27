@@ -1,7 +1,7 @@
----
+﻿---
 title: YaHoo!
 description: 雅虎，全球著名的互联网综合门户网站
-seoTitle: YaHoo! - 详细介绍与评价 | 007出海导航
+seoTitle: YaHoo! - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/yahoo/
 slug: yahoo
@@ -92,3 +92,4 @@ related:
 ---
 
 Yahoo!（雅虎）是互联网早期的标志性综合门户网站，由杨致远（Jerry Yang）和大卫·费罗（David Filo）于1994年在斯坦福大学创立。雅虎曾经是全球访问量最大的网站，提供搜索引擎、新闻、邮件（Yahoo Mail）、财经资讯（Yahoo Finance）、体育（Yahoo Sports）、娱乐等综合服务。尽管雅虎在搜索市场已被 Google 超越，但其部分垂直服务至今依然保持强劲用户基础：Yahoo Finance 是全球最受欢迎的财经数据平台之一，Yahoo Mail 全球用户超过2亿，Yahoo News 在美国仍是重要新闻聚合渠道。2017年，雅虎核心业务被 Verizon Media 收购，2021年又被私募基金 Apollo Global Management 收购，目前作为独立品牌继续运营。对于需要获取美股财经数据、关注美国主流资讯或使用雅虎邮箱服务的用户，Yahoo 仍是重要平台。尽管昔日辉煌已逝，Yahoo Finance 和 Yahoo Mail 在特定用户群中的粘性依然不可忽视。
+

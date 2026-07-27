@@ -1,7 +1,7 @@
----
+﻿---
 title: Fecmall
 description: 一个功能强大，易于使用的电子商务平台
-seoTitle: Fecmall - 详细介绍与评价 | 007出海导航
+seoTitle: Fecmall - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/fecmall/
 slug: fecmall
@@ -91,3 +91,4 @@ related:
 ---
 
 Fecmall 是一款面向跨境电商和本地电商的开源电商框架，基于 PHP + Yii2 框架开发，提供B2C商城、B2B批发商城、多商户商城等多种电商解决方案。Fecmall 支持国际化部署，内置多语言、多货币、多仓库管理功能，适合有一定技术基础的电商团队进行二次开发和定制化部署。平台完全开源免费，代码在 GitHub 上公开维护，拥有活跃的开发者社区。Fecmall 提供功能丰富的商品管理、订单处理、会员体系、营销工具等核心电商模块，并支持接入多种支付网关。相比 OpenCart 和 Magento，Fecmall 更专注于中国开发者和跨境电商场景，是技术团队搭建定制化电商系统的实用选择。适合希望从零构建自有电商平台的技术型企业。
+

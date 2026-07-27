@@ -1,7 +1,7 @@
----
+﻿---
 title: MyLittleForum
 description: 一个强大的免费论坛程序
-seoTitle: MyLittleForum - 详细介绍与评价 | 007出海导航
+seoTitle: MyLittleForum - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/mylittleforum/
 slug: mylittleforum
@@ -93,3 +93,4 @@ related:
 ---
 
 My Little Forum是一款轻量级的开源免费论坛程序，采用PHP和MySQL开发，以简洁易用为主要设计理念。软件界面简单清晰，安装配置门槛低，适合不需要复杂功能的小型社区搭建需求。My Little Forum提供基础的帖子发布、回复、用户注册、搜索等核心论坛功能，支持主题皮肤定制和多语言设置。项目在GitHub上开源维护，有持续的版本更新，相比部分同类开源论坛软件，My Little Forum的活跃度相对较好。由于其极简的设计哲学，My Little Forum特别适合需要简单讨论功能的小型网站、个人博客附属论坛以及低流量的兴趣社区使用。对于技术能力有限但希望搭建简单论坛的站长来说，My Little Forum是入门门槛低、维护成本低的可行选择。然而对于需要丰富功能、高并发支持或现代化界面的大型社区，建议考虑功能更完善的替代方案。
+

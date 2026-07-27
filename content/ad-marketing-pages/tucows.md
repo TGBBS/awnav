@@ -1,7 +1,7 @@
----
+﻿---
 title: Tucows
 description: 一家专业的域名注册商
-seoTitle: Tucows - 详细介绍与评价 | 007出海导航
+seoTitle: Tucows - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/tucows/
 slug: tucows
@@ -92,3 +92,4 @@ related:
 ---
 
 Tucows 是一家成立于1993年的加拿大科技公司，最初以软件下载平台起家，后转型为互联网服务提供商，业务覆盖域名注册、互联网接入和移动通信服务。在域名业务方面，Tucows 是全球最大的域名批发注册商之一，同时也是 OpenSRS、Hover 和 Ting 等品牌的母公司。OpenSRS 是 Tucows 面向企业和域名经销商的批发平台，全球数以千计的网络托管商和独立软件开发商通过它提供域名注册服务；Hover 则是 Tucows 旗下面向个人用户的零售域名品牌，以简洁的界面和无推销策略著称。Tucows 在域名生态系统中扮演关键的基础设施角色，管理着超过2000万个域名。在移动业务方面，Ting Mobile 提供按需付费的移动通信服务。整体来看，Tucows 更多作为 B2B 基础设施供应商运营，普通个人用户较少直接接触其主品牌，但其服务每天都在支撑着无数网站和网络服务的正常运行。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Swipe Pages
 description: 一款网页建设工具
-seoTitle: Swipe Pages - 详细介绍与评价 | 007出海导航
+seoTitle: Swipe Pages - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/swipe-pages/
 slug: swipe-pages
@@ -87,3 +87,4 @@ related:
 ---
 
 Swipe Pages是一款专注于移动端优先的落地页建设工具，以极速加载性能和AMP（加速移动页面）支持作为核心竞争优势。平台的设计理念是打造在移动设备上加载速度媲美原生应用的落地页，官方声称页面加载时间可低至1秒以内，这对于降低用户跳出率和提升广告质量评分具有重要价值。Swipe Pages提供超过80个专业模板，全部经过移动端转化率优化设计，支持拖拽式编辑，内置A/B测试功能，并与Google Ads、Facebook Ads等主流广告平台深度集成。对于依赖移动端广告投放的营销人员来说，Swipe Pages能够有效提升广告转化率并降低每次获客成本。平台还支持智能落地页功能，可根据广告来源动态调整页面内容，实现个性化展示。主要用户群体包括数字广告营销人员、PPC广告投手、增长黑客团队以及需要高性能移动端落地页的企业营销团队。
+

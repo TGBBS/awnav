@@ -1,7 +1,7 @@
----
+﻿---
 title: NodeBB
 description: 开源的论坛软件
-seoTitle: NodeBB - 详细介绍与评价 | 007出海导航
+seoTitle: NodeBB - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/nodebb/
 slug: nodebb
@@ -93,3 +93,4 @@ related:
 ---
 
 NodeBB是一款基于Node.js构建的现代化开源论坛软件，以其实时通信能力和现代化界面设计著称。项目创建于2013年，采用WebSocket技术实现了真正的实时通知和实时更新功能，这在传统PHP论坛软件中难以实现。NodeBB支持MongoDB和Redis作为数据存储后端，具有优秀的并发处理能力和可扩展性，适合从小型社区到大型高流量平台的各类使用场景。平台提供丰富的插件生态系统，支持第三方登录、邮件通知、内容审核、SEO优化等众多扩展功能。NodeBB的界面设计现代响应式，移动端体验良好，支持多种主题皮肤定制。项目在GitHub上持续活跃维护，拥有活跃的开发者社区和完善的文档支持。NodeBB提供云托管服务（nodebb.com）和自托管两种选择，商业版支持企业级功能和技术支持。对于希望搭建现代化在线社区的团队和企业，NodeBB是功能完善、技术先进的优质选择之一。
+

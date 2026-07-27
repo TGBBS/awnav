@@ -1,7 +1,7 @@
----
+﻿---
 title: KakaoTalk
 description: kakaotalk是韩国使用人数最多的社交聊天工具
-seoTitle: KakaoTalk - 详细介绍与评价 | 007出海导航
+seoTitle: KakaoTalk - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/kakaotalk/
 slug: kakaotalk
@@ -92,3 +92,4 @@ related:
 ---
 
 KakaoTalk 是韩国使用人数最多的即时通讯和社交媒体应用，由 Kakao 公司（前身为 IWILAB）于 2010 年推出，总部位于韩国首尔。KakaoTalk 在韩国拥有极高的渗透率，韩国约 95% 的智能手机用户使用 KakaoTalk，使其成为韩国数字生活不可缺少的一部分。平台提供免费的文字、语音、视频通话和文件分享功能，以其可爱的 Kakao Friends 表情包闻名。KakaoTalk 已发展成为一个综合性数字生态平台，旗下产品包括 Kakao Pay（移动支付）、Kakao Bank（互联网银行）、Kakao T（出行服务）、Kakao Games 等多个领域。对于商业用户，Kakao 提供 KakaoTalk Channel（官方频道）服务，企业可以建立官方频道与粉丝互动、推送营销信息。对于出海韩国市场的企业，KakaoTalk 是本地化营销和客户服务的核心渠道，与 LINE 在日本市场的地位相似。
+

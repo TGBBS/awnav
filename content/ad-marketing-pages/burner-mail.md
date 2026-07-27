@@ -1,7 +1,7 @@
----
+﻿---
 title: Burner Mail
 description: 一种临时邮件服务
-seoTitle: Burner Mail - 详细介绍与评价 | 007出海导航
+seoTitle: Burner Mail - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/burner-mail/
 slug: burner-mail
@@ -92,3 +92,4 @@ related:
 ---
 
 Burner Mail 是一款专注于保护用户真实电子邮件隐私的临时邮件转发服务。与传统的一次性临时邮箱不同，Burner Mail 采用转发机制：为每个需要注册的网站创建一个独立的别名邮箱地址，发往该别名的邮件会自动转发到用户真实邮箱，同时隐藏真实邮件地址。当用户不想接收某个网站的邮件时，只需关闭或删除对应的别名即可，无需更改真实邮箱。Burner Mail 提供浏览器扩展插件，可在填写注册表单时一键生成新的别名邮箱，极大简化了操作流程。该工具主要面向隐私意识强、经常注册各类网站但不希望收到垃圾邮件的用户。免费版提供有限数量的活跃别名，付费订阅则可解锁无限别名和更多高级功能。Burner Mail 在邮件隐私保护工具中口碑较好，是 SimpleLogin、AnonAddy 等同类工具的有力竞争者，适合注重数字隐私的个人用户长期使用。
+

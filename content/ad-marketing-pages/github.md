@@ -1,7 +1,7 @@
----
+﻿---
 title: GitHub
 description: 全球最大的供开发人员存储和共享代码的代码托管平台
-seoTitle: GitHub - 详细介绍与评价 | 007出海导航
+seoTitle: GitHub - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/github/
 slug: github
@@ -71,3 +71,4 @@ related:
 ---
 
 全球最大的供开发人员存储和共享代码的代码托管平台
+

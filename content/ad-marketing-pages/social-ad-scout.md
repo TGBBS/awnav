@@ -1,7 +1,7 @@
----
+﻿---
 title: Social Ad Scout
 description: 很全面的广告spy工具
-seoTitle: Social Ad Scout - 详细介绍与评价 | 007出海导航
+seoTitle: Social Ad Scout - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/social-ad-scout/
 slug: social-ad-scout
@@ -92,3 +92,4 @@ related:
 ---
 
 Social Ad Scout 是一款功能全面的广告情报工具，专注于社交媒体广告的监控与分析，被业内认为是最全面的广告 Spy 工具之一。它不仅提供广告素材的展示，还深入到广告的落地页分析、追踪参数解析和完整的广告漏斗研究，让用户能够全面了解竞争对手的广告策略。Social Ad Scout 支持 Facebook、Instagram 等主流社交平台，其特色功能包括：完整的落地页截图和代码存档（即使落地页已下线也能查看历史版本）、广告落地页技术分析（识别使用的追踪工具、像素和第三方服务）、广告目标受众数据、以及强大的布尔搜索语法支持。这些高级功能使其在竞品研究的深度上超越了很多同类工具。对于需要深入分析竞争对手完整营销漏斗（不仅仅是广告素材，还包括落地页策略、追踪设置等）的高级用户来说，Social Ad Scout 提供了无与伦比的洞察深度。适合高级联盟营销从业者、广告代理公司和需要进行深度竞争情报研究的专业团队。
+

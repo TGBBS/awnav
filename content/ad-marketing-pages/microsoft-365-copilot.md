@@ -1,7 +1,7 @@
----
+﻿---
 title: Microsoft 365 Copilot
 description: 微软推出的一款融合了 GPT-4 大语言模型的新版 Office，它可以帮助用户生成、编辑、格式化和优化文档、电子邮件、表格、幻灯片等
-seoTitle: Microsoft 365 Copilot - 详细介绍与评价 | 007出海导航
+seoTitle: Microsoft 365 Copilot - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/microsoft-365-copilot/
 slug: microsoft-365-copilot
@@ -92,3 +92,4 @@ related:
 ---
 
 Microsoft 365 Copilot 是微软于 2023 年推出的企业级 AI 助手，将 GPT-4 大语言模型与 Microsoft 365 应用套件（Word、Excel、PowerPoint、Outlook、Teams 等）深度融合。Copilot 能够理解用户的自然语言指令，在 Word 中自动起草文档、在 Excel 中分析数据并生成图表、在 PowerPoint 中基于提纲生成完整演示文稿、在 Outlook 中总结邮件线程和起草回复、在 Teams 中总结会议内容和生成会议记录。Microsoft 365 Copilot 还引入了 Copilot Studio，允许企业自定义和扩展 AI 功能。Business Chat（现已更名为 Microsoft 365 Chat）能够跨越所有 Microsoft 365 数据源（邮件、会议、文档、聊天记录）进行语义搜索和问答。Copilot 通过 Microsoft Graph 访问企业数据，并严格遵循企业现有的权限体系和合规要求。这款产品面向企业用户，特别适合大量使用 Office 套件的知识工作者和企业团队，能够显著提升日常办公效率，减少重复性文档工作。
+

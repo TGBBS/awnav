@@ -1,7 +1,7 @@
----
+﻿---
 title: Sms-online
 description: Receive SMS Online for Free
-seoTitle: Sms-online - 详细介绍与评价 | 007出海导航
+seoTitle: Sms-online - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sms-online/
 slug: sms-online
@@ -92,3 +92,4 @@ related:
 ---
 
 SMS-Online.co 是一家提供免费在线接收短信服务的平台，用户无需注册账号或支付任何费用，即可直接使用平台提供的公共虚拟手机号码接收短信。平台提供来自美国、英国、加拿大、澳大利亚等英语国家以及其他多个国家的免费虚拟号码，所有号码上收到的短信均实时公开展示在网页上。SMS-Online.co 界面简洁直观，用户只需从号码列表中选择一个号码，然后在需要验证的网站或应用中输入该号码，等待短信到达后即可在网页上查看验证码。该平台适合需要临时验证、不想透露真实手机号的普通用户使用。由于所有短信公开可见，平台不适合用于任何涉及个人隐私或账号安全的场景。平台在同类免费接码网站中运营稳定，号码可用性较好，是国内外用户常用的免费接码工具之一。
+

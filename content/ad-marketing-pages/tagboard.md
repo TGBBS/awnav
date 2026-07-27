@@ -1,7 +1,7 @@
----
+﻿---
 title: Tagboard
 description: 查询热词在Facebook、instagram及Twitter上的表现
-seoTitle: Tagboard - 详细介绍与评价 | 007出海导航
+seoTitle: Tagboard - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/tagboard/
 slug: tagboard
@@ -92,3 +92,4 @@ related:
 ---
 
 Tagboard 是一款社交媒体聚合和热词追踪工具，主要功能是查询和监控特定关键词或 hashtag 在 Facebook、Instagram 和 Twitter 等社交媒体平台上的表现。平台可以实时汇聚来自多个平台的相关内容，形成统一的内容流，帮助用户全面了解某个话题或品牌在社交媒体上的讨论情况。Tagboard 的独特功能之一是其媒体墙（Social Wall）展示功能，可以将社交媒体内容以美观的方式展示，常用于活动现场大屏幕展示、品牌活动营销等场景。该工具适合品牌方监控品牌声誉、营销人员追踪竞品动态、活动组织者在现场展示社交媒体互动内容。Tagboard 还提供情感分析功能，帮助用户了解社交媒体讨论中的正负面情绪倾向。平台支持内容筛选和过滤功能，确保展示内容的质量和相关性。
+

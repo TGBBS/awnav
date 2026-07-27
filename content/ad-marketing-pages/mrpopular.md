@@ -1,7 +1,7 @@
----
+﻿---
 title: Mrpopular
 description: 覆盖全球几十个社交app的涨粉平台
-seoTitle: Mrpopular - 详细介绍与评价 | 007出海导航
+seoTitle: Mrpopular - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/mrpopular/
 slug: mrpopular
@@ -72,3 +72,4 @@ related:
 ---
 
 Mrpopular 是一个覆盖全球几十个社交媒体应用的综合涨粉平台，是市场上支持社交媒体平台数量最多的增长服务平台之一。平台不仅支持 Instagram、TikTok、YouTube、Facebook、Twitter 等常见平台，还覆盖了 Spotify、SoundCloud、Twitch、Telegram、LinkedIn 等小众但重要的平台。Mrpopular 的核心优势在于其广泛的平台覆盖度，用户可以在一个平台上为多个社交媒体账号购买增长服务。平台提供粉丝、点赞、观看量、评论、分享等多种互动数据的提升服务，满足用户全面的社交媒体增长需求。中文版本（cn.mrpopular.net）专门为中文用户提供服务，界面和客服均支持中文。主要目标用户为社交媒体营销人员、内容创作者和品牌方。平台支持多种支付方式，包括信用卡和加密货币。
+

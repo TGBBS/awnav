@@ -1,7 +1,7 @@
----
+﻿---
 title: Name.com
 description: 历史悠久的域名注册商，界面清爽，支持中文
-seoTitle: Name.com - 详细介绍与评价 | 007出海导航
+seoTitle: Name.com - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/namecom/
 slug: namecom
@@ -92,3 +92,4 @@ related:
 ---
 
 Name.com 是一家历史悠久的美国域名注册商，成立于2003年，总部位于科罗拉多州丹佛市。平台提供域名注册、网站托管、SSL证书、电子邮件托管等全方位网络服务。Name.com 以其简洁清爽的用户界面著称，支持中文等多种语言，让非英语用户也能轻松操作。在域名价格方面，Name.com 的 .com 域名首年注册价格具备竞争力，续费价格中等偏上。平台支持超过400种顶级域名扩展，包括各类新通用顶级域名（New gTLD）。Name.com 提供便捷的域名管理工具，包括DNS管理、域名转移、隐私保护（WHOIS隐藏）等功能，其中隐私保护服务对部分域名免费提供。网站托管服务基于cPanel控制面板，操作门槛低，适合小型网站和博客。整体而言，Name.com 适合对界面友好度有要求、希望一站式管理域名和托管服务的个人用户和小型企业。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Adstage
 description: Adstage是一个让你优化Adwords、Bing、Facebook、Twitter和linkedln的广告工具
-seoTitle: Adstage - 详细介绍与评价 | 007出海导航
+seoTitle: Adstage - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/adstage/
 slug: adstage
@@ -77,3 +77,4 @@ related:
 ---
 
 AdStage 是一款多渠道付费广告管理与自动化平台，支持在 Google Ads、Bing Ads、Facebook Ads、Twitter Ads 和 LinkedIn Ads 等主流广告平台上进行统一管理和优化。广告主可以在一个仪表盘中监控所有渠道的广告表现，避免在多个平台之间频繁切换的繁琐操作。AdStage 的核心功能包括：跨渠道广告创建与发布、自动化规则引擎（可根据 CPA、ROAS 等指标自动调整出价和预算）、统一报告看板、A/B 测试、受众管理以及 API 集成。其自动化规则功能特别受广告代理商和大规模广告主的青睐，能够大幅减少人工干预，实现7×24小时智能优化。该平台适合管理多个广告渠道的营销团队、广告代理公司以及需要跨渠道归因分析的中大型企业。通过统一的数据视图，广告主可以更准确地评估不同渠道的投入产出比，合理分配营销预算。
+

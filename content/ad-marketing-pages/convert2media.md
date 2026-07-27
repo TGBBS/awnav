@@ -1,7 +1,7 @@
----
+﻿---
 title: Convert2media
 description: 美国联盟中，trial offer最多的
-seoTitle: Convert2media - 详细介绍与评价 | 007出海导航
+seoTitle: Convert2media - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/convert2media/
 slug: convert2media
@@ -92,3 +92,4 @@ related:
 ---
 
 Convert2media（C2M）是美国知名的CPA联盟营销平台，以提供最多Trial Offer（试用装订单）类型的offer著称，是专注此类产品推广的联盟营销人员的首选平台之一。平台创立于2007年，总部位于美国佛罗里达州，专注于健康美容、减肥、护肤等消费品的试用装和订阅模式推广，在这一细分领域积累了大量优质广告主资源。Convert2media 为发布商提供高质量的CPA offer，佣金通常按成功提交试用装申请或完成购买计算，单笔佣金金额相对较高。平台审核较为严格，要求发布商有真实的流量来源和推广经验，不接受作弊流量。平台提供详细的实时报表系统，支持多维度数据分析。付款方面，平台提供周结算和月结算两种方式，支持PayPal、电汇等支付渠道。Convert2media 比较适合有稳定流量来源、擅长健康美容类内容营销的专业联盟营销人员，以及运营付费广告投放健康产品的媒介买手，在Trial Offer这一特定模式上具有明显的资源优势。
+

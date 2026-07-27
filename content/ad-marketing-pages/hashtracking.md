@@ -1,7 +1,7 @@
----
+﻿---
 title: Hashtracking
 description: 追踪instagram和twitter上的热词
-seoTitle: Hashtracking - 详细介绍与评价 | 007出海导航
+seoTitle: Hashtracking - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/hashtracking/
 slug: hashtracking
@@ -92,3 +92,4 @@ related:
 ---
 
 Hashtracking 是一款专注于追踪 Instagram 和 Twitter 上话题标签（hashtag）表现的分析工具。平台提供详细的 hashtag 数据分析，包括标签使用量统计、相关帖子汇聚、标签增长趋势、参与用户分析等功能。对于品牌营销人员、活动组织者和社交媒体分析师，Hashtracking 提供了量化评估 hashtag 活动效果的重要数据支持。平台支持生成专业的 hashtag 活动报告，可以清晰展示特定标签活动的传播范围、参与人数、内容总量等关键指标。这些报告对于向客户或上级汇报社交媒体营销活动的效果尤为有用。Hashtracking 还支持竞争对手 hashtag 策略分析，帮助用户了解同行业的社交媒体营销动态。该工具主要面向需要精确衡量社交媒体活动 ROI 的营销专业人士。
+

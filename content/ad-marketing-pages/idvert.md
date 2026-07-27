@@ -1,7 +1,7 @@
----
+﻿---
 title: Idvert
 description: 国产 FB SPY工具，能够检测Cod、黑五类
-seoTitle: Idvert - 详细介绍与评价 | 007出海导航
+seoTitle: Idvert - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/idvert/
 slug: idvert
@@ -92,3 +92,4 @@ related:
 ---
 
 Idvert 是一款由国人团队开发的 Facebook 广告情报工具（FB SPY），专门针对跨境电商市场，特别在 COD（货到付款）类目和黑五仿品类广告情报方面有突出能力。它帮助广告从业者监控竞争对手的 Facebook 广告投放动态，发现爆款产品和高转化广告素材。Idvert 的核心优势在于对中国跨境电商生态的深度理解，数据库中包含大量针对东南亚、中东、拉美等 COD 市场的广告数据，这些市场是国内跨境卖家的重点战场。工具功能包括：广告素材搜索与收藏、广告主域名追踪、落地页分析、Offer 信息关联、以及广告运行时间和互动数据展示。与 AdSpy 等国外工具相比，Idvert 在针对中国跨境卖家常用市场的数据覆盖上更有优势，且提供中文界面和客服支持，更符合国内用户的使用习惯。适合做 Facebook COD、黑五类目、跨境电商广告的国内从业者，是 Facebook 广告情报领域中最具代表性的国产工具之一。
+

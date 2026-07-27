@@ -1,7 +1,7 @@
----
+﻿---
 title: Shopify
 description: 全球最大的独立站平台shopify
-seoTitle: Shopify - 详细介绍与评价 | 007出海导航
+seoTitle: Shopify - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/shopify/
 slug: shopify
@@ -92,3 +92,4 @@ related:
 ---
 
 Shopify 是全球最大的独立站电商 SaaS 平台，成立于2006年，总部位于加拿大渥太华，目前为全球超过170万商家提供在线商店搭建、支付处理、营销推广、物流管理等一站式电商解决方案。Shopify 以其极低的技术门槛著称，无需编程知识即可在短时间内搭建一个专业的独立品牌电商网站，并通过丰富的应用商店（超过8000个第三方插件）满足各类业务需求。平台支持超过100种支付方式和175个国家的销售，并提供 Shopify Payments、Shopify Shipping 等原生服务。Shopify 特别适合品牌出海、独立站建设、DTC（直面消费者）模式的跨境卖家，是全球中小企业和品牌商最主流的建站选择之一。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Auto.js
 description: Autoj是个开源的安卓游戏脚本项目,用户可以利用它来用自己要的手游脚本在手机上完成一个自动操作。
-seoTitle: Auto.js - 详细介绍与评价 | 007出海导航
+seoTitle: Auto.js - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/autojs/
 slug: autojs
@@ -92,3 +92,4 @@ related:
 ---
 
 Auto.js是一款开源的Android自动化脚本工具，允许用户通过JavaScript编写脚本来自动化Android设备上的各种操作，无需Root权限即可实现大部分自动化功能。Auto.js基于无障碍服务（Accessibility Service）实现界面元素的自动识别和操控，可以模拟点击、滑动、输入文字等各种触摸操作。由于使用广泛流行的JavaScript语言，Auto.js降低了自动化脚本开发的门槛，拥有大量前端开发背景的用户都能快速上手。软件支持图片识别和颜色识别功能，实现更智能的自动化逻辑。Auto.js的开源性质使其拥有活跃的开发者社区，GitHub上积累了大量开源脚本资源可供参考使用。软件主要应用场景包括游戏自动化、App批量操作、数据采集、UI自动化测试等。需要注意的是，Auto.js在某些游戏中可能被检测并导致封号风险，在商业应用中需要谨慎评估合规风险。Pro版本提供更多高级功能，包括打包成独立APK等能力。适合有一定JavaScript基础的开发者、手游自动化爱好者以及移动端自动化测试人员。
+

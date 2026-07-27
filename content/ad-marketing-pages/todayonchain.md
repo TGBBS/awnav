@@ -1,7 +1,7 @@
----
+﻿---
 title: TodayOnChain
 description: 一个数字货币相关新闻网站
-seoTitle: TodayOnChain - 详细介绍与评价 | 007出海导航
+seoTitle: TodayOnChain - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/todayonchain/
 slug: todayonchain
@@ -71,3 +71,4 @@ related:
 ---
 
 一个数字货币相关新闻网站
+

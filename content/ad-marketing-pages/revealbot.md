@@ -1,7 +1,7 @@
----
+﻿---
 title: Revealbot
 description: 一款比较简洁的广告投放自动化工具
-seoTitle: Revealbot - 详细介绍与评价 | 007出海导航
+seoTitle: Revealbot - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/revealbot/
 slug: revealbot
@@ -77,3 +77,4 @@ related:
 ---
 
 Revealbot 是一款以简洁易用著称的 Facebook、Instagram 和 Google 广告自动化管理工具，专注于帮助广告主通过智能规则实现广告投放的自动化优化。其核心优势在于强大而灵活的自动化规则引擎，用户可以根据 CPA、ROAS、CTR、频次等数十个指标设置触发条件，系统自动执行出价调整、预算扩大或广告暂停等操作，实现真正的7×24小时无人值守广告优化。Revealbot 的主要功能包括：多平台广告自动化规则、Slack 集成（广告异常即时通知）、批量广告创建、绩效报告与数据看板、受众管理以及广告账户健康监控。该工具界面设计简洁直观，上手门槛较低，是其区别于同类复杂工具的重要竞争优势。特别适合有一定 Facebook 广告经验、希望减少日常手动操作的中级广告主和小型代理团队。Revealbot 的 Slack 集成功能非常受用户好评，广告表现异常时会立即推送通知，避免因疏忽造成预算浪费。
+

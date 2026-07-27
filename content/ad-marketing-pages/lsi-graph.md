@@ -1,7 +1,7 @@
----
+﻿---
 title: LSI Graph
 description: 一种专业的关键词研究工具
-seoTitle: LSI Graph - 详细介绍与评价 | 007出海导航
+seoTitle: LSI Graph - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/lsi-graph/
 slug: lsi-graph
@@ -86,3 +86,4 @@ related:
 ---
 
 LSI Graph 是一款专注于 LSI（Latent Semantic Indexing，潜在语义索引）关键词研究的工具，帮助 SEO 从业者发现与主关键词语义相关的长尾词和关联词汇。LSI 关键词是与目标关键词主题相关、搜索引擎用来理解页面内容的语义相关词汇，在内容创作中合理使用 LSI 关键词有助于提升内容的主题权威性和 Google 语义理解，从而改善搜索排名。LSI Graph 通过分析 Google 搜索结果和相关搜索，提取出与输入关键词语义相关的词汇集合，为内容创作者提供内容深度优化的参考词库。工具界面简单直观，输入关键词即可获得 LSI 关键词列表，免费版提供基础关键词，付费版提供更多数据和高级过滤功能。对于内容营销人员，在文章创作前用 LSI Graph 生成相关词汇列表，然后自然地将这些词融入内容中，有助于内容在语义搜索时代获得更好的表现。LSI Graph 适合 SEO 内容写手、博主和内容营销经理，是内容 SEO 工作流中的补充性关键词研究工具，特别适合希望提升内容语义深度和覆盖面的从业者。
+

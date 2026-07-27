@@ -1,7 +1,7 @@
----
+﻿---
 title: ChainSecurity
 description: 智能合约的安全性扫描
-seoTitle: ChainSecurity - 详细介绍与评价 | 007出海导航
+seoTitle: ChainSecurity - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/chainsecurity/
 slug: chainsecurity
@@ -92,3 +92,4 @@ related:
 ---
 
 ChainSecurity 是一家专注于区块链智能合约安全审计的专业机构，由苏黎世联邦理工学院（ETH Zurich）的安全研究人员创立。公司以学术严谨性与工程实践相结合为核心优势，提供针对以太坊及其他 EVM 兼容链上智能合约的深度安全审计服务。ChainSecurity 开发了业内知名的自动化安全分析工具 VerX 和 Securify，能够自动检测智能合约中的常见漏洞，包括重入攻击、整数溢出、访问控制缺陷等。其服务对象涵盖 DeFi 协议、NFT 平台、Layer2 解决方案及企业级区块链项目。团队成员深耕形式化验证、程序分析等前沿安全技术，多项研究成果发表于顶级学术会议。2019 年被 PwC 收购后，ChainSecurity 进一步拓展了在企业合规和大型机构客户方面的业务覆盖，为传统金融机构进入 Web3 提供安全保障。适合需要高标准安全审计的 DeFi 项目方、区块链初创企业及寻求合规背书的机构客户。
+

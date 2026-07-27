@@ -1,7 +1,7 @@
----
+﻿---
 title: SEOlyzer
 description: 一款在线的网站优化工具
-seoTitle: SEOlyzer - 详细介绍与评价 | 007出海导航
+seoTitle: SEOlyzer - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/seolyzer/
 slug: seolyzer
@@ -91,3 +91,4 @@ related:
 ---
 
 SEOlyzer 是一款专注于日志文件分析（Log File Analysis）的 SEO 工具，帮助 SEO 专业人士通过分析服务器访问日志来深入了解搜索引擎爬虫如何抓取网站。工具能够解析 Apache、Nginx 等服务器生成的访问日志文件，识别 Googlebot、Bingbot 等搜索引擎爬虫的访问记录，分析爬取频率、抓取效率和爬虫预算分配情况。通过 SEOlyzer，SEO 人员可以发现哪些页面被频繁抓取、哪些页面被忽略、爬虫是否遇到了 404 错误或重定向链等技术问题，从而优化爬虫预算（Crawl Budget）的分配，确保重要页面被优先索引。实时监控功能允许用户在上传日志文件后即时查看分析结果，而无需等待漫长的处理时间。平台还提供关键词追踪功能，将爬虫数据与排名数据关联分析。SEOlyzer 主要面向拥有中大型网站的技术 SEO 专家，对日志分析有真实需求的电商网站、新闻媒体和大型内容网站运营者。相对小众但在技术 SEO 领域具有独特价值。
+

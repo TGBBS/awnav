@@ -1,7 +1,7 @@
----
+﻿---
 title: Pinterest
 description: Pinterest是世界上最大的图片社交分享网站
-seoTitle: Pinterest - 详细介绍与评价 | 007出海导航
+seoTitle: Pinterest - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/pinterest/
 slug: pinterest
@@ -71,3 +71,4 @@ related:
 ---
 
 Pinterest是世界上最大的图片社交分享网站
+

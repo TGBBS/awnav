@@ -1,7 +1,7 @@
----
+﻿---
 title: Stripe
 description: 互联网企业的线上支付处理商
-seoTitle: Stripe - 详细介绍与评价 | 007出海导航
+seoTitle: Stripe - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/stripe/
 slug: stripe
@@ -94,3 +94,4 @@ related:
 ---
 
 Stripe 成立于2010年，总部位于美国旧金山，是全球最受开发者和互联网企业欢迎的在线支付处理平台。Stripe 以其强大的API能力和极佳的开发者体验著称，为企业提供支付接收、订阅管理、账单自动化、欺诈防控、财务报告等一站式支付基础设施服务。Stripe 支持135+货币和数十种支付方式，包括信用卡/借记卡、Apple Pay、Google Pay、Link等，覆盖全球主流支付需求。其产品体系非常丰富，包括 Stripe Payments（支付处理）、Stripe Billing（订阅计费）、Stripe Connect（平台撮合支付）、Stripe Radar（欺诈检测）、Stripe Atlas（公司注册）等。Stripe 的核心竞争力在于出色的API设计、丰富的文档和SDK支持、以及极低的集成复杂度，让开发者在数小时内即可完成支付功能搭建。目前 Stripe 已成为全球众多独角兽企业、电商平台、SaaS产品的首选支付基础设施。对于中国企业，Stripe 需要具备境外主体才能使用。适用人群：互联网公司、SaaS产品、独立站卖家、平台型企业及有技术能力的创业者。
+

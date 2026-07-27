@@ -1,7 +1,7 @@
----
+﻿---
 title: AutoGPT
 description: 创建和管理持续运行的自主AI代理平台，支持自托管和云部署
-seoTitle: AutoGPT - 详细介绍与评价 | 007出海导航
+seoTitle: AutoGPT - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/autogpt/
 slug: autogpt
@@ -70,3 +70,4 @@ related:
 ---
 
 AutoGPT 是 AI 代理领域的开创性项目，由 Significant Gravitas 公司开发，是最早将「让 AI 自主完成复杂任务」这一概念带入公众视野的工具之一。AutoGPT 允许用户创建和管理持续运行的自主 AI 代理，这些代理能够自主分解目标、规划步骤、调用工具、评估结果并迭代优化，而无需人类逐步干预。平台同时支持自托管（开源版本可在本地运行）和云部署（官方托管服务），满足不同用户的需求。AutoGPT 的核心能力包括：网页浏览和信息检索、代码生成和执行、文件读写操作、API 调用集成，以及多代理协作等。自 2023 年初发布以来，AutoGPT 在 GitHub 上积累了超过 160K 星标，成为 AI 代理领域最具影响力的开源项目之一。官方推出的 AutoGPT Platform 提供了可视化的代理构建界面，使非技术用户也能创建复杂的 AI 自动化工作流。AutoGPT 适合希望实验和部署自主 AI 代理的开发者、研究人员，以及需要 AI 自动化复杂业务流程的企业用户。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: LastPass
 description: 免费浏览器密码记录管理插件
-seoTitle: LastPass - 详细介绍与评价 | 007出海导航
+seoTitle: LastPass - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/lastpass/
 slug: lastpass
@@ -91,3 +91,4 @@ related:
 ---
 
 LastPass 是一款老牌密码管理工具，提供 Chrome 浏览器扩展、桌面应用和移动应用，帮助用户安全存储、管理和自动填充各类网站密码和个人信息。LastPass 使用零知识加密架构，所有密码在本地设备加密后才上传到云端，即使 LastPass 服务器被攻击，理论上密码也无法被解读。核心功能包括：密码自动保存和填充、强密码生成器、密码安全审计（检测弱密码和重复密码）、安全备注存储、紧急访问授权等。LastPass 支持跨设备同步，在手机、电脑、平板上都能访问同一密码库。对于需要管理大量网站账号的个人用户和企业团队来说，密码管理器是网络安全的重要基础。然而，LastPass 近年来经历了多次安全事件，包括2022年底的重大数据泄露事故，部分用户密码库数据被窃取，严重影响了其用户信誉。目前许多安全专家建议考虑迁移至 Bitwarden、1Password 等替代产品。LastPass 提供免费版（2021年后限单一设备类型使用）和 Premium 付费版，企业版提供团队密码共享和管理功能。
+

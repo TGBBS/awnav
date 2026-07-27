@@ -1,7 +1,7 @@
----
+﻿---
 title: Long Tail Pro
 description: 一款专为谷歌和Bing搜索引擎优化而设计的全功能关键词研究工具
-seoTitle: Long Tail Pro - 详细介绍与评价 | 007出海导航
+seoTitle: Long Tail Pro - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/long-tail-pro/
 slug: long-tail-pro
@@ -90,3 +90,4 @@ related:
 ---
 
 Long Tail Pro 是一款专为 Google 和 Bing 搜索引擎优化设计的关键词研究工具，主打长尾关键词发现和竞争分析。长尾关键词（Long-tail Keywords）是指由3个或更多词语组成的更具体、搜索量较低但竞争度也较低的关键词，通常具有更高的转化率，是中小网站和新站 SEO 的重要突破口。Long Tail Pro 的核心功能包括：基于种子关键词批量生成相关长尾词、竞争度分析（通过 KC 即关键词竞争力评分来量化每个关键词的竞争程度）、SERP 分析（分析搜索结果前10名网页的 SEO 指标）、排名追踪和网站竞争力分析。KC 评分功能是其最具特色的功能，帮助用户快速判断哪些关键词值得投入 SEO 资源，避免攻打竞争过于激烈的关键词。工具完全基于云端，无需下载安装。Long Tail Pro 适合中小企业 SEO 专员、博主、联盟营销人员和 Niche 站点建设者，是发现低竞争高价值长尾词机会的专业工具，在 Niche SEO 社区中有很好的口碑。
+

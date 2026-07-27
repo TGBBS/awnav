@@ -1,7 +1,7 @@
----
+﻿---
 title: Adobe Creative Cloud
 description: 一个集成的软件和服务套件
-seoTitle: Adobe Creative Cloud - 详细介绍与评价 | 007出海导航
+seoTitle: Adobe Creative Cloud - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/adobe-creative-cloud/
 slug: adobe-creative-cloud
@@ -93,3 +93,4 @@ related:
 ---
 
 Adobe Creative Cloud 是 Adobe 公司推出的创意软件与服务集成套件，汇集了摄影、设计、视频、网页和 UX 等领域的专业工具，是全球创意产业的核心基础设施。套件包括 Photoshop（图像处理）、Illustrator（矢量设计）、Premiere Pro（视频剪辑）、After Effects（动效制作）、InDesign（排版设计）、XD（UI/UX 设计）、Lightroom（照片管理）等20余款旗舰软件。订阅 Creative Cloud 还可获得 100GB 云存储、Adobe Fonts 字体库完整访问权限以及 Adobe Stock 集成服务。近年来 Adobe 积极推进 AI 创新，推出 Firefly 生成式 AI，可在 Photoshop 中实现 AI 填充、扩展画布等革命性功能。Creative Cloud 面向专业设计师、摄影师、视频制作人、UI 设计师及相关专业学生，是创意行业不可或缺的工具生态系统。其行业标准地位使得相关技能在职场中极具竞争力，全球用户超3300万。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Zoho Social
 description: 一款功能强大的社交媒体管理工具
-seoTitle: Zoho Social - 详细介绍与评价 | 007出海导航
+seoTitle: Zoho Social - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/zoho-social/
 slug: zoho-social
@@ -92,3 +92,4 @@ related:
 ---
 
 Zoho Social 是 Zoho 公司推出的一款功能强大的社交媒体管理工具，是 Zoho 旗下商业软件生态的重要组成部分。平台支持 Facebook、Instagram、Twitter、LinkedIn、YouTube、Pinterest、Google My Business 等主流社交媒体平台，提供内容排期、发布管理、社交媒体监听、数据分析和团队协作等全面功能。Zoho Social 的最大优势在于其与 Zoho CRM 等 Zoho 生态产品的无缝集成，用户可以将社交媒体互动数据直接同步到 CRM 系统，实现从社交媒体到销售管道的完整数据流转。这一特性对于将社交媒体作为销售渠道的企业尤为重要。平台提供实时监控仪表盘、品牌关键词监听和竞争分析功能。Zoho Social 的定价策略相对合理，在同类产品中具有明显的价格优势，适合中小企业使用。
+

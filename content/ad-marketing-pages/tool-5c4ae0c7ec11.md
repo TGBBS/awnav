@@ -1,7 +1,7 @@
----
+﻿---
 title: 雨果网
 description: 专注跨境电商的新媒体
-seoTitle: 雨果网 - 详细介绍与评价 | 007出海导航
+seoTitle: 雨果网 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/%E9%9B%A8%E6%9E%9C%E7%BD%91/
 slug: 雨果网
@@ -71,3 +71,4 @@ related:
 ---
 
 专注跨境电商的新媒体
+

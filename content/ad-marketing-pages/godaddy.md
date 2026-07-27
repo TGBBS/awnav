@@ -1,7 +1,7 @@
----
+﻿---
 title: Godaddy
 description: 俗称狗爹，全球最大的主机和域名服务商之一
-seoTitle: Godaddy - 详细介绍与评价 | 007出海导航
+seoTitle: Godaddy - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/godaddy/
 slug: godaddy
@@ -92,3 +92,4 @@ related:
 ---
 
 GoDaddy（俗称「狗爹」）是全球最大的域名注册商和网络托管服务提供商之一，成立于1997年，总部位于美国亚利桑那州斯科茨代尔。GoDaddy的核心业务涵盖域名注册（管理全球超过8500万个域名）、网站托管（共享主机、VPS、独立服务器）、网站建设工具、SSL证书、企业邮箱以及在线营销工具等。GoDaddy在全球拥有超过2000万客户，是个人站长、小企业主和网络创业者的常用平台。其域名注册服务品类齐全，支持数百种顶级域名，首年价格往往有大幅优惠。网站建站工具GoDaddy Websites + Marketing提供拖拽式建站体验，无需编程基础即可快速搭建网站。主机产品从入门级共享主机到企业级VPS均有覆盖，配合cPanel控制面板，操作直观。对于华人用户，GoDaddy支持中文界面，可使用信用卡、PayPal等多种支付方式。由于历史悠久、品牌知名度高，GoDaddy是全球中小型企业网络存在感建设的首选平台之一。
+

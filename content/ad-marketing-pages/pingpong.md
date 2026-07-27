@@ -1,7 +1,7 @@
----
+﻿---
 title: PingPong
 description: 中国跨境行业的创新引领者
-seoTitle: PingPong - 详细介绍与评价 | 007出海导航
+seoTitle: PingPong - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/pingpong/
 slug: pingpong
@@ -94,3 +94,4 @@ related:
 ---
 
 PingPong（乒乓全球）成立于2015年，是中国跨境支付行业的创新引领者，专为中国跨境电商卖家提供全球收款、全球付款及外汇兑换服务。PingPong 在美国、欧洲、英国、日本、加拿大、澳大利亚等主要电商市场均提供本地银行账户，支持亚马逊、eBay、Wish、Shopify、Cdiscount 等主流平台的店铺收款，并与 Facebook、Google 等广告平台合作，支持广告费直接充值。其核心优势在于极具竞争力的费率——收款手续费仅约0.5%至1%，远低于行业平均水平，同时提供实时汇率查询、快速提现（T+1入账）等服务。PingPong 还推出了企业级解决方案，包括供应链付款、薪资代发、VAT税款缴纳等增值服务，满足跨境卖家全链路资金管理需求。此外，PingPong 获得多国金融监管牌照，资金安全合规有保障。适用人群：中国跨境电商卖家（尤其亚马逊、eBay卖家）、出海企业、需要多币种账户的创业者。
+

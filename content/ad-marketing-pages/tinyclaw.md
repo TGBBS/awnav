@@ -1,7 +1,7 @@
----
+﻿---
 title: TinyClaw
 description: 轻量级个人AI伴侣，灵感来自OpenClaw的极简版本
-seoTitle: TinyClaw - 详细介绍与评价 | 007出海导航
+seoTitle: TinyClaw - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/tinyclaw/
 slug: tinyclaw
@@ -77,3 +77,4 @@ related:
 ---
 
 TinyClaw 是由菲律宾开发者 Waren Gonzaga 创作的轻量级个人 AI 伴侣项目，灵感来源于 OpenClaw，定位为 OpenClaw 的极简化版本。该项目托管于 GitHub（warengonzaga/tinyclaw），旨在为希望体验 AI 代理能力但被 OpenClaw 的复杂度所劝退的普通用户提供一个更简单的入门选择。TinyClaw 精简了 OpenClaw 的大量配置选项和高级功能，保留了最核心的对话和任务执行能力，使得整个部署过程可以在数分钟内完成，对技术能力的要求也大幅降低。项目使用 JavaScript/Node.js 编写，依赖少、代码简洁，便于开发者理解和二次开发。TinyClaw 特别适合作为学习 AI 代理工作原理的教学项目——其简洁的代码库让开发者能清晰地看到 AI 代理的核心逻辑。对于个人用户来说，TinyClaw 提供了一个低门槛的本地 AI 伴侣，可以在个人电脑上常驻运行，协助处理日常的信息检索和简单任务。由于是个人开发者项目，功能更新依赖作者的业余时间，但代码质量和文档整理较为规范。
+

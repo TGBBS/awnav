@@ -1,7 +1,7 @@
----
+﻿---
 title: TensorFlow
 description: 由Google开发的一款开源机器学习框架
-seoTitle: TensorFlow - 详细介绍与评价 | 007出海导航
+seoTitle: TensorFlow - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/tensorflow/
 slug: tensorflow
@@ -95,3 +95,4 @@ related:
 ---
 
 TensorFlow 是由 Google Brain 团队开发并于 2015 年开源的机器学习框架，是全球最早流行的深度学习框架之一。TensorFlow 以其强大的生产部署能力、完整的工具链和跨平台支持著称，被 Google、Airbnb、Twitter、Uber 等大型科技公司广泛采用。TensorFlow 2.x 版本引入了 Keras 作为高级 API，大幅简化了使用体验，并采用了 eager execution 模式使调试更为便捷。TensorFlow 生态系统包含 TensorFlow Lite（移动端部署）、TensorFlow.js（浏览器端运行）、TensorFlow Serving（生产服务化）、TensorFlow Extended（MLOps 流水线）等完整工具链，覆盖从模型训练到生产部署的全流程。TensorFlow 在工业界应用尤为广泛，特别是在需要将模型部署到移动设备、嵌入式系统或 Web 端的场景下。Google 的 TPU（张量处理单元）也专门针对 TensorFlow 优化。尽管近年来在学术界的市场份额被 PyTorch 超越，但 TensorFlow 在企业生产环境中仍是主流选择。
+

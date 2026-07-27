@@ -1,7 +1,7 @@
----
+﻿---
 title: CrewAI
 description: 多AI代理团队协作框架，让代理扮演不同角色完成复杂任务
-seoTitle: CrewAI - 详细介绍与评价 | 007出海导航
+seoTitle: CrewAI - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/crewai/
 slug: crewai
@@ -70,3 +70,4 @@ related:
 ---
 
 CrewAI 是一个创新的多 AI 代理团队协作框架，由 João Moura 创建，核心理念是通过让多个 AI 代理扮演不同的专业角色（如研究员、撰写者、审稿人、代码工程师等）并协同工作，来完成单个代理难以胜任的复杂任务。CrewAI 提供了直观的 Python API，开发者可以轻松定义代理的角色、目标、背景故事和可用工具，然后将多个代理组织成一个「团队（Crew）」，通过任务分配和结果传递实现协同工作。框架支持顺序执行和并行执行两种任务流模式，并内置了代理间通信机制。CrewAI 与 LangChain 生态系统高度兼容，可以直接使用 LangChain 的工具库和集成。平台同时提供 CrewAI Enterprise 企业版和 CrewAI Studio 可视化编辑器，降低了非开发者的使用门槛。该项目在 GitHub 上拥有超过 30K 星标，是目前最受欢迎的多代理框架之一。CrewAI 特别适合需要将复杂工作流分解为多个专业化子任务的场景，如内容创作、市场研究、软件开发、数据分析等，广受开发者、AI 应用构建者和企业自动化团队的欢迎。
+

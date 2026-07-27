@@ -1,7 +1,7 @@
----
+﻿---
 title: Amazon
 description: 全球最大电商商务平台
-seoTitle: Amazon - 详细介绍与评价 | 007出海导航
+seoTitle: Amazon - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/amazon/
 slug: amazon
@@ -93,3 +93,4 @@ related:
 ---
 
 Amazon 是全球规模最大的电子商务平台，由杰夫·贝索斯于1994年在美国西雅图创立，起初以在线书店起家，逐步扩展至几乎所有消费品类别。如今 Amazon 已发展成为集电商零售、云计算（AWS）、数字流媒体（Prime Video）、智能设备（Alexa、Kindle、Echo）、广告服务于一体的科技巨头。全球第三方卖家可通过 Amazon Marketplace 在平台上销售商品，FBA（Fulfillment by Amazon）物流服务让卖家将仓储和配送外包给亚马逊处理，极大降低了运营门槛。Amazon Prime 会员体系提供免费快递、流媒体、音乐等增值服务，已拥有超过2亿付费会员。对于中国跨境电商卖家而言，Amazon 是最重要的海外销售平台之一，入驻亚马逊已成为众多出海品牌的第一步。其庞大的消费者基础、完善的物流体系和强大的搜索流量，使其在全球跨境电商领域保持主导地位。
+

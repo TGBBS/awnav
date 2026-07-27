@@ -1,7 +1,7 @@
----
+﻿---
 title: Spocket
 description: 一种电子商务工具
-seoTitle: Spocket - 详细介绍与评价 | 007出海导航
+seoTitle: Spocket - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/spocket/
 slug: spocket
@@ -77,3 +77,4 @@ related:
 ---
 
 Spocket 是一款面向独立站和电商卖家的代发货（Dropshipping）供应商平台，成立于2017年，总部位于加拿大温哥华。与速卖通等中国货源平台不同，Spocket 专注于欧美本地供应商资源，平台上80%以上的供应商来自美国和欧盟国家，配送时效通常在2-7个工作日内，大幅提升了买家的购物体验。Spocket 与 Shopify、WooCommerce 等主流独立站平台深度集成，卖家可以一键导入商品到自己的店铺，自动同步订单和库存。平台提供真实的商品图片、详情页内容，并支持定制品牌发货包装。Spocket 适合希望做欧美市场、追求快速物流体验的 Shopify 和 WooCommerce 独立站卖家，是中国货源代发货的有力替代方案。
+

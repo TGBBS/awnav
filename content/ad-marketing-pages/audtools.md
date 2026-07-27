@@ -1,7 +1,7 @@
----
+﻿---
 title: audtools受众工具
 description: Facebook广告受众兴趣词查询工具
-seoTitle: audtools受众工具 - 详细介绍与评价 | 007出海导航
+seoTitle: audtools受众工具 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/audtools/
 slug: audtools
@@ -87,3 +87,4 @@ related:
 ---
 
 AudTools 是一款专为 Facebook 广告主设计的受众兴趣词查询和挖掘工具，帮助广告主发现 Facebook 官方界面不易找到的隐藏兴趣词，从而构建更精准的广告受众定向方案。与 Facebook 官方广告管理界面相比，AudTools 提供了更强大的兴趣词搜索和扩展能力，能够批量查询兴趣词的受众规模、竞争热度等关键数据，帮助广告主在定向策略上获得竞争优势。该工具的主要功能包括：兴趣词批量搜索、受众规模预估、相关词联想与扩展、兴趣词组合受众测算以及竞争分析。对于做 Facebook 广告的跨境电商卖家来说，找到正确的兴趣词定向是降低广告 CPM 和提升 ROAS 的关键步骤。AudTools 提供了相对直观的界面，即使是经验较少的广告主也能快速上手。该工具特别适合跨境电商从业者、独立站运营者以及 Facebook 广告代理商，是受众研究阶段的实用辅助工具。
+

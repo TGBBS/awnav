@@ -1,7 +1,7 @@
----
+﻿---
 title: Designs.ai
 description: 一个在线AI人工智能图片视频创作工具
-seoTitle: Designs.ai - 详细介绍与评价 | 007出海导航
+seoTitle: Designs.ai - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/designsai/
 slug: designsai
@@ -91,3 +91,4 @@ related:
 ---
 
 Designs.ai 是一款功能全面的在线 AI 创意设计平台，整合了图像生成、视频制作、Logo 设计、文案写作等多种 AI 工具于一体。用户无需具备专业设计技能，即可在短时间内完成品牌视觉物料的创建。平台主要功能包括：AI Logo 生成器（Logomaker）、AI 视频制作（Videomaker）、AI 语音生成（Speechmaker）、AI 图像创建（Graphicmaker）以及 AI 文案生成（Copywriter）。Designs.ai 特别适合初创企业、小微商家、个人创业者及中小型营销团队，能够以极低的成本快速建立完整的品牌视觉体系。平台提供简洁的拖拽式界面，模板丰富多样，支持多种格式输出。订阅计划灵活，既有个人版也有团队版，是一站式 AI 创意工作台的代表性产品。
+

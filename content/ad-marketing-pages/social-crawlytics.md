@@ -1,7 +1,7 @@
----
+﻿---
 title: Social Crawlytics
 description: 抓取任意网站上被分享最多的页面，调查竞争对手
-seoTitle: Social Crawlytics - 详细介绍与评价 | 007出海导航
+seoTitle: Social Crawlytics - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/social-crawlytics/
 slug: social-crawlytics
@@ -91,3 +91,4 @@ related:
 ---
 
 Social Crawlytics 是一款内容分析工具，专门用于抓取和分析任意网站上被社交媒体分享最多的页面和内容，帮助用户了解竞争对手的内容表现和传播热点。通过输入目标网站 URL，平台会爬取该网站的所有页面，并统计每个页面在 Twitter、Facebook、LinkedIn、Pinterest 等主流社交平台上的分享数量，生成按分享量排序的报告。这让营销人员可以快速识别竞争对手网站上表现最出色的内容主题、格式和标题风格，为自身内容策略提供参考依据。平台的可视化报告以图表形式直观呈现内容分享分布，便于快速发现规律。Social Crawlytics 对于内容策略制定、竞争内容分析和内容营销的灵感挖掘很有帮助。相比 BuzzSumo 等更专业的内容分析工具，Social Crawlytics 功能相对简单，但提供了免费的基础分析能力。适合内容营销人员、SEO 专业人士和希望研究竞争对手内容策略的营销从业者。工具维护活跃度有所下降，建议用户同时参考 BuzzSumo 等更成熟的替代工具。
+

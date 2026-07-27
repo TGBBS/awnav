@@ -1,7 +1,7 @@
----
+﻿---
 title: Twitter视频下载
 description: Twitter视频下载工具
-seoTitle: Twitter视频下载 - 详细介绍与评价 | 007出海导航
+seoTitle: Twitter视频下载 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/twitter-2/
 slug: twitter-2
@@ -92,3 +92,4 @@ related:
 ---
 
 GetFVid Twitter视频下载工具是一款专为从Twitter（现更名为X）平台下载视频内容而设计的免费在线工具。Twitter平台本身不提供官方的视频下载功能，GetFVid填补了这一空白，让用户能够方便地将Twitter上的视频保存到本地设备。工具支持Twitter上的各种视频格式，包括普通视频推文、Twitter Spaces录像等，提供多种画质选项（HD高清和SD标清）供用户选择。GetFVid的操作流程简单直接：找到想要下载的Twitter视频，复制该推文的链接，粘贴到GetFVid的输入框中，选择所需画质后即可下载。平台还同时提供Facebook视频下载功能，是一个兼顾两大社交平台的视频保存工具。GetFVid完全免费使用，提供中文版本，对中文用户非常友好，是众多新闻媒体工作者、社交媒体研究者和普通用户保存Twitter视频的常用工具。
+

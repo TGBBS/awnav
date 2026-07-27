@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Adsense
 description: 谷歌推广联盟
-seoTitle: Google Adsense - 详细介绍与评价 | 007出海导航
+seoTitle: Google Adsense - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/google-adsense/
 slug: google-adsense
@@ -95,3 +95,4 @@ related:
 ---
 
 Google AdSense 是 Google 提供的网站广告变现平台，允许网站发布者通过在其网站上展示 Google 广告来赚取收益。AdSense 是全球最大的网站联盟广告网络，服务于数百万个网站发布者。工作原理是 Google 根据网站内容和访客特征，自动匹配最相关的广告，发布者按照广告点击（CPC）或每千次展示（CPM）获得分成收益，Google 与发布者的分成比例约为45:55。AdSense 支持多种广告格式，包括文字广告、图片广告、视频广告和响应式广告单元，能自动适配不同屏幕尺寸。平台提供详细的收益报告和性能分析，帮助发布者优化广告位置和布局。申请 AdSense 账户需满足一定条件，包括网站内容质量、原创性和流量门槛等。对于个人博主、内容创作者、新闻网站和工具网站来说，AdSense 是最常见的网站变现方式之一。尤其适合英文内容网站，由于广告主竞价激烈，收益通常高于中文网站。
+

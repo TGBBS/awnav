@@ -1,7 +1,7 @@
----
+﻿---
 title: BidSwitch
 description: 一个跨网络的广告交易平台
-seoTitle: BidSwitch - 详细介绍与评价 | 007出海导航
+seoTitle: BidSwitch - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/bidswitch/
 slug: bidswitch
@@ -92,3 +92,4 @@ related:
 ---
 
 BidSwitch是IPONWEB旗下的智能广告技术基础设施平台，专为程序化广告生态中的买方（DSP）和卖方（SSP/Exchange）提供高效的跨网络流量连接服务。BidSwitch作为行业领先的独立广告技术中间层，解决了程序化广告生态中买卖双方直接对接的技术复杂性问题。通过BidSwitch，DSP平台可以通过单一技术接口连接到全球数百个SSP和广告交易平台，无需与每个媒体伙伴分别建立技术集成。平台的核心能力包括：统一的实时竞价（RTB）接口标准化、智能流量过滤（过滤重复、无效和低质量流量）、跨网络受众数据同步（User Sync）、流量质量管控和透明度工具。BidSwitch每天处理数万亿次广告竞价请求，覆盖全球主流广告交易平台，在程序化广告技术基础设施领域占据重要地位。平台主要面向专业的广告技术公司，包括DSP、SSP、DMP和广告交易平台，是构建高效程序化广告管道的核心技术节点。2021年BidSwitch及其母公司IPONWEB被Criteo收购，进一步强化了其在开放网络程序化广告领域的地位。
+

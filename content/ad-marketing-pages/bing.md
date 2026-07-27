@@ -1,7 +1,7 @@
----
+﻿---
 title: Bing新必应
 description: 微软推出的一款基于GPT4模型的智能搜索引擎
-seoTitle: Bing新必应 - 详细介绍与评价 | 007出海导航
+seoTitle: Bing新必应 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/bing/
 slug: bing
@@ -92,3 +92,4 @@ related:
 ---
 
 Bing 新必应（Bing AI）是微软于 2023 年 2 月推出的基于 GPT-4 模型的智能搜索引擎，将传统搜索引擎与 AI 对话功能深度结合。Bing AI 能够理解用户的自然语言查询，不仅返回传统搜索结果，还能生成针对问题的综合性回答，并标注信息来源。与 ChatGPT 最大的区别在于 Bing AI 具备联网实时搜索能力，能够获取最新信息，解决了纯语言模型知识截止日期的局限。Bing AI 还集成了图像生成功能（基于 DALL·E 3）和图片搜索增强功能。作为微软 Edge 浏览器的内置功能，Bing AI 可以直接分析用户当前浏览的网页内容。2023 年后 Bing AI 更名为 Microsoft Copilot，与 Windows 11、Edge 浏览器深度整合。Bing AI 是免费使用的，无需付费即可享受 GPT-4 级别的 AI 对话能力，这使其成为 ChatGPT 免费版的有力竞争对手，特别适合需要实时信息搜索和 AI 问答相结合的普通用户。
+

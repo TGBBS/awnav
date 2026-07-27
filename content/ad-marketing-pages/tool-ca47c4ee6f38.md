@@ -1,7 +1,7 @@
----
+﻿---
 title: 邦阅网
 description: 外贸知识服务平台
-seoTitle: 邦阅网 - 详细介绍与评价 | 007出海导航
+seoTitle: 邦阅网 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/%E9%82%A6%E9%98%85%E7%BD%91/
 slug: 邦阅网
@@ -71,3 +71,4 @@ related:
 ---
 
 外贸知识服务平台
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: IntelliCode
 description: 一个由微软开发的人工智能工具
-seoTitle: IntelliCode - 详细介绍与评价 | 007出海导航
+seoTitle: IntelliCode - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/intellicode/
 slug: intellicode
@@ -92,3 +92,4 @@ related:
 ---
 
 IntelliCode 是由微软开发的 AI 辅助编程工具，深度集成于 Visual Studio 和 Visual Studio Code 编辑器中。它通过分析 GitHub 上数千个高质量开源项目的代码模式，为开发者提供上下文感知的智能代码补全建议。IntelliCode 的核心特点是将最有可能被使用的 API 和方法排列在补全列表顶部（以星号标记），而不是仅按字母顺序排序，从而大幅减少开发者在补全列表中的翻找时间。除代码补全外，IntelliCode 还提供团队补全功能，可以基于团队自己的代码库进行训练，产生更符合项目风格的建议。IntelliCode 同时集成了代码风格一致性检查功能，帮助团队维护统一的编码规范。该工具对 C#、C++、Python、TypeScript 等语言有优秀支持。由于是微软官方产品，与 VS Code 和 Visual Studio 的集成最为紧密，是使用微软开发工具链的开发者的首选 AI 辅助工具。
+

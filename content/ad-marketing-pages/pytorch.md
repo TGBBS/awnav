@@ -1,7 +1,7 @@
----
+﻿---
 title: PyTorch
 description: 一个基于Python的科学计算库
-seoTitle: PyTorch - 详细介绍与评价 | 007出海导航
+seoTitle: PyTorch - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/pytorch/
 slug: pytorch
@@ -95,3 +95,4 @@ related:
 ---
 
 PyTorch 是由 Meta AI（Facebook）开发并于 2016 年开源的深度学习框架，现已成为全球学术研究和工业界最受欢迎的 AI 框架之一。PyTorch 以其动态计算图（eager execution）为核心设计理念，允许开发者像编写普通 Python 代码一样构建神经网络，调试直观、灵活性极高。PyTorch 提供了完整的张量计算库（支持 GPU 加速）、自动微分系统（Autograd）、神经网络模块（torch.nn）、数据加载工具等组件。近年来，PyTorch 通过 TorchScript、TorchServe、PyTorch Lightning 等扩展工具，在生产部署方面也不断完善。PyTorch 是 Hugging Face、OpenAI 等 AI 公司的首选框架，绝大多数最新的 AI 研究论文都使用 PyTorch 实现。PyTorch Hub 和 torchvision 等生态工具让使用预训练模型变得非常便捷。对于 AI 研究人员、深度学习工程师和机器学习从业者来说，PyTorch 是当前最重要的工具之一，也是进入 AI 领域必须掌握的核心技能。
+

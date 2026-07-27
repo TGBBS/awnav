@@ -1,7 +1,7 @@
----
+﻿---
 title: Tumblr
 description: Tumblr(汤不热)成立于2007年,是目前全球最大的轻博客网站,也是轻博客网站的始祖。
-seoTitle: Tumblr - 详细介绍与评价 | 007出海导航
+seoTitle: Tumblr - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/tumblr/
 slug: tumblr
@@ -92,3 +92,4 @@ related:
 ---
 
 Tumblr（汤不热）是全球最大的轻博客平台，由大卫·卡普（David Karp）于 2007 年创立，总部位于美国纽约。Tumblr 曾被雅虎以 11 亿美元收购，后又以极低价格出售给 Automattic（WordPress 母公司）。作为轻博客（microblog）网站的始祖，Tumblr 混合了博客和社交网络的特性，用户可以发布文字、图片、视频、音频、引用等多种类型的内容，并通过关注和转帖（reblog）形成独特的内容传播生态。Tumblr 以其创意社区文化著称，吸引了大量艺术家、动漫爱好者、LGBTQ+ 群体和创意内容创作者。平台拥有约 1.35 亿个博客和数十亿篇帖子。对于品牌营销，Tumblr 适合面向创意群体和年轻次文化爱好者的品牌。Tumblr 平台在全球影响力相比鼎盛时期有所下降，但仍在特定亚文化群体中保持较高的活跃度和忠诚度。
+

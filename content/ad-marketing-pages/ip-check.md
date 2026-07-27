@@ -1,7 +1,7 @@
----
+﻿---
 title: IP CHECK
 description: 免费检测IP地址，免费检测IP连通性
-seoTitle: IP CHECK - 详细介绍与评价 | 007出海导航
+seoTitle: IP CHECK - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/ip-check/
 slug: ip-check
@@ -92,3 +92,4 @@ related:
 ---
 
 IP CHECK 是一款免费的在线 IP 检测工具，专为需要了解自己网络状态的用户设计。该工具能够快速检测用户当前的 IP 地址信息，包括 IPv4 和 IPv6 地址、地理位置（国家、城市、ISP 运营商）以及 IP 连通性状态。对于使用代理、VPN 或翻墙工具的用户来说，IP CHECK 尤为实用，可帮助验证代理是否生效、IP 是否泄露等关键信息。工具界面简洁直观，无需注册即可使用，一键即可获取完整的 IP 环境报告。适用人群包括网络安全研究者、跨境电商从业者、海外营销人员以及普通用户中需要核实网络状态的人群。此外，IP CHECK 还支持批量 IP 检测功能，适合需要管理多个账号或测试多个网络节点的专业用户。整体来说，它是一款轻量、高效、免费的网络诊断利器。
+

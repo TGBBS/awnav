@@ -1,7 +1,7 @@
----
+﻿---
 title: LiveChat
 description: 实时聊天和客户服务软件
-seoTitle: LiveChat - 详细介绍与评价 | 007出海导航
+seoTitle: LiveChat - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/livechat/
 slug: livechat
@@ -92,3 +92,4 @@ related:
 ---
 
 LiveChat 是一款专业的实时在线客服软件，帮助企业在网站上为访客提供即时的在线聊天支持，显著提升客户服务质量和转化率。产品功能全面，核心包括：可定制的聊天窗口小部件、访客实时监控（查看访客浏览行为和所在页面）、主动邀请聊天、预设快捷回复、对话标签和分组管理、多渠道整合（支持Facebook Messenger、WhatsApp、SMS等）、详细的对话记录和数据报告。LiveChat 还内置工单系统，支持将未能实时响应的问题转为工单跟进处理。其报告功能提供客服人员绩效分析、客户满意度评分、响应时间统计等，帮助企业持续优化服务质量。应用与超过200个第三方工具集成，包括Salesforce、HubSpot、Shopify、WordPress等主流平台。主要用户群体为电商企业、SaaS公司、金融服务商等需要在线客服支持的B2C和B2B企业，尤其适合中小企业建立专业客服团队。LiveChat 采用按座席数量订阅的定价模式。
+

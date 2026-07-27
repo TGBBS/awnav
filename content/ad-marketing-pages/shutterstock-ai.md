@@ -1,7 +1,7 @@
----
+﻿---
 title: ShutterStock AI
 description: 一个新的人工智能(AI) 图像创建平台
-seoTitle: ShutterStock AI - 详细介绍与评价 | 007出海导航
+seoTitle: ShutterStock AI - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/shutterstock-ai/
 slug: shutterstock-ai
@@ -91,3 +91,4 @@ related:
 ---
 
 Shutterstock AI 图像生成平台是全球领先的图库公司 Shutterstock 推出的 AI 图像创作工具，基于 OpenAI DALL·E 模型提供支持，让用户通过文字描述即可生成高质量的商用图像。与其他 AI 图像工具最大的区别在于，Shutterstock AI 生成的图像具有完整的商业授权保障，用户无需担心版权纠纷，可直接用于商业项目。平台功能涵盖文本生成图像、风格调整、图像下载及一体化的商业许可。适合市场营销人员、广告创意团队、出版机构及各类企业设计需求。Shutterstock AI 与原有的正版图库无缝集成，用户可在同一平台同时搜索传统素材和 AI 生成图像，极大地提升了创意工作流程的效率。对于有商业版权需求的专业用户，这是目前市场上最安全、最合规的 AI 图像生成方案之一。
+

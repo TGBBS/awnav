@@ -1,7 +1,7 @@
----
+﻿---
 title: Qwaya
 description: Qwaya是针对facebook和instagram的专业广告工具
-seoTitle: Qwaya - 详细介绍与评价 | 007出海导航
+seoTitle: Qwaya - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/qwaya/
 slug: qwaya
@@ -77,3 +77,4 @@ related:
 ---
 
 Qwaya 是一款专为 Facebook 和 Instagram 广告投放设计的专业管理工具，帮助广告主更高效地创建、管理和优化社媒广告活动。该平台的核心特色在于强大的批量操作能力和 A/B 测试功能，广告主可以一次性创建数百个广告变体，系统自动测试不同的受众、素材、文案和出价组合，找出表现最优的广告方案。Qwaya 主要功能包括：广告批量创建与复制、智能 A/B 测试、广告计划排期（按时段控制广告投放）、规则引擎（自动暂停低效广告）、Facebook UTM 追踪、受众管理以及详细的绩效报告。该工具特别受到 Facebook 广告代理商、电商卖家和绩效营销专家的欢迎，尤其适合需要快速测试大量广告组合的用户。其直观的界面设计降低了使用门槛，即使是中级广告从业者也能快速掌握。Qwaya 与 Facebook 官方 API 保持同步更新，确保功能的稳定性和合规性。
+

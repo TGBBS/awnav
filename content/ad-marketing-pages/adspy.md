@@ -1,7 +1,7 @@
----
+﻿---
 title: Adspy
 description: AdSpy是全球最大的Facebook和Instagram广告可搜索数据库之一
-seoTitle: Adspy - 详细介绍与评价 | 007出海导航
+seoTitle: Adspy - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/adspy/
 slug: adspy
@@ -95,3 +95,4 @@ related:
 ---
 
 AdSpy 是全球规模最大的 Facebook 和 Instagram 广告情报数据库之一，是联盟营销人员和电商广告主进行竞争对手研究的核心工具。其数据库收录了来自全球 198 个国家的数千万条 Facebook 和 Instagram 广告，包括图片广告、视频广告和轮播广告等多种格式，并持续实时更新。用户可以通过关键词、广告主名称、落地页 URL、广告文案、网络联盟等多种方式搜索和筛选广告，快速发现爆款素材和高转化广告策略。AdSpy 还支持按广告运行时间、互动数据（点赞、评论、分享）进行排序，帮助用户识别经过验证的长效广告。核心功能包括：全文搜索广告文案、按广告主域名搜索、按技术（如追踪像素）搜索、查看广告的目标受众设置等。AdSpy 是 Facebook 广告生态中最具代表性的 Spy 工具，受到全球联盟营销社区的广泛推崇。特别适合电商卖家、联盟营销从业者和媒体购买团队进行市场调研、选品验证和创意灵感挖掘。
+

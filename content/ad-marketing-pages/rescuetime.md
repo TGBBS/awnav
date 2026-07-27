@@ -1,7 +1,7 @@
----
+﻿---
 title: RescueTime
 description: 用于时间跟踪和生产力管理的应用程序
-seoTitle: RescueTime - 详细介绍与评价 | 007出海导航
+seoTitle: RescueTime - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/rescuetime/
 slug: rescuetime
@@ -92,3 +92,4 @@ related:
 ---
 
 RescueTime 是一款专注于时间跟踪与生产力分析的应用程序，帮助用户了解自己的时间究竟花在了哪里。软件在后台自动记录用户在各个应用程序和网站上花费的时间，生成详细的报告和图表，让用户直观看到工作效率情况。RescueTime 将活动按照生产力类别进行评分，区分高效工作时间和分心时间，并提供每日、每周的生产力评分。其 FocusTime 功能可以屏蔽干扰性网站，帮助用户进入深度工作状态。目标设定功能让用户可以为特定类别的工作设置每日时间目标，并通过提醒保持专注。该工具支持Windows、macOS、Linux、Android等多平台，能够跨设备综合统计时间数据。主要用户群体包括自由职业者、远程工作者、程序员、咨询顾问等需要精确管理和汇报工作时间的专业人士。RescueTime 提供免费版和付费专业版，专业版包含更详细的报告和更多高级功能。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Hubspot
 description: 一款功能强大的客户关系管理（CRM）工具
-seoTitle: Hubspot - 详细介绍与评价 | 007出海导航
+seoTitle: Hubspot - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/hubspot/
 slug: hubspot
@@ -92,3 +92,4 @@ related:
 ---
 
 HubSpot 是全球领先的入站营销（Inbound Marketing）和客户关系管理（CRM）平台，由布莱恩·哈利根（Brian Halligan）和达尔梅什·沙阿（Dharmesh Shah）于 2006 年创立，总部位于美国马萨诸塞州剑桥市。HubSpot 提供一套完整的营销、销售、客户服务和内容管理工具，帮助企业吸引访客、转化潜在客户并建立长期客户关系。核心产品线包括：Marketing Hub（营销中枢）、Sales Hub（销售中枢）、Service Hub（服务中枢）、CMS Hub（内容管理）和 Operations Hub（运营中枢）。其免费 CRM 是市场上功能最丰富的免费 CRM 之一，吸引了大量中小企业用户。HubSpot 的入站营销理念强调通过优质内容吸引客户主动来找你，而非传统的打扰式营销。平台拥有超过 16.5 万家企业客户，在全球 120 多个国家使用。HubSpot Academy 提供的免费营销和销售课程也是其重要的品牌资产，培养了大量忠实用户群体。
+

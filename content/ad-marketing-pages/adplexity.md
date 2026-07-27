@@ -1,7 +1,7 @@
----
+﻿---
 title: Adplexity
 description: 创立时间最早，也是最优秀的广告SPY工具之一
-seoTitle: Adplexity - 详细介绍与评价 | 007出海导航
+seoTitle: Adplexity - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/adplexity/
 slug: adplexity
@@ -96,3 +96,4 @@ related:
 ---
 
 Adplexity 是广告情报工具领域的元老级产品，创立时间最早，在业内积累了极高的声誉。它不是一个单一产品，而是一个针对不同广告渠道的专业情报工具系列，包括 Adplexity Mobile（移动广告）、Adplexity Desktop（桌面广告）、Adplexity Native（原生广告）、Adplexity Push（推送广告）和 Adplexity eCommerce（电商广告）等多个细分产品。每个产品都专注于特定渠道，提供该渠道内最深入的广告情报数据。Adplexity 的核心优势在于数据质量和深度：它不仅展示广告素材，还提供完整的广告落地页存档、技术追踪分析、广告网络信息和地理定向数据。其原生广告和移动广告的数据库在业内被认为是最全面的。Adplexity 覆盖全球 75+ 个国家的广告数据，支持多种广告格式，适合专业联盟营销从业者进行深度竞争情报研究。由于每个渠道产品需要单独订阅，全套使用成本较高，但对于专注特定渠道的专业用户来说，是同类工具中最值得信赖的选择之一。
+

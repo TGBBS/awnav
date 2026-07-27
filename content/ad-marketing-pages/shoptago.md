@@ -1,7 +1,7 @@
----
+﻿---
 title: Shoptago
 description: 新老板Shoptago是针对跨境电商零售卖家和外贸企业的SaaS自建站平台
-seoTitle: Shoptago - 详细介绍与评价 | 007出海导航
+seoTitle: Shoptago - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/shoptago/
 slug: shoptago
@@ -91,3 +91,4 @@ related:
 ---
 
 Shoptago 是一款专为跨境电商零售卖家和外贸企业设计的 SaaS 自建站平台，定位为操作简单、功能实用的独立站解决方案。平台提供多种精美的电商模板，支持快速搭建专业的外贸独立站，集成国际主流支付方式（PayPal、信用卡等）、物流追踪、多语言多货币等跨境电商必备功能。Shoptago 还提供营销工具包，包括弃购挽回邮件、优惠券系统、社交媒体分享等功能，帮助独立站卖家提升转化率和复购率。平台面向中国跨境出口卖家，提供全中文操作界面和中文客服支持，降低了独立站运营的技术门槛。适合希望从第三方平台（如亚马逊、速卖通）转型为独立品牌站的中小卖家。
+

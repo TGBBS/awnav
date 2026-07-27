@@ -1,7 +1,7 @@
----
+﻿---
 title: PicoClaw
 description: 矽速科技出品，让AI Agent跑在10美元硬件上，10MB内存即可运行
-seoTitle: PicoClaw - 详细介绍与评价 | 007出海导航
+seoTitle: PicoClaw - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/picoclaw/
 slug: picoclaw
@@ -92,3 +92,4 @@ related:
 ---
 
 PicoClaw 是矽速科技（Sipeed）出品的面向极低成本硬件的 AI Agent 运行时，目标是让 AI 代理能够运行在售价仅 10 美元的嵌入式硬件上，最低仅需 10MB 内存即可运行。矽速科技是国内知名的开源硬件公司，以生产高性价比的 RISC-V 和 ARM 开发板著称，旗下产品如 Maix 系列在创客和嵌入式开发社区广受欢迎。PicoClaw 是矽速科技将 AI 能力下放到嵌入式设备这一战略的重要组成部分，延续了该公司「让 AI 触手可及」的产品理念。通过深度优化模型推理引擎和内存管理，PicoClaw 将 AI 代理的硬件门槛降低到前所未有的程度，使广大开发者能够在低成本的 IoT 设备、教育用开发板、DIY 机器人等平台上部署 AI 代理功能。PicoClaw 托管于 GitHub（sipeed/picoclaw），配有完整的硬件兼容列表和示例代码，对矽速自家硬件有最佳支持，同时也兼容其他主流嵌入式平台。适合嵌入式开发者、硬件创客、教育工作者，以及希望在低成本 IoT 设备上集成 AI 能力的工程师。
+

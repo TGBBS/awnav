@@ -1,7 +1,7 @@
----
+﻿---
 title: GitMind
 description: 一款免费的人工智能思维导图和头脑风暴应用程序
-seoTitle: GitMind - 详细介绍与评价 | 007出海导航
+seoTitle: GitMind - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/gitmind/
 slug: gitmind
@@ -91,3 +91,4 @@ related:
 ---
 
 GitMind 是一款免费的 AI 思维导图与头脑风暴应用程序，支持在线协作创作。用户可以通过输入主题或关键词，借助 AI 能力快速生成完整的思维导图框架，极大提升头脑风暴和结构化思考的效率。GitMind 提供丰富的模板库，涵盖项目管理、学习笔记、商业计划、组织架构等多种场景。平台支持多人实时协作编辑，团队成员可以同步查看和修改思维导图。主要功能包括：AI 自动生成思维导图、手动绘制节点、主题风格自定义、多格式导出（PNG、PDF、SVG 等）、在线分享与嵌入。GitMind 提供 Web 端、Windows、Mac、iOS 和 Android 全平台支持，是跨设备使用的便利选择。适合学生、教师、产品经理、创业者等需要进行思维整理和创意发散的用户。其免费版功能相当完整，是性价比极高的思维导图工具。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: SaleSource
 description: 一种电子商务工具
-seoTitle: SaleSource - 详细介绍与评价 | 007出海导航
+seoTitle: SaleSource - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/salesource/
 slug: salesource
@@ -71,3 +71,4 @@ related:
 ---
 
 SaleSource 是一款面向电商卖家的智能选品和竞品分析工具，专为 Shopify 代发货（Dropshipping）卖家设计。平台通过数据挖掘和 AI 算法，帮助卖家发现当前市场上的热销爆款商品、分析竞争对手的店铺策略，并提供潜力商品的趋势预测。SaleSource 能够扫描数百万个 Shopify 商店，识别销售额高、增长快的商品，帮助卖家在商品选择上做出数据驱动的决策，避免盲目试错。平台还提供供应商对接功能，可直接连接到速卖通等货源平台。SaleSource 适合希望通过数据分析提升选品成功率的 Shopify 代发货卖家、独立站运营者，以及电商创业者。平台采用订阅制收费模式。
+

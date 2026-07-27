@@ -1,7 +1,7 @@
----
+﻿---
 title: Noxinfluencer
 description: 快速查看Youtube红人排名，价格，粉丝数（翻墙）
-seoTitle: Noxinfluencer - 详细介绍与评价 | 007出海导航
+seoTitle: Noxinfluencer - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/noxinfluencer/
 slug: noxinfluencer
@@ -92,3 +92,4 @@ related:
 ---
 
 NoxInfluencer 是一款专注于 YouTube 和社交媒体网红分析的平台，提供全球 YouTube 频道排名、网红数据查询、广告报价估算和竞品分析等功能。平台收录了数百万 YouTube 频道的详细数据，包括订阅者数量、观看次数、增长趋势、受众地理分布和参与率等核心指标。品牌和营销机构可以通过 NoxInfluencer 快速评估网红账号的真实影响力，过滤买粉账号，找到真实受众与品牌目标匹配的合作伙伴。平台提供的报价估算功能基于频道数据给出大致合作费用参考，帮助品牌在谈判时有所参考。除 YouTube 外，NoxInfluencer 也支持 Instagram 和 TikTok 数据查询。平台还设有频道对比功能，可以同时比较多个网红的数据指标，便于横向评估。NoxInfluencer 提供中英文双语界面，对中国出海企业特别友好，帮助国内品牌在开拓海外市场时准确锁定目标网红资源。部分基础功能免费使用，适合预算有限的初创企业和个人品牌方。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: KimiClaw
 description: 月之暗面推出的云端OpenClaw，基于Kimi K2.5，5000+技能，40GB云存储，免配置
-seoTitle: KimiClaw - 详细介绍与评价 | 007出海导航
+seoTitle: KimiClaw - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/kimiclaw/
 slug: kimiclaw
@@ -90,3 +90,4 @@ related:
 ---
 
 KimiClaw 是月之暗面（Moonshot AI）推出的云端 OpenClaw 服务，是 Kimi 智能助手的进阶形态。基于月之暗面自研的 Kimi K2.5 大语言模型，KimiClaw 提供了一个无需本地部署、开箱即用的云端 AI 代理平台。用户可以在 kimi.com/bot 上直接访问，免去了繁琐的服务器配置流程。KimiClaw 预置了超过 5000 个由社区和官方维护的技能，覆盖文档处理、网页搜索、日程管理、代码生成、图片分析等各类场景。平台为每位用户提供 40GB 的云端存储空间，支持将文档、图片、代码等文件上传后让 AI 长期记忆和处理。Kimi K2.5 模型以超长上下文处理能力著称，能够一次性处理数十万字的长文档。KimiClaw 在保持 Kimi 一贯的简洁交互风格的同时，大幅提升了任务自主执行能力——AI 可以主动分解复杂任务、调用工具、执行多步骤操作，而不仅仅是回答问题。适合希望获得强大 AI 代理能力但不想处理技术配置的普通用户和知识工作者。
+

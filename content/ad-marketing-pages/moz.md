@@ -1,7 +1,7 @@
----
+﻿---
 title: Moz
 description: 关键词工具，外链工具，竞争对手网站分析
-seoTitle: Moz - 详细介绍与评价 | 007出海导航
+seoTitle: Moz - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/moz/
 slug: moz
@@ -92,3 +92,4 @@ related:
 ---
 
 Moz 是 SEO 领域的元老级工具和知识品牌，2004年由 Rand Fishkin 和 Gillian Muessig 在美国西雅图创立，以其深厚的 SEO 教育内容和可靠的数据工具在业界享有盛誉。Moz 发明了域名权重（Domain Authority，DA）和页面权重（Page Authority，PA）这两个被全行业广泛引用的衡量指标，至今仍是评估网站外链质量的重要参考标准。Moz Pro 是其核心付费工具套件，包括关键词研究（Keyword Explorer）、排名追踪（Rank Tracker）、网站爬取与审计（Site Crawl）和链接分析（Link Explorer）等功能。MozBar 浏览器扩展插件允许用户在浏览网页时即时查看页面的 DA、PA 等 SEO 指标，是 SEO 从业者日常工作的必备工具。Moz Local 专注于本地 SEO，帮助本地商家在 Google Maps 和各大目录网站上建立一致的商户信息。Moz 的博客和社区（Moz Blog、Whiteboard Friday 视频系列）是 SEO 领域最权威的知识资源之一，培养了一代又一代 SEO 专业人士。适合 SEO 专业人士、本地商家、中小数字营销机构和注重 SEO 教育的团队。
+

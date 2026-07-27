@@ -1,7 +1,7 @@
----
+﻿---
 title: Sendible
 description: 很受欢迎的社交媒体管理工具
-seoTitle: Sendible - 详细介绍与评价 | 007出海导航
+seoTitle: Sendible - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sendible/
 slug: sendible
@@ -92,3 +92,4 @@ related:
 ---
 
 Sendible 是一款受营销代理公司和团队高度认可的社交媒体管理工具，成立于 2009 年，总部位于英国伦敦。该平台专为需要管理多个客户社交媒体账号的代理公司设计，提供完整的社交媒体管理解决方案。Sendible 支持 Facebook、Instagram、Twitter、LinkedIn、YouTube、Pinterest、Google My Business 等主流平台，并提供博客发布功能。核心功能包括：统一内容日历、定时发布、社交媒体监听、团队协作和审批工作流、白标报告、客户管理等。Sendible 的白标功能是其区别于竞争对手的重要特色，代理公司可以使用自己的品牌名称向客户提供报告和访问权限。平台的客户管理功能使代理公司可以为每个客户设置独立的工作空间，确保数据安全和隔离。对于营销代理公司而言，Sendible 提供了一个高效管理多客户社交媒体的专业平台。
+

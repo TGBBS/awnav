@@ -1,7 +1,7 @@
----
+﻿---
 title: Copydone AI
 description: 必优科技旗下一款AI原创营销文案写作神器
-seoTitle: Copydone AI - 详细介绍与评价 | 007出海导航
+seoTitle: Copydone AI - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/copydone-ai/
 slug: copydone-ai
@@ -91,3 +91,4 @@ related:
 ---
 
 Copydone AI（CopyAI.cn）是必优科技旗下推出的一款专注于中文营销文案创作的 AI 写作工具。产品定位为「AI 原创营销文案写作神器」，重点服务于国内电商、新媒体、广告营销等行业的文案创作需求。Copydone AI 深度理解中文互联网营销语境，能够生成符合国内平台（微信、微博、抖音、小红书等）特点的多种营销文案。主要功能包括：产品文案生成、活动推广文案、品牌故事撰写、种草文案、标题优化等。平台提供丰富的行业垂直模板，涵盖美妆、食品、服装、科技等多个品类，让用户可以快速获得贴合行业特性的文案内容。适合国内电商运营、内容创作者、新媒体团队及营销策划人员。Copydone AI 以其对国内营销场景的深度理解和实用的功能设计，在国内 AI 文案工具市场中具有一定竞争优势。
+

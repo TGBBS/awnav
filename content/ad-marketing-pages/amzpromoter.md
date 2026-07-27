@@ -1,7 +1,7 @@
----
+﻿---
 title: Amzpromoter
 description: Amzpromoter是一款非常高效的亚马逊Landing Page制作工具和站外推广引流工具
-seoTitle: Amzpromoter - 详细介绍与评价 | 007出海导航
+seoTitle: Amzpromoter - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/amzpromoter/
 slug: amzpromoter
@@ -87,3 +87,4 @@ related:
 ---
 
 Amzpromoter（现更名为Landing Page Promoter）是一款专为亚马逊FBA卖家打造的Landing Page制作和站外推广引流工具，帮助卖家通过独立落地页将外部流量转化为亚马逊销售，同时实现买家邮件的合规收集。该工具的核心功能包括快速创建专业的产品推广落地页、设置折扣码或赠品活动、构建邮件列表以便后续营销、以及追踪推广效果数据。Amzpromoter特别针对亚马逊卖家的站外推广需求进行了优化，落地页模板设计简洁高效，转化率较高。通过Amzpromoter创建的落地页可以与Facebook广告、Google广告、Deals网站等各类流量来源对接，帮助卖家在亚马逊平台外建立自己的营销渠道和私域流量池。主要用户群体为亚马逊FBA卖家，尤其是需要进行站外引流、Deals推广、Review获取和邮件营销的卖家。工具操作简便，即使没有技术背景的卖家也能快速上手，是亚马逊卖家站外营销工具箱中的实用选项。
+

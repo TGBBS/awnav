@@ -1,7 +1,7 @@
----
+﻿---
 title: VideoProc
 description: 一款强大的视频处理软件
-seoTitle: VideoProc - 详细介绍与评价 | 007出海导航
+seoTitle: VideoProc - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/videoproc/
 slug: videoproc
@@ -92,3 +92,4 @@ related:
 ---
 
 VideoProc 是由Digiarty Software开发的一款功能强大的视频处理软件，集视频下载、格式转换、视频编辑、屏幕录制于一体，是功能最为全面的多媒体处理工具之一。软件最大的技术亮点是其基于Intel、NVIDIA、AMD显卡的全硬件加速技术，能够以极快的速度完成视频转换和处理任务，同时保持CPU占用率在低水平，不影响其他工作。VideoProc支持从YouTube等400多个视频网站下载内容，支持4K、8K、HDR等高画质格式的处理，还可以对GoPro等运动相机拍摄的视频进行防抖处理和降噪优化。视频编辑功能包括剪切、合并、裁剪、旋转、添加字幕、调色等多种操作，满足日常视频处理需求。VideoProc界面设计专业现代，功能布局合理，即使是功能复杂的操作也易于上手。软件提供免费试用版，付费授权提供终身使用权，性价比在同类软件中较为突出。
+

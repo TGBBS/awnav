@@ -1,7 +1,7 @@
----
+﻿---
 title: Facebook海外营销
 description: Facebook中国区认证代理商
-seoTitle: Facebook海外营销 - 详细介绍与评价 | 007出海导航
+seoTitle: Facebook海外营销 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/facebook-4/
 slug: facebook-4
@@ -72,3 +72,4 @@ related:
 ---
 
 Facebook 海外营销（Reach the World on Facebook）是 Facebook 专门面向中国企业设立的官方营销支持平台，由 Facebook 中国区认证代理商运营，旨在帮助中国企业通过 Facebook 平台触达全球消费者，拓展海外市场。该平台提供面向中国出海企业的本地化支持服务，包括：Facebook 广告开户和账户管理支持、中文客户服务、广告政策合规指导、广告素材和创意建议、行业解决方案咨询以及培训和学习资源。对于希望通过 Facebook 广告开拓欧美、东南亚等海外市场的中国品牌和跨境电商企业而言，通过认证代理商渠道开户可以获得更多本地化支持，享受一定的开户优惠和信用额度。该平台还定期举办线上和线下的营销峰会、培训活动和案例分享，帮助中国企业提升 Facebook 广告投放能力。是中国出海企业了解和入门 Facebook 营销的重要官方资源渠道。
+

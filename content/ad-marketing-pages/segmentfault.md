@@ -1,7 +1,7 @@
----
+﻿---
 title: Segmentfault
 description: 中国领先的开发者技术社区
-seoTitle: Segmentfault - 详细介绍与评价 | 007出海导航
+seoTitle: Segmentfault - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/segmentfault/
 slug: segmentfault
@@ -92,3 +92,4 @@ related:
 ---
 
 SegmentFault（思否）是中国领先的开发者技术社区，创建于2012年，以高质量的技术问答和技术文章为核心，定位于国内版Stack Overflow，为中国开发者提供专业的技术交流与知识分享平台。平台以问答社区为基础，积累了大量覆盖各主流技术栈的高质量问答内容，涵盖前端开发、后端服务、移动开发、算法、数据库、云计算等广泛技术领域。SegmentFault以其相对干净的界面和较高的内容质量在开发者圈中积累了良好口碑，社区氛围相比CSDN更为专业和纯粹。平台同时提供技术博客、技术直播、训练营等延伸服务，以及定期举办技术活动和开发者大会，构建了较为完整的技术社区生态。对于希望获得高质量技术问答解答、阅读深度技术文章、参与中文开发者社区的程序员来说，SegmentFault是仅次于CSDN的重要中文技术平台，在年轻一代开发者群体中尤具影响力。
+

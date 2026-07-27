@@ -1,7 +1,7 @@
----
+﻿---
 title: SEOquake
 description: 一款浏览器插件，可以为用户提供网站的搜索引擎优化（SEO）指标和分析工具
-seoTitle: SEOquake - 详细介绍与评价 | 007出海导航
+seoTitle: SEOquake - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/seoquake/
 slug: seoquake
@@ -95,3 +95,4 @@ related:
 ---
 
 SEOquake 是 Semrush 旗下的一款免费 Chrome 浏览器扩展，是全球下载量最大的 SEO 插件之一，安装量超过数百万。它能在 Google 等搜索引擎的结果页面直接显示每个网站的 SEO 关键指标，包括 Semrush 排名、反向链接数量、页面权重、Google 索引页面数等数据，帮助 SEO 从业者在搜索时即时进行竞争对手分析。SEOquake 的主要功能包括：搜索结果 SEO 指标叠加显示、任意网页的 SEO 详细审计（On-Page SEO Audit）、链接分析（内链和外链统计）、关键词密度分析报告、以及与 Semrush 数据库的深度集成。SEO Audit 功能可以一键检查网页的元标题、描述、H 标签、图片 Alt 文本等重要 SEO 元素是否规范。工具支持将 SERP 数据导出为 CSV 文件，方便批量分析。SEOquake 与 Semrush 账号集成后，可以获取更多专业数据。作为免费工具，SEOquake 非常适合 SEO 入门者和中级从业者，也是专业 SEO 团队日常快速分析的实用辅助插件。
+

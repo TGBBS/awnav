@@ -1,7 +1,7 @@
----
+﻿---
 title: Facebook Pixel Helper
 description: facebook像素助手插件
-seoTitle: Facebook Pixel Helper - 详细介绍与评价 | 007出海导航
+seoTitle: Facebook Pixel Helper - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/facebook-pixel-helper/
 slug: facebook-pixel-helper
@@ -91,3 +91,4 @@ related:
 ---
 
 Facebook Pixel Helper 是 Meta（原 Facebook）官方出品的 Chrome 浏览器扩展，专为广告主和开发者设计，用于验证和调试 Facebook Pixel（追踪像素）的安装是否正确。Facebook Pixel 是 Meta 广告系统的核心追踪代码，安装在网站上后可以追踪用户行为（如页面浏览、加入购物车、购买等转化事件），这些数据是 Meta 广告定向、优化和效果衡量的基础。Facebook Pixel Helper 在浏览器工具栏显示图标，访问安装了 Pixel 的网页时会变为激活状态，点击后可查看该页面触发了哪些 Pixel 事件、事件参数是否正确，以及是否存在配置错误。对于需要在多个网站检测 Pixel 安装情况的数字营销人员和广告优化师，这款工具极大简化了 Pixel 调试工作。工具会以绿色（正常）、黄色（警告）或红色（错误）标识各事件的状态，直观呈现 Pixel 配置质量。Facebook Pixel Helper 是所有投放 Meta 广告的营销人员和电商从业者必装的浏览器工具，确保广告数据追踪准确无误是优化广告效果的重要前提。
+

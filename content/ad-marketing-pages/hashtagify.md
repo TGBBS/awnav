@@ -1,7 +1,7 @@
----
+﻿---
 title: Hashtagify
 description: 帮助你分辨吸粉领域KOL，挖掘与产品和品牌相关的标签
-seoTitle: Hashtagify - 详细介绍与评价 | 007出海导航
+seoTitle: Hashtagify - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/hashtagify/
 slug: hashtagify
@@ -92,3 +92,4 @@ related:
 ---
 
 Hashtagify 是一款专注于 hashtag（话题标签）研究和 KOL 发现的社交媒体分析工具，主要支持 Twitter 和 Instagram 平台。该工具帮助营销人员和品牌方在茫茫标签中找到最适合自己内容领域的高效话题标签，同时发现在特定领域具有影响力的 KOL（关键意见领袖）。Hashtagify 的核心功能包括：热门 hashtag 搜索和分析、相关标签推荐、hashtag 趋势追踪、KOL 搜索和影响力评估、竞品 hashtag 策略分析等。对于跨境电商卖家和社交媒体营销人员，Hashtagify 是制定 hashtag 策略、提升内容曝光度的重要工具。通过分析相关标签的使用量、受众分布和增长趋势，用户可以选择最优的标签组合，最大化内容的自然传播效果。平台提供免费基础功能和付费高级功能，适合不同需求层次的用户。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: MailDrop
 description: 一款非常专业的电子邮件服务
-seoTitle: MailDrop - 详细介绍与评价 | 007出海导航
+seoTitle: MailDrop - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/maildrop/
 slug: maildrop
@@ -71,3 +71,4 @@ related:
 ---
 
 一款非常专业的电子邮件服务
+

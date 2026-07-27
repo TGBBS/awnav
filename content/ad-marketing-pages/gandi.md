@@ -1,7 +1,7 @@
----
+﻿---
 title: Gandi
 description: 一家专业的域名注册商
-seoTitle: Gandi - 详细介绍与评价 | 007出海导航
+seoTitle: Gandi - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/gandi/
 slug: gandi
@@ -71,3 +71,4 @@ related:
 ---
 
 一家专业的域名注册商
+

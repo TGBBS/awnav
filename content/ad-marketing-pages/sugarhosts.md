@@ -1,7 +1,7 @@
----
+﻿---
 title: SugarHosts
 description: sugarhosts，英国知名主机商家，也提供VPS（机械盘和SSD，基于XEN，也有windows），洛杉矶、香港、台湾机房.网站支持中文，方便
-seoTitle: SugarHosts - 详细介绍与评价 | 007出海导航
+seoTitle: SugarHosts - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sugarhosts/
 slug: sugarhosts
@@ -92,3 +92,4 @@ related:
 ---
 
 SugarHosts是一家英国知名主机服务商，提供虚拟主机、VPS（包括机械盘和SSD版本，基于Xen虚拟化）以及独立服务器等产品，数据中心覆盖美国洛杉矶、香港和台湾机房。SugarHosts最大的特色是对中文用户的友好支持——网站提供完整中文界面，中文客服，支持人民币结算和支付宝、微信等国内支付方式，极大降低了国内用户使用海外主机的门槛。香港和台湾机房提供针对中国大陆用户优化的网络线路，访问延迟较低，适合建设面向大陆用户的网站。美国洛杉矶机房性价比高，适合面向北美或全球用户的项目。VPS产品提供Windows系统选项，功能覆盖较广。SugarHosts在国内VPS和主机圈内具有良好口碑，是最早做好中文本地化服务的海外主机商之一。适合希望使用海外节点但又需要中文服务和国内支付方式的用户，包括个人站长、跨境业务运营者和中小企业。
+

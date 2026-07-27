@@ -1,7 +1,7 @@
----
+﻿---
 title: Sendgrid
 description: 性价比高的邮件营销工具
-seoTitle: Sendgrid - 详细介绍与评价 | 007出海导航
+seoTitle: Sendgrid - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sendgrid/
 slug: sendgrid
@@ -92,3 +92,4 @@ related:
 ---
 
 SendGrid 是由 Twilio 旗下的领先云端邮件发送服务平台，于2009年成立于美国科罗拉多州丹佛。平台分为两个主要产品线：邮件 API（Email API）和营销活动（Marketing Campaigns）。邮件 API 面向开发者，提供高可靠性的事务性邮件发送基础设施，被众多科技公司用于发送注册验证、密码重置、订单确认等系统邮件。营销活动模块则提供可视化邮件编辑器、联系人管理和发送计划功能，适合营销团队使用。SendGrid 以其高送达率著称，通过专用 IP、发件人声誉管理和实时分析等技术确保邮件顺利进入收件箱而非垃圾箱。平台每天处理数十亿封邮件，服务客户包括 Airbnb、Spotify、Uber 等知名企业。对于需要大量发送事务性邮件的技术团队，SendGrid 是业内首选方案之一。免费版每天可发送100封邮件，付费版按发送量计费，整体性价比较高。适合开发者、技术创业公司和有技术能力的营销团队。
+

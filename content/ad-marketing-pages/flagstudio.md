@@ -1,7 +1,7 @@
----
+﻿---
 title: FlagStudio
 description: 由BAAI旗下的创新应用实验室和FlagAI团队开发的文图生成工具
-seoTitle: FlagStudio - 详细介绍与评价 | 007出海导航
+seoTitle: FlagStudio - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/flagstudio/
 slug: flagstudio
@@ -91,3 +91,4 @@ related:
 ---
 
 FlagStudio 是由北京智源人工智能研究院（BAAI）旗下创新应用实验室与 FlagAI 团队联合开发的文图生成工具。依托智源强大的大模型研究基础，FlagStudio 支持用户通过中英文文字描述生成高质量图像，是国内学术界与产业界结合的代表性 AI 图像生成平台。其核心功能包括文本到图像生成、多分辨率输出、中文提示词优化支持等。FlagStudio 特别针对中文用户进行了优化，能够更好地理解中文语义，生成符合汉语表达习惯的图像内容。适用人群涵盖设计师、内容创作者、研究人员及对 AI 生成图像感兴趣的普通用户。作为智源研究院的开放产品，FlagStudio 体现了中国顶尖 AI 研究机构在图像生成领域的最新成果，为国内用户提供了一个兼具技术深度与易用性的图像创作平台。
+

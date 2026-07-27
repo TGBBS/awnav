@@ -1,7 +1,7 @@
----
+﻿---
 title: Linode
 description: 服务稳定，不容易被墙，有日本和新加坡节点，速度快
-seoTitle: Linode - 详细介绍与评价 | 007出海导航
+seoTitle: Linode - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/linode/
 slug: linode
@@ -92,3 +92,4 @@ related:
 ---
 
 Linode是一家成立于2003年的老牌云计算和VPS服务提供商，2022年被Akamai Technologies收购，现更名为Akamai Cloud（但Linode品牌仍沿用）。Linode以服务稳定、价格透明、技术文档详尽著称，是开发者和技术社区的经典选择。Linode数据中心遍布全球，包括日本（东京）、新加坡等亚太节点，访问速度较快且不容易受网络干扰影响。被Akamai收购后，Linode获得了全球顶级CDN网络的支持，在内容分发和边缘计算方面大幅增强。主要产品包括Linode（共享云实例）、Dedicated CPU实例、GPU实例、托管数据库、Kubernetes（LKE）、对象存储、块存储等，产品线较为完善。Linode提供$100新用户免费额度，方便试用。API完善，支持Terraform等IaC工具，适合DevOps团队。价格竞争力强，1GB内存实例仅$5/月。对于华人用户，日本和新加坡节点速度较快，相比美国节点访问体验更好，是需要国际稳定节点的技术用户的优质选择。
+

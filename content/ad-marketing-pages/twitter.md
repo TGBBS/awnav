@@ -1,7 +1,7 @@
----
+﻿---
 title: Twitter
 description: Twitter（通称推特）是一家美国社交网络及微博客服务的网站，是全球互联网上访问量最大的十个网站之一
-seoTitle: Twitter - 详细介绍与评价 | 007出海导航
+seoTitle: Twitter - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/twitter/
 slug: twitter
@@ -92,3 +92,4 @@ related:
 ---
 
 Twitter（现已更名为 X）是全球知名的社交网络和微博客平台，由杰克·多西（Jack Dorsey）等人于 2006 年创立，2022 年被埃隆·马斯克（Elon Musk）收购并更名为 X。Twitter 以其实时性和话题讨论文化著称，用户通过发布不超过 280 字的推文（Tweet）分享观点和信息。平台访问量跻身全球互联网前十，拥有约 3.5 亿月活跃用户。Twitter 是全球性的公共讨论广场，重要新闻、热点事件往往在 Twitter 上率先传播。对于品牌营销，Twitter 提供了广告投放系统，支持促销推文、账号推广等形式，适合快速传播品牌信息和参与热点话题。Twitter 在科技、媒体、政治、金融等领域的影响力尤为显著，是这些行业的专业人士必不可少的信息渠道。收购后 Twitter 推出了 X Premium 付费订阅，提供更长推文、蓝色认证标记等高级功能。
+

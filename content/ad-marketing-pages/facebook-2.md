@@ -1,7 +1,7 @@
----
+﻿---
 title: Facebook页面检查
 description: 检查你的Facebook页面各方面数据表现
-seoTitle: Facebook页面检查 - 详细介绍与评价 | 007出海导航
+seoTitle: Facebook页面检查 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/facebook-2/
 slug: facebook-2
@@ -92,3 +92,4 @@ related:
 ---
 
 Facebook 页面检查工具（Page Barometer by Agorapulse）是由社媒管理平台 Agorapulse 开发的免费 Facebook 主页诊断工具，帮助 Facebook 主页管理员全面了解自己主页的各项表现数据，包括粉丝增长趋势、内容互动率、发布频率分析、最佳发帖时间建议以及与同类主页的横向对比。通过连接 Facebook 账户授权，该工具会对主页数据进行全面分析，生成可视化的诊断报告，清晰展示主页的健康状态和优化机会。主要分析维度包括：粉丝增长和流失数据、有机触达率趋势、各类型内容的互动表现对比（图片 vs 视频 vs 链接帖子）、评论和分享数量分析，以及高互动内容的特征分析。对于 Facebook 主页运营者、品牌社媒经理和内容创作者而言，Page Barometer 提供了一个快速了解主页整体状态的便捷方式，帮助识别内容策略中的问题和机会点，是制定主页优化计划的实用辅助工具。
+

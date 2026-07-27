@@ -1,7 +1,7 @@
----
+﻿---
 title: FB messenger申诉
 description: Facebook Business Suppor Messenger 聊天申诉
-seoTitle: FB messenger申诉 - 详细介绍与评价 | 007出海导航
+seoTitle: FB messenger申诉 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/fb-messenger/
 slug: fb-messenger
@@ -86,3 +86,4 @@ related:
 ---
 
 Facebook Business Support Messenger 是 Meta 官方提供的实时在线聊天申诉渠道，允许符合条件的广告主通过 Facebook Messenger 与 Facebook 广告支持团队进行实时文字沟通，处理广告账户问题、申诉广告政策决定以及解决技术问题。相比填写表单等待回复的方式，Messenger 聊天支持提供了更即时的互动体验，可以在沟通中实时提供账户信息、上传截图证明，并获得即时的处理意见和指导建议。该渠道通常需要满足一定条件才能访问，例如广告账户有一定消费历史或主页达到一定规模。在实际使用中，Messenger 支持对于解决时效性强的广告问题（如广告审核急件、即将到来的活动前的账户问题）特别有价值。由于与人工客服实时对话，相比自助申诉表单，通过 Messenger 解决问题的成功率和效率通常更高。建议广告主在遇到紧急账户问题时优先尝试使用 Messenger 支持渠道，并在沟通前准备好相关账户 ID 和问题说明。
+

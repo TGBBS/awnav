@@ -1,7 +1,7 @@
----
+﻿---
 title: Stack Overflow
 description: 开源的问答社区
-seoTitle: Stack Overflow - 详细介绍与评价 | 007出海导航
+seoTitle: Stack Overflow - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/stack-overflow/
 slug: stack-overflow
@@ -93,3 +93,4 @@ related:
 ---
 
 Stack Overflow 是全球最大的程序员问答社区，由 Jeff Atwood 和 Joel Spolsky 于2008年创立。作为开发者日常工作中最依赖的知识库之一，Stack Overflow 汇集了超过5800万个已回答的编程问题，覆盖从 Python、JavaScript、Java 到 SQL、Shell 等几乎所有编程语言和技术栈。平台采用声誉积分机制，优质回答会获得投票点赞，高声誉用户可获得编辑、关闭问题等管理权限，这一机制有效保证了内容质量。Stack Overflow 是开源精神的重要体现，绝大多数技术问题都能在此找到详细的解决方案。对于企业用户，Stack Overflow for Teams 提供私有化部署的内部知识管理工具。平台还运营 Stack Exchange 问答网络，涵盖数学、物理、语言学、职业发展等300余个细分话题社区。近年来，Stack Overflow 集成了 AI 编程助手 OverflowAI，支持在回答搜索中融入 AI 语义理解。全球超过2000万注册用户、每月1亿访问者，使其成为互联网最重要的技术知识基础设施之一。
+

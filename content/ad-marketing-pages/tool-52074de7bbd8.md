@@ -1,7 +1,7 @@
----
+﻿---
 title: 博客园
 description: 中国最大的独立博客网站
-seoTitle: 博客园 - 详细介绍与评价 | 007出海导航
+seoTitle: 博客园 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/%E5%8D%9A%E5%AE%A2%E5%9B%AD/
 slug: 博客园
@@ -71,3 +71,4 @@ related:
 ---
 
 中国最大的独立博客网站
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: MaxClaw
 description: MiniMax推出的云端AI代理，基于MiniMax2.5模型，主打低成本高性能
-seoTitle: MaxClaw - 详细介绍与评价 | 007出海导航
+seoTitle: MaxClaw - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/maxclaw/
 slug: maxclaw
@@ -87,3 +87,4 @@ related:
 ---
 
 MaxClaw 是 MiniMax 人工智能公司推出的云端 AI 代理产品，基于 MiniMax 自研的 MiniMax2.5 大语言模型构建。MiniMax 是国内头部 AI 创业公司之一，以高性价比的模型能力著称。MaxClaw 的核心定位是「低成本高性能」——通过 MiniMax 在模型推理效率上的技术优化，MaxClaw 能够以显著低于竞争对手的价格提供同等质量的 AI 代理服务，这对于对成本敏感的个人开发者和中小型企业具有很强吸引力。MaxClaw 提供完整的云端 AI 代理功能，包括网页浏览、文件处理、代码执行、任务自动化等核心能力，无需本地部署即可使用。MiniMax2.5 模型在多模态能力（文本、图像、语音）方面表现出色，使 MaxClaw 能够处理需要理解图片内容或语音输入的复杂任务场景。平台提供 API 接口，方便开发者将 MaxClaw 的能力集成到自己的应用中。对于初创团队和个人开发者来说，MaxClaw 的性价比优势使其成为构建 AI 驱动产品的经济实惠选择。
+

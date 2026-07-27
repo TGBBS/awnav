@@ -1,7 +1,7 @@
----
+﻿---
 title: Keywordtool
 description: 免费好用的跨平台多语言关键词搜索工具
-seoTitle: Keywordtool - 详细介绍与评价 | 007出海导航
+seoTitle: Keywordtool - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/keywordtool/
 slug: keywordtool
@@ -95,3 +95,4 @@ related:
 ---
 
 Keywordtool.io 是一款免费的跨平台关键词研究工具，能够从 Google、YouTube、Bing、Amazon、eBay、Instagram、Twitter、App Store 等多个平台生成关键词建议。工具基于各平台的自动补全（Autocomplete）功能，提取用户实际搜索的长尾关键词，帮助 SEO 专员、内容创作者和数字营销人员发现真实用户的搜索意图。免费版可以生成大量关键词建议，但不显示搜索量、CPC 和竞争度数据；付费专业版则解锁完整数据，并支持批量导出。Keywordtool 支持超过192个 Google 域名和83种语言，覆盖全球几乎所有目标市场，对于多语言 SEO 和海外市场推广非常有价值。其多平台支持是最大亮点，一个工具可以同时研究 Google SEO、YouTube 视频优化、Amazon 产品关键词和 App Store 应用关键词，效率极高。对于跨境电商卖家，Amazon 关键词功能特别实用，能够发现买家真实搜索词，优化产品标题和描述。Keywordtool 适合 SEO 专员、内容营销人员、电商卖家和独立创作者，是关键词研究入门和进阶的实用工具。
+

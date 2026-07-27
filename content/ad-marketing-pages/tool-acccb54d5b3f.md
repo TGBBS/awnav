@@ -1,7 +1,7 @@
----
+﻿---
 title: 跨境卫士浏览器
 description: 独享固定环境+固定IP，解决跨境电商运营账号安全问题
-seoTitle: 跨境卫士浏览器 - 详细介绍与评价 | 007出海导航
+seoTitle: 跨境卫士浏览器 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/%E8%B7%A8%E5%A2%83%E5%8D%AB%E5%A3%AB%E6%B5%8F%E8%A7%88%E5%99%A8/
 slug: 跨境卫士浏览器
@@ -71,3 +71,4 @@ related:
 ---
 
 独享固定环境+固定IP，解决跨境电商运营账号安全问题
+

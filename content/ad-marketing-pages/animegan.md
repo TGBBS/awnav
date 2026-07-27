@@ -1,7 +1,7 @@
----
+﻿---
 title: AnimeGAN
 description: 一个基于深度学习的图像转换工具
-seoTitle: AnimeGAN - 详细介绍与评价 | 007出海导航
+seoTitle: AnimeGAN - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/animegan/
 slug: animegan
@@ -71,3 +71,4 @@ related:
 ---
 
 一个基于深度学习的图像转换工具
+

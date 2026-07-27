@@ -1,7 +1,7 @@
----
+﻿---
 title: AnswerThePublic
 description: 最具个性且免费的关键词研究工具
-seoTitle: AnswerThePublic - 详细介绍与评价 | 007出海导航
+seoTitle: AnswerThePublic - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/answerthepublic/
 slug: answerthepublic
@@ -94,3 +94,4 @@ related:
 ---
 
 AnswerThePublic 是一款极具视觉特色的关键词研究和内容策划工具，以独特的可视化方式展示用户围绕某个话题提出的问题和搜索词。输入一个关键词后，工具从搜索引擎自动补全数据中提取大量相关问题，按照问题词（who、what、where、when、why、how）、介词（for、without、with、to 等）、比较词（vs、like 等）、字母顺序等维度进行分类，以放射状的可视化图表或列表形式呈现。这种直观的呈现方式帮助内容创作者深入理解用户的真实疑问和信息需求，从而创作真正解决用户问题的内容。AnswerThePublic 于2023年被 Neil Patel 旗下 NP Digital 收购，整合到 Ubersuggest 生态。工具支持多个国家和语言，方便进行本地化内容研究。对于博客作者、内容营销人员、视频创作者和 SEO 策略师来说，AnswerThePublic 是发现内容选题、了解用户痛点和构建内容体系的创意工具。免费版每天有搜索次数限制，Pro 版解锁无限次搜索和数据导出功能，是内容策划工作流中独具一格的辅助利器。
+

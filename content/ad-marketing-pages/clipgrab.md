@@ -1,7 +1,7 @@
----
+﻿---
 title: ClipGrab
 description: 一款非常好用的视频下载工具
-seoTitle: ClipGrab - 详细介绍与评价 | 007出海导航
+seoTitle: ClipGrab - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/clipgrab/
 slug: clipgrab
@@ -92,3 +92,4 @@ related:
 ---
 
 ClipGrab 是一款免费的开源视频下载软件，以其简洁的界面和可靠的性能受到用户好评，支持从YouTube、Vimeo、Dailymotion等主流视频平台下载视频内容。软件提供Windows、Mac和Linux三个平台版本，是少数支持Linux系统的视频下载工具之一，这使其在Linux用户群体中拥有较高的人气。ClipGrab的操作非常简单：将视频URL粘贴到软件中，选择所需的画质和格式（MP4、OGG、WMV等），点击下载即可。软件还支持将视频直接转换为MP3音频格式，方便音乐爱好者提取音频内容。ClipGrab采用开源模式开发，代码透明，无广告弹窗，无捆绑软件，提供干净纯粹的使用体验。虽然支持的平台数量不如某些商业竞品多，但ClipGrab的稳定性和简洁体验使其在注重隐私和安全的用户中颇受欢迎，是技术爱好者和开源软件支持者的常用视频下载工具。
+

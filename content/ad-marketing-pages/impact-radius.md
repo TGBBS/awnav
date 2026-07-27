@@ -1,7 +1,7 @@
----
+﻿---
 title: Impact Radius
 description: 一家全球性的联盟营销公司
-seoTitle: Impact Radius - 详细介绍与评价 | 007出海导航
+seoTitle: Impact Radius - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/impact-radius/
 slug: impact-radius
@@ -92,3 +92,4 @@ related:
 ---
 
 Impact（原名Impact Radius）是全球领先的合作伙伴关系管理平台，成立于2008年，总部位于美国加利福尼亚州圣巴巴拉。平台由前Commission Junction（CJ）联合创始人创立，凭借先进的技术和完善的功能体系，已成为全球增长最快的联盟营销和合作伙伴管理平台之一。Impact 服务的客户包括Shopify、Uber、Disney、Levi's等全球知名品牌，为其提供联盟营销、网红营销、B2B合作、移动端合作等全渠道合作伙伴管理解决方案。平台的核心技术优势包括精准的跨设备追踪、基于合同的合作伙伴关系管理、灵活的动态佣金规则、以及强大的欺诈检测系统。Impact Marketplace 是平台提供的发布商市场，让商家能够轻松发现和招募合适的合作伙伴。平台还提供品牌保护功能，防止未经授权的联盟行为。Impact 的定价相对灵活，既有适合中型企业的套餐，也有面向大型企业的定制方案。适合正在规模化联盟营销运营的中大型品牌，以及希望参与顶级品牌联盟计划的高质量发布商。
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: LobsterAI 有道龙虾
 description: 网易有道推出的7×24全场景个人助理，16项内置技能，支持Skill Store和MCP协议
-seoTitle: LobsterAI 有道龙虾 - 详细介绍与评价 | 007出海导航
+seoTitle: LobsterAI 有道龙虾 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/lobsterai/
 slug: lobsterai
@@ -87,3 +87,4 @@ related:
 ---
 
 LobsterAI（有道龙虾）是网易有道推出的 7×24 小时全场景个人 AI 助理产品。凭借网易有道在教育科技领域多年的技术积累，LobsterAI 将 AI 代理能力与知识学习、语言翻译等有道核心优势深度融合，打造出一款兼顾工作助理和学习助理的综合性 AI 产品。LobsterAI 内置了 16 项核心技能，涵盖智能翻译、文档摘要、代码助手、网页搜索、日程管理、邮件处理等高频使用场景，开箱即可满足大多数日常需求。产品支持 Skill Store 技能扩展，用户可按需安装额外的功能模块，实现高度个性化定制。兼容 MCP（Model Context Protocol）协议是 LobsterAI 的技术亮点之一，这意味着用户可以将 LobsterAI 作为统一的 AI 代理入口，连接各类支持 MCP 协议的外部服务和数据源。7×24 小时全天候运行设计使其能够处理定时任务、后台监控等需要持续运行的自动化场景。有道品牌在中国拥有极高的知名度和用户信任度，使 LobsterAI 在个人用户市场具有天然的推广优势。
+

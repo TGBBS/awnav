@@ -1,7 +1,7 @@
----
+﻿---
 title: Facebook Developer
 description: Facebook开发者平台
-seoTitle: Facebook Developer - 详细介绍与评价 | 007出海导航
+seoTitle: Facebook Developer - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/facebook-developer/
 slug: facebook-developer
@@ -92,3 +92,4 @@ related:
 ---
 
 Facebook Developer（Meta for Developers）是 Meta 官方为开发者提供的综合性开发平台，提供构建 Facebook 应用程序、集成 Facebook 功能以及访问 Meta 数据和广告 API 所需的所有工具、文档和资源。该平台是开发者与 Meta 生态系统交互的核心入口，涵盖的开发场景极为广泛：社交登录（Facebook Login）集成、Messenger 平台开发（聊天机器人和客服自动化）、Instagram Graph API 访问、Marketing API（广告自动化管理）、Webhooks 实时数据推送、Pixel 安装与管理，以及 AR/VR 体验开发。对于跨境电商企业而言，Facebook Developer 平台最重要的应用场景是通过 Marketing API 实现广告系统的程序化管理，以及通过 Conversions API 实现服务端事件追踪，提升广告归因的准确性（特别是在 iOS 14 之后的隐私限制环境下）。Facebook Developer 平台还提供应用审核机制，开发者需要通过审核才能获得某些高级权限。完善的文档和活跃的开发者社区是该平台的重要资源。
+

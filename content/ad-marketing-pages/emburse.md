@@ -1,7 +1,7 @@
----
+﻿---
 title: Emburse
 description: 一家提供企业级支出管理解决方案的软件公司
-seoTitle: Emburse - 详细介绍与评价 | 007出海导航
+seoTitle: Emburse - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/emburse/
 slug: emburse
@@ -94,3 +94,4 @@ related:
 ---
 
 Emburse 成立于2015年，总部位于美国加利福尼亚州洛杉矶，是一家提供企业级支出管理解决方案的金融科技软件公司。Emburse 通过整合多家子品牌（包括 Certify、Chrome River、Abacus、Tallie 等收购而来的费用报销软件），形成了覆盖企业全生命周期支出管理的完整产品矩阵。其核心产品包括：企业虚拟卡和实体卡（Emburse Cards）、差旅和费用报销管理（T&E Management）、发票和采购管理（AP Automation）以及深度分析报告等。Emburse 的企业虚拟卡支持为员工即时发放虚拟卡，设置特定的消费限额和使用规则，让企业财务部门对每笔支出都有实时可见性和精细化控制。通过与主流会计软件（QuickBooks、NetSuite、SAP等）的无缝集成，Emburse 能够大幅简化企业的费用核销流程，提高财务团队的工作效率。Emburse 主要服务于中大型企业，在北美市场拥有较强的市场份额。其SaaS定价模式按用户数和功能模块收费，适合有完整支出管理需求的企业客户。适用人群：需要企业费用管理解决方案的中大型企业、财务团队、CFO及需要精细化控制企业支出的管理层。
+

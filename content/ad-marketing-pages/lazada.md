@@ -1,7 +1,7 @@
----
+﻿---
 title: Lazada
 description: Lazada（来赞达），东南亚地区最大的在线购物网站之一。
-seoTitle: Lazada - 详细介绍与评价 | 007出海导航
+seoTitle: Lazada - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/lazada/
 slug: lazada
@@ -92,3 +92,4 @@ related:
 ---
 
 Lazada 是东南亚最早的大型电商平台之一，成立于2011年，最初由 Rocket Internet 孵化，2016年被阿里巴巴集团收购，现为阿里巴巴东南亚电商业务的核心载体。平台覆盖泰国、印度尼西亚、马来西亚、菲律宾、越南、新加坡六个东南亚国家，提供商品购买、物流配送、在线支付（LazadaPay）等完整服务。Lazada 背靠阿里巴巴的技术和资源，在物流基础设施建设上投入巨大，通过 Lazada Logistics 构建了覆盖东南亚的末端配送网络。平台设有 LazMall（品牌旗舰店）保障正品购物体验，并定期举办大促活动。Lazada 适合希望进入东南亚市场的品牌商和跨境卖家，以及东南亚本地消费者。
+

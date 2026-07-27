@@ -1,7 +1,7 @@
----
+﻿---
 title: WordPress
 description: WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。
-seoTitle: WordPress - 详细介绍与评价 | 007出海导航
+seoTitle: WordPress - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/wordpress/
 slug: wordpress
@@ -92,3 +92,4 @@ related:
 ---
 
 WordPress 是全球最流行的网站内容管理系统（CMS），最初作为博客平台于2003年创立，现已发展为覆盖全球超过43%网站的综合建站工具。结合 WooCommerce 插件，WordPress 可以构建功能完善的电商网站，是全球独立站电商的重要技术选择之一。WordPress 的核心优势在于其开源免费、高度可定制化、拥有数以万计的主题和插件生态。用户可以完全掌控网站数据和代码，不受平台限制。WordPress.org（自托管版本）允许用户在自己的服务器上部署，而 WordPress.com 提供云托管服务。对于希望建设跨境独立站的卖家，WordPress+WooCommerce 是成本较低且灵活性极强的组合，适合有一定技术基础或预算聘请开发者的团队。
+

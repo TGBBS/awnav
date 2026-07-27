@@ -1,7 +1,7 @@
----
+﻿---
 title: Accs-market
 description: Safely sell or buy active Facebook accounts| Facebook pages
-seoTitle: Accs-market - 详细介绍与评价 | 007出海导航
+seoTitle: Accs-market - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/accs-market/
 slug: accs-market
@@ -91,3 +91,4 @@ related:
 ---
 
 Accs-market 是一个专注于 Facebook 账号买卖的交易平台，提供活跃 Facebook 账号和 Facebook 主页的安全交易服务。平台定位为买卖双方提供可信赖的交易环境，支持账号和粉丝页面的转让。Accs-market 重视交易安全，平台设有一定的账号质量审核机制，以确保出售账号的真实性和活跃度。该平台主要服务于需要购买具有一定粉丝基础的 Facebook 主页的营销机构、品牌方，以及需要购买老账号进行广告投放的专业用户。平台的账号来源较为多样，包括个人用户出售的账号和批量供应商提供的账号。用户在交易时可以查看账号的基本信息和历史记录，有助于做出购买决策。平台支持多种支付方式，交易全程通过平台进行保障。
+

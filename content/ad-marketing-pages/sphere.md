@@ -1,7 +1,7 @@
----
+﻿---
 title: Sphere浏览器
 description: 俄罗斯大神开发的免费超级浏览器
-seoTitle: Sphere浏览器 - 详细介绍与评价 | 007出海导航
+seoTitle: Sphere浏览器 - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/sphere/
 slug: sphere
@@ -71,3 +71,4 @@ related:
 ---
 
 俄罗斯大神开发的免费超级浏览器
+

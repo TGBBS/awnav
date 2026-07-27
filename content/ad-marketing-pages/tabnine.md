@@ -1,7 +1,7 @@
----
+﻿---
 title: TabNine
 description: 一种基于OpenAI的语言模型（GPT-2）来实现的智能代码补全技术
-seoTitle: TabNine - 详细介绍与评价 | 007出海导航
+seoTitle: TabNine - 详细介绍与评价 | awnav出海导航
 layout: tool-detail
 url: /ad-marketing/tabnine/
 slug: tabnine
@@ -92,3 +92,4 @@ related:
 ---
 
 TabNine 是一款历史悠久的 AI 代码补全工具，由 Codota 公司（现已更名为 TabNine）开发。它最早基于 GPT-2 模型实现智能代码补全，是 AI 编程辅助工具的先驱之一。TabNine 支持主流 IDE（VS Code、JetBrains 系列、Vim、Emacs 等）以及 30 多种编程语言，覆盖范围极广。其核心功能包括：全行代码补全、函数级别补全、语义感知建议以及团队共享的个性化模型。TabNine 的企业版支持本地部署，允许代码保持在内网环境中，解决了企业对代码安全和隐私的顾虑，这是其区别于竞争对手的重要优势。2023年后 TabNine 升级引入 GPT-4 等更强大模型，并增加了 Chat 功能。TabNine 特别适合对代码安全有严格要求的企业团队，以及需要跨多种 IDE 和语言工作的开发者。目前全球已有超过 100 万开发者在使用 TabNine。
+
