@@ -6,6 +6,10 @@
   icon: fa fa-fire
   link: "/blog/"
 
+- item: 出海广告营销导航
+  icon: fas fa-bullhorn
+  link: "/ad-marketing/"
+
 - item: 关于
   icon: fa fa-info-circle
   link: ""

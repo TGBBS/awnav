@@ -90,8 +90,14 @@
                 <div class="sidebar-menu flex-fill">
                     <div class="sidebar-scroll">
                         <div class="sidebar-menu-inner">
+                            {{ $sections := .Site.Data.webstack }}
+                            {{ if .Params.dataFile }}
+                                {{ with index .Site.Data .Params.dataFile }}
+                                    {{ $sections = . }}
+                                {{ end }}
+                            {{ end }}
                             <ul>
-                                {{ range .Site.Data.webstack }}
+                                {{ range $sections }}
                                     {{ if .list }}
                                     <li class="sidebar-item">
                                         <a href="#{{ range first 1 .list }}{{ md5 .term }}{{ end }}" class="smooth change-href" data-change="#{{ range first 1 .list }}{{ md5 .term }}{{ end }}">    
@@ -106,9 +112,10 @@
                                         </ul>
                                     </li> 
                                     {{ else }}
+                                    {{ $iconClass := .icon | default "fas fa-link fa-lg" }}
                                     <li class="sidebar-item">
                                         <a href="#{{ md5 .taxonomy }}" class="smooth">
-                                            <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
+                                            <i class="{{ $iconClass }} icon-fw icon-lg mr-2"></i>
                                             <span>{{ .taxonomy }}</span>
                                         </a>
                                     </li>

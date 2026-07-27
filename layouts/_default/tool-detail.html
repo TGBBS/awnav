@@ -1,0 +1,184 @@
+{{ partial "header.html" . }}
+
+{{ partial "content_header.html" . }}
+
+<body class="page-body boxed-container tool-detail-page">
+    <main role="main" class="flex-shrink-0">
+        <div class="container tool-detail-container">
+            <nav class="tool-breadcrumb text-sm mb-4" aria-label="面包屑导航">
+                <a href="{{ "/" | relURL }}">首页</a>
+                <span>/</span>
+                <a href="{{ "/ad-marketing/" | relURL }}">出海导航</a>
+                <span>/</span>
+                <a href="{{ printf "%s#%s" ("/ad-marketing/" | relURL) (md5 .Params.category) }}">{{ .Params.category }}</a>
+                <span>/</span>
+                <span>{{ .Title }}</span>
+            </nav>
+
+            <section class="tool-hero card mb-4">
+                <div class="card-body">
+                    <div class="tool-hero-inner">
+                        <div class="tool-hero-logo">
+                            {{ partial "card_logo.html" (dict "item" (dict "title" .Title "logo" .Params.logo "url" .Params.officialUrl) "site" $.Site "width" 64 "height" 64 "class" "tool-detail-logo" "loading" "eager" "fetchpriority" "high") }}
+                        </div>
+                        <div class="tool-hero-copy">
+                            <h1>{{ .Title }}</h1>
+                            <p class="tool-hero-desc">{{ .Description }}</p>
+                            <div class="tool-meta">
+                                {{ with .Params.applicationCategory }}<span>{{ . }}</span>{{ end }}
+                                {{ with .Params.pricing }}<span>{{ . }}</span>{{ end }}
+                                {{ if .Params.ratingValue }}<span>评分 {{ .Params.ratingValue }} / 5{{ with .Params.reviewCount }} · {{ . }} 条评价{{ end }}</span>{{ end }}
+                            </div>
+                        </div>
+                    </div>
+                    {{ with .Params.officialUrl }}
+                    <div class="tool-actions">
+                        <a class="tool-btn tool-btn-primary" href="{{ . }}" target="_blank" rel="nofollow noopener noreferrer">访问官网</a>
+                    </div>
+                    {{ end }}
+                </div>
+            </section>
+
+            <section class="card mb-4">
+                <div class="card-body">
+                    <h2 class="tool-section-title">详细介绍</h2>
+                    <div class="tool-richtext">
+                        {{ .Content | markdownify }}
+                    </div>
+                </div>
+            </section>
+
+            {{ if or (gt (len (.Params.pros | default slice)) 0) (gt (len (.Params.cons | default slice)) 0) }}
+            <section class="tool-grid tool-pros-cons mb-4">
+                {{ with .Params.pros }}
+                <div class="card tool-card-positive">
+                    <div class="card-body">
+                        <h2 class="tool-section-title">优点</h2>
+                        <ul>
+                            {{ range . }}<li>{{ . }}</li>{{ end }}
+                        </ul>
+                    </div>
+                </div>
+                {{ end }}
+                {{ with .Params.cons }}
+                <div class="card tool-card-negative">
+                    <div class="card-body">
+                        <h2 class="tool-section-title">缺点</h2>
+                        <ul>
+                            {{ range . }}<li>{{ . }}</li>{{ end }}
+                        </ul>
+                    </div>
+                </div>
+                {{ end }}
+            </section>
+            {{ end }}
+
+            {{ with .Params.reviews }}
+            <section class="card mb-4">
+                <div class="card-body">
+                    <h2 class="tool-section-title">用户评价</h2>
+                    <div class="tool-review-list">
+                        {{ range . }}
+                        <article class="tool-review-item">
+                            <div class="tool-review-head">
+                                <strong>{{ .author }}</strong>
+                                {{ with .rating }}<span>{{ . }}/5</span>{{ end }}
+                            </div>
+                            <p>{{ .body }}</p>
+                        </article>
+                        {{ end }}
+                    </div>
+                </div>
+            </section>
+            {{ end }}
+
+            {{ with .Params.faqs }}
+            <section class="card mb-4">
+                <div class="card-body">
+                    <h2 class="tool-section-title">常见问题</h2>
+                    <div class="tool-faq-list">
+                        {{ range . }}
+                        <details>
+                            <summary>{{ .question }}</summary>
+                            <p>{{ .answer }}</p>
+                        </details>
+                        {{ end }}
+                    </div>
+                </div>
+            </section>
+            {{ end }}
+
+            {{ with .Params.related }}
+            <section class="card mb-5">
+                <div class="card-body">
+                    <h2 class="tool-section-title">相关工具</h2>
+                    <div class="row">
+                        {{ range . }}
+                        <div class="url-card col-6 col-sm-6 col-md-4 col-xl-4">
+                            <div class="url-body default">
+                                <a href="{{ .url }}" class="card no-c mb-4" data-toggle="tooltip" data-placement="bottom" data-original-title="{{ .description }}">
+                                    <div class="card-body">
+                                        <div class="url-content d-flex align-items-center">
+                                            <div class="url-img mr-2 d-flex align-items-center justify-content-center">
+                                                {{ partial "card_logo.html" (dict "item" (dict "title" .title "logo" .logo "url" .url) "site" $.Site "width" 40 "height" 40 "loading" "lazy" "fetchpriority" "low") }}
+                                            </div>
+                                            <div class="url-info flex-fill">
+                                                <div class="text-sm overflowClip_1">
+                                                    <strong>{{ .title }}</strong>
+                                                </div>
+                                                <p class="overflowClip_1 m-0 text-muted text-xs">{{ .description }}</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+            </section>
+            {{ end }}
+        </div>
+    </main>
+
+    <style>
+        .tool-detail-container{max-width:1080px;padding-top:32px;padding-bottom:32px}
+        .tool-breadcrumb a{color:#666}
+        .tool-breadcrumb span{margin:0 6px;color:#999}
+        .tool-hero-inner{display:flex;align-items:flex-start;gap:30px}
+        .tool-detail-logo{width:64px;height:64px;border-radius:14px}
+        .tool-hero-copy{flex:1;min-width:0}
+        .tool-hero-copy h1{font-size:28px;line-height:1.25;margin:0 0 10px}
+        .tool-hero-desc{font-size:14px;line-height:1.75;color:#666;margin:0 0 12px}
+        .tool-meta{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:14px}
+        .tool-meta span{display:inline-flex;align-items:center;padding:6px 10px;border-radius:999px;background:#f5f7fa;color:#555;font-size:12px}
+        .tool-actions{display:flex;align-items:center;justify-content:flex-start;padding:30px 10px 20px}
+        .tool-btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;border-radius:10px;font-size:14px;text-decoration:none}
+        .tool-btn-primary{background:#111;color:#fff}
+        .tool-btn-secondary{border:1px solid #111;color:#111;background:#fff}
+        .tool-section-title{font-size:18px;margin-bottom:14px}
+        .tool-richtext p{font-size:14px;line-height:1.85;color:#444;margin:0}
+        .tool-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+        .tool-pros-cons ul{margin:0;padding-left:18px}
+        .tool-pros-cons li{font-size:14px;line-height:1.8;color:#444;margin-bottom:8px}
+        .tool-card-positive{border-color:#d8f0dd;background:#fbfffc}
+        .tool-card-negative{border-color:#f3d9d9;background:#fffdfd}
+        .tool-review-list{display:grid;gap:14px}
+        .tool-review-item{padding:16px;border:1px solid #eef0f2;border-radius:12px;background:#fff}
+        .tool-review-head{display:flex;justify-content:space-between;gap:12px;margin-bottom:8px;font-size:13px}
+        .tool-review-item p{margin:0;font-size:14px;line-height:1.8;color:#444}
+        .tool-faq-list details{border:1px solid #eef0f2;border-radius:12px;padding:14px 16px;margin-bottom:12px;background:#fff}
+        .tool-faq-list summary{cursor:pointer;font-weight:600;outline:none}
+        .tool-faq-list p{margin:12px 0 0;font-size:14px;line-height:1.8;color:#444}
+        @media (max-width: 767.98px){
+            .tool-detail-container{padding-top:20px}
+            .tool-hero-inner{flex-direction:column;gap:14px}
+            .tool-actions{width:100%;justify-content:flex-start}
+            .tool-hero-copy h1{font-size:24px}
+            .tool-grid{grid-template-columns:1fr}
+        }
+    </style>
+
+{{ partial "content_footer.html" . }}
+
+{{ partial "footer.html" . }}

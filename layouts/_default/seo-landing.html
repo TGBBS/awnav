@@ -1,18 +1,66 @@
 {{ partial "header.html" . }}
 
-{{ $entries := slice }}
-{{ range $taxonomyName := .Params.dataTaxonomies }}
-    {{ range $section := $.Site.Data.webstack }}
-        {{ if eq $section.taxonomy $taxonomyName }}
-            {{ $entries = $entries | append $section.links }}
+{{ $sections := slice }}
+{{ if .Params.dataFile }}
+    {{ with index $.Site.Data .Params.dataFile }}
+        {{ $sections = . }}
+    {{ end }}
+{{ else }}
+    {{ range $taxonomyName := .Params.dataTaxonomies }}
+        {{ range $section := $.Site.Data.webstack }}
+            {{ if eq $section.taxonomy $taxonomyName }}
+                {{ $sections = $sections | append $section }}
+            {{ end }}
         {{ end }}
     {{ end }}
+{{ end }}
+
+{{ $entryCount := 0 }}
+{{ range $sections }}
+    {{ $entryCount = add $entryCount (len .links) }}
 {{ end }}
 
 {{ $taxonomyDisplayNames := dict
     "搜索机器人" "百万日活的資源搜尋機器人"
     "搜索群组" "資源搜尋群"
 }}
+{{ with .Params.taxonomyDisplayNames }}
+    {{ $taxonomyDisplayNames = merge $taxonomyDisplayNames . }}
+{{ end }}
+
+{{ $defaultHeaderNav := slice
+    (dict "name" "TG群组搜索" "url" ("tg-group-search/" | relURL))
+    (dict "name" "搜索机器人" "url" ("telegram-search-bot/" | relURL))
+    (dict "name" "频道搜索" "url" ("telegram-channel-search/" | relURL))
+}}
+{{ $headerNav := .Params.headerNav | default $defaultHeaderNav }}
+
+{{ $defaultTocLinks := slice
+    (dict "label" "搜索入口列表" "href" "#entry-list")
+    (dict "label" "常见问题" "href" "#faq")
+    (dict "label" "搜群机器人指南" "href" ("telegram-search-bot/" | relURL))
+    (dict "label" "频道搜索指南" "href" ("telegram-channel-search/" | relURL))
+}}
+{{ $tocLinks := .Params.tocLinks | default $defaultTocLinks }}
+
+{{ $defaultRelatedLinks := slice
+    (dict "label" "TG群组搜索完整指南" "url" ("tg-group-search/" | relURL))
+    (dict "label" "Telegram 搜索机器人" "url" ("telegram-search-bot/" | relURL))
+    (dict "label" "Telegram 频道搜索" "url" ("telegram-channel-search/" | relURL))
+    (dict "label" "Telegram 群组管理工具" "url" (printf "%s#%s" ("/" | relURL) (md5 "群组管理")))
+}}
+{{ $relatedLinks := .Params.relatedLinks | default $defaultRelatedLinks }}
+{{ $primaryActionLabel := .Params.primaryActionLabel | default (printf "查看 %d 个搜索入口" $entryCount) }}
+{{ $primaryActionHref := .Params.primaryActionHref | default "#entry-list" }}
+{{ $secondaryActionLabel := .Params.secondaryActionLabel | default "浏览全部 Telegram 导航" }}
+{{ $secondaryActionHref := .Params.secondaryActionHref | default ("/" | relURL) }}
+{{ $summaryLabel := .Params.summaryLabel | default "个已整理入口" }}
+{{ $tocTitle := .Params.tocTitle | default "本页内容" }}
+{{ $entrySectionKicker := .Params.entrySectionKicker | default "公开入口" }}
+{{ $entrySectionTitle := .Params.entrySectionTitle | default (printf "%s工具列表" .Title) }}
+{{ $entrySectionDescription := .Params.entrySectionDescription | default "建议同时使用 2—3 个入口交叉搜索，并在加入群组前核对名称、简介和管理员信息。" }}
+{{ $relatedHeading := .Params.relatedHeading | default "继续查找 Telegram 资源" }}
+{{ $footerNote := .Params.footerNote | default "本站仅整理 Telegram 公开链接，不对第三方链接内容负责。请勿向陌生机器人提交密码、验证码或支付信息。" }}
 
 <body class="io-grey-mode seo-landing-body">
     <header class="seo-page-header">
@@ -21,10 +69,10 @@
                 <img src="{{ $.Site.Params.images.logoCollapseLight | relURL }}" alt="{{ .Site.Title }}" width="36" height="36">
                 <span>{{ .Site.Title }}</span>
             </a>
-            <nav class="seo-page-nav" aria-label="TG搜索指南">
-                <a href="{{ "tg-group-search/" | relURL }}">TG群组搜索</a>
-                <a href="{{ "telegram-search-bot/" | relURL }}">搜索机器人</a>
-                <a href="{{ "telegram-channel-search/" | relURL }}">频道搜索</a>
+            <nav class="seo-page-nav" aria-label="{{ .Title }}">
+                {{ range $headerNav }}
+                <a href="{{ .url }}">{{ .name }}</a>
+                {{ end }}
             </nav>
         </div>
     </header>
@@ -42,13 +90,13 @@
                 <h1>{{ .Title }}</h1>
                 <p class="seo-landing-lead">{{ .Params.intro }}</p>
                 <div class="seo-landing-actions">
-                    <a class="seo-primary-link" href="#entry-list">查看 {{ len $entries }} 个搜索入口</a>
-                    <a class="seo-secondary-link" href="{{ "/" | relURL }}">浏览全部 Telegram 导航</a>
+                    <a class="seo-primary-link" href="{{ $primaryActionHref }}">{{ $primaryActionLabel }}</a>
+                    <a class="seo-secondary-link" href="{{ $secondaryActionHref }}">{{ $secondaryActionLabel }}</a>
                 </div>
             </div>
             <aside class="seo-landing-summary" aria-label="页面摘要">
-                <strong>{{ len $entries }}</strong>
-                <span>个已整理入口</span>
+                <strong>{{ $entryCount }}</strong>
+                <span>{{ $summaryLabel }}</span>
                 <small>最后更新：{{ .Lastmod.Format "2006-01-02" }}</small>
             </aside>
         </section>
@@ -59,46 +107,41 @@
             </article>
 
             <aside class="seo-article-toc" aria-label="本页内容">
-                <strong>本页内容</strong>
-                <a href="#entry-list">搜索入口列表</a>
-                <a href="#faq">常见问题</a>
-                <a href="{{ "telegram-search-bot/" | relURL }}">搜群机器人指南</a>
-                <a href="{{ "telegram-channel-search/" | relURL }}">频道搜索指南</a>
+                <strong>{{ $tocTitle }}</strong>
+                {{ range $tocLinks }}
+                <a href="{{ .href }}">{{ .label }}</a>
+                {{ end }}
             </aside>
         </div>
 
         <section id="entry-list" class="seo-entry-section">
             <div class="seo-section-heading">
                 <div>
-                    <p class="seo-section-kicker">公开入口</p>
-                    <h2>{{ .Title }}工具列表</h2>
+                    <p class="seo-section-kicker">{{ $entrySectionKicker }}</p>
+                    <h2>{{ $entrySectionTitle }}</h2>
                 </div>
-                <p>建议同时使用 2—3 个入口交叉搜索，并在加入群组前核对名称、简介和管理员信息。</p>
+                <p>{{ $entrySectionDescription }}</p>
             </div>
 
-            {{ range $taxonomyName := .Params.dataTaxonomies }}
-                {{ range $section := $.Site.Data.webstack }}
-                    {{ if eq $section.taxonomy $taxonomyName }}
-                    <div class="seo-entry-group">
-                        <h3>{{ index $taxonomyDisplayNames $section.taxonomy | default $section.taxonomy }}</h3>
-                        <div class="seo-entry-grid">
-                            {{ range $section.links }}
-                            <article class="seo-entry-card">
-                                <div class="seo-entry-card-head">
-                                    {{ partial "card_logo.html" (dict "item" . "site" $.Site "width" 36 "height" 36 "class" "seo-entry-logo" "loading" "eager" "fetchpriority" "high") }}
-                                    <div>
-                                        <h4>{{ .title }}</h4>
-                                        <span>{{ index $taxonomyDisplayNames $section.taxonomy | default $section.taxonomy }}</span>
-                                    </div>
+            {{ range $section := $sections }}
+                <div class="seo-entry-group">
+                    <h3>{{ index $taxonomyDisplayNames $section.taxonomy | default $section.taxonomy }}</h3>
+                    <div class="seo-entry-grid">
+                        {{ range $section.links }}
+                        <article class="seo-entry-card">
+                            <div class="seo-entry-card-head">
+                                {{ partial "card_logo.html" (dict "item" . "site" $.Site "width" 36 "height" 36 "class" "seo-entry-logo" "loading" "eager" "fetchpriority" "high") }}
+                                <div>
+                                    <h4>{{ .title }}</h4>
+                                    <span>{{ index $taxonomyDisplayNames $section.taxonomy | default $section.taxonomy }}</span>
                                 </div>
-                                <p>{{ .description | default "Telegram 公开搜索入口" }}</p>
-                                <a href="{{ .url }}" target="_blank" rel="nofollow noopener noreferrer" aria-label="打开 {{ .title }}">打开入口 <span aria-hidden="true">↗</span></a>
-                            </article>
-                            {{ end }}
-                        </div>
+                            </div>
+                            <p>{{ .description | default "公开导航入口" }}</p>
+                            <a href="{{ .url }}" target="_blank" rel="nofollow noopener noreferrer" aria-label="打开 {{ .title }}">打开入口 <span aria-hidden="true">↗</span></a>
+                        </article>
+                        {{ end }}
                     </div>
-                    {{ end }}
-                {{ end }}
+                </div>
             {{ end }}
         </section>
 
@@ -118,18 +161,17 @@
         {{ end }}
 
         <section class="seo-related-section">
-            <h2>继续查找 Telegram 资源</h2>
+            <h2>{{ $relatedHeading }}</h2>
             <div class="seo-related-links">
-                <a href="{{ "tg-group-search/" | relURL }}">TG群组搜索完整指南</a>
-                <a href="{{ "telegram-search-bot/" | relURL }}">Telegram 搜索机器人</a>
-                <a href="{{ "telegram-channel-search/" | relURL }}">Telegram 频道搜索</a>
-                <a href="{{ "/" | relURL }}#{{ md5 "群组管理" }}">Telegram 群组管理工具</a>
+                {{ range $relatedLinks }}
+                <a href="{{ .url }}">{{ .label }}</a>
+                {{ end }}
             </div>
         </section>
     </main>
 
     <footer class="seo-page-footer">
-        <p>本站仅整理 Telegram 公开链接，不对第三方链接内容负责。请勿向陌生机器人提交密码、验证码或支付信息。</p>
+        <p>{{ $footerNote }}</p>
         <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
     </footer>
 </body>

@@ -1,0 +1,49 @@
+{{ $sections := slice }}
+{{ with index .Site.Data .Params.dataFile }}
+    {{ $sections = . }}
+{{ end }}
+{{ $entryCount := 0 }}
+{{ range $sections }}
+    {{ $entryCount = add $entryCount (len .links) }}
+{{ end }}
+{{ $sectionCount := len $sections }}
+
+<section class="home-seo-intro">
+    <div class="card home-seo-card">
+        <div class="card-body">
+            <div class="home-seo-hero">
+                <div class="home-seo-copy">
+                    <p class="home-seo-eyebrow">{{ .Params.navEyebrow | default .Title }}</p>
+                    <h1 class="home-seo-title">{{ .Params.navTitle | default .Title }}</h1>
+                    <p class="home-seo-desc">{{ .Params.navDescription | default .Description }}</p>
+                    <div class="home-seo-tags">
+                        {{ range first 3 $sections }}
+                        <a href="#{{ md5 .taxonomy }}">{{ .taxonomy }}</a>
+                        {{ end }}
+                    </div>
+                </div>
+                <div class="home-seo-summary">
+                    <div class="home-seo-metric">
+                        <span class="home-seo-metric-value">{{ $entryCount }}</span>
+                        <span class="home-seo-metric-label">{{ .Params.navMetricLabel1 | default "本站收录广告营销工具" }}</span>
+                    </div>
+                    <div class="home-seo-metric">
+                        <span class="home-seo-metric-value">{{ $sectionCount }}</span>
+                        <span class="home-seo-metric-label">{{ .Params.navMetricLabel2 | default "导航分类" }}</span>
+                    </div>
+                </div>
+            </div>
+
+            {{ with .Params.navFaqs }}
+            <div class="home-seo-faq">
+                {{ range . }}
+                <div class="home-seo-faq-item">
+                    <h3>{{ .question }}</h3>
+                    <p>{{ .answer }}</p>
+                </div>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>

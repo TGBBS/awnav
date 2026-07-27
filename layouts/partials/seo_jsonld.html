@@ -100,18 +100,33 @@
 {{ $pageURL := printf "%s%s" $siteBase .RelPermalink }}
 {{ $listItems := slice }}
 {{ $position := 0 }}
-{{ range $taxonomyName := .Params.dataTaxonomies }}
-    {{ range $section := $.Site.Data.webstack }}
-        {{ if eq $section.taxonomy $taxonomyName }}
-            {{ range $item := $section.links }}
-                {{ $position = add $position 1 }}
-                {{ $listItems = $listItems | append (dict
-                    "@type" "ListItem"
-                    "position" $position
-                    "name" $item.title
-                    "url" $item.url
-                    "description" $item.description
-                ) }}
+{{ if .Params.dataFile }}
+    {{ range $section := (index $.Site.Data .Params.dataFile) }}
+        {{ range $item := $section.links }}
+            {{ $position = add $position 1 }}
+            {{ $listItems = $listItems | append (dict
+                "@type" "ListItem"
+                "position" $position
+                "name" $item.title
+                "url" $item.url
+                "description" $item.description
+            ) }}
+        {{ end }}
+    {{ end }}
+{{ else }}
+    {{ range $taxonomyName := .Params.dataTaxonomies }}
+        {{ range $section := $.Site.Data.webstack }}
+            {{ if eq $section.taxonomy $taxonomyName }}
+                {{ range $item := $section.links }}
+                    {{ $position = add $position 1 }}
+                    {{ $listItems = $listItems | append (dict
+                        "@type" "ListItem"
+                        "position" $position
+                        "name" $item.title
+                        "url" $item.url
+                        "description" $item.description
+                    ) }}
+                {{ end }}
             {{ end }}
         {{ end }}
     {{ end }}
